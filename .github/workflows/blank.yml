@@ -1,0 +1,43 @@
+name: Auto Increment Version (ZIP)
+
+# translate.zip 파일이 변경될 때만 실행
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'translate.zip' 
+
+jobs:
+  bump-version:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Read and Increment Version
+        run: |
+          # version.txt가 없으면 0으로 생성
+          if [ ! -f version.txt ]; then echo 0 > version.txt; fi
+          
+          # 현재 버전 읽기
+          CURRENT_VERSION=$(cat version.txt)
+          
+          # 숫자 1 더하기
+          NEW_VERSION=$((CURRENT_VERSION + 1))
+          
+          # 저장
+          echo $NEW_VERSION > version.txt
+          
+          echo "ZIP Updated! Bumping version from $CURRENT_VERSION to $NEW_VERSION"
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add version.txt
+          git commit -m "Auto-bump version to $(cat version.txt)"
+          git push
