@@ -1,12 +1,12 @@
-name: Auto Increment Version (ZIP)
+name: Auto Increment Version (JSON)
 
-# translate.zip 파일이 변경될 때만 실행
+# Translations 폴더 안에 있는 파일이 변경될 때 실행
 on:
   push:
     branches:
       - main
     paths:
-      - 'translate.zip' 
+      - 'Translations/**'  # ★ 중요: Translations 폴더 내부의 변경사항 감지
 
 jobs:
   bump-version:
@@ -32,7 +32,7 @@ jobs:
           # 저장
           echo $NEW_VERSION > version.txt
           
-          echo "ZIP Updated! Bumping version from $CURRENT_VERSION to $NEW_VERSION"
+          echo "Translation Updated! Bumping version from $CURRENT_VERSION to $NEW_VERSION"
 
       - name: Commit and Push changes
         run: |
