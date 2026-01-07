@@ -7694,11 +7694,11 @@
 	"2575018969": "차량 판매값 수정",
 	"2024055059": "차량 판매값을 원하는대로 수정합니다.",
 	"2328339245": "1번 슬롯 판매값",
-	"2202905496": "Select the desired sell value for the vehicle in slot 1.",
+	"2202905496": "1번 슬롯의 차량 판매값을 원하는대로 설정합니다.",
 	"2716160360": "2번 슬롯 판매값",
-	"3079626476": "Select the desired sell value for the vehicle in slot 2.",
+	"3079626476": "2번 슬롯의 차량 판매값을 원하는대로 설정합니다.",
 	"3021731285": "3번 슬롯 판매값",
-	"401948468": "Select the desired sell value for the vehicle in slot 3.",
+	"401948468": "3번 슬롯의 차량 판매값을 원하는대로 설정합니다.",
 	"3421478780": "Apply Sell Values",
 	"984853395": "Applies the selected sell values for the vehicles. 또한, 벽면 계획판을 새로고침 합니다. 준비작없을 시작하기 전에 사용하세요",
 	"1189091929": "수익 최대화",
@@ -10654,6 +10654,7 @@
 
 
 }
+
 
 
 
