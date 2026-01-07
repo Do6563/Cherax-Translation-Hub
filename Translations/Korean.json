@@ -7764,19 +7764,19 @@
 	"406797125": "가격 최대화",
 	"347292388": "테스트되지 않음. 화물에 대해 최대 가격을 적용합니다.",
 	"1584000461": "경험치 비활성화",
-	"1874320559": "Disables the xp gain for sell missions.",
+	"1874320559": "판매 미션으로부터 얻는 결험치를 비활성화 합니다.",
 	"2491926740": "Total Delivered",
 	"4202900692": "Select the number of «Total Delivered».",
 	"1410953785": "Instant Air Cargo Sell",
 	"3575898411": "Finishes the air cargo sell mission instantly. Select total delivered value first.",
 	"416189346": "노트북 열기",
-	"900762918": "Opens the Hangar's laptop screen.",
-	"3407190849": "Get Cargo",
-	"3936075345": "Gets cargo for your Hangar.",
+	"900762918": "격납고 노트북의 화면을 엽니다.",
+	"3407190849": "화물 얻기",
+	"3936075345": "겹납고의 화물을 얻습니다.",
 	"168688770": "터키 공급업체",
 	"3376404261": "Fills your Hangar stock repeatedly.",
 	"2008107625": "쿨타임 제거",
-	"3433317860": "Skips almost all cooldowns.",
+	"3433317860": "거의 모든 쿨타임들을 제거합니다.",
 	"1476692217": "Buy Made",
 	"725960061": "Select the desired buy made.",
 	"1839929716": "Buy Undertaken",
@@ -7804,7 +7804,7 @@
 	"2761106267": "(!) 터키 공급업체",
 	"2183410732": "Fills your Nightclub stock repeatedly.",
 	"2732699719": "쿨타임 제거",
-	"3778246954": "Skips almost all cooldowns.",
+	"3778246954": "거의 모든 쿨타임들을 제거합니다.",
 	"1371398912": "Sell Made",
 	"1383987094": "Select the desired sales made.",
 	"4220978180": "Earnings",
@@ -7826,7 +7826,7 @@
 	"1084875014": "수익 최대화",
 	"2566686339": "위험한 기능입니다. Applies the maximum price for your crates.",
 	"4187547047": "경험치 비활성화",
-	"242906453": "Disables the xp gain for sell missions.",
+	"242906453": "판매 미션으로부터 얻는 결험치를 비활성화 합니다.",
 	"3156110164": "No CrateBack",
 	"114464914": "Disables auto refill of the crates after «Instant Sell».",
 	"3170455304": "즉시 판매",
@@ -7842,7 +7842,7 @@
 	"2243031576": "Instant Buy",
 	"1673239734": "Finishes the buy mission instantly. Use after the mission has started.",
 	"2618021157": "쿨타임 제거",
-	"2867571210": "Skips almost all cooldowns.",
+	"2867571210": "거의 모든 쿨타임들을 제거합니다.",
 	"776287949": "Buy Made",
 	"1288184151": "Select the desired buy made.",
 	"1569921642": "Buy Undertaken",
@@ -10654,6 +10654,7 @@
 
 
 }
+
 
 
 
