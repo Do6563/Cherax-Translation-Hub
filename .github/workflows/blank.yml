@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'Translations/*.json' # Translations 폴더 안의 json 파일이 바뀔 때만
+      - 'Translations/*.json' 
 
 jobs:
   bump-version:
@@ -17,17 +17,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 변경된 파일을 확인하기 위해 히스토리 전체 가져오기
+          fetch-depth: 0  
 
       - name: Detect Changed Files and Bump Versions
         run: |
-          # 1. Versions 폴더가 없으면 생성
+          
           mkdir -p Versions
 
-          # 2. 이번 커밋에서 변경된 파일 목록 가져오기 (Translations 폴더 내)
           CHANGED_FILES=$(git diff --name-only HEAD^ HEAD | grep "^Translations/.*\.json$")
 
-          # 3. 변경된 파일이 없으면 종료
+         
           if [ -z "$CHANGED_FILES" ]; then
             echo "No translation files changed."
             exit 0
@@ -36,24 +35,24 @@ jobs:
           echo "Changed files:"
           echo "$CHANGED_FILES"
 
-          # 4. 각 변경된 파일에 대해 루프 돌기
+         
           for FILE in $CHANGED_FILES; do
-            # 파일명 추출 (예: Translations/Korean.json -> Korean)
+            
             BASENAME=$(basename "$FILE" .json)
             
-            # 버전 파일 경로 (예: Versions/Korean_version.txt)
+            
             VERSION_FILE="Versions/${BASENAME}_version.txt"
             
-            # 버전 파일이 없으면 0으로 생성
+           
             if [ ! -f "$VERSION_FILE" ]; then
               echo 0 > "$VERSION_FILE"
             fi
             
-            # 버전 읽고 1 증가
+            
             CURRENT_VER=$(cat "$VERSION_FILE")
             NEW_VER=$((CURRENT_VER + 1))
             
-            # 저장
+            
             echo $NEW_VER > "$VERSION_FILE"
             echo "Bumping $BASENAME to version $NEW_VER"
           done
@@ -63,10 +62,10 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # Versions 폴더 안의 변경사항을 add
+          
           git add Versions/*.txt
           
-          # 변경사항이 있을 때만 커밋
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
