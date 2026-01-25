@@ -23,13 +23,31 @@
 
 
 
-12/17/2025 11:52 PM
+
+— 12/11/2025 4:54 AM
 5.X EE & LE
-Added Unlock All Mansion Trophies
-Improved Unlock DLC Content
-Updated to latest game version
--
--
+Improved Free Shopping (now includes everything)
+Improved Enable Halloween (now includes the UFOs)
+Improved Protections
+Updated to Game Version 1.72
+
+
+
+
+
+
+
+5.45.0 EE
+플레이어 탭에 -> Send Text Message
+세션 탭에 -> Send Text Message
+세션 탭에 -> Advertise Region
+Added Player Info -> Arena Wars Level
+Added Player Info -> Car Meet Level
+Added Protections -> Block Remote Bounty
+Added Protections -> Block Modded Sounds
+Added Protections -> Block Modded PTFX
+Improved Unlock Clothing
+Updated Unlock DLC Content
 -
 -
 -
