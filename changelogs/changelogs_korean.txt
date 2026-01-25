@@ -5,10 +5,29 @@
 - 크래쉬 프로텍션을 개선함
 - 버그들을 수정함
 
- — 12/17/2025 11:52 PM
+
+
+
+
+
+
+— 12/17/2025 11:52 PM
 - 모든 멘션 트로피 잠금해제를 추가 
 - 모든 DLC 컨텐츠 잠금해제를 개선
 - 체락스를 최신 게임 버전으로 업데이트함
+
+
+
+
+
+
+
+
+12/17/2025 11:52 PM
+5.X EE & LE
+Added Unlock All Mansion Trophies
+Improved Unlock DLC Content
+Updated to latest game version
 -
 -
 -
