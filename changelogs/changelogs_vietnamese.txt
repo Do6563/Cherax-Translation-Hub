@@ -1,0 +1,49 @@
+- 8/4/2026 9:00 AM
+- 5.37.0 EE
+- Đã thêm Danh sách tất cả vật phẩm quần áo
+- Đã thêm Mở khóa tất cả giải thưởng
+- Đã thêm Mở khóa tất cả cúp Văn phòng CEO
+- Đã thêm Mở khóa tất cả cúp Motorcycle Club
+- Đã thêm Mở khóa tất cả cúp Nightclub
+- Đã thêm Mở khóa tất cả cúp Facility
+- Đã thêm Mở khóa tất cả cúp Arcade
+- Đã thêm Mở khóa tất cả cúp Arena
+- Đã thêm Mở khóa tất cả cúp Agency
+- Đã thêm Mở khóa tất cả cúp Freakshop
+- Đã thêm Mở khóa tất cả cúp Salvage Yard
+- Đã thêm Mở khóa tất cả cúp Bail Office
+- Đã thêm Mở khóa tất cả cúp Garment Factory
+- Đã thêm Lốp chống đạn/Bám đường thấp (Bulletproof/Low Grip)
+- Đã thêm Loại bỏ thời gian hồi chiêu của vũ khí
+- Đã thêm Loại bỏ giới hạn vũ khí
+- Đã thêm Điều khiển vật phóng từ xa
+- Đã thêm Kích hoạt khả năng Ramp (Force Ramp)
+- 
+- Cải thiện Yêu cầu phương tiện cá nhân
+- Cải thiện Mở khóa
+- Cải thiện Tải hình ảnh
+- Cải thiện Hiệu năng
+- 
+- Sửa lỗi danh sách phương tiện cá nhân không hiển thị xe đạp
+- Sửa lỗi phụ kiện xe (extra) đầu tiên không được thiết lập chính xác
+- Sửa lỗi phụ kiện xe (extras) không lưu vào tệp
+- Sửa lỗi màu khói lốp không được áp dụng chính xác khi tải phương tiện
+- Sửa lỗi xe đạp không hiển thị trong danh sách phương tiện cá nhân
+- Sửa lỗi nhận diện nhầm (false positives)
+- Sửa lỗi gõ ngược chữ sau khi nhấn phím Home
+- Sửa các lỗi nhỏ khác
+- 
+- Đồng hồ đo tốc độ hiện sẽ ẩn khi đang dùng điện thoại
+- Đã thay thế Giao diện mặc định (giao diện mặc định cũ được lưu dưới tên Old_Original)
+- Các giao diện Cherax LE hiện đã tương thích hoàn toàn với Cherax EE và ngược lại
+- 
+- Đã cập nhật lên phiên bản trò chơi mới nhất
+- 
+- Lua
+- Đã thêm GTA.AddExplosion(CExplosionArgs args)
+- 
+- 5.34.2 LE
+- Đã cập nhật lên phiên bản trò chơi mới nhất
+- 
+- Loader
+- Tự động khởi động (Autostart) hiện đã khả dụng cho Ứng dụng Xbox (PC)
