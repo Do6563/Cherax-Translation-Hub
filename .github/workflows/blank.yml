@@ -1,5 +1,4 @@
 name: Auto Increment Per Language
-
 on:
   push:
     branches:
@@ -7,62 +6,65 @@ on:
     paths:
       - 'Translations/*.json'
       - 'changelogs/*.txt'
-
 jobs:
   bump-version:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Detect Changed Files and Bump Versions
         run: |
+          set -uo pipefail
           mkdir -p Versions
           mkdir -p "changelogs versions"
 
-          CHANGED_JSONS=$(git diff --name-only HEAD^ HEAD | grep "^Translations/.*\.json$" || true)
-          
+          CHANGED_JSONS=$(git diff --diff-filter=d --name-only HEAD^ HEAD 2>/dev/null | grep "^Translations/.*\.json$" || true)
+
           if [ -n "$CHANGED_JSONS" ]; then
             echo "Changed translation files:"
             echo "$CHANGED_JSONS"
             for FILE in $CHANGED_JSONS; do
               BASENAME=$(basename "$FILE" .json)
               VERSION_FILE="Versions/${BASENAME}_version.txt"
-              
+
               if [ ! -f "$VERSION_FILE" ]; then
                 echo 0 > "$VERSION_FILE"
               fi
-              CURRENT_VER=$(cat "$VERSION_FILE")
+
+              CURRENT_VER=$(cat "$VERSION_FILE" 2>/dev/null | tr -d '\r\n' | tr -cd '0-9')
+              CURRENT_VER=${CURRENT_VER:-0}
               NEW_VER=$((CURRENT_VER + 1))
-              echo $NEW_VER > "$VERSION_FILE"
+              echo "$NEW_VER" > "$VERSION_FILE"
               echo "Bumping JSON $BASENAME to version $NEW_VER"
             done
           else
             echo "No translation files changed."
           fi
 
-          CHANGED_LOGS=$(git diff --name-only HEAD^ HEAD | grep "^changelogs/.*\.txt$" || true)
-          
+          CHANGED_LOGS=$(git diff --diff-filter=d --name-only HEAD^ HEAD 2>/dev/null | grep "^changelogs/.*\.txt$" || true)
+
           if [ -n "$CHANGED_LOGS" ]; then
             echo "Changed changelog files:"
             echo "$CHANGED_LOGS"
             for FILE in $CHANGED_LOGS; do
               BASENAME=$(basename "$FILE" .txt)
               LANG_NAME=${BASENAME#changelogs_}
-              
+
               VERSION_FILE="changelogs versions/version_${LANG_NAME}.txt"
-              
+
               if [ ! -f "$VERSION_FILE" ]; then
                 echo 0 > "$VERSION_FILE"
               fi
-              CURRENT_VER=$(cat "$VERSION_FILE")
+
+              CURRENT_VER=$(cat "$VERSION_FILE" 2>/dev/null | tr -d '\r\n' | tr -cd '0-9')
+              CURRENT_VER=${CURRENT_VER:-0}
               NEW_VER=$((CURRENT_VER + 1))
-              echo $NEW_VER > "$VERSION_FILE"
+              echo "$NEW_VER" > "$VERSION_FILE"
               echo "Bumping Changelog $LANG_NAME to version $NEW_VER"
             done
           else
@@ -73,10 +75,10 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          
-          git add Versions/*.txt
-          git add "changelogs versions/"*.txt
-          
+
+          git add Versions/*.txt 2>/dev/null || true
+          git add "changelogs versions/"*.txt 2>/dev/null || true
+
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
