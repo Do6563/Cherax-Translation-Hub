@@ -1,3 +1,44 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- 新增 冻结攻击者
+- 新增 高级脚本事件保护开关
+- 新增 削弱主机踢出
+- 新增 禁用 PED 碰撞（载具）
+- 新增 异常日志的 RTTI 信息
+- 新增 列表 GUI 中缺失的功能
+- 改进 模组玩家检测
+- 改进 Bail 日志记录与预防
+- 改进 崩溃保护
+- 改进 解锁功能
+- 改进 赌场操控
+- 改进 聊天广告保护
+- 改进 操控编辑器选项的描述
+- 修复 ASI 加载器
+- 修复 关于附加到自身载具的误报
+- 修复 热成像
+- 修复 旁观时死亡
+- 修复 “德罗索模式”在特定载具上引发的崩溃
+- 
+- Lua：
+- 新增 CVehicle.SteerAngle
+- 新增 CVehicle.SecondSteerAngle
+- 新增 CVehicle.Throttle
+- 新增 CVehicle.Brake
+- 新增 CVehicle.Nitrous
+- 新增 CVehicle.DirtLevel
+- 新增 CVehicle.BodyDirtColor
+- 新增 CVehicle.HeadlightMultiplier
+- 新增 CVehicle.VehicleTopSpeedPercent
+- 新增 CVehicle.CheatPowerIncrease
+- 新增 Utils.SpawnVehicle 和 Utils.CreatePed 的 'AutoCleanup' 参数
+
+
+
+
+
+
+
+
 - 8/4/2026 9:00 AM
 - 5.37.0 EE
 - 添加了列出所有服装物品
