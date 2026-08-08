@@ -1,0 +1,33 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- 新增 凍結攻擊者
+- 新增 進階腳本事件保護切換
+- 新增 削弱主機踢出
+- 新增 停用行人碰撞（載具）
+- 新增 異常日誌的 RTTI 資訊
+- 新增 列表 GUI 中缺失的功能
+- 改善 Modder 檢測
+- 改善 Bail 日誌與預防
+- 改善 crash 保護
+- 改善 解鎖功能
+- 改善 賭場操縱
+- 改善 聊天廣告保護
+- 改善 操控編輯器選項的描述
+- 修復 ASI 加載器
+- 修復 關於附加至您載具的誤報
+- 修復 熱成像
+- 修復 旁觀時死亡
+- 修復 「德路克索模式」在特定載具上導致 crash 的問題
+
+- Lua:
+- 新增 CVehicle.SteerAngle
+- 新增 CVehicle.SecondSteerAngle
+- 新增 CVehicle.Throttle
+- 新增 CVehicle.Brake
+- 新增 CVehicle.Nitrous
+- 新增 CVehicle.DirtLevel
+- 新增 CVehicle.BodyDirtColor
+- 新增 CVehicle.HeadlightMultiplier
+- 新增 CVehicle.VehicleTopSpeedPercent
+- 新增 CVehicle.CheatPowerIncrease
+- 新增 Utils.SpawnVehicle 與 Utils.CreatePed 的 'AutoCleanup' 參數
