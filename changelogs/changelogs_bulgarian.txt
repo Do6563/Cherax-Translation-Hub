@@ -1,3 +1,44 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- Добавено замразяване на нападателите
+- Добавен превключвател за разширена защита от скриптови събития (Script Event)
+- Добавено отслабване на host kicks
+- Добавено деактивиране на сблъсъка с пешеходци (превозно средство)
+- Добавена RTTI информация за exception logs
+- Добавени липсващи функции в List GUI
+- Подобрено засичане на модъри
+- Подобрено логване и предотвратяване на bail
+- Подобрена crash защита
+- Подобрени отключвания (Unlocks)
+- Подобрено манипулиране на казиното
+- Подобрена защита срещу реклами в чата
+- Подобрени описания за опциите на Handling Editor
+- Поправен ASI Loader
+- Поправени фалшиви сигнали относно прикачване към вашето превозно средство
+- Поправено топлинно виждане (Heat Vision)
+- Поправена смърт по време на spectating
+- Поправен crash на 'Deluxo Mode' при определени превозни средства
+
+- Lua:
+- Добавено CVehicle.SteerAngle
+- Добавено CVehicle.SecondSteerAngle
+- Добавено CVehicle.Throttle
+- Добавено CVehicle.Brake
+- Добавено CVehicle.Nitrous
+- Добавено CVehicle.DirtLevel
+- Добавено CVehicle.BodyDirtColor
+- Добавено CVehicle.HeadlightMultiplier
+- Добавено CVehicle.VehicleTopSpeedPercent
+- Добавено CVehicle.CheatPowerIncrease
+- Добавен параметър 'AutoCleanup' за Utils.SpawnVehicle и Utils.CreatePed
+
+
+
+
+
+
+
+
 - 8/8/2026 11:26 AM
 [Cherax V5.3.0 - 2023/12/18]
 - Добавено замразяване на нападателите
