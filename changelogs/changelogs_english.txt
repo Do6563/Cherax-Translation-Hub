@@ -1,0 +1,33 @@
+- 8/8/2026 11:26 AM
+[Cherax V5.3.0 - 2023/12/18]
+- Added Freeze Attackers
+- Added Advanced Script Event Protection Toggle
+- Added Weaken Host Kicks
+- Added Disable Ped Collision (Vehicle)
+- Added RTTI Info for Exception Logs
+- Added Missing Features In List GUI
+- Improved Modder Detection
+- Improved Bail Logging And Prevention
+- Improved Crash Protection
+- Improved Unlocks
+- Improved Casino Rigging
+- Improved Chat Advertisement Protection
+- Improved Descriptions For Handling Editor Options
+- Fixed ASI Loader
+- Fixed False Flags regarding Attachment To Your Vehicle
+- Fixed Heat Vision
+- Fixed Death while spectating
+- Fixed 'Deluxo Mode' Crashing on Certain Vehicles
+- 
+- Lua:
+- Added CVehicle.SteerAngle
+- Added CVehicle.SecondSteerAngle
+- Added CVehicle.Throttle
+- Added CVehicle.Brake
+- Added CVehicle.Nitrous
+- Added CVehicle.DirtLevel
+- Added CVehicle.BodyDirtColor
+- Added CVehicle.HeadlightMultiplier
+- Added CVehicle.VehicleTopSpeedPercent
+- Added CVehicle.CheatPowerIncrease
+- Added 'AutoCleanup' Parameter for Utils.SpawnVehicle and Utils.CreatePed
