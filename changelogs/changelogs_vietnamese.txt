@@ -1,3 +1,44 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- Thêm Freeze Attackers (Đóng băng Kẻ tấn công)
+- Thêm Nút bật/tắt Bảo vệ Sự kiện Script Nâng cao
+- Thêm Làm yếu Host Kicks
+- Thêm Vô hiệu hóa Va chạm Ped (Phương tiện)
+- Thêm Thông tin RTTI cho Exception Logs
+- Thêm các Tính năng còn thiếu trong List GUI
+- Cải thiện Phát hiện Modder
+- Cải thiện Ghi nhật ký và Ngăn chặn Bail
+- Cải thiện Bảo vệ chống crash
+- Cải thiện Unlocks
+- Cải thiện Casino Rigging
+- Cải thiện Bảo vệ chống Quảng cáo Chat
+- Cải thiện Mô tả cho các Tùy chọn Handling Editor
+- Sửa lỗi ASI Loader
+- Sửa các Cảnh báo sai liên quan đến việc Gắn vào Phương tiện của Bạn
+- Sửa lỗi Heat Vision
+- Sửa lỗi Chết khi đang spectating
+- Sửa lỗi 'Deluxo Mode' gây crash trên một số Phương tiện nhất định
+
+- Lua:
+- Thêm CVehicle.SteerAngle
+- Thêm CVehicle.SecondSteerAngle
+- Thêm CVehicle.Throttle
+- Thêm CVehicle.Brake
+- Thêm CVehicle.Nitrous
+- Thêm CVehicle.DirtLevel
+- Thêm CVehicle.BodyDirtColor
+- Thêm CVehicle.HeadlightMultiplier
+- Thêm CVehicle.VehicleTopSpeedPercent
+- Thêm CVehicle.CheatPowerIncrease
+- Thêm Tham số 'AutoCleanup' cho Utils.SpawnVehicle và Utils.CreatePed
+
+
+
+
+
+
+
+
 - 8/8/2026 11:11 AM
 [Cherax V5.3.0 - 2023/12/18]
 - Thêm đóng băng kẻ tấn công (Freeze Attackers)
