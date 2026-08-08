@@ -1,0 +1,33 @@
+- 8/8/2026 11:26 AM
+[Cherax V5.3.0 - 2023/12/18]
+- Aggiunto Congela assalitori
+- Aggiunta opzione di attivazione/disattivazione della protezione avanzata dagli eventi script
+- Aggiunto indebolimento dei kick dell'host
+- Aggiunta disattivazione della collisione dei pedoni (veicolo)
+- Aggiunte informazioni RTTI per i log delle eccezioni
+- Aggiunte funzionalità mancanti nella GUI a elenco
+- Migliorato il rilevamento dei modder
+- Migliorate la registrazione e la prevenzione dei bail
+- Migliorata la protezione dai crash
+- Migliorati gli sblocchi
+- Migliorata la manipolazione del casinò
+- Migliorata la protezione dalle pubblicità in chat
+- Migliorate le descrizioni per le opzioni dell'editor di handling
+- Risolto l'ASI Loader
+- Risolti i falsi positivi relativi al collegamento al proprio veicolo
+- Risolta la visione termica
+- Risolta la morte durante lo spectating
+- Risolto il crash della 'Modalità Deluxo' su alcuni veicoli
+- 
+- Lua:
+- Aggiunto CVehicle.SteerAngle
+- Aggiunto CVehicle.SecondSteerAngle
+- Aggiunto CVehicle.Throttle
+- Aggiunto CVehicle.Brake
+- Aggiunto CVehicle.Nitrous
+- Aggiunto CVehicle.DirtLevel
+- Aggiunto CVehicle.BodyDirtColor
+- Aggiunto CVehicle.HeadlightMultiplier
+- Aggiunto CVehicle.VehicleTopSpeedPercent
+- Aggiunto CVehicle.CheatPowerIncrease
+- Aggiunto il parametro 'AutoCleanup' per Utils.SpawnVehicle e Utils.CreatePed
