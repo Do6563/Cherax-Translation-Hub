@@ -1,3 +1,45 @@
+- 8/8/2026 11:11 AM
+[Cherax V5.3.0 - 2023/12/18]
+- 攻撃者フリーズを追加
+- 高度なスクリプトイベント保護のトグルを追加
+- ホストキックの弱体化を追加
+- ペッドの衝突判定無効化（車両）を追加
+- 例外ログのRTTI情報を追加
+- リストGUIに不足していた機能を追加
+- モッダー検出を改善
+- ベイルのログ記録および防止を改善
+- クラッシュ保護を改善
+- アンロックを改善
+- カジノ操作を改善
+- チャット広告保護を改善
+- ハンドリングエディターオプションの説明を改善
+- ASI Loaderを修正
+- 自身の車両へのアタッチメントに関する誤検出を修正
+- ヒートビジョンを修正
+- 観戦中の死亡を修正
+- 特定の車両で「Deluxo Mode」がクラッシュする問題を修正
+
+- Lua:
+
+- CVehicle.SteerAngleを追加
+- CVehicle.SecondSteerAngleを追加
+- CVehicle.Throttleを追加
+- CVehicle.Brakeを追加
+- CVehicle.Nitrousを追加
+- CVehicle.DirtLevelを追加
+- CVehicle.BodyDirtColorを追加
+- CVehicle.HeadlightMultiplierを追加
+- CVehicle.VehicleTopSpeedPercentを追加
+- CVehicle.CheatPowerIncreaseを追加
+- Utils.SpawnVehicleおよびUtils.CreatePedに「AutoCleanup」パラメーターを追加
+
+
+
+
+
+
+
+
 - 8/4/2026 9:00 AM
 - 5.37.0 EE
 - すべての衣類アイテムのリスト表示を追加
