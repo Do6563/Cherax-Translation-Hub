@@ -1,3 +1,44 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- Támadók lefagyasztása (Freeze Attackers) hozzáadva
+- Fejlett Script Event védelmi kapcsoló hozzáadva
+- Host kirúgások gyengítése (Weaken Host Kicks) hozzáadva
+- Gyalogos ütközések kikapcsolása (Disable Ped Collision - Jármű) hozzáadva
+- RTTI információk a kivételnaplókhoz (Exception Logs) hozzáadva
+- Hiányzó funkciók a listás GUI-ban hozzáadva
+- Modder észlelés fejlesztve
+- Bail naplózás és megelőzés fejlesztve
+- Crash védelem fejlesztve
+- Feloldások (Unlocks) fejlesztve
+- Kaszinó manipuláció (Casino Rigging) fejlesztve
+- Chat hirdetések elleni védelem fejlesztve
+- Handling Editor opciók leírásai fejlesztve
+- ASI Loader javítva
+- Saját járműhöz való csatolással kapcsolatos téves észlelések (False Flags) javítva
+- Hőlátás (Heat Vision) javítva
+- Megfigyelés (spectating) közbeni halál javítva
+- 'Deluxo Mode' crash javítva bizonyos járműveknél
+
+- Lua:
+- CVehicle.SteerAngle hozzáadva
+- CVehicle.SecondSteerAngle hozzáadva
+- CVehicle.Throttle hozzáadva
+- CVehicle.Brake hozzáadva
+- CVehicle.Nitrous hozzáadva
+- CVehicle.DirtLevel hozzáadva
+- CVehicle.BodyDirtColor hozzáadva
+- CVehicle.HeadlightMultiplier hozzáadva
+- CVehicle.VehicleTopSpeedPercent hozzáadva
+- CVehicle.CheatPowerIncrease hozzáadva
+- 'AutoCleanup' paraméter hozzáadva az Utils.SpawnVehicle és Utils.CreatePed függvényekhez
+
+
+
+
+
+
+
+
 - 8/8/2026 11:11 AM
 [Cherax V5.3.0 - 2023/12/18]
 - 
