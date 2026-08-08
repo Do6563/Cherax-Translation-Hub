@@ -1,3 +1,44 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- Ajout de "Figer les attaquants"
+- Ajout de l'option d'activation de la protection avancée contre les événements de script
+- Ajout de l'affaiblissement des expulsions (kicks) de l'hôte
+- Ajout de "Désactiver la collision des PNJ (Véhicule)"
+- Ajout des informations RTTI pour les journaux d'exceptions
+- Ajout des fonctionnalités manquantes dans l'interface graphique de liste
+- Amélioration de la détection des moddeurs
+- Amélioration de la journalisation et de la prévention des abandons forcés (bail)
+- Amélioration de la protection contre le crash
+- Amélioration des déblocages
+- Amélioration du trucage du casino
+- Amélioration de la protection contre la publicité dans le chat
+- Amélioration des descriptions pour les options de l'éditeur de handling
+- Correction de l'ASI Loader
+- Correction des faux positifs concernant l'attachement à votre véhicule
+- Correction de la vision thermique
+- Correction de la mort en mode spectateur
+- Correction du crash du 'Mode Deluxo' sur certains véhicules
+- 
+- Lua:
+- Ajout de CVehicle.SteerAngle
+- Ajout de CVehicle.SecondSteerAngle
+- Ajout de CVehicle.Throttle
+- Ajout de CVehicle.Brake
+- Ajout de CVehicle.Nitrous
+- Ajout de CVehicle.DirtLevel
+- Ajout de CVehicle.BodyDirtColor
+- Ajout de CVehicle.HeadlightMultiplier
+- Ajout de CVehicle.VehicleTopSpeedPercent
+- Ajout de CVehicle.CheatPowerIncrease
+- Ajout du paramètre 'AutoCleanup' pour Utils.SpawnVehicle et Utils.CreatePed
+
+
+
+
+
+
+
+
 - 8/8/2026 11:26 AM
 [Cherax V5.3.0 - 2023/12/18]
 - Ajout de Freeze Attackers
