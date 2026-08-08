@@ -1,3 +1,44 @@
+- 8/8/2026 11:11 AM
+[Cherax V5.3.0 - 2023/12/18]
+- Thêm đóng băng kẻ tấn công (Freeze Attackers)
+- Thêm bật/tắt bảo vệ sự kiện Script nâng cao (Advanced Script Event Protection Toggle)
+- Thêm giảm thiểu Host Kicks (Weaken Host Kicks)
+- Thêm vô hiệu hóa va chạm của Ped (Phương tiện)
+- Thêm thông tin RTTI cho Exception Logs
+- Thêm các tính năng còn thiếu trong List GUI
+- Cải thiện phát hiện Modder
+- Cải thiện ghi nhật ký và ngăn chặn Bail (Bail Logging And Prevention)
+- Cải thiện bảo vệ chống crash
+- Cải thiện Unlocks
+- Cải thiện Casino Rigging
+- Cải thiện bảo vệ chống quảng cáo trong Chat
+- Cải thiện mô tả cho các tùy chọn Handling Editor
+- Sửa lỗi ASI Loader
+- Sửa lỗi cảnh báo sai về việc gắn vào phương tiện của bạn
+- Sửa lỗi Heat Vision
+- Sửa lỗi chết khi đang spectating
+- Sửa lỗi crash 'Deluxo Mode' trên một số phương tiện nhất định
+- 
+- Lua:
+- Thêm CVehicle.SteerAngle
+- Thêm CVehicle.SecondSteerAngle
+- Thêm CVehicle.Throttle
+- Thêm CVehicle.Brake
+- Thêm CVehicle.Nitrous
+- Thêm CVehicle.DirtLevel
+- Thêm CVehicle.BodyDirtColor
+- Thêm CVehicle.HeadlightMultiplier
+- Thêm CVehicle.VehicleTopSpeedPercent
+- Thêm CVehicle.CheatPowerIncrease
+- Thêm tham số 'AutoCleanup' cho Utils.SpawnVehicle và Utils.CreatePed
+
+
+
+
+
+
+
+
 - 8/4/2026 9:00 AM
 - 5.37.0 EE
 - Đã thêm Danh sách tất cả vật phẩm quần áo
