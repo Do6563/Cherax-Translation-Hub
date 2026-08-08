@@ -1,3 +1,44 @@
+- 8/8/2026 12:24 PM
+[Cherax V5.3.0 - 2023/12/18]
+- 공격자 프리즈 추가
+- 고급 스크립트 이벤트 프로텍션 토글 추가
+- 호스트 킥 약화 추가
+- 페드 충돌 비활성화 (차량) 추가
+- 예외 로그용 RTTI 정보 추가
+- 리스트 GUI의 누락된 기능 추가
+- 모더 감지 개선
+- 베일 로그 및 방지 개선
+- 크래쉬 프로텍션 개선
+- 잠금 해제 개선
+- 카지노 조작 개선
+- 채팅 광고 프로텍션 개선
+- 핸들링 에디터 옵션 설명 개선
+- ASI 로더 수정
+- 본인 차량 부착 관련 오탐지 수정
+- 열감지 시야 수정
+- 관전 중 사망 수정
+- 특정 차량에서 '디럭소 모드' 크래쉬 수정
+
+- Lua:
+- CVehicle.SteerAngle 추가
+- CVehicle.SecondSteerAngle 추가
+- CVehicle.Throttle 추가
+- CVehicle.Brake 추가
+- CVehicle.Nitrous 추가
+- CVehicle.DirtLevel 추가
+- CVehicle.BodyDirtColor 추가
+- CVehicle.HeadlightMultiplier 추가
+- CVehicle.VehicleTopSpeedPercent 추가
+- CVehicle.CheatPowerIncrease 추가
+- Utils.SpawnVehicle 및 Utils.CreatePed에 'AutoCleanup' 매개변수 추가
+
+
+
+
+
+
+
+
 - 8/8/2026 11:26 AM
 [Cherax V5.3.0 - 2023/12/18]
 - 공격자 프리즈 기능 추가
