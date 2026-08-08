@@ -1,3 +1,44 @@
+- 8/8/2026 11:26 AM
+[Cherax V5.3.0 - 2023/12/18]
+- إضافة تجميد المهاجمين
+- إضافة زر تبديل حماية أحداث السكريبت المتقدمة
+- إضافة إضعاف طرد المستضيف
+- إضافة تعطيل تصادم المشاة (المركبة)
+- إضافة معلومات RTTI لسجلات الاستثناءات
+- إضافة الميزات المفقودة في واجهة القائمة الرسومية (List GUI)
+- تحسين كشف المودرز
+- تحسين تسجيل ومنع الـ Bail
+- تحسين الحماية من الكراش
+- تحسين فتح المقفلات
+- تحسين التلاعب بالكازينو
+- تحسين الحماية من إعلانات الدردشة
+- تحسين الأوصاف لخيارات محرر التحكم (Handling Editor)
+- إصلاح محمل الـ ASI
+- إصلاح البلاغات الكاذبة المتعلقة بالالتصاق بمركبتك
+- إصلاح الرؤية الحرارية
+- إصلاح الموت أثناء المراقبة
+- إصلاح كراش 'Deluxo Mode' في مركبات معينة
+- 
+- Lua:
+- إضافة CVehicle.SteerAngle
+- إضافة CVehicle.SecondSteerAngle
+- إضافة CVehicle.Throttle
+- إضافة CVehicle.Brake
+- إضافة CVehicle.Nitrous
+- إضافة CVehicle.DirtLevel
+- إضافة CVehicle.BodyDirtColor
+- إضافة CVehicle.HeadlightMultiplier
+- إضافة CVehicle.VehicleTopSpeedPercent
+- إضافة CVehicle.CheatPowerIncrease
+- إضافة معامل 'AutoCleanup' لـ Utils.SpawnVehicle و Utils.CreatePed
+
+
+
+
+
+
+
+
 - 8/4/2026 9:00 AM
 - 5.37.0 EE
 - تم إضافة قائمة بجميع عناصر الملابس
