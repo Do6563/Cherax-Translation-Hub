@@ -1,0 +1,33 @@
+- 8/8/2026 11:26 AM
+[Cherax V5.3.0 - 2023/12/18]
+- Saldırganları Dondurma Eklendi
+- Gelişmiş Script Event Koruması Açma/Kapatma Seçeneği Eklendi
+- Host Kicklerini Zayıflatma Özelliği Eklendi
+- Ped Çarpışmasını Devre Dışı Bırakma (Araç) Eklendi
+- Hata Günlükleri (Exception Logs) için RTTI Bilgisi Eklendi
+- Liste GUI'sindeki Eksik Özellikler Eklendi
+- Modder Tespiti İyileştirildi
+- Bail Loglama ve Engellemesi İyileştirildi
+- Crash Koruması İyileştirildi
+- Kilit Açmalar (Unlocks) İyileştirildi
+- Casino Rigging İyileştirildi
+- Sohbet Reklam Koruması İyileştirildi
+- Handling Düzenleyici Seçenekleri için Açıklamalar İyileştirildi
+- ASI Loader Düzeltildi
+- Aracınıza Eklenti Yapılması (Attachment) ile İlgili Hatalı Tespitler (False Flags) Düzeltildi
+- Heat Vision (Isı Görüşü) Düzeltildi
+- İzleme (Spectating) Sırasında Ölme Hatası Düzeltildi
+- Belirli Araçlarda 'Deluxo Modu'nun Crash Yapması Düzeltildi
+- 
+- Lua:
+- CVehicle.SteerAngle Eklendi
+- CVehicle.SecondSteerAngle Eklendi
+- CVehicle.Throttle Eklendi
+- CVehicle.Brake Eklendi
+- CVehicle.Nitrous Eklendi
+- CVehicle.DirtLevel Eklendi
+- CVehicle.BodyDirtColor Eklendi
+- CVehicle.HeadlightMultiplier Eklendi
+- CVehicle.VehicleTopSpeedPercent Eklendi
+- CVehicle.CheatPowerIncrease Eklendi
+- Utils.SpawnVehicle ve Utils.CreatePed için 'AutoCleanup' Parametresi Eklendi
