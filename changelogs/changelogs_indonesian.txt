@@ -1,3 +1,32 @@
+- 8/9/2026 10:34 AM
+[Cherax v5.0.1 - 2023/11/12]
+- memperbaiki crash akibat kegagalan memuat font saat inject
+- memperbaiki glyph font Korea yang tidak dimuat
+- memperbaiki nama garasi yang kosong untuk personal vehicle spawner
+- memperbaiki false positive untuk attachment pada cargobob Anda
+- memperbaiki posisi info window yang tidak tersimpan
+- memperbaiki tombol buka custom menu yang tidak tersimpan
+- memperbaiki host check untuk warp player time forward
+- memperbaiki kemungkinan crash saat unloading
+- memperbaiki masalah performa saat berlangganan script yang lebih besar
+- memperbaiki memory leak pada image loader
+- memperbaiki proteksi host crash
+- memperbaiki proteksi force camera forward
+- memperbaiki clear mission entities yang memiliki efek sebaliknya
+- meningkatkan proteksi iklan chat
+- 
+- Cherax Loader
+- meningkatkan performa sebesar 400%
+- memperbaiki halaman resource yang tidak berfungsi
+- memperbaiki memory leak pada image loader
+
+
+
+
+
+
+
+
 - 8/8/2026 12:24 PM
 [Cherax V5.3.0 - 2023/12/18]
 - Menambahkan Freeze Attackers
