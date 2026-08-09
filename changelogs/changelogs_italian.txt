@@ -1,3 +1,32 @@
+- 8/9/2026 10:34 AM
+[Cherax v5.0.1 - 2023/11/12]
+- Risolti i crash dovuti al fallito caricamento dei font durante l'inject
+- Risolto il mancato caricamento dei glifi del font coreano
+- Risolti i nomi dei garage vuoti per lo spawner di veicoli personali
+- Risolto il falso positivo per gli elementi agganciati al proprio cargobob
+- Risolto il mancato salvataggio della posizione della finestra delle informazioni
+- Risolto il mancato salvataggio del tasto personalizzato per aprire il menu
+- Risolto il controllo dell'host per il warp temporale in avanti del giocatore
+- Risolto un possibile crash durante l'unloading
+- Risolti i problemi di prestazioni durante l'iscrizione a script più grandi
+- Risolto un memory leak nel caricatore di immagini
+- Risolta la protezione dai crash dell'host
+- Risolta la protezione per la telecamera forzata in avanti
+- Risolto il problema per cui l'eliminazione delle entità di missione aveva l'effetto opposto
+- Migliorata la protezione contro la pubblicità in chat
+
+- Cherax Loader
+- Migliorate le prestazioni del 400%
+- Risolto il mancato funzionamento delle pagine delle risorse
+- Risolto un memory leak nel caricatore di immagini
+
+
+
+
+
+
+
+
 - 8/8/2026 12:24 PM
 [Cherax V5.3.0 - 2023/12/18]
 - Aggiunto "Congela attaccanti"
