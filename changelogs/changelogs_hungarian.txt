@@ -1,3 +1,32 @@
+- 8/9/2026 10:34 AM
+[Cherax v5.0.1 - 2023/12/11]
+- javítva az injectáláskori sikertelen betűtípus-betöltés miatti crash-ek
+- javítva a koreai betűtípus-karakterek betöltési hibája
+- javítva az üres garázsnevek a személyes jármű-lehívóban
+- javítva a Cargobobodhoz csatolt elemek miatti téves riasztások
+- javítva az információs ablak pozíciójának mentési hibája
+- javítva az egyéni menu megnyitási gombjának mentési hibája
+- javítva a játékos időbeli előre-warp-olásának host ellenőrzése
+- javítva egy lehetséges crash unload-olás közben
+- javítva a teljesítménybeli problémák nagyobb scriptekre történő feliratkozáskor
+- javítva a memóriaszivárgás a képbetöltőben
+- javítva a host crash elleni védelem
+- javítva a kényszerített kamera-előrenézet (force camera forward) elleni védelem
+- javítva a küldetés entitások törlésének (clear mission entities) ellentétes hatása
+- továbbfejlesztve a chat-hirdetések elleni védelem
+
+- Cherax Loader
+- 400%-kal növelt teljesítmény
+- javítva a nem működő erőforrás-oldalak
+- javítva a memóriaszivárgás a képbetöltőben
+
+
+
+
+
+
+
+
 - 8/8/2026 12:24 PM
 [Cherax V5.3.0 - 2023/12/18]
 - Támadók lefagyasztása (Freeze Attackers) hozzáadva
