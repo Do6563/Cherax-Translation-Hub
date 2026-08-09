@@ -1,3 +1,32 @@
+- 8/9/2026 10:34 AM
+[Cherax v5.0.1 - 2023/12/11]
+- Sửa lỗi crash do không tải được phông chữ khi inject
+- Sửa lỗi không tải được các ký tự phông chữ tiếng Hàn
+- Sửa lỗi trống tên nhà để xe đối với trình tạo phương tiện cá nhân
+- Sửa lỗi báo cáo nhầm (false positive) đối với các vật thể gắn vào cargobob của bạn
+- Sửa lỗi không lưu vị trí cửa sổ thông tin
+- Sửa lỗi không lưu phím mở menu tùy chỉnh
+- Sửa lỗi kiểm tra host đối với việc dịch chuyển người chơi và chuyển tiếp thời gian
+- Sửa lỗi crash có thể xảy ra khi unload
+- Sửa lỗi hiệu suất khi đăng ký các script lớn hơn
+- Sửa lỗi rò rỉ bộ nhớ trong trình tải ảnh
+- Sửa lỗi bảo vệ crash từ host
+- Sửa lỗi bảo vệ ép camera về phía trước
+- Sửa lỗi tính năng xóa thực thể nhiệm vụ có tác dụng ngược lại
+- Cải thiện tính năng bảo vệ chống quảng cáo trong chat
+- 
+- Cherax Loader
+- Cải thiện hiệu suất thêm 400%
+- Sửa lỗi các trang tài nguyên không hoạt động
+- Sửa lỗi rò rỉ bộ nhớ trong trình tải ảnh
+
+
+
+
+
+
+
+
 - 8/8/2026 12:24 PM
 [Cherax V5.3.0 - 2023/12/18]
 - Thêm Freeze Attackers (Đóng băng Kẻ tấn công)
