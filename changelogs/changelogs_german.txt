@@ -1,3 +1,33 @@
+- 8/9/2026 10:34 AM
+[Cherax V5.0.1 - 2023/12/11]
+- Cherax v5.0.1
+- Crashes behoben, die durch fehlgeschlagenes Laden von Schriftarten beim Injecten verursacht wurden
+- Behoben, dass koreanische Schriftzeichen nicht geladen wurden
+- Leere Garagennamen beim Spawner für persönliche Fahrzeuge behoben
+- Falschmeldungen (False Positives) für Anhänge an deinen Cargobob behoben
+- Behoben, dass die Position des Info-Fensters nicht gespeichert wurde
+- Behoben, dass die benutzerdefinierte Taste zum Öffnen des menu nicht gespeichert wurde
+- Host-Prüfung für "Warp Player Time Forward" behoben
+- Möglicher crash beim Entladen behoben
+- Performance-Probleme beim Abonnieren größerer Skripte behoben
+- Speicherleck im Image Loader behoben
+- Host-crash-Schutz behoben
+- "Force Camera Forward"-Schutz behoben
+- Behoben, dass das Bereinigen von Missions-Entitäten (clear mission entities) den gegenteiligen Effekt hatte
+- Schutz vor Chat-Werbung verbessert
+- 
+- Cherax Loader
+- Performance um 400% verbessert
+- Behoben, dass Ressourcen-Seiten nicht funktionierten
+- Speicherleck im Image Loader behoben
+
+
+
+
+
+
+
+
 - 8/8/2026 12:24 PM
 [Cherax V5.3.0 - 2023/12/18]
 - Freeze Attackers hinzugefügt
