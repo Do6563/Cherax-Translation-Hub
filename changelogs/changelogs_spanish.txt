@@ -1,3 +1,16 @@
+- 8/9/2026 10:46 AM
+[Cherax V5.1.1 - 2023/12/02]
+- se corrigieron los problemas de sincronización de objetos al usar blackhole
+- se corrigieron los falsos positivos en la detección de modders para host crash
+- se agregaron los últimos modelos creados al log de excepciones
+
+
+
+
+
+
+
+
 - 8/9/2026 10:34 AM
 [Cherax v5.0.1 - 2023/11/12]
 - Se corrigieron los crashes debido a un fallo al cargar las fuentes al inyectar
