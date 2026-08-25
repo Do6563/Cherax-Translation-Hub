@@ -1,4 +1,4 @@
-{
+﻿{
     "Popup_UI": {
     "title": "알림 번역 기능 설정",
     "desc1": "게임 내 우측 상단 알림(Toast)을 한국어로 번역하시겠습니까?",
@@ -7,6 +7,29 @@
     "btn_disable": "번역 끄기 (영어 원문 유지)",
     "btn_preview": "예시 알림 무작위로 다시 띄워보기"
     },
+  "Changelog_UI": {
+    "title": "Cherax가 업데이트되었습니다!",
+    "subtitle": "- 변경 사항 (Change logs) -",
+    "btn_dont_show": "이 창 다시 보지 않기",
+    "btn_mark_read": "읽음으로 표시"
+  },
+  "System_Messages": {
+    "init": "번역 시스템 초기화 완료.",
+    "update_found": "업데이트 감지됨! 파일 다운로드 중...",
+    "downloading": "언어 파일 다운로드 중...",
+    "download_success": "다운로드 및 저장 성공.",
+    "loaded": "번역본 불러옴: ",
+    "applied": "번역 적용 완료",
+    "file_error": "서버에 파일이 없습니다(404).",
+    "setup_complete": "설정 완료: ",
+    "script_stopped": "스크립트가 종료되었습니다.",
+    "noti_update_found": "알림 번역 업데이트 감지됨",
+    "noti_downloading": "알림 번역 파일 다운로드 중...",
+    "changelog_update_found": "새로운 업데이트가 발견되었습니다!",
+    "watcher_active": "번역 감시 활성화됨",
+    "update_check_disabled": "업데이트 확인이 비활성화되었습니다.",
+    "marked_as_read": "읽음으로 표시되었습니다."
+  },
   "Dictionary": {
     "Stun Gun Spam": "스턴건 도배",
     "Vehicle Spam": "차량 도배",
