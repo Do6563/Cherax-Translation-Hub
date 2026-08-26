@@ -33,10 +33,11 @@ jobs:
               BASENAME=$(basename "$FILE" .json)
               DIRNAME=$(dirname "$FILE")
               
+              CLEAN_NAME="${BASENAME%_Vanilla}"
               if [ "$DIRNAME" = "Translations_Vanilla" ]; then
-                VERSION_FILE="Versions/${BASENAME}_Vanilla_version.txt"
+                VERSION_FILE="Versions/${CLEAN_NAME}_Vanilla_version.txt"
               else
-                VERSION_FILE="Versions/${BASENAME}_version.txt"
+                VERSION_FILE="Versions/${CLEAN_NAME}_version.txt"
               fi
 
               if [ ! -f "$VERSION_FILE" ]; then
