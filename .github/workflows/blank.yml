@@ -6,6 +6,7 @@ on:
     paths:
       - 'Translations/*.json'
       - 'Translations_Vanilla/*.json'  
+      - 'Translations_Noti/*.json'
       - 'changelogs/*.txt'
 jobs:
   bump-version:
@@ -19,12 +20,19 @@ jobs:
           fetch-depth: 0
 
       - name: Detect Changed Files and Bump Versions
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.event.after }}
         run: |
-          set -uo pipefail
+          set -euo pipefail
           mkdir -p Versions
           mkdir -p "changelogs versions"
 
-          CHANGED_JSONS=$(git diff --diff-filter=d --name-only HEAD^ HEAD 2>/dev/null | grep -E "^(Translations|Translations_Vanilla)/.*\.json$" || true)
+          if [[ "$BEFORE_SHA" =~ ^0+$ ]]; then
+            BEFORE_SHA=$(git hash-object -w -t tree /dev/null)
+          fi
+          CHANGED_FILES=$(git diff --no-renames --diff-filter=d --name-only "$BEFORE_SHA" "$AFTER_SHA")
+          CHANGED_JSONS=$(printf '%s\n' "$CHANGED_FILES" | grep -E "^(Translations|Translations_Vanilla|Translations_Noti)/[^/]+\.json$" || true)
 
           if [ -n "$CHANGED_JSONS" ]; then
             echo "Changed translation files:"
@@ -54,7 +62,7 @@ jobs:
             echo "No translation files changed."
           fi
 
-          CHANGED_LOGS=$(git diff --diff-filter=d --name-only HEAD^ HEAD 2>/dev/null | grep "^changelogs/.*\.txt$" || true)
+          CHANGED_LOGS=$(printf '%s\n' "$CHANGED_FILES" | grep -E "^changelogs/[^/]+\.txt$" || true)
 
           if [ -n "$CHANGED_LOGS" ]; then
             echo "Changed changelog files:"
