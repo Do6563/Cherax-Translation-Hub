@@ -1,3 +1,17 @@
+[5.52.1 EE / 5.43.1 LE]
+
+- Menambahkan Kendaraan -> Tanpa Kehilangan Cengkeraman
+- Meningkatkan Sistem Penerjemahan
+- Meningkatkan Proteksi
+- Memperbaiki Berbagai Bug
+
+
+
+
+
+
+
+
 - 8/9/2026 10:34 AM
 [Cherax v5.0.1 - 2023/11/12]
 - memperbaiki crash akibat kegagalan memuat font saat inject
