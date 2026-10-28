@@ -1,3 +1,17 @@
+[5.52.1 EE / 5.43.1 LE]
+
+- Dodano Pojazd -> Brak utraty przyczepności
+- Ulepszono system tłumaczeń
+- Ulepszono zabezpieczenia
+- Naprawiono różne błędy
+
+
+
+
+
+
+
+
 - 8/9/2026 10:34 AM
 [Cherax V5.0.1 - 2023/11/12]
 - naprawiono crashe spowodowane błędem ładowania czcionki podczas injectu
