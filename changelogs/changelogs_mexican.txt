@@ -1,3 +1,17 @@
+[5.52.1 EE / 5.43.1 LE]
+
+- Se añadió Vehículo -> Sin pérdida de tracción
+- Sistema de traducción mejorado
+- Protecciones mejoradas
+- Se corrigieron varios errores
+
+
+
+
+
+
+
+
 - 8/9/2026 10:34 AM
 [Cherax V5.0.1 - 2023/12/11]
 - Se corrigieron los crash causados por errores en la carga de fuentes al inyectar
