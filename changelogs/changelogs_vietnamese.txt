@@ -1,3 +1,17 @@
+[5.52.1 EE / 5.43.1 LE]
+
+- Đã thêm Phương Tiện -> Không Mất Độ Bám Đường
+- Đã cải thiện Hệ Thống Dịch
+- Đã cải thiện Bảo Vệ
+- Đã sửa Nhiều Lỗi Khác Nhau
+
+
+
+
+
+
+
+
 - 8/9/2026 10:34 AM
 [Cherax v5.0.1 - 2023/12/11]
 - Sửa lỗi crash do không tải được phông chữ khi inject
