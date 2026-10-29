@@ -1,76 +1,1313 @@
 [5.52.1 EE / 5.43.1 LE]
 
-- ভেহিকল যোগ করা হয়েছে -> কোনো গ্রিপ লস নেই
+- Vehicle -> No Grip Loss যোগ করা হয়েছে
 - অনুবাদ সিস্টেম উন্নত করা হয়েছে
 - প্রটেকশন উন্নত করা হয়েছে
 - বিভিন্ন বাগ ফিক্স করা হয়েছে
 
+[5.52.0 EE / 5.43.0 LE]
 
+- Session -> Seamless Rejoin যোগ করা হয়েছে
+- Session -> Timed Session Rejoin যোগ করা হয়েছে
+- Self -> No Clip Interior Speeds যোগ করা হয়েছে
+- Self -> Cosmetic -> Carjack Animations যোগ করা হয়েছে
+- Self -> Cosmetic -> Shuffle Carjack Animations যোগ করা হয়েছে
+- Recovery -> Remove Modded Run যোগ করা হয়েছে
+- Recovery -> Set/Remove Bad Sport যোগ করা হয়েছে
+- Recovery -> Reset Ghosts Exposed যোগ করা হয়েছে
+- Aimbot -> Shoot Through যোগ করা হয়েছে
+- ESP -> Object -> Draw Box যোগ করা হয়েছে
+- Vehicle -> Playback যোগ করা হয়েছে
+- Lua ভার্সন 5.5.1-এ আপডেট করা হয়েছে
+- Stream Proof রেন্ডারিং উন্নত করা হয়েছে
+- Smooth Transition উন্নত করা হয়েছে
+- Hulk Vehicle ও Hulk Ped উন্নত করা হয়েছে
+- Aimbot উন্নত করা হয়েছে
+- ESP উন্নত করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- মাউস বাটন এখন হটকি হিসেবে ব্যবহার করা যাবে
+- বিভিন্ন বাগ ফিক্স করা হয়েছে
 
+[5.51.0 EE / 5.42.0 LE]
 
+- Misc -> World -> Mirror World যোগ করা হয়েছে
+- Session -> General -> Restart Freemode যোগ করা হয়েছে
+- DLC লোডিং উন্নত করা হয়েছে + EE-তে কার্যকারিতা ফিক্স করা হয়েছে
+- আপনার গেম ভার্সনের সাথে সামঞ্জস্যপূর্ণ হলেই এখন কেবল DLC-গুলো তালিকাভুক্ত হবে
+- Smooth Transition উন্নত করা হয়েছে
+- বিভিন্ন বাগ ফিক্স করা হয়েছে
 
+[5.50.0 EE / 5.41.0 LE]
 
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- অন্যান্য বাগ ফিক্স ও উন্নতিসমূহ
 
+[Hotfix Update]
 
-- 8/9/2026 10:34 AM
-[Cherax v5.0.1 - 2023/11/12]
-- inject করার সময় ফন্ট লোড ব্যর্থ হওয়ার কারণে ঘটিত crash-গুলি সংশোধন করা হয়েছে
-- কোরিয়ান ফন্ট গ্লিফ লোড না হওয়ার সমস্যাটি সংশোধন করা হয়েছে
-- পার্সোনাল ভেহিকল স্পনারের জন্য খালি গ্যারেজের নাম সংশোধন করা হয়েছে
-- আপনার cargobob-এর অ্যাটাচমেন্টের জন্য ফলস পজিটিভ (false positive) সমস্যা সংশোধন করা হয়েছে
-- ইনফো উইন্ডোর পজিশন সেভ না হওয়ার সমস্যাটি সংশোধন করা হয়েছে
-- কাস্টম menu ওপেন কী সেভ না হওয়ার সমস্যাটি সংশোধন করা হয়েছে
-- ওয়ার্প প্লেয়ার টাইম ফরোয়ার্ড হোস্ট চেক সংশোধন করা হয়েছে
-- আনলোড করার সময় সম্ভাব্য crash সংশোধন করা হয়েছে
-- বড় স্ক্রিপ্ট সাবস্ক্রাইব করার সময় পারফরম্যান্সের সমস্যাগুলি সংশোধন করা হয়েছে
-- ইমেজ লোডারে মেমরি লিক সংশোধন করা হয়েছে
-- হোস্ট crash প্রোটেকশন সংশোধন করা হয়েছে
-- ফোর্স ক্যামেরা ফরোয়ার্ড প্রোটেকশন সংশোধন করা হয়েছে
-- মিশন এন্টিটি ক্লিয়ার করার বিপরীত প্রভাব হওয়ার সমস্যাটি সংশোধন করা হয়েছে
-- চ্যাট বিজ্ঞাপন প্রোটেকশন উন্নত করা হয়েছে
+- EE সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
 
-- Cherax Loader
+[5.X EE & LE]
+
+- Session -> Matchmaking -> Override Region যোগ করা হয়েছে
+- Session -> Matchmaking -> Override Aim Type যোগ করা হয়েছে
+- Session -> Matchmaking -> Override Minimum Players যোগ করা হয়েছে
+- Session -> Host Tool Kit -> Advertise Region যোগ করা হয়েছে
+- Vehicle -> Convenience -> In-Air Control Multiplier যোগ করা হয়েছে
+- Session -> Misc -> Join Full Sessions Bypass পুনরায় যোগ করা হয়েছে
+- Disable Outfit Apply Restrictions উন্নত করা হয়েছে
+- DaniGP17-এর পারফরম্যান্স প্যাচ বাস্তবায়ন করা হয়েছে
+- Session Browser ফিক্স ও উন্নত করা হয়েছে
+- কিছু স্ক্রিপ্ট লোডিং সমস্যা ফিক্স করা হয়েছে
+
+[5.X EE & LE]
+
+- Misc -> Experiments -> Disable Laser Collision যোগ করা হয়েছে
+- Protections -> Disable Transaction Errors যোগ করা হয়েছে
+- বিভিন্ন উন্নতি ও বাগ ফিক্স
+
+[5.X EE & LE]
+
+- বিভিন্ন উন্নতি ও বাগ ফিক্স
+
+[5.48.0 EE]
+
+- গেম ভার্সন 1.0.1158.13-এ আপডেট করা হয়েছে
+- Unlock Clothing আপডেট করা হয়েছে
+- Unlock DLC Content আপডেট করা হয়েছে
+- বিভিন্ন উন্নতি ও বাগ ফিক্স
+
+[5.39.3 LE]
+
+- গেম ভার্সন 1.0.3889.0-এ আপডেট করা হয়েছে
+- বিভিন্ন উন্নতি ও বাগ ফিক্স
+
+[5.X EE & LE]
+
+- Lua-র জন্য ImGui.BeginDisabled এবং ImGui.EndDisabled যোগ করা হয়েছে।
+- থিমের জন্য হেডার অফসেট কাস্টমাইজেশন যোগ করা হয়েছে (শুধু Click GUI)।
+- Presence Spoofing যোগ করা হয়েছে (Network ট্যাব)
+- প্রটেকশন উন্নত করা হয়েছে।
+- মোটরসাইকেলের কাছাকাছি গেলে তা থেমে যাওয়ার সমস্যা ফিক্স করা হয়েছে
+- অন্যান্য বাগ ফিক্স ও উন্নতিসমূহ
+
+Lua:
+- Lua-র জন্য ON_NOTIFICATION ইভেন্ট যোগ করা হয়েছে (বিল্ট-ইন নোটিফিকেশন সিস্টেম ওভাররাইড করার অনুমতি দেয়)।
+
+[5.X EE & LE]
+
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+- No Ragdoll উন্নত করা হয়েছে
+- Block Modded PTFX (EE) উন্নত করা হয়েছে
+- Block Modded Explosion (EE) উন্নত করা হয়েছে
+- Vehicle Spam ও Ped Spam প্রটেকশন উন্নত করা হয়েছে (ভুল পজিটিভ হতে পারে)
+- প্রটেকশন উন্নত করা হয়েছে
+- Give All Weapons ভুল ওয়েপন দেওয়ার সমস্যা ফিক্স করা হয়েছে
+- অন্যান্য বাগ ফিক্স ও উন্নতিসমূহ
+
+[5.X EE & LE]
+
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+[5.X EE & LE]
+
+- প্রটেকশন উন্নত করা হয়েছে
+- বিভিন্ন বাগ ফিক্স করা হয়েছে
+
+[5.X EE & LE]
+
+- Player Info-তে Platform ও Platform ID যোগ করা হয়েছে
+- Car Meet ও Arena Wars Level LE-তে পোর্ট করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- বাগ ফিক্স করা হয়েছে
+
+[5.X EE & LE]
+
+- Unlock All Mansion Trophies যোগ করা হয়েছে
+- Unlock DLC Content উন্নত করা হয়েছে
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+[5.X EE & LE]
+
+- Free Shopping উন্নত করা হয়েছে (এখন সবকিছু অন্তর্ভুক্ত)
+- Enable Halloween উন্নত করা হয়েছে (এখন UFO অন্তর্ভুক্ত)
+- প্রটেকশন উন্নত করা হয়েছে
+- গেম ভার্সন 1.72-এ আপডেট করা হয়েছে
+
+[5.45.0 EE]
+
+- Player List -> Send Text Message যোগ করা হয়েছে
+- Session -> Send Text Message যোগ করা হয়েছে
+- Session -> Advertise Region যোগ করা হয়েছে
+- Player Info -> Arena Wars Level যোগ করা হয়েছে
+- Player Info -> Car Meet Level যোগ করা হয়েছে
+- Protections -> Block Remote Bounty যোগ করা হয়েছে
+- Protections -> Block Modded Sounds যোগ করা হয়েছে
+- Protections -> Block Modded PTFX যোগ করা হয়েছে
+- Unlock Clothing উন্নত করা হয়েছে
+- Unlock DLC Content আপডেট করা হয়েছে
+
+[5.X EE & LE]
+
+- Player List -> Friendly -> Drop (Premium) যোগ করা হয়েছে
+- Player List -> Friendly -> Drop Type যোগ করা হয়েছে
+- Player List -> Friendly -> Drop Delay যোগ করা হয়েছে
+- Recovery -> Other Unlocks -> Max Salvage Yard Safe Payout যোগ করা হয়েছে
+- Misc -> ESP -> Hostile যোগ করা হয়েছে
+- ESP সিস্টেম নতুনভাবে সাজানো হয়েছে
+- বেশ কিছু UI পরিবর্তন
+- Misc -> General -> Restrictions -> Disable Various Cooldowns ফিক্স এবং ব্যাপকভাবে উন্নত করা হয়েছে
+- Teleport to Objective উন্নত করা হয়েছে
+- ইনজেকশন সময় উন্নত করা হয়েছে
+- Auto MMI Claim All এখন বাজেয়াপ্ত হওয়া ভেহিকেলও উদ্ধার করে
+
+[5.36.0 LE]
+
+- EE থেকে উন্নত Request PV কোড পোর্ট করা হয়েছে
+- Clear All Business Heat পোর্ট করা হয়েছে
+
+[5.44.0 EE]
+
+- Player -> Cosmetic -> Transformation -> Hair Scale যোগ করা হয়েছে
+- Player -> General -> Invisibility -> Player Visible Override যোগ করা হয়েছে
+- Session -> All Players -> Reveal Invisible Players যোগ করা হয়েছে
+
+[Cherax 5.43.0 EE]
+
+- Frame Generation সাপোর্ট যোগ করা হয়েছে
+- কিছু বাগ ফিক্স করা হয়েছে
+
+[Cherax 5.35.1 LE]
+
+- কিছু বাগ ফিক্স করা হয়েছে
+
+[5.X EE & LE]
+
+- Player -> General -> Invisibility -> Player Visible Override যোগ করা হয়েছে
+- Session -> All Players -> Reveal Invisible Players যোগ করা হয়েছে
+- Protection Whitelist যোগ করা হয়েছে
+- Protection Notifications যোগ করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- SE Protection Block Log উন্নত করা হয়েছে
+- Join Blocking ফিক্স করা হয়েছে
+- পাবলিক লবিতে যোগ দিতে না পারার সমস্যা ফিক্স করা হয়েছে
+- বিভিন্ন বাগ ও ফলস পজিটিভ ফিক্স করা হয়েছে
+
+[5.42.0 EE]
+
+- কিক প্রটেকশন উন্নত করা হয়েছে
+
+[5.35.0 LE]
+
+- হোম কী চাপলে ইনপুট বাগ করার সমস্যা ফিক্স করা হয়েছে
+
+Lua:
+- ব্যর্থ হলে PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup, GetObject এখন -1 এর পরিবর্তে 0 রিটার্ন করে
+- PoolMgr.GetRenderedVehicles ফিক্স করা হয়েছে
+- PoolMgr.GetRenderedPeds ফিক্স করা হয়েছে
+- PoolMgr.GetRenderedObjects ফিক্স করা হয়েছে
+
+[5.41.0 EE]
+
+- Recovery -> Visual Unlocks -> Unlock Casino Penthouse Clutter যোগ করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- কিছু বাগ ফিক্স করা হয়েছে
+
+[5.40.0 EE]
+
+- Recovery -> Other Unlocks -> Clear All Business Heat যোগ করা হয়েছে
+- নতুন ভেহিকেলের ছবি যোগ করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- Unlock DLC Content আপডেট করা হয়েছে
+- List Hidden Vehicles ফিক্স করা হয়েছে
+
+[5.39.0 EE]
+
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+- Misc -> World -> Lights -> Sync Lights to Radio যোগ করা হয়েছে
+- List All Vehicle Mods উন্নত করা হয়েছে
+- List All Clothing Items উন্নত করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- কিছু বাগ ফিক্স করা হয়েছে
+
+[5.34.3 LE]
+
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+[5.38.0 EE]
+
+- Misc -> General -> Stores -> List All Vehicle Mods যোগ করা হয়েছে
+- কিছু বাগ ফিক্স করা হয়েছে
+
+[5.37.0 EE]
+
+- List all Clothing Items যোগ করা হয়েছে
+- Unlock All Awards যোগ করা হয়েছে
+- Unlock All CEO Office Trophies যোগ করা হয়েছে
+- Unlock All Motorcycle Club Trophies যোগ করা হয়েছে
+- Unlock All Nightclub Trophies যোগ করা হয়েছে
+- Unlock All Facility Trophies যোগ করা হয়েছে
+- Unlock All Arcade Trophies যোগ করা হয়েছে
+- Unlock All Arena Trophies যোগ করা হয়েছে
+- Unlock All Agency Trophies যোগ করা হয়েছে
+- Unlock All Freakshop Trophies যোগ করা হয়েছে
+- Unlock All Salvage Yard Trophies যোগ করা হয়েছে
+- Unlock All Bail Office Trophies যোগ করা হয়েছে
+- Unlock All Garment Factory Trophies যোগ করা হয়েছে
+- Bulletproof/Low Grip Tires যোগ করা হয়েছে
+- Remove Weapon Cooldown যোগ করা হয়েছে
+- Remove Weapon Restrictions যোগ করা হয়েছে
+- Remote Projectile Control যোগ করা হয়েছে
+- Force Ramp Ability যোগ করা হয়েছে
+- Request Personal Vehicle উন্নত করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- ইমেজ লোডিং উন্নত করা হয়েছে
+- পারফরম্যান্স উন্নত করা হয়েছে
+- ব্যক্তিগত ভেহিকেল তালিকায় বাইসাইকেল না দেখানোর সমস্যা ফিক্স করা হয়েছে
+- প্রথম ভেহিকেল এক্সট্রা সঠিকভাবে সেট না হওয়ার সমস্যা ফিক্স করা হয়েছে
+- ভেহিকেল এক্সট্রা ফাইলে সেভ না হওয়ার সমস্যা ফিক্স করা হয়েছে
+- ভেহিকেল লোড করার সময় টায়ারের ধোঁয়ার রঙ সঠিকভাবে প্রয়োগ না হওয়ার সমস্যা ফিক্স করা হয়েছে
+- ব্যক্তিগত ভেহিকেল তালিকায় বাইসাইকেল প্রদর্শিত না হওয়া ফিক্স করা হয়েছে
+- ফলস পজিটিভ ফিক্স করা হয়েছে
+- Home চাপার পর উল্টো টাইপ হওয়ার সমস্যা ফিক্স করা হয়েছে
+- অন্যান্য বিভিন্ন ছোটখাটো বাগ ফিক্স করা হয়েছে
+- ফোনে থাকার সময় স্পিডোমিটার এখন লুকানো থাকবে
+- ডিফল্ট থিম প্রতিস্থাপন করা হয়েছে (পুরনো ডিফল্ট থিম Old_Original হিসেবে সংরক্ষিত হয়েছে)
+- Cherax LE থিম এখন পুরোপুরি Cherax EE এর সাথে সামঞ্জস্যপূর্ণ, এবং বিপরীতভাবেও
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+Lua:
+- GTA.AddExplosion(CExplosionArgs args) যোগ করা হয়েছে
+
+[5.34.2 LE]
+
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+Loader:
+- Xbox App (PC)-এর জন্য এখন অটোস্টার্ট উপলব্ধ
+
+[5.36.1 EE]
+
+- Vehicle Colors Worn, Utility এবং Special যোগ করা হয়েছে
+- অনুবাদ গ্লিফ লোডিং ফিক্স করা হয়েছে
+
+[5.36.0 EE]
+
+- Unlock Career Progress যোগ করা হয়েছে
+- Unlock All Collectibles যোগ করা হয়েছে
+- Skip Criminal Career Intro যোগ করা হয়েছে
+- Chameleon হুইল কালার্সে যোগ করা হয়েছে
+- সব আনলক উন্নত করা হয়েছে
+- Bail to Landing Page উন্নত করা হয়েছে
+- Display All Weapon Components উন্নত করা হয়েছে
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+[5.34.1 LE]
+
+- সর্বশেষ গেম ভার্সনে আপডেট করা হয়েছে
+
+[5.35.0 EE]
+
+- EE-এর জন্য Cherax আপডেট করা হয়েছে
+- Unlock GTA+ যোগ করা হয়েছে
+- GTA+ Player Tag যোগ করা হয়েছে
+- নতুন ভেহিকেল কালার যোগ করা হয়েছে
+- নতুন ভেহিকেল এক্সট্রা যোগ করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- Los Santos Most Wanted উন্নত করা হয়েছে
+- অন্যান্য বেশ কিছু উন্নতি
+- বিভিন্ন বাগ ফিক্স করা হয়েছে
+
+[5.34.0]
+
+- গেম ভার্সন b3442-এ আপডেট করা হয়েছে
+- Drive Underwater যোগ করা হয়েছে
+- Unlock All Media Sticks যোগ করা হয়েছে
+- নতুন ভেহিকেলের ছবি যোগ করা হয়েছে
+- কাস্টম কনসোল কালার যোগ করা হয়েছে
+- Cherax News Image Replacement যোগ করা হয়েছে
+- Aimbot ফিল্টার হিসেবে Shoot Enemies যোগ করা হয়েছে
+- Pause Menu-তে ফ্রেমরেট আনক্যাপার / স্টাটার রিমুভাল যোগ করা হয়েছে (সর্বদা চালু)
+- Wardrobe Component নামকরণ উন্নত করা হয়েছে
+- কাটসিন স্কিপিং উন্নত করা হয়েছে
+- Reveal Players উন্নত করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- Force Script Host ফিক্স করা হয়েছে
+- Give Script Host ফিক্স করা হয়েছে
+- কিছু মডার ডিটেকশন ফলস পজিটিভ ফিক্স করা হয়েছে
+- বিভিন্ন বাগ ফিক্স করা হয়েছে
+
+[5.33.0]
+
+- Battleye Kick ও Ban Kick পুনরায় যোগ করা হয়েছে
+- Battleye সার্ভার বাস্তবায়ন উন্নত করা হয়েছে
+- Unlock Clothing উন্নত করা হয়েছে
+
+[5.32.0]
+
+- গেম ভার্সন b3411-এ আপডেট করা হয়েছে
+- Hulk Mode ও Hulk Vehicle এখন অন্যান্য Cherax ইউজারদের সাথে সঠিকভাবে সিঙ্ক হয়
+
+Lua:
+- Memory.LuaCallCFunctionWithReturnValue যোগ করা হয়েছে
+
+[5.31.1]
+
+- জব শুরু করার সময় অনন্ত লোডিং সমস্যা ফিক্স করা হয়েছে
+
+[Cherax 5.31.0]
+
+- ATF ক্র্যাশ যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- কিছু ফলস পজিটিভ ফিক্স করা হয়েছে
+
+[Cherax 5.30.0]
+
+- গেম ভার্সন b3407-এ আপডেট করা হয়েছে
+- নতুন ভেহিকেল যোগ করা হয়েছে
+- Unlock DLC Content আপডেট করা হয়েছে (নতুন Hangar Property অন্তর্ভুক্ত)
+- Misc -> World -> Enable Wildlife In Online যোগ করা হয়েছে
+- Session -> Faster Transition -> Smooth Transition যোগ করা হয়েছে
+- Da Nile Crash ক্র্যাশ সরানো হয়েছে (Rockstar প্যাচ করেছে)
+- উন্নতি ও বাগ ফিক্স
+
+Lua:
+- FeatureMgr.GetAllPlayerFeatureHashes() যোগ করা হয়েছে
+- FeatureMgr.GetAllPlayerFeatureHashes(int) যোগ করা হয়েছে
+- Feature:IsPlayerFeature যোগ করা হয়েছে
+- Feature:GetStepSizeInt যোগ করা হয়েছে
+- Feature:GetFastStepSizeInt যোগ করা হয়েছে
+- Feature:GetStepSizeFloat যোগ করা হয়েছে
+- Feature:GetFastStepSizeFloat যোগ করা হয়েছে
+- কিছু বাগ ফিক্স করা হয়েছে
+
+[Cherax 5.29.0]
+
+- Battleye সার্ভার বাস্তবায়ন যোগ করা হয়েছে (লেজিট প্লেয়ারদের নিজেরা কিক হওয়া ছাড়াই হোস্ট হন)
+- আংশিক Battleye ক্লায়েন্ট এমুলেশন যোগ করা হয়েছে (কিক হওয়া ছাড়াই সেশনে কিছুটা বেশি সময় থাকুন)
+- Session Browser ফিক্স করা হয়েছে
+- Advertise Session ফিক্স করা হয়েছে
+- দেরিতে ইনজেক্ট করার সময় অনলাইনে যেতে না পারা ফিক্স করা হয়েছে
+
+[Cherax 5.28.0]
+
+- ভার্সন b3351-এ আপডেট করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- Rainbow Skidmarks এখন অন্যান্য ফেইড অপশনের সাথে রঙও সিঙ্ক করে
+- Sort By Host Queue ফিক্স করা হয়েছে
+
+[5.27.1]
+
+- গেম ভার্সন b3337-এ আপডেট করা হয়েছে
+- Battleye Kick ও Battleye Ban Kick যোগ করা হয়েছে
+- Forced Force Next Session Host নিষ্ক্রিয় করা হয়েছে
+
+[5.27.0]
+
+- গেম ভার্সন b3323-এ আপডেট করা হয়েছে
+- Disable Drone/Missile Distance Limits যোগ করা হয়েছে
+- Drone Godmode যোগ করা হয়েছে
+- Disable Prostitute Restrictions যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- Feature Search সর্টিং ফিক্স করা হয়েছে
+
+[5.26.0]
+
+- Session -> Player Spoofing -> Spoof Position যোগ করা হয়েছে
+- Session -> Player Spoofing -> Set Spoof Position যোগ করা হয়েছে
+- Protections -> Reactions -> Spectating You যোগ করা হয়েছে
+- Protections -> React With -> Spoof Position Reaction যোগ করা হয়েছে
+- Vehicle -> Handling Editor -> Reset Handling যোগ করা হয়েছে
+- Player Tracker -> Recent Players -> Block Joins যোগ করা হয়েছে
+- Session -> Chat -> Mute Text Chat যোগ করা হয়েছে
+- Session -> Advertise Session যোগ করা হয়েছে
+- Session -> Advertise Count যোগ করা হয়েছে
+- Recovery -> Unlock All Freemode Missions যোগ করা হয়েছে
+- Complete Missions উন্নত করা হয়েছে
+- Misc -> Chat -> Auto Player Name Complete যোগ করা হয়েছে
+- Misc -> ESP -> Draw Tracers যোগ করা হয়েছে
+- Discord RPC যোগ করা হয়েছে (ডিফল্ট বন্ধ)
+- Allow Session Joins
+- Message Of The Moment
+- Misc -> Experiments -> Override Blackjack যোগ করা হয়েছে
+- Misc -> Experiments -> Override Claw Crane Game যোগ করা হয়েছে
+- Misc -> Experiments -> Override Axe Fury Game যোগ করা হয়েছে
+- Misc -> Experiments -> Override Love Meter Game যোগ করা হয়েছে
+- Misc -> Experiments -> Arcade Games Godmode যোগ করা হয়েছে
+- Misc -> Experiments -> Disable Dart Wobble যোগ করা হয়েছে
+- Misc -> Experiments -> Override Armwrestling যোগ করা হয়েছে
+- Misc -> Experiments -> Disable Golf Wind যোগ করা হয়েছে
+- Misc -> Experiments -> Disable Golf Foliage Collision যোগ করা হয়েছে
+- Misc -> Experiments -> Auto Finish Golf Hole যোগ করা হয়েছে
+- Misc -> Experiments -> Display all Weapon Components যোগ করা হয়েছে
+- Theme -> Show Toast Repeat Counter যোগ করা হয়েছে
+- Theme -> Show Toast Lifetime Bar যোগ করা হয়েছে
+- Theme -> Toast Lifetime Bar Color যোগ করা হয়েছে
+- Toast ব্যাকগ্রাউন্ড ছবি যোগ করা হয়েছে (ClickGUI থিম ফোল্ডারে ছবির নাম toast_background.* রাখুন (.png, .jpg, .gif ইত্যাদি সমর্থিত))
+- List GUI Theme -> Menu X,Y যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- Block Gun এখন অনড় কিউব স্থাপন করে
+- যেকোনো প্লেয়ার তথ্যের ওপর ক্লিক করে তা ক্লিপবোর্ডে কপি করতে পারবেন
+- ডিটেকশনের সম্পূর্ণ তালিকা দেখতে আপনি এখন মডার কারণগুলোর ওপর হভার করতে পারবেন
+- যেসব আইটেম কেনার সামর্থ্য নেই সেগুলোর ক্ষেত্রে Free Shopping কাজ না করা ফিক্স করা হয়েছে
+- Fake Lag ফিক্স করা হয়েছে
+- আরও উন্নতি ও ফিক্স
+
+[5.25.0]
+
+- গ্যারেজ থেকে ভেহিকেল মোছার অপশন যোগ করা হয়েছে
+- Unlock All Booty Calls যোগ করা হয়েছে
+- ভেহিকেলে সাইলেন্সার চালু রাখার অপশন যোগ করা হয়েছে
+- Click GUI থিমিংয়ে Player Selector Grab কালার যোগ করা হয়েছে
+- Click GUI Theme -> Child Title Bar -> Search Icon / Search Icon Active যোগ করা হয়েছে
+- Click GUI Theme -> Child Title Bar -> Star Icon / Star Icon Active যোগ করা হয়েছে
+- Click GUI Theme -> Other Colors -> Player Selector Grab যোগ করা হয়েছে
+- কালার ইনপুট ফিল্ডে লেখার সময় গেমের ইনপুট কার্যকর হওয়ার সমস্যা ফিক্স করা হয়েছে
+- List GUI Recovery ট্যাবের কিছু ফিচার প্রদর্শিত না হওয়া ফিক্স করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+
+Lua:
+- আনলোডিং লজিক পরিবর্তন করা হয়েছে
+
+[5.24.0]
+
+- Convert Current Vehicle To PV যোগ করা হয়েছে (এর মাধ্যমে প্রায় যেকোনো ভেহিকেল তার সমস্ত মডিফিকেশনসহ গ্যারেজে সংরক্ষণ করা যায়)
+- Los Santos Most Wanted যোগ করা হয়েছে
+- Log Script Terminations যোগ করা হয়েছে
+- একসাথে লোড করার ক্ষমতা উন্নত করা হয়েছে
+
+[5.23.0]
+
+- Free Shopping যোগ করা হয়েছে
+- Favourite ও Featured ফিচার যোগ করা হয়েছে
+- Instant Suicide যোগ করা হয়েছে
+- Win Car Meet Prize Ride যোগ করা হয়েছে
+- Script Event Logger-এ স্ক্রিপ্ট ইভেন্টের নাম যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- Traffic Variety পারফরম্যান্স উন্নত করা হয়েছে
+- Super bail ব্যবহারের সময় নড়াচড়া করতে না পারার সমস্যা ফিক্স করা হয়েছে
+- ইনপুটের কিছু সমস্যা ফিক্স করা হয়েছে
+- অন্যান্য কিছু বাগ ফিক্স করা হয়েছে
+- Terrorbyte এবং Nightclub Delivery Vehicle Floor-এর মতো বিশেষ গ্যারেজগুলো এখন তাদের ভেহিকেলসহ ব্যক্তিগত ভেহিকেল স্পনারে প্রদর্শিত হয়
+
+Lua:
+- GTA.GetScriptEventName যোগ করা হয়েছে
+
+[Loader]
+
+- Cherax এখন ক্যাশ করা হয়েছে যার অর্থ আরও দ্রুত ইনজেকশন ও কম ট্রাফিক
+- আরও স্বয়ংক্রিয় ট্রাবলশুটিং যোগ করা হয়েছে
+
+[5.22.0]
+
+- Unlock DLC Content যোগ করা হয়েছে
+- Disable Various Cooldowns -> Casino Chip Exchange-এ Chip Selling Cooldown যোগ করা হয়েছে
+- স্পনারে Drift সেকশন যোগ করা হয়েছে
+- নতুন ভেহিকেলগুলোকে তাদের স্পনার ক্লাসে যোগ করা হয়েছে
+- Click GUI Theme-এ Enable Custom Window Size যোগ করা হয়েছে
+- Unlock Clothing উন্নত করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- বেশ কিছু বাগ ফিক্স করা হয়েছে
+- Score Data Spoofing-এর সম্ভাব্য ফলস ফ্ল্যাগ ফিক্স করা হয়েছে
+
+Lua:
+- ClickGUI.BeginCustomChildWindow-এর জন্য ঐচ্ছিক প্যারামিটার যোগ করা হয়েছে
+- number textAlignX
+- number textAlignY
+- ImGui.AddRectFilledMultiColor-এর জন্য ঐচ্ছিক প্যারামিটার যোগ করা হয়েছে
+- number rounding
+- int flags
+- ডকুমেন্টেশনের অমিল ফিক্স করা হয়েছে
+
+[5.21.2]
+
+- ২টি নতুন ওয়েদার টাইপ যোগ করা হয়েছে
+- List Hidden Vehicles আপডেট করা হয়েছে
+- Bail লগিং উন্নত করা হয়েছে
+- কিছু বাগ ফিক্স করা হয়েছে
+- PV Spawner এখন প্লেট টেক্সট প্রদর্শন করে
+
+[5.21.1]
+
+- Rockstar প্যাচ করেছে এমন ফিচারগুলো সরানো হয়েছে
+- IW ক্র্যাশ সরানো হয়েছে
+- Ban Kick সরানো হয়েছে
+- Max Saved Ammo
+- Gift & Insure Vehicle
+- বেশ কিছু বাগ ফিক্স
+- নোট
+- RID ক্র্যাশ এখনও প্যাচ করা হয়নি
+
+[5.21.0]
+
+- গেম ভার্সন B3258-এ আপডেট করা হয়েছে
+- নতুন ভেহিকেল যোগ করা হয়েছে
+- নতুন পেড যোগ করা হয়েছে
+- নতুন ওয়েপন যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- অ্যান্টি-মডার ডিটেকশন উন্নত করা হয়েছে
+- Force Session Host উন্নত করা হয়েছে
+- ভেহিকেল পানিতে ডুবলে Auto Repair ফিক্স করা হয়েছে
+- হটকি ও তথ্য উইন্ডোর খুব ছোট হেডার ফিক্স করা হয়েছে
+- Super Bail ব্যবহারের সময় Player Extra Window এক্সেপশন দেওয়ার সমস্যা ফিক্স করা হয়েছে
+- Instant Resurrect এক্সেপশন দেওয়ার সমস্যা ফিক্স করা হয়েছে
+- Streamer Mode-এ ESP থেকে নাম না লুকানোর সমস্যা ফিক্স করা হয়েছে
+- কোনো অবজেক্টের সাথে যুক্ত থাকলে টেলিপোর্ট কাজ না করার সমস্যা ফিক্স করা হয়েছে
+- স্টোরি মোডে Player Script Event ফিচারগুলোর এক্সেপশন দেওয়ার সমস্যা ফিক্স করা হয়েছে
+
+Lua:
+- এরর লগিং উন্নত করা হয়েছে
+
+[5.20.0]
+
+- RID ক্র্যাশ যোগ করা হয়েছে
+- Da Nile ক্র্যাশ যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- Auto Confirm Join Alerts ফিক্স করা হয়েছে
+- চ্যাট বিজ্ঞাপনের কিছু ফলস পজিটিভ ফিক্স করা হয়েছে
+- নোট: আমাদের যোগ করা RID ক্র্যাশটি ইতিমধ্যেই রকস্টারের কাছে রিপোর্ট করা হয়েছে এবং আসন্ন DLC-তে এটি সম্ভবত প্যাচ করা হবে। Cherax-এর ফ্রি ভার্সন আপনাকে এটিসহ অন্যান্য প্রাইভেট এক্সপ্লয়েট থেকে রক্ষা করবে।
+
+[5.19.1]
+
+- প্রটেকশন উন্নত করা হয়েছে
+- প্লেয়ার আরসি ট্যাংকে থাকলে \"Shooting while Invincible\" ফলস পজিটিভ ফিক্স করা হয়েছে
+- অন্যান্য বাগ ফিক্স
+
+[5.19.0]
+
+- Recovery -> Vehicle -> List Hidden Vehicles (on Websites) যোগ করা হয়েছে
+- Playerlist -> Tags -> Player Tags (প্লেয়ার ট্যাগ সক্ষম/নিষ্ক্রিয়) যোগ করা হয়েছে
+- Players -> General -> Force Sync DLC Models যোগ করা হয়েছে
+- Protections -> General -> Block Bounty Spam যোগ করা হয়েছে
+- In Sub-Session প্লেয়ার ট্যাগ যোগ করা হয়েছে
+- Rockstar Admin ডিটেকশন উন্নত করা হয়েছে
+- ট্যাব বন্ধ থাকা অবস্থায় ফুলস্ক্রিনেও কাজ করার জন্য Anti AFK Kick উন্নত করা হয়েছে
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- RP ড্রপকে \"Drop Money and RP\" এবং \"Drop Chips and RP\"-তে বিভক্ত করা হয়েছে
+- বিভিন্ন বাগ ফিক্স
+
+Lua:
+- Utils.IsKeyDown যোগ করা হয়েছে
+- Utils.IsKeyPressed যোগ করা হয়েছে
+- Utils.GetClipBoardText যোগ করা হয়েছে
+- Utils.SetClipBoardText যোগ করা হয়েছে
+- eProtectionType enums যোগ করা হয়েছে
+- eLuaEvent.ON_REACTION যোগ করা হয়েছে
+- উদাহরণ স্ক্রিপ্টে ব্যবহার
+
+[Loader]
+
+- Cherax ফোল্ডার পাথে বিশেষ অক্ষর থাকলে ক্র্যাশ হওয়া ফিক্স করা হয়েছে
+
+[5.18.2]
+
+- Spectate ডিটেকশন উন্নত করা হয়েছে
+- Allow Weapons In Interiors উন্নত করা হয়েছে
+- মডার ডিটেকশন ফলস পজিটিভ ফিক্স করা হয়েছে
+
+[5.18.1]
+
+- Is in Interior ডিটেকশন উন্নত করা হয়েছে
+- Spectate ডিটেকশন উন্নত করা হয়েছে
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- Damage Modifier ফলস ফ্ল্যাগ ফিক্স করা হয়েছে
+
+[5.18.0 Bravado Update]
+
+- মেনু নেভিগেশন সহজ করতে এই আপডেটে UI পরিবর্তন আনা হয়েছে।
+- Player -> Movement -> Fall Modifier যোগ করা হয়েছে
+- Player -> Movement -> Jump Modifier যোগ করা হয়েছে
+- Player -> Health -> Disable Death Barrier যোগ করা হয়েছে
+- Player -> Collision -> Hulk Mode যোগ করা হয়েছে
+- Player -> Collision -> Walk Through Vehicles যোগ করা হয়েছে
+- Player -> Collision -> Walk Through Peds যোগ করা হয়েছে
+- Player -> Collision -> Walk Through Objects যোগ করা হয়েছে
+- Player -> Collision -> Walk Through Walls যোগ করা হয়েছে
+- Vehicle -> Collision -> Hulk Vehicle যোগ করা হয়েছে
+- Heavy Vehicle সরানো হয়েছে
+- Handling Editor -> Handling Flags যোগ করা হয়েছে
+- Handling Editor -> Model Flags যোগ করা হয়েছে
+- Handling Editor -> Advanced Flags যোগ করা হয়েছে
+- Handling Editor -> Door Damage Flags যোগ করা হয়েছে
+- World -> Object Glow -> Disable Pickup Glow যোগ করা হয়েছে
+- World -> Object Glow -> Enable Glass Glow যোগ করা হয়েছে
+- World -> Object Glow -> Override Glow Effect যোগ করা হয়েছে
+- World -> Object Glow -> Glow Intensity যোগ করা হয়েছে
+- World -> Object Glow -> Glow Frequency যোগ করা হয়েছে
+- Protections -> Other -> Hide Damage Modifier যোগ করা হয়েছে
+- প্রটেকশন উন্নত করা হয়েছে
+- Give Script Host ফিক্স করা হয়েছে
+- Soul Switch Gun ফিক্স করা হয়েছে
+- Use Code Cherax-এর নাম পরিবর্তন করে Free Services করা হয়েছে
+- Rainbow Skidmarks এখন প্রতিটি তলেই কাজ করে
+
+Lua:
+- ModderDB.GetModderDetections যোগ করা হয়েছে
+- ModderDB.GetModderDetectionsByPlayerId যোগ করা হয়েছে
+- CPlayerInfo usertype যোগ করা হয়েছে
+- CNetGamePlayer.PlayerInfo যোগ করা হয়েছে
+- CPed.PlayerInfo যোগ করা হয়েছে
+- Players.GetCam যোগ করা হয়েছে
+- Players.GetCamRot যোগ করা হয়েছে
+- Players.GetIPInfo যোগ করা হয়েছে
+- ModderDB.RemoveModder যোগ করা হয়েছে
+- ModderDB.RemoveModderDetection যোগ করা হয়েছে
+- Memory.LuaCallCFunction ফিক্স করা হয়েছে
+- লেবেলহীন কম্বো ফিচারগুলো রেন্ডার করার সময় খালি জায়গা থাকার সমস্যা ফিক্স করা হয়েছে
+
+[5.17.3]
+
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- অননুমোদিত স্ক্রিপ্টে সাবস্ক্রাইব করার কারণে ক্র্যাশ হওয়ার সমস্যা ফিক্স করা হয়েছে
+- অন্যান্য কিছু বাগ ফিক্স
+
+[5.17.2]
+
+- সরাসরি উইন্ডো টাইটেল বারে সার্চ বার যোগ করা হয়েছে
+- কাস্টমাইজেশনে টাইটেল বার সার্চ ব্যাকগ্রাউন্ড কালার যোগ করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- কলিশনের একটি নির্দিষ্ট সীমায় পৌঁছালে কিছু এন্টিটি মাটির নিচে পড়ে যাওয়ার সমস্যা ফিক্স করা হয়েছে
+- List GUI ব্যবহারের সময় ইন-গেম চ্যাটের সমস্যা ফিক্স করা হয়েছে
+
+[5.17.1]
+
+- Hide From Session Protection যোগ করা হয়েছে
+- Cherax Newsletter টগল যোগ করা হয়েছে
+- Use Code Cherax উন্নত করা হয়েছে (অরবিটাল ক্যাননসহ সব ফোন ও ইন্টারঅ্যাকশন মেনু সার্ভিস এখন ফ্রি)
+- Roulette Rigging ক্র্যাশ হওয়া ফিক্স করা হয়েছে
+- Clone Vehicle ক্র্যাশ হওয়া ফিক্স করা হয়েছে
+- Add Ramp to Vehicle ক্র্যাশ হওয়া ফিক্স করা হয়েছে
+- কিছু টাইপো ফিক্স করা হয়েছে
+- Free Freemode সরানো হয়েছে
+
+Lua:
+- FeatureMgr.AddFeature-এ প্যারামিটার যোগ করা হয়েছে
+- (এটি কলব্যাককে সর্বদা একটি অনন্য স্ক্রিপ্টিং থ্রেডে সারিবদ্ধ হতে বাধ্য করবে যেখানে আপনার yield করার অনুমতি থাকবে)
+- bool forceQueue = true
+- Feature:GetId() যোগ করা হয়েছে
+
+[5.17.0]
+
+- গেম আপডেটের জন্য আপডেট করা হয়েছে
+- Anti Cheat Bypass আপডেট করা হয়েছে
+- Cherax News যোগ করা হয়েছে (GTA News প্রতিস্থাপন করে)
+- Players -> Vehicle -> Set Top Speed যোগ করা হয়েছে
+- Player -> Cosmetic -> Wardrobe -> Outfit -> Disable Outfit Apply Restrictions যোগ করা হয়েছে
+- Use Code Cherax উন্নত করা হয়েছে
+- Script Event Protection উন্নত করা হয়েছে
+
+Lua:
+- Feature:GetColorU32 যোগ করা হয়েছে
+- Feature:SetColorU32 যোগ করা হয়েছে
+- Feature:GetColorFloats যোগ করা হয়েছে
+- Feature:SetColorFloats যোগ করা হয়েছে
+- ImGui.TableNextColumn যোগ করা হয়েছে
+- Time.GetEpoche সিস্টেম ঘড়ির সময়ের সমান না হওয়ার সমস্যা ফিক্স করা হয়েছে
+- Time.GetEpocheMs সিস্টেম ঘড়ির সময়ের সমান না হওয়ার সমস্যা ফিক্স করা হয়েছে
+
+[5.16.1]
+
+- Allow Skipping Cutscenes যোগ করা হয়েছে
+- স্টোরি মোডের মতো আপনাকে কাটসিন স্কিপ করার সুবিধা দেয়
+- Add Delimiters For Money উন্নত করা হয়েছে
+- এখন চিপ প্রদর্শনের জন্যও বিভাজক যোগ করে
+
+Lua:
+- CPed:IsPlayer() যোগ করা হয়েছে
+- CPed:IsInVehicle() যোগ করা হয়েছে
+- CPed.CurVehicle যোগ করা হয়েছে
+- CPed.LastVehicle যোগ করা হয়েছে
+
+[5.16.0]
+
+- Session -> Misc -> Join Full Sessions Bypass যোগ করা হয়েছে
+- Session -> Misc -> Auto Confirm Join Alerts যোগ করা হয়েছে
+- Protections -> Script -> Block Modded Session Events যোগ করা হয়েছে
+- Protections -> Kick Utility -> Desync Auto Rejoin যোগ করা হয়েছে
+- Misc -> Other -> Rainbow Skidmarks যোগ করা হয়েছে
+- Misc -> ESP & HUD -> Hotkeys -> Clear All Hotkeys যোগ করা হয়েছে
+- Player -> Cam -> Parachute FOV যোগ করা হয়েছে
+- Player -> Cam -> Cinematic FOV যোগ করা হয়েছে
+- Player -> Cam -> Cutscene FOV যোগ করা হয়েছে
+- Player -> Cam -> Clouds Loading Screen FOV যোগ করা হয়েছে
+- Subscribed Scripts -> Auto Start যোগ করা হয়েছে
+- Log Net Messages যোগ করা হয়েছে
+- Log Script Starts যোগ করা হয়েছে
+- RID Joiner উন্নত করা হয়েছে
+- SC TV Join ফিক্স করা হয়েছে
+- Block Remote Control উন্নত করা হয়েছে
+- রিমোট ভেহিকেলের বিশেষ ক্ষমতা ব্লক করে
+- রিমোট ভেহিকেল হর্ন ব্লক করে
+- Vehicle -> Disable Wall Collision যোগ করা হয়েছে
+- দেয়াল ও বেশিরভাগ ভবনের সাথে কলিশন নিষ্ক্রিয় করে
+- Vehicle -> Disable Prop Collsion উন্নত করা হয়েছে
+- এখন বেশিরভাগ ওয়ার্ল্ড অবজেক্টের সাথেও কলিশন নিষ্ক্রিয় করে, যেমন গাছপালা
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- বর্তমানে নির্বাচিত লোকাল লুয়া স্ক্রিপ্ট বাইরে থেকে পরিবর্তিত হলে এখন স্বয়ংক্রিয়ভাবে রিলোড হয়
+- হোস্ট থাকা অবস্থায় সেশন থেকে বেইল করলে বাকি সেশনে নেট স্প্লিট ঘটার সমস্যা ফিক্স করা হয়েছে
+- নিজের ওপর স্থানীয়ভাবে Hide Player ব্যবহারের ফলে ক্র্যাশ হওয়ার সমস্যা ফিক্স করা হয়েছে
+- আনলোড করার সময় সম্ভাব্য ক্র্যাশ ফিক্স করা হয়েছে
+- সেটিংসে ওয়েদার স্টেট সেভ হওয়ার সমস্যা ফিক্স করা হয়েছে
+- অন্যান্য কিছু ফিক্স ও উন্নতিসমূহ
+
+[Lua]
+
+- লোকাল লুয়া স্ক্রিপ্টে ডিফল্ট হিসেবে CheraxExample.lua যোগ করা হয়েছে (সময়ের সাথে সাথে আপডেট করা হবে)
+- eEntityType enum যোগ করা হয়েছে
+- CEntity Usertype যোগ করা হয়েছে (CPhysical-এর ভিত্তি)
+- CEntity:GetType() যোগ করা হয়েছে
+- CEntity:IsPhysical() যোগ করা হয়েছে
+- eLuaEvent.SHOULD_COLLIDE যোগ করা হয়েছে
+- নির্দিষ্ট পরিস্থিতিতে Script.Yield-এর ভুল ব্যবহার রোধ করা হয়েছে
+- ডকুমেন্টেশনের কিছু অমিল ফিক্স করা হয়েছে
+- Utils নেইমস্পেস বিভক্ত করা হয়েছে:
+- Time নেইমস্পেস যোগ করা হয়েছে
+- Time.Get যোগ করা হয়েছে
+- Time.GetEpoche যোগ করা হয়েছে
+- Time.GetEpocheMs যোগ করা হয়েছে
+- Time.GetEpocheNs যোগ করা হয়েছে
+- GTA নেইমস্পেস যোগ করা হয়েছে
+- GTA.GetLocalPed যোগ করা হয়েছে
+- GTA.GetLocalVehicle যোগ করা হয়েছে
+- GTA.GetLocalPlayerId যোগ করা হয়েছে
+- GTA.HandleToPointer যোগ করা হয়েছে
+- GTA.PointerToHandle যোগ করা হয়েছে
+- GTA.ConvertSectorToWorldPosition যোগ করা হয়েছে
+- GTA.ConvertWorldToSectorPosition যোগ করা হয়েছে
+- GTA.ForceScriptHost যোগ করা হয়েছে
+- GTA.TriggerScriptEvent যোগ করা হয়েছে
+- GTA.GetLabelText যোগ করা হয়েছে
+- GTA.GetGroundZ যোগ করা হয়েছে
+- GTA.SpawnVehicle যোগ করা হয়েছে
+- GTA.SpawnVehicleForPlayer যোগ করা হয়েছে
+- GTA.CreateRandomPed যোগ করা হয়েছে
+- GTA.CreatePed যোগ করা হয়েছে
+- GTA.CreateObject যোগ করা হয়েছে
+- GTA.CreateWorldObject যোগ করা হয়েছে
+- GTA.SendChatMessageToEveryone যোগ করা হয়েছে
+- GTA.SendChatMessageToPlayer যোগ করা হয়েছে
+- GTA.AddChatMessageToPool যোগ করা হয়েছে
+- GTA.GetModelInfoFromHash যোগ করা হয়েছে
+- GTA.GetModelInfoFromIndex যোগ করা হয়েছে
+- GTA.GetModelInfoIndexFromHash যোগ করা হয়েছে
+- GTA.WorldToScreen যোগ করা হয়েছে
+- GTA.GetBonePos3D যোগ করা হয়েছে
+- GTA.GetBonePos2D যোগ করা হয়েছে
+- GTA.GiveControl যোগ করা হয়েছে
+- GTA.GetDisplayNameFromHash যোগ করা হয়েছে
+- GTA.GetModelNameFromHash যোগ করা হয়েছে
+- GTA.BeginService যোগ করা হয়েছে
+- GTA.BasketStart যোগ করা হয়েছে
+- GTA.BasketAddItem যোগ করা হয়েছে
+- GTA.CheckoutStart যোগ করা হয়েছে
+- GTA.RegisterFile যোগ করা হয়েছে
+- GTA.DrawPedPreview যোগ করা হয়েছে
+- GTA.SetLabelText যোগ করা হয়েছে
+- GTA.RemoveLabelText যোগ করা হয়েছে
+
+[5.15.1]
+
+- Allow Special Chars যোগ করা হয়েছে
+- Paste In Chat-এর ৩০ অক্ষরের সীমা উন্নত করে এখন ১৪০ করা হয়েছে
+- অশ্লীল শব্দ ফিল্টার বাইপাস উন্নত করা হয়েছে
+- চ্যাট বিজ্ঞাপন ব্লক উন্নত করা হয়েছে
+- যুক্ত হওয়া ও ত্যাগ করার বিজ্ঞপ্তির জন্য Streamer Mode ফিক্স করা হয়েছে
+- কিছু ফলস ফ্ল্যাগ ফিক্স করা হয়েছে
+
+Lua:
+- Cheat Engine দিয়ে ইউজার আইডি স্পুফ করতে পারার সমস্যা ফিক্স করা হয়েছে
+- LuaCallCFunction কে Memory নেইমস্পেসে সরানো হয়েছে
+- এর জন্য অশ্লীল শব্দ ফিল্টার বাইপাস বাস্তবায়িত হয়েছে:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Miscellaneous -> General -> Other -> Paste In Chat যোগ করা হয়েছে
+- চ্যাটের জন্য অশ্লীল শব্দ ফিল্টার বাইপাস ফিক্স করা হয়েছে
+- লোকাল চ্যাট মেসেজ লগ না হওয়ার সমস্যা ফিক্স করা হয়েছে
+- Players -> General -> Save Player যোগ করা হয়েছে
+- Players -> General -> Copy Rockstar Id যোগ করা হয়েছে
+- Crash & Kick All যোগ করা হয়েছে
+- Protections -> Block Vehicle Spam যোগ করা হয়েছে
+- Protections -> Block Ped Spam যোগ করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- List GUI নিয়ন্ত্রণ উন্নত করা হয়েছে
+- List GUI ফন্ট থিম লোডিং ফিক্স করা হয়েছে
+- স্ট্রিমার মোডে Click GUI-তে আসল প্লেয়ার নাম প্রদর্শিত হওয়া ফিক্স করা হয়েছে
+- Streamer Mode চালু থাকা অবস্থায় এখন IPv4 এবং Rockstar Id-ও লুকানো থাকবে
+
+[5.14.1]
+
+- Session -> Matchmaking -> Fix Asset Hash যোগ করা হয়েছে
+- Script Event Protection উন্নত করা হয়েছে
+- Sync Protection এক্সেপশন দেওয়ার সমস্যা ফিক্স করা হয়েছে
+
+[5.14.0]
+
+- Players -> Malicious -> Script Event Crash যোগ করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- Players -> Remote Hide -> Hide Session From Player যোগ করা হয়েছে
+- Players -> Remote Hide -> Hide Player From Session যোগ করা হয়েছে
+- Players -> Remote Hide -> Hide Player Locally যোগ করা হয়েছে
+- Players -> Trolling -> Stun Player যোগ করা হয়েছে
+- Protection -> Network Events -> Stun Gun Spam Protection যোগ করা হয়েছে
+- Protection -> Network Events -> PTFX Spam Protection যোগ করা হয়েছে
+- Notify Spectate টগল যোগ করা হয়েছে
+- Players -> Abuse -> Send To Infinite Loading Screen যোগ করা হয়েছে
+- Kill Attackers ও Freeze Attackers সরানো হয়েছে
+- Protections -> Reactions -> Aiming At You যোগ করা হয়েছে
+- Protections -> Reactions -> Shooting At You যোগ করা হয়েছে
+- Protections -> Reactions -> Types -> Freeze Player যোগ করা হয়েছে
+- Protections -> Reactions -> Types -> Stun Player যোগ করা হয়েছে
+- Vehicle -> Mobile LSC -> Number Plate Type যোগ করা হয়েছে
+- Vehicle -> Mobile LSC -> Number Plate Text যোগ করা হয়েছে
+- Third Person Aim FOV ফিক্স করা হয়েছে
+- প্যাটার্ন ক্যাশ ফিক্স করা হয়েছে
+- ট্যো ট্রাক ক্র্যাশ ফলস পজিটিভ ফিক্স করা হয়েছে
+- Anti Aim ফিক্স করা হয়েছে
+- Orbital Strike প্লেয়ার প্রতিক্রিয়া টাইপ ফিক্স করা হয়েছে
+
+Lua:
+- কিছু Sync Data Node মেম্বার অ্যাক্সেসযোগ্য না হওয়ার সমস্যা ফিক্স করা হয়েছে
+
+[5.13.0]
+
+- OpenIV Bypass যোগ করা হয়েছে (Cherax Loader-এর মাধ্যমে গেম শুরু করলে OpenIV মডসহ অনলাইনে লোড হওয়া সম্ভব, NVE দিয়ে পুঙ্খানুপুঙ্খভাবে পরীক্ষিত)
+- Cam -> FOV Changer (First Person, First Person In Vehicle, Scoped In, Third Person, Third Person Aim, Third Person In Vehicle, Third Person In Vehicle Aim) যোগ করা হয়েছে
+- Audio -> Disable Flying Music যোগ করা হয়েছে
+- Audio -> Disable Wanted Music যোগ করা হয়েছে
+- Audio -> Force Lock-On Warning যোগ করা হয়েছে
+- Wardrobe -> Face Feature Modifier যোগ করা হয়েছে (ফেস ফিচার এখন আউটফিট সেভের সাথে সেভ হয়)
+- ESP -> Player Cam যোগ করা হয়েছে
+- Delete Player Vehicle যোগ করা হয়েছে
+- Spectating Notifications যোগ করা হয়েছে
+- Spectate উন্নত করা হয়েছে
+- Anti Spectate উন্নত করা হয়েছে (এখন দূরবর্তীভাবে পর্যবেক্ষণ বন্ধ করার চেষ্টা করবে)
+- আনলক উন্নত করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- ফলস পজিটিভ ফিক্স করা হয়েছে
+- মডিউল হ্যাশ পরিবর্তিত হলে ক্যাশ এখন স্বয়ংক্রিয়ভাবে এড়িয়ে যাওয়া হয় (যেমন socialclub.dll)
+
+Lua:
+- কাস্টম স্পুফিংয়ের জন্য ৪০+ Sync Data Node যোগ করা হয়েছে
+- eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC যোগ করা হয়েছে
+- callback(int player, CPhysical entity)
+- eLuaEvent.ON_SYNC_DATA_NODE যোগ করা হয়েছে
+- callback(eSyncDataNode node_type, node, CPhysical entity, bool is_exclusive, int exclusive_player)
+- লোডার ও মেনু
+- 'couldn't resolve host' এরর ফিক্স করা হয়েছে
+
+[Cherax 5.12.2]
+
+- Auxiliary Cannon ক্র্যাশ প্রটেকশন ফিক্স করা হয়েছে
+- Equilibrium ক্র্যাশ সরানো হয়েছে
+- অন্যান্য কিছু উন্নতি
+
+[5.12.1]
+
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- Crash Player ফিক্স করা হয়েছে
+- Language Spoofing ফিক্স করা হয়েছে
+
+Lua:
+- Cherax.GetVersion যোগ করা হয়েছে
+- Cherax.GetBuild যোগ করা হয়েছে
+- Utils.sJoaat যোগ করা হয়েছে
+- CEntity-এর নাম পরিবর্তন করে CPhysical করা হয়েছে
+- NetGamePlayer-এর নাম পরিবর্তন করে CNetGamePlayer করা হয়েছে
+- CNetObject:GetEntity যোগ করা হয়েছে
+- NetworkObjectMgr.UnregisterNetworkObject যোগ করা হয়েছে
+- NetworkObjectMgr.ChangeOwner যোগ করা হয়েছে
+- NetworkObjectMgr.GetNetworkObject যোগ করা হয়েছে
+- Utils.FindNetobjectById সরানো হয়েছে
+
+[Cherax v5.12]
+
+- Auxiliary Cannon ক্র্যাশ যোগ করা হয়েছে
+- Player Spoofing -> Spoof In Tutorial Session যোগ করা হয়েছে
+- Player Spoofing -> Spoof Language যোগ করা হয়েছে
+- Player Info -> Game Language যোগ করা হয়েছে
+- Vehicle -> Show Bomb Trajectory যোগ করা হয়েছে
+- Hide From Player List-এর নাম পরিবর্তন করে Hide From Session করা হয়েছে
+- Hide From Session উন্নত করা হয়েছে
+- Settings, Themes এবং Translations-এ ওপেন ফোল্ডার বাটন যোগ করা হয়েছে
+- GUI-এর ভেতরে Toggle GUI বাটন যোগ করা হয়েছে
+- Player Tracker এখন [Online]-এর পরিবর্তে সেশনের ধরন প্রদর্শন করে
+- Player Tracker এখন সংরক্ষিত প্লেয়ারদের প্রথমে অনলাইন অবস্থা এবং তারপর নাম অনুসারে সাজায়
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- Skip Freemode Wait ওয়েপন না দেওয়ার সমস্যা ফিক্স করা হয়েছে
+- সংরক্ষিত প্লেয়ারদের জন্য 'Last Seen' প্রদর্শিত না হওয়া ফিক্স করা হয়েছে
+
+Lua:
+- PoolMgr.GetRenderedVehicles যোগ করা হয়েছে
+- PoolMgr.GetRenderedPeds যোগ করা হয়েছে
+- PoolMgr.GetRenderedObjects যোগ করা হয়েছে
+- ClickTab enum যোগ করা হয়েছে
+- ClickGUI.GetActiveMenuTab যোগ করা হয়েছে
+- ClickGUI.SetActiveMenuTab যোগ করা হয়েছে
+- ListGUI.SetCurrentTab যোগ করা হয়েছে
+- ListGUI.RemoveTabFromStack যোগ করা হয়েছে
+
+[Cherax v5.11]
+
+- Kick Utility -> Drop Kick Doping -> Disabled/Legit/Strong যোগ করা হয়েছে
+- Kick Utility -> Host Drop Kick Events -> Notify Connection Issues, Notify Drop Kicks, Block Drop Kicks যোগ করা হয়েছে
+- Session -> Force Next Session Host -> Disabled/Legit/Strong যোগ করা হয়েছে
+- Set Bounty On Player যোগ করা হয়েছে
+- পারফরম্যান্স/FPS উন্নত করা হয়েছে
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- স্পুফিং অপশন উন্নত করা হয়েছে
+- Network Error Kick Protection উন্নত করা হয়েছে
+- Put Personal Vehicle Into Garage যোগ করা হয়েছে
+- Spawn Personal Vehicle উন্নত করা হয়েছে
+- Spawn Personal Vehicle এখন Spawn Inside Vehicle ও Engine Always On-এর মতো সেটিংসও ব্যবহার করে
+- রকস্টার অ্যাডমিনদের এখন আইপি এবং একটি পূর্বনির্মিত তালিকার মাধ্যমে শনাক্ত করা হয় যা ক্রমাগত আপডেট করা হবে
+- দর্শক মোডে থাকার সময় চ্যাট বার্তা পাঠানো এবং না আসার সমস্যা ফিক্স করা হয়েছে
+- Click GUI এখন প্লেয়ার তালিকার উপরে প্লেয়ার সংখ্যা দেখায়
+- কিছু GUI উপাদানের ক্রম পরিবর্তন করা হয়েছে
+- Session Browser এখন লুকানো সেশনগুলোও প্রদর্শন করবে
+- List Gui-এর কিছু রেন্ডারিং সমস্যা ফিক্স করা হয়েছে
+
+Lua:
+- Cherax.GetUID যোগ করা হয়েছে
+- Tab:RemoveSubTab যোগ করা হয়েছে
+- Utils.TriggerScriptEvent এখন প্রেরিত তথ্যের ওপর নির্দিষ্ট কিছু আর্গুমেন্ট প্রয়োগ করে
+
+[Loader]
+
+- একটি ছোট লোডার আপডেট দিতে আমরা সার্ভার রিস্টার্ট করেছি
+
+Loader:
+- নির্বাচনগুলো এখন সংরক্ষিত ও স্থায়ী থাকে
+- ব্যাকগ্রাউন্ডে থাকার সময় লোডার আর রেন্ডার হবে না যা কার্যকরভাবে ইন-গেম fps বাড়ায়
+
+[Cherax v5.10.1]
+
+- ব্যক্তিগত ভেহিকেল স্পনার এবং গ্যারেজ সংক্রান্ত সমস্যা ফিক্স করা হয়েছে
+- কিছু লেবেল ফিক্স করা হয়েছে
+
+[Cherax v5.10.0]
+
+- Score Data Spoofing যোগ করা হয়েছে
+- Score Data Spoofing ডিটেকশন যোগ করা হয়েছে
+- Score Data Spoofing -> Rank যোগ করা হয়েছে
+- Score Data Spoofing -> Kills যোগ করা হয়েছে
+- Score Data Spoofing -> Deaths যোগ করা হয়েছে
+- Score Data Spoofing -> Wallet যোগ করা হয়েছে
+- Score Data Spoofing -> Bank যোগ করা হয়েছে
+- Score Data Spoofing -> Sex Acts যোগ করা হয়েছে
+- Score Data Spoofing -> Lap Dances যোগ করা হয়েছে
+- Vehicle -> Glide Ability যোগ করা হয়েছে
+- World -> Sky -> Disable Sky যোগ করা হয়েছে
+- Weapon -> Unlimited Ammo যোগ করা হয়েছে
+- প্রটেকশন ছাড়াও মডার ডিটেকশন এখন নোটিফাই করবে
+- Force Jump Ability ও Force Rocket Boost Ability এখন একসাথে ব্যবহার করা যাবে
+- ভেহিকেল সক্ষমতাগুলো এখন একসাথে গ্রুপ করা হয়েছে
+- Session Browser এখন একসাথে ১০২৪টি পর্যন্ত সেশন খুঁজে পাবে
+
+[Cherax v5.9.0]
+
+- Handling Editor -> Vehicle Model Info Flags যোগ করা হয়েছে
+- Vehicle Model Info Flags এখন অন্যান্য হ্যান্ডলিং সেটিংসের সাথেও সেভ হবে (ফাইলগুলো পূর্ববর্তী সংস্করণের সাথে সামঞ্জস্যপূর্ণ)
+- Vehicle -> Force Parachute Ability যোগ করা হয়েছে
+- Vehicle -> Force Jump Ability যোগ করা হয়েছে
+- Vehicle -> Force Rocket Boost Ability যোগ করা হয়েছে
+- Player Spoofing -> Rockstar Developer Flag যোগ করা হয়েছে
+- Player Spoofing -> Rockstar QA Flag যোগ করা হয়েছে
+- Player Spoofing -> Cheater Flag যোগ করা হয়েছে
+- Player List -> Give Collectibles Type যোগ করা হয়েছে
+- Player List -> Give Collectibles যোগ করা হয়েছে
+- Player List -> Give All Collectibles যোগ করা হয়েছে
+- Wardrobe -> Disable Outfit Validation যোগ করা হয়েছে
+- Hotkeys -> Notify Hotkey Pressed যোগ করা হয়েছে
+- Translations -> Dump Current Translation File যোগ করা হয়েছে (লুয়া ফিচার অন্তর্ভুক্ত)
+- অ্যান্টি-মডার ডিটেকশন উন্নত করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- কিছু ফলস পজিটিভ ফিক্স করা হয়েছে
+- Outfit Editor-এর মান স্লাইডারের পরিবর্তে ইনপুটে পরিবর্তন করা হয়েছে
+- স্পুফিং চাইল্ড উইন্ডো/ট্যাবগুলো পুনর্সজ্জিত করা হচ্ছে
+- আরও ভাল ওভারভিউ পেতে কম্বো টগল পপআপগুলো এখন বড় করা হয়েছে
+
+Lua:
+- Utils.GiveControl যোগ করা হয়েছে
+
+[Cherax v5.8.0]
+
+- Kill Player যোগ করা হয়েছে
+- Kill Player Reaction যোগ করা হয়েছে
+- Orbital Strike Reaction যোগ করা হয়েছে
+- Remote Ragdoll Loop যোগ করা হয়েছে
+- Script Vehicle Kick যোগ করা হয়েছে
+- Block Matchmaking Joins যোগ করা হয়েছে
+- Host Tool Kit: Max Players যোগ করা হয়েছে
+- Copy Rockstar Id যোগ করা হয়েছে (Player Tracker, Saved Players, Session Browser)
+- Network Error Kick Protection টগল যোগ করা হয়েছে
+- Network Error Kick Protection ফিক্স করা হয়েছে
+- প্রতিটি সংরক্ষিত প্লেয়ারের জন্য কাস্টম জয়েন ব্লক কারণ যোগ করা হয়েছে
+- Join Blocking উন্নত করা হয়েছে
+- Session Browser উন্নত করা হয়েছে
+- Script Event Protection উন্নত করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- Net Event Protection উন্নত করা হয়েছে
+- Vehicle Kick Protection উন্নত করা হয়েছে
+- অন্যান্য প্লেয়ারদের আপনার ভেহিকেলে উঠতে না পারার সমস্যা ফিক্স করা হয়েছে
+- 'Force Script Host threw an exception' ফিক্স করা হয়েছে
+- ফন্ট অ্যাটলাস খুব বড় হয়ে ইনজেকশনের সময় সমস্যা সৃষ্টির বিষয়টি ফিক্স করা হয়েছে
+- Delete Gun On Players ফিক্স করা হয়েছে
+- প্লেয়ার যোগদানের অবস্থায় থাকলে প্লেয়ার তালিকা সাজানো ফিক্স করা হয়েছে
+- Announce In Chat Reaction এখন কম স্প্যাম করবে
+- সহজে পড়ার সুবিধার্থে কনসোল উইন্ডো এখন সম্পূর্ণ রঙিন করা হয়েছে
+
+[Cherax v5.7.1]
+
+- এক্সেপশন লগার ফিক্স করা হয়েছে
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- খারাপ স্ক্রিপ্ট ইভেন্টের জন্য রিঅ্যাকশন যোগ করা হয়েছে
+- ভোট কিকের জন্য রিঅ্যাকশন যোগ করা হয়েছে
+- Announce In Chat Reaction যোগ করা হয়েছে
+- Outgoing Entity Sync Timeout Reaction যোগ করা হয়েছে
+- Outgoing Script Event Timeout Reaction যোগ করা হয়েছে
+- ইনকামিং/আউটগোয়িং এন্টিটি সিঙ্ক ব্লক করার প্লেয়ার টগল যোগ করা হয়েছে
+- ইনকামিং/আউটগোয়িং স্ক্রিপ্ট ইভেন্ট ব্লক করার প্লেয়ার টগল যোগ করা হয়েছে
+- খাঁচা ব্লক করার অপশন যোগ করা হয়েছে
+- World Model Syncs ব্লক যোগ করা হয়েছে
+- Script Host Kick Protection টগল যোগ করা হয়েছে
+- End Session Kick Protection টগল যোগ করা হয়েছে
+- Object ESP যোগ করা হয়েছে
+- Object ESP Distance যোগ করা হয়েছে
+- Player List Sort By (Player Id, Host Queue, Alphabetical, Distance) যোগ করা হয়েছে
+- Fake Lag যোগ করা হয়েছে
+- Free Freemode যোগ করা হয়েছে
+- Use Code Cherax যোগ করা হয়েছে
+- Cooldown Disabler-এ Dax Work যোগ করা হয়েছে
+- Position Player Info যোগ করা হয়েছে
+- Host Token Player Info যোগ করা হয়েছে
+- Player Info এখন অনুবাদও করা যাবে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- Script Event Protection উন্নত করা হয়েছে
+- Vehicle Kick Protection উন্নত করা হয়েছে
+- Send To Death Barrier উন্নত করা হয়েছে
+- Session Browser উন্নত করা হয়েছে
+- মাঝে মাঝে গেম ড্রপ কিকে বিঘ্ন ঘটানোর সমস্যা ফিক্স করা হয়েছে
+- Loop Vehicle Kick ফিক্স করা হয়েছে
+- ফলস পজিটিভ ফিক্স করা হয়েছে
+- Freeze Player এবং প্রটেকশন ফিক্স করা হয়েছে
+- নিষ্ক্রিয় করার সময় No Clip ভেহিকেল ফ্রিজ করে দেওয়ার সমস্যা ফিক্স করা হয়েছে
+- ভিতরে কোনো পেড না থাকলে Instant Vehicle Enter ফিক্স করা হয়েছে
+- Timecycle Modifier ফিক্স করা হয়েছে
+- স্পিড মাল্টিপ্লায়ার ফিক্স করা হয়েছে
+- List Gui-এর কম্বো টগল ফিক্স করা হয়েছে
+- Block Passive Mode ফিক্স করা হয়েছে
+- মেনু খোলা অবস্থায় কিছু অনাকাঙ্ক্ষিত নিয়ন্ত্রণ পাস হওয়ার সমস্যা ফিক্স করা হয়েছে
+- প্রটেকশন টগল এখন বেশিরভাগ বিষয় টগল করে
+- কিছু লেবেল সংক্ষিপ্ত করা হয়েছে
+- DirectX Version ভুল হলে Cherax এখন আপনাকে সতর্ক করবে
+- অন্যান্য কিছু উন্নতি ও বাগ ফিক্স
+
+LUA:
+- table<int, int> Players.Get(ePlayerListSort filter, string search) যোগ করা হয়েছে
+- FeatureMgr.SearchFeature যোগ করা হয়েছে
+- Feature:SetSearchable, Feature:IsSearchable যোগ করা হয়েছে
+- লুয়া gc-এর কারণে Lua Curl সমস্যা সৃষ্টির বিষয়টি ফিক্স করা হয়েছে
+
+[Cherax 5.6.1]
+
+- মৌসুমী ইভেন্ট অপশন উন্নত করা হয়েছে
+- ইনজেকশন এরর ফিক্স করা হয়েছে
+- Lua API-এর মাধ্যমে নিজের চ্যাট স্প্যাম ব্লক করা ফিক্স করা হয়েছে
+
+[Cherax 5.6.0]
+
+- কাস্টম অনুবাদ যোগ করা হয়েছে (Cherax/Translations-এ ডিফল্ট অনুবাদ ফাইল তৈরি হবে)
+- রিঅ্যাকশন যোগ করা হয়েছে (Kick, Crash, Report, Chat Spam, Chat Banned Words)
+- রিঅ্যাকশনের ধরন যোগ করা হয়েছে (Kick, Crash, Script Event Timeout, Entity Sync Timeout)
+- Script Event Timeout Duration স্লাইডার যোগ করা হয়েছে
+- Entity Sync Timeout Duration স্লাইডার যোগ করা হয়েছে
+- আরও নোটিফিকেশন যোগ করা হয়েছে (Kicking, Crashing, Host Migrations)
+- Disable Various Cooldowns-এ আরও কুলডাউন যোগ করা হয়েছে
+- একই নামের ভেহিকেলগুলোর জন্য ভেহিকেল নির্বাচন ফিক্স করা হয়েছে
+- No Clip Drift ফিক্স করা হয়েছে
+- চীনা, কোরিয়ান, জাপানি এবং রাশিয়ান গ্লিফ এখন সর্বদা লোড হয় এবং প্রয়োজন অনুযায়ী সঠিকভাবে প্রদর্শিত হয়
+- পুনরাবৃত্তি হওয়া কনসোল বার্তাগুলোতে এখন টোস্টের মতো কাউন্টার থাকবে
+- Disable Various Cooldowns এখন আপনাকে কোন ধরনের কুলডাউন নিষ্ক্রিয় করতে চান তা বেছে নেওয়ার সুবিধা দেয়
+- Lua-তে যোগ করা হয়েছে:
+- b3095 Natives
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Ban Kick যোগ করা হয়েছে
+- Block Passive Mode যোগ করা হয়েছে
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- Lua Script Entity স্বয়ংক্রিয় ক্লিনআপ উন্নত করা হয়েছে
+- \"Script Host Crash V2\" প্রটেকশন ফিক্স করা হয়েছে
+- ফ্রি ইউজারদের জন্য অনুপলব্ধ কিছু ফিচার ফিক্স করা হয়েছে
+
+[Cherax V5.4.0]
+
+- 'Bail From Session' পুনর্নির্মাণ করা হয়েছে
+- 'Story Bail From Session' যোগ করা হয়েছে (পুরনো Bail From Session)
+- 'Super Bail From Session' যোগ করা হয়েছে
+- 'Spawn With Radio Off' যোগ করা হয়েছে
+- AAC উন্নত করা হয়েছে
+- Script Event Protection এবং প্রচুর Script Event ফিচার ফিক্স করা হয়েছে
+- Network Error Kick Protection ফিক্স করা হয়েছে
+- DLC পেড এবং DLC ভেহিকেল নিয়ে অনলাইনে খেলা ফিক্স করা হয়েছে
+- LSCM-এর জন্য লেভেল ১০০০ আনলক ফিক্স করা হয়েছে
+- টাইপো ফিক্স করা হয়েছে
+- কিছু Lua উদাহরণের বিবরণ ফিক্স করা হয়েছে
+
+[Cherax V5.3.0]
+
+- Freeze Attackers যোগ করা হয়েছে
+- অ্যাডভান্সড Script Event Protection টগল যোগ করা হয়েছে
+- Weaken Host Kicks যোগ করা হয়েছে
+- Disable Ped Collision (Vehicle) যোগ করা হয়েছে
+- এক্সেপশন লগের জন্য RTTI তথ্য যোগ করা হয়েছে
+- List GUI-তে অনুপস্থিত ফিচার যোগ করা হয়েছে
+- মডার ডিটেকশন উন্নত করা হয়েছে
+- Bail লগিং ও প্রতিরোধ উন্নত করা হয়েছে
+- ক্র্যাশ প্রটেকশন উন্নত করা হয়েছে
+- আনলক উন্নত করা হয়েছে
+- ক্যাসিনো কারচুপি উন্নত করা হয়েছে
+- চ্যাট বিজ্ঞাপন প্রটেকশন উন্নত করা হয়েছে
+- Handling Editor অপশনের বিবরণ উন্নত করা হয়েছে
+- ASI লোডার ফিক্স করা হয়েছে
+- আপনার ভেহিকেলে যুক্ত হওয়া সম্পর্কিত ফলস ফ্ল্যাগ ফিক্স করা হয়েছে
+- Heat Vision ফিক্স করা হয়েছে
+- পর্যবেক্ষণ করার সময় মৃত্যু ফিক্স করা হয়েছে
+- নির্দিষ্ট কিছু ভেহিকেলে 'Deluxo Mode' ক্র্যাশ হওয়া ফিক্স করা হয়েছে
+
+Lua:
+- CVehicle.SteerAngle যোগ করা হয়েছে
+- CVehicle.SecondSteerAngle যোগ করা হয়েছে
+- CVehicle.Throttle যোগ করা হয়েছে
+- CVehicle.Brake যোগ করা হয়েছে
+- CVehicle.Nitrous যোগ করা হয়েছে
+- CVehicle.DirtLevel যোগ করা হয়েছে
+- CVehicle.BodyDirtColor যোগ করা হয়েছে
+- CVehicle.HeadlightMultiplier যোগ করা হয়েছে
+- CVehicle.VehicleTopSpeedPercent যোগ করা হয়েছে
+- CVehicle.CheatPowerIncrease যোগ করা হয়েছে
+- Utils.SpawnVehicle এবং Utils.CreatePed-এর জন্য 'AutoCleanup' প্যারামিটার যোগ করা হয়েছে
+
+[Cherax V5.2.2]
+
+- সর্বশেষ গেম প্যাচের কারণে সৃষ্টি হওয়া আরও কিছু সমস্যা ফিক্স করা হয়েছে
+- কিছু বাগ ফিক্স ও উন্নতিসমূহ
+
+[Cherax V5.2.1]
+
+- স্থিতিশীলতার সমস্যা ফিক্স করা হয়েছে
+
+[Cherax V5.2.0]
+
+- সর্বশেষ গেম DLC-এর জন্য আপডেট করা হয়েছে
+- স্পনারে \"The Chop Shop\" ভেহিকেলগুলো যোগ করা হয়েছে
+- Drift Handling Mode যোগ করা হয়েছে (নতুন ড্রিফট ভেহিকেলের ড্রিফট হ্যান্ডলিং প্রয়োগ করে)
+- \"Kick & Block Join\" প্লেয়ার অপশন যোগ করা হয়েছে
+- Loop Vehicle Kick যোগ করা হয়েছে
+- মডিফাইড ভেহিকেল ডিটেকশন যোগ করা হয়েছে
+- Session Loop Vehicle Kick যোগ করা হয়েছে
+- Session Bribe Authorities যোগ করা হয়েছে
+- Session Off The Radar যোগ করা হয়েছে
+- Session Clear Wanted যোগ করা হয়েছে
+- Session Cage All যোগ করা হয়েছে
+- Kick Random যোগ করা হয়েছে
+- Auto Force Script Host যোগ করা হয়েছে
+- Hud Transition Info State যোগ করা হয়েছে
+- Force Blip যোগ করা হয়েছে
+- Slot Machine Override যোগ করা হয়েছে
+- Override Roulette যোগ করা হয়েছে
+- Override Horse Race যোগ করা হয়েছে
+- Override Card Games যোগ করা হয়েছে
+- Lucky Wheel Override যোগ করা হয়েছে
+- ক্রিসমাস সক্ষম করতে Happy Holidays Hauler ইভেন্ট যোগ করা হয়েছে
+- Unlock Dripfeed Vehicles যোগ করা হয়েছে
+- Skip Freemode Wait যোগ করা হয়েছে
+- স্প্যাম ও বিজ্ঞাপন প্রটেকশন উন্নত করা হয়েছে
+- Drop Kick উন্নত করা হয়েছে
+- Script Event Protection ও পাঠানো উন্নত করা হয়েছে
+- মডার ও অ্যান্টি-মডার ডিটেকশন উন্নত করা হয়েছে
+- Money Drop সরানো হয়েছে (মডেলটি রকস্টার প্যাচ করেছে)
+- Lua এখন আরও ফিচারের ধরন সমর্থন করে (List এবং List With Info)
+- Stop Vehicle Kick-এর নাম পরিবর্তন করে Gentle Vehicle Kick করা হয়েছে
+- প্রচুর অভ্যন্তরীণ উন্নতি ও বাগ ফিক্স
+
+[Cherax 5.1.1]
+
+- ব্ল্যাকহোল ব্যবহারের সময় অবজেক্ট সিঙ্ক করার সমস্যা ফিক্স করা হয়েছে
+- হোস্ট ক্র্যাশের জন্য মডার ডিটেকশন ফলস পজিটিভ ফিক্স করা হয়েছে
+- এক্সেপশন লগে সর্বশেষ তৈরি মডেল যোগ করা হয়েছে
+
+[Cherax 5.1.0]
+
+- মানির জন্য বিভাজক যোগ করা হয়েছে
+- ইন্টেরিয়রে নড়াচড়া আনলক করার ফিচার যোগ করা হয়েছে
+- ইন্টেরিয়রে ওয়েপন ব্যবহারের অনুমতি যোগ করা হয়েছে
+- চ্যাট স্প্যাম ব্লকিং যোগ করা হয়েছে
+- বিস্ফোরণ স্প্যাম প্রটেকশন যোগ করা হয়েছে
+- হোস্ট টোকেন করাপ্ট করার ফিচার যোগ করা হয়েছে
+- ভেহিকেলের জন্য প্রপ কলিশন নিষ্ক্রিয় করার অপশন যোগ করা হয়েছে
+- সকল প্লেয়ার তালিকার জন্য অনুসন্ধান যোগ করা হয়েছে
+- Save Vehicle (Playerlist) যোগ করা হয়েছে
+- No Clip-এর জন্য গতি বজায় রাখার ফিচার যোগ করা হয়েছে
+- আরও মডার ডিটেকশন যোগ করা হয়েছে
+- কিছু Lua API উদাহরণ যোগ ও উন্নত করা হয়েছে
+- AC ক্র্যাশ যোগ করা হয়েছে
+- ক্র্যাশ প্রটেকশন ব্যাপকভাবে উন্নত করা হয়েছে
+- Smart Protection উন্নত করা হয়েছে
+- Aimbot উন্নত করা হয়েছে
+- Drop Kick উন্নত করা হয়েছে (হোস্টে কাজ করে না)
+- Blackhole উন্নত করা হয়েছে (এখন প্রপসের সাথে মিথস্ক্রিয়া করে)
+- কিছু ভুল মড স্বয়ংক্রিয়ভাবে প্রয়োগ হওয়া ফিক্স করা হয়েছে (Upgrade Vehicle)
+- Kidnap Player ফিক্স করা হয়েছে
+- Remove All Weapons (Playerlist) ফিক্স করা হয়েছে
+- List GUI-এর জন্য Saved/Recent Players ফিক্স করা হয়েছে
+- প্লেনের জন্য স্পন উচ্চতা বৃদ্ধি করা হয়েছে
+- একই নামে সেভ করলে সেভ করা ভেহিকেল ও আউটফিটগুলো এখন ওভাররাইট হয়ে যায়
+
+[Cherax v5.0.2]
+
+- সোশ্যাল ক্লাব আপডেটের কারণে ইনজেকশন সমস্যা ফিক্স করা হয়েছে
+- বড় সাবস্ক্রাইব করা স্ক্রিপ্টের কিছু সমস্যা ফিক্স করা হয়েছে
+- List GUI টেক্সট ইনপুট ফিক্স করা হয়েছে
+- List GUI স্পনার ফিল্টার ফিক্স করা হয়েছে
+- List GUI স্পনার প্রিভিউ যোগ করা হয়েছে
+- কিছু মডার ডিটেকশন যোগ করা হয়েছে
+- কিছু ক্র্যাশ প্রটেকশন যোগ করা হয়েছে
+- ডিসিঙ্ক কিক প্রটেকশন সাময়িকভাবে নিষ্ক্রিয় করা হয়েছে
+
+[Cherax v5.0.1]
+
+- ইনজেক্ট করার সময় ফন্ট লোড না হওয়ার কারণে ক্র্যাশ হওয়া ফিক্স করা হয়েছে
+- কোরিয়ান ফন্ট গ্লিফ লোড না হওয়া ফিক্স করা হয়েছে
+- ব্যক্তিগত ভেহিকেল স্পনারের খালি গ্যারেজ নাম ফিক্স করা হয়েছে
+- আপনার Cargobob-এ যুক্ত হওয়ার ফলস পজিটিভ ফিক্স করা হয়েছে
+- তথ্য উইন্ডো অবস্থান সেভ না হওয়া ফিক্স করা হয়েছে
+- কাস্টম মেনু ওপেন কী সেভ না হওয়া ফিক্স করা হয়েছে
+- Warp player time forward-এর হোস্ট চেক ফিক্স করা হয়েছে
+- আনলোড করার সময় সম্ভাব্য ক্র্যাশ ফিক্স করা হয়েছে
+- বড় স্ক্রিপ্ট সাবস্ক্রাইব করার সময় পারফরম্যান্স সমস্যা ফিক্স করা হয়েছে
+- ইমেজ লোডারে মেমরি লিক ফিক্স করা হয়েছে
+- হোস্ট ক্র্যাশ প্রটেকশন ফিক্স করা হয়েছে
+- Force camera forward প্রটেকশন ফিক্স করা হয়েছে
+- মিশন এন্টিটি মুছে দেওয়ার বিপরীত প্রভাব পড়া ফিক্স করা হয়েছে
+- চ্যাট বিজ্ঞাপন প্রটেকশন উন্নত করা হয়েছে
+
+Cherax Loader:
 - পারফরম্যান্স ৪০০% উন্নত করা হয়েছে
-- রিসোর্স পেজ কাজ না করার সমস্যাটি সংশোধন করা হয়েছে
-- ইমেজ লোডারে মেমরি লিক সংশোধন করা হয়েছে
+- রিসোর্স পেজ কাজ না করা ফিক্স করা হয়েছে
+- ইমেজ লোডারে মেমরি লিক ফিক্স করা হয়েছে
 
+[Cherax V5.0.0]
 
-
-
-
-
-
-
-- 8/8/2026 12:24 PM
-[Cherax V5.3.0 - 2023/12/18]
-- Freeze Attackers যোগ করা হয়েছে
-- Advanced Script Event Protection Toggle যোগ করা হয়েছে
-- Weaken Host Kicks যোগ করা হয়েছে
-- Disable Ped Collision (Vehicle) যোগ করা হয়েছে
-- Exception Logs-এর জন্য RTTI Info যোগ করা হয়েছে
-- List GUI-তে অনুপস্থিত ফিচারসমূহ যোগ করা হয়েছে
-- Modder Detection উন্নত করা হয়েছে
-- Bail Logging এবং Prevention উন্নত করা হয়েছে
-- Crash Protection উন্নত করা হয়েছে
-- Unlocks উন্নত করা হয়েছে
-- Casino Rigging উন্নত করা হয়েছে
-- Chat Advertisement Protection উন্নত করা হয়েছে
-- Handling Editor Options-এর বিবরণসমূহ উন্নত করা হয়েছে
-- ASI Loader সংশোধন করা হয়েছে
-- আপনার Vehicle-এ Attachment সংক্রান্ত False Flags সংশোধন করা হয়েছে
-- Heat Vision সংশোধন করা হয়েছে
-- Spectating করার সময় মৃত্যু সংশোধন করা হয়েছে
-- নির্দিষ্ট কিছু Vehicle-এ 'Deluxo Mode' Crash হওয়া সংশোধন করা হয়েছে
-- 
-- Lua:
-- CVehicle.SteerAngle যোগ করা হয়েছে
-- CVehicle.SecondSteerAngle যোগ করা হয়েছে
-- CVehicle.Throttle যোগ করা হয়েছে
-- CVehicle.Brake যোগ করা হয়েছে
-- CVehicle.Nitrous যোগ করা হয়েছে
-- CVehicle.DirtLevel যোগ করা হয়েছে
-- CVehicle.BodyDirtColor যোগ করা হয়েছে
-- CVehicle.HeadlightMultiplier যোগ করা হয়েছে
-- CVehicle.VehicleTopSpeedPercent যোগ করা হয়েছে
-- CVehicle.CheatPowerIncrease যোগ করা হয়েছে
-- Utils.SpawnVehicle এবং Utils.CreatePed-এর জন্য 'AutoCleanup' প্যারামিটার যোগ করা হয়েছে
+- প্রাথমিক প্রকাশ

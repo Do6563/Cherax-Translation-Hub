@@ -1,174 +1,1313 @@
 [5.52.1 EE / 5.43.1 LE]
 
-- Đã thêm Phương Tiện -> Không Mất Độ Bám Đường
-- Đã cải thiện Hệ Thống Dịch
-- Đã cải thiện Bảo Vệ
-- Đã sửa Nhiều Lỗi Khác Nhau
+- Thêm Phương tiện -> Không mất độ bám
+- Cải thiện Hệ thống Dịch thuật
+- Cải thiện Bảo vệ
+- Sửa nhiều lỗi khác nhau
 
+[5.52.0 EE / 5.43.0 LE]
 
+- Thêm Phiên -> Vào lại liền mạch
+- Thêm Phiên -> Hẹn giờ vào lại phiên
+- Thêm Bản thân -> Tốc độ No Clip trong nội thất
+- Thêm Bản thân -> Ngoại trang -> Hoạt ảnh cướp xe
+- Thêm Bản thân -> Ngoại trang -> Xáo trộn hoạt ảnh cướp xe
+- Thêm Hồi phục -> Xóa chạy mod
+- Thêm Hồi phục -> Đặt/Xóa Chơi xấu
+- Thêm Hồi phục -> Đặt lại Ghosts Exposed
+- Thêm Aimbot -> Bắn xuyên
+- Thêm ESP -> Vật thể -> Vẽ khung
+- Thêm Phương tiện -> Phát lại
+- Cập nhật Lua lên 5.5.1
+- Cải thiện Render chống Stream
+- Cải thiện Chuyển cảnh mượt
+- Cải thiện Phương tiện Hulk & Ped Hulk
+- Cải thiện Aimbot
+- Cải thiện ESP
+- Cải thiện Bảo vệ
+- Nút chuột hiện có thể được dùng làm phím tắt.
+- Sửa nhiều lỗi khác nhau
 
+[5.51.0 EE / 5.42.0 LE]
 
+- Thêm Linh tinh -> Thế giới -> Thế giới phản chiếu
+- Thêm Phiên -> Chung -> Khởi động lại Freemode
+- Cải thiện Tải DLC + sửa chức năng trên EE
+- Các DLC giờ đây sẽ chỉ hiển thị nếu tương thích với phiên bản game của bạn.
+- Cải thiện Chuyển cảnh mượt
+- Sửa nhiều lỗi khác nhau
 
+[5.50.0 EE / 5.41.0 LE]
 
+- Cải thiện Chống Crash
+- Các sửa lỗi và cải thiện khác
 
+[Hotfix Update]
 
-- 8/9/2026 10:34 AM
-[Cherax v5.0.1 - 2023/12/11]
-- Sửa lỗi crash do không tải được phông chữ khi inject
-- Sửa lỗi không tải được các ký tự phông chữ tiếng Hàn
-- Sửa lỗi trống tên nhà để xe đối với trình tạo phương tiện cá nhân
-- Sửa lỗi báo cáo nhầm (false positive) đối với các vật thể gắn vào cargobob của bạn
-- Sửa lỗi không lưu vị trí cửa sổ thông tin
-- Sửa lỗi không lưu phím mở menu tùy chỉnh
-- Sửa lỗi kiểm tra host đối với việc dịch chuyển người chơi và chuyển tiếp thời gian
-- Sửa lỗi crash có thể xảy ra khi unload
-- Sửa lỗi hiệu suất khi đăng ký các script lớn hơn
-- Sửa lỗi rò rỉ bộ nhớ trong trình tải ảnh
-- Sửa lỗi bảo vệ crash từ host
-- Sửa lỗi bảo vệ ép camera về phía trước
-- Sửa lỗi tính năng xóa thực thể nhiệm vụ có tác dụng ngược lại
-- Cải thiện tính năng bảo vệ chống quảng cáo trong chat
-- 
-- Cherax Loader
-- Cải thiện hiệu suất thêm 400%
-- Sửa lỗi các trang tài nguyên không hoạt động
-- Sửa lỗi rò rỉ bộ nhớ trong trình tải ảnh
+- Cập nhật EE lên phiên bản Game mới nhất
 
+[5.X EE & LE]
 
+- Thêm Phiên -> Ghép trận -> Ghi đè khu vực
+- Thêm Phiên -> Ghép trận -> Ghi đè loại ngắm
+- Thêm Phiên -> Ghép trận -> Ghi đè người chơi tối thiểu
+- Thêm Phiên -> Bộ công cụ chủ phòng -> Quảng bá khu vực
+- Thêm Phương tiện -> Tiện ích -> Hệ số kiểm soát trên không
+- Thêm lại Phiên -> Linh tinh -> Bỏ qua tham gia phiên đầy
+- Cải thiện Vô hiệu hóa hạn chế áp dụng trang phục
+- Đã triển khai bản vá hiệu năng của DaniGP17.
+- Sửa và cải thiện Trình duyệt phiên
+- Sửa một số vấn đề khi tải kịch bản
 
+[5.X EE & LE]
 
+- Thêm Linh tinh -> Thử nghiệm -> Vô hiệu hóa va chạm tia laser
+- Thêm Bảo vệ -> Vô hiệu hóa lỗi giao dịch
+- Nhiều cải thiện & sửa lỗi khác nhau
 
+[5.X EE & LE]
 
+- Nhiều cải thiện & sửa lỗi khác nhau
 
+[5.48.0 EE]
 
-- 8/8/2026 12:24 PM
-[Cherax V5.3.0 - 2023/12/18]
-- Thêm Freeze Attackers (Đóng băng Kẻ tấn công)
-- Thêm Nút bật/tắt Bảo vệ Sự kiện Script Nâng cao
-- Thêm Làm yếu Host Kicks
-- Thêm Vô hiệu hóa Va chạm Ped (Phương tiện)
-- Thêm Thông tin RTTI cho Exception Logs
-- Thêm các Tính năng còn thiếu trong List GUI
-- Cải thiện Phát hiện Modder
-- Cải thiện Ghi nhật ký và Ngăn chặn Bail
-- Cải thiện Bảo vệ chống crash
-- Cải thiện Unlocks
-- Cải thiện Casino Rigging
-- Cải thiện Bảo vệ chống Quảng cáo Chat
-- Cải thiện Mô tả cho các Tùy chọn Handling Editor
-- Sửa lỗi ASI Loader
-- Sửa các Cảnh báo sai liên quan đến việc Gắn vào Phương tiện của Bạn
-- Sửa lỗi Heat Vision
-- Sửa lỗi Chết khi đang spectating
-- Sửa lỗi 'Deluxo Mode' gây crash trên một số Phương tiện nhất định
+- Cập nhật lên phiên bản Game 1.0.1158.13
+- Cập nhật Mở khóa trang phục
+- Cập nhật Mở khóa nội dung DLC
+- Nhiều cải thiện & sửa lỗi khác nhau
 
-- Lua:
-- Thêm CVehicle.SteerAngle
-- Thêm CVehicle.SecondSteerAngle
-- Thêm CVehicle.Throttle
-- Thêm CVehicle.Brake
-- Thêm CVehicle.Nitrous
-- Thêm CVehicle.DirtLevel
-- Thêm CVehicle.BodyDirtColor
-- Thêm CVehicle.HeadlightMultiplier
-- Thêm CVehicle.VehicleTopSpeedPercent
-- Thêm CVehicle.CheatPowerIncrease
-- Thêm Tham số 'AutoCleanup' cho Utils.SpawnVehicle và Utils.CreatePed
+[5.39.3 LE]
 
+- Cập nhật lên phiên bản Game 1.0.3889.0
+- Nhiều cải thiện & sửa lỗi khác nhau
 
+[5.X EE & LE]
 
+- Đã thêm ImGui.BeginDisabled và ImGui.EndDisabled cho Lua.
+- Thêm tùy chỉnh khoảng lệch tiêu đề cho giao diện. (Chỉ áp dụng Click GUI)
+- Thêm Giả mạo hiện diện (Tab Mạng)
+- Cải thiện Bảo vệ.
+- Sửa lỗi xe máy dừng lại khi bạn đến gần chúng.
+- Các sửa lỗi & cải thiện khác
 
+Lua:
+- Đã thêm sự kiện ON_NOTIFICATION cho Lua (cho phép ghi đè hệ thống thông báo tích hợp).
 
+[5.X EE & LE]
 
+- Cập nhật lên phiên bản game mới nhất
+- Cải thiện Không ragdoll
+- Cải thiện Chặn PTFX mod (EE)
+- Cải thiện Chặn nổ mod (EE)
+- Cải thiện Bảo vệ chống spam phương tiện & spam ped (có thể dẫn đến phát hiện sai)
+- Cải thiện Bảo vệ
+- Sửa lỗi Tặng tất cả vũ khí lại cấp các vũ khí không hợp lệ.
+- Các sửa lỗi & cải thiện khác
 
+[5.X EE & LE]
 
-- 8/8/2026 11:11 AM
-[Cherax V5.3.0 - 2023/12/18]
-- Thêm đóng băng kẻ tấn công (Freeze Attackers)
-- Thêm bật/tắt bảo vệ sự kiện Script nâng cao (Advanced Script Event Protection Toggle)
-- Thêm giảm thiểu Host Kicks (Weaken Host Kicks)
-- Thêm vô hiệu hóa va chạm của Ped (Phương tiện)
-- Thêm thông tin RTTI cho Exception Logs
-- Thêm các tính năng còn thiếu trong List GUI
-- Cải thiện phát hiện Modder
-- Cải thiện ghi nhật ký và ngăn chặn Bail (Bail Logging And Prevention)
-- Cải thiện bảo vệ chống crash
-- Cải thiện Unlocks
-- Cải thiện Casino Rigging
-- Cải thiện bảo vệ chống quảng cáo trong Chat
-- Cải thiện mô tả cho các tùy chọn Handling Editor
-- Sửa lỗi ASI Loader
-- Sửa lỗi cảnh báo sai về việc gắn vào phương tiện của bạn
-- Sửa lỗi Heat Vision
-- Sửa lỗi chết khi đang spectating
-- Sửa lỗi crash 'Deluxo Mode' trên một số phương tiện nhất định
-- 
-- Lua:
-- Thêm CVehicle.SteerAngle
-- Thêm CVehicle.SecondSteerAngle
-- Thêm CVehicle.Throttle
-- Thêm CVehicle.Brake
-- Thêm CVehicle.Nitrous
-- Thêm CVehicle.DirtLevel
-- Thêm CVehicle.BodyDirtColor
-- Thêm CVehicle.HeadlightMultiplier
-- Thêm CVehicle.VehicleTopSpeedPercent
-- Thêm CVehicle.CheatPowerIncrease
-- Thêm tham số 'AutoCleanup' cho Utils.SpawnVehicle và Utils.CreatePed
+- Cập nhật lên phiên bản game mới nhất
 
+[5.X EE & LE]
 
+- Cải thiện Bảo vệ
+- Sửa nhiều lỗi khác nhau
 
+[5.X EE & LE]
 
+- Thêm Nền tảng & ID nền tảng vào Thông tin người chơi
+- Đã đưa Cấp độ Car Meet & Arena Wars sang LE.
+- Cải thiện Chống Crash
+- Sửa lỗi
 
+[5.X EE & LE]
 
+- Thêm Mở khóa tất cả cúp dinh thự
+- Cải thiện Mở khóa nội dung DLC
+- Cập nhật lên phiên bản game mới nhất
 
+[5.X EE & LE]
 
-- 8/4/2026 9:00 AM
-- 5.37.0 EE
-- Đã thêm Danh sách tất cả vật phẩm quần áo
-- Đã thêm Mở khóa tất cả giải thưởng
-- Đã thêm Mở khóa tất cả cúp Văn phòng CEO
-- Đã thêm Mở khóa tất cả cúp Motorcycle Club
-- Đã thêm Mở khóa tất cả cúp Nightclub
-- Đã thêm Mở khóa tất cả cúp Facility
-- Đã thêm Mở khóa tất cả cúp Arcade
-- Đã thêm Mở khóa tất cả cúp Arena
-- Đã thêm Mở khóa tất cả cúp Agency
-- Đã thêm Mở khóa tất cả cúp Freakshop
-- Đã thêm Mở khóa tất cả cúp Salvage Yard
-- Đã thêm Mở khóa tất cả cúp Bail Office
-- Đã thêm Mở khóa tất cả cúp Garment Factory
-- Đã thêm Lốp chống đạn/Bám đường thấp (Bulletproof/Low Grip)
-- Đã thêm Loại bỏ thời gian hồi chiêu của vũ khí
-- Đã thêm Loại bỏ giới hạn vũ khí
-- Đã thêm Điều khiển vật phóng từ xa
-- Đã thêm Kích hoạt khả năng Ramp (Force Ramp)
-- 
+- Cải thiện Mua sắm miễn phí (giờ đã bao gồm mọi thứ)
+- Cải thiện Bật Halloween (giờ đã bao gồm UFO)
+- Cải thiện Bảo vệ
+- Cập nhật lên phiên bản Game 1.72
+
+[5.45.0 EE]
+
+- Thêm Danh sách người chơi -> Gửi tin nhắn văn bản
+- Thêm Phiên -> Gửi tin nhắn văn bản
+- Thêm Phiên -> Quảng bá khu vực
+- Thêm Thông tin người chơi -> Cấp độ Arena Wars
+- Thêm Thông tin người chơi -> Cấp độ Car Meet
+- Thêm Bảo vệ -> Chặn tiền thưởng từ xa
+- Thêm Bảo vệ -> Chặn âm thanh mod
+- Thêm Bảo vệ -> Chặn PTFX mod
+- Cải thiện Mở khóa trang phục
+- Cập nhật Mở khóa nội dung DLC
+
+[5.X EE & LE]
+
+- Thêm Danh sách người chơi -> Thân thiện -> Drop (Premium)
+- Thêm Danh sách người chơi -> Thân thiện -> Loại Drop
+- Thêm Danh sách người chơi -> Thân thiện -> Độ trễ Drop
+- Thêm Hồi phục -> Các mở khóa khác -> Tiền két sắt phế liệu tối đa
+- Thêm Linh tinh -> ESP -> Kẻ thù
+- Đã làm mới hệ thống ESP.
+- Một số thay đổi về giao diện người dùng.
+- Đã sửa và cải thiện đáng kể Linh tinh -> Chung -> Hạn chế -> Vô hiệu hóa các thời gian hồi chiêu khác nhau.
+- Cải thiện Dịch chuyển tới mục tiêu
+- Cải thiện Thời gian tiêm
+- Tự động yêu cầu bồi thường MMI tất cả giờ đây cũng phục hồi phương tiện bị tạm giữ.
+
+[5.36.0 LE]
+
+- Đã đưa mã Yêu cầu PV cải tiến từ EE sang.
+- Đã đưa Xóa sạch điểm truy nã doanh nghiệp sang.
+
+[5.44.0 EE]
+
+- Thêm Người chơi -> Ngoại trang -> Biến đổi -> Kích thước tóc
+- Thêm Người chơi -> Chung -> Tàng hình -> Ghi đè hiển thị người chơi
+- Thêm Phiên -> Tất cả người chơi -> Hiện người chơi tàng hình
+
+[Cherax 5.43.0 EE]
+
+- Thêm Hỗ trợ tạo khung hình
+- Sửa một số lỗi
+
+[Cherax 5.35.1 LE]
+
+- Sửa một số lỗi
+
+[5.X EE & LE]
+
+- Thêm Người chơi -> Chung -> Tàng hình -> Ghi đè hiển thị người chơi
+- Thêm Phiên -> Tất cả người chơi -> Hiện người chơi tàng hình
+- Thêm Danh sách trắng bảo vệ
+- Thêm Thông báo bảo vệ
+- Cải thiện Chống Crash
+- Cải thiện Nhật ký chặn bảo vệ SE
+- Sửa Chặn tham gia
+- Sửa lỗi không thể tham gia phòng chơi công khai.
+- Sửa nhiều lỗi và trường hợp phát hiện sai khác nhau
+
+[5.42.0 EE]
+
+- Cải thiện Chống đuổi khỏi phòng
+
+[5.35.0 LE]
+
+- Sửa lỗi nhập liệu bị đơ khi nhấn phím Home.
+
+Lua:
+- PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup, GetObject giờ trả về 0 thay vì -1 khi thất bại.
+- Đã sửa PoolMgr.GetRenderedVehicles.
+- Đã sửa PoolMgr.GetRenderedPeds.
+- Đã sửa PoolMgr.GetRenderedObjects.
+
+[5.41.0 EE]
+
+- Thêm Hồi phục -> Mở khóa hình ảnh -> Mở khóa đồ trang trí Penthouse Casino
+- Cải thiện Mở khóa
+- Sửa một số lỗi
+
+[5.40.0 EE]
+
+- Thêm Hồi phục -> Các mở khóa khác -> Xóa sạch điểm truy nã doanh nghiệp
+- Thêm Hình ảnh phương tiện mới
+- Cải thiện Mở khóa
+- Cập nhật Mở khóa nội dung DLC
+- Sửa Liệt kê phương tiện ẩn
+
+[5.39.0 EE]
+
+- Cập nhật lên phiên bản game mới nhất
+- Thêm Linh tinh -> Thế giới -> Đèn -> Đồng bộ đèn theo radio
+- Cải thiện Liệt kê tất cả mod phương tiện
+- Cải thiện Liệt kê tất cả vật phẩm trang phục
+- Cải thiện Mở khóa
+- Sửa một số lỗi
+
+[5.34.3 LE]
+
+- Cập nhật lên phiên bản game mới nhất
+
+[5.38.0 EE]
+
+- Thêm Linh tinh -> Chung -> Cửa hàng -> Liệt kê tất cả mod phương tiện
+- Sửa một số lỗi
+
+[5.37.0 EE]
+
+- Thêm Liệt kê tất cả vật phẩm trang phục
+- Thêm Mở khóa tất cả phần thưởng
+- Thêm Mở khóa tất cả cúp văn phòng CEO
+- Thêm Mở khóa tất cả cúp Motorcycle Club
+- Thêm Mở khóa tất cả cúp Nightclub
+- Thêm Mở khóa tất cả cúp Facility
+- Thêm Mở khóa tất cả cúp Arcade
+- Thêm Mở khóa tất cả cúp Arena
+- Thêm Mở khóa tất cả cúp Agency
+- Thêm Mở khóa tất cả cúp Freakshop
+- Thêm Mở khóa tất cả cúp bãi phế liệu
+- Thêm Mở khóa tất cả cúp văn phòng bảo lãnh
+- Thêm Mở khóa tất cả cúp xưởng may
+- Thêm Lốp chống đạn/Độ bám thấp
+- Thêm Xóa thời gian hồi vũ khí
+- Thêm Xóa hạn chế vũ khí
+- Thêm Điều khiển đạn pháo từ xa
+- Thêm Ép buộc kỹ năng cầu nhảy
 - Cải thiện Yêu cầu phương tiện cá nhân
 - Cải thiện Mở khóa
 - Cải thiện Tải hình ảnh
 - Cải thiện Hiệu năng
-- 
-- Sửa lỗi danh sách phương tiện cá nhân không hiển thị xe đạp
-- Sửa lỗi phụ kiện xe (extra) đầu tiên không được thiết lập chính xác
-- Sửa lỗi phụ kiện xe (extras) không lưu vào tệp
-- Sửa lỗi màu khói lốp không được áp dụng chính xác khi tải phương tiện
-- Sửa lỗi xe đạp không hiển thị trong danh sách phương tiện cá nhân
-- Sửa lỗi nhận diện nhầm (false positives)
-- Sửa lỗi gõ ngược chữ sau khi nhấn phím Home
-- Sửa các lỗi nhỏ khác
-- 
-- Đồng hồ đo tốc độ hiện sẽ ẩn khi đang dùng điện thoại
-- Đã thay thế Giao diện mặc định (giao diện mặc định cũ được lưu dưới tên Old_Original)
-- Các giao diện Cherax LE hiện đã tương thích hoàn toàn với Cherax EE và ngược lại
-- 
-- Đã cập nhật lên phiên bản trò chơi mới nhất
-- 
-- Lua
-- Đã thêm GTA.AddExplosion(CExplosionArgs args)
-- 
-- 5.34.2 LE
-- Đã cập nhật lên phiên bản trò chơi mới nhất
-- 
-- Loader
-- Tự động khởi động (Autostart) hiện đã khả dụng cho Ứng dụng Xbox (PC)
+- Sửa danh sách phương tiện cá nhân không hiển thị xe đạp.
+- Sửa phụ kiện phương tiện đầu tiên không được đặt chính xác.
+- Sửa lỗi phụ kiện phương tiện không lưu vào tệp.
+- Sửa màu khói lốp không áp dụng đúng khi tải phương tiện.
+- Sửa lỗi xe đạp không hiển thị trong danh sách phương tiện cá nhân.
+- Sửa các phát hiện sai
+- Sửa lỗi gõ ngược sau khi nhấn Home.
+- Sửa nhiều lỗi nhỏ khác
+- Đồng hồ tốc độ hiện bị ẩn khi đang dùng điện thoại.
+- Đã thay thế Giao diện mặc định (giao diện mặc định cũ được lưu thành Old_Original).
+- Giao diện Cherax LE hiện tương thích hoàn toàn với Cherax EE và ngược lại.
+- Cập nhật lên phiên bản game mới nhất
+
+Lua:
+- Đã thêm GTA.AddExplosion(CExplosionArgs args).
+
+[5.34.2 LE]
+
+- Cập nhật lên phiên bản game mới nhất
+
+Loader:
+- Tự khởi động hiện đã hỗ trợ cho ứng dụng Xbox (PC).
+
+[5.36.1 EE]
+
+- Thêm Màu sắc phương tiện Worn, Utility và Special
+- Sửa lỗi tải ký tự glyph cho bản dịch.
+
+[5.36.0 EE]
+
+- Thêm Mở khóa tiến trình sự nghiệp
+- Thêm Mở khóa tất cả đồ thu thập
+- Thêm Bỏ qua giới thiệu sự nghiệp tội phạm
+- Thêm Chameleon vào màu bánh xe
+- Cải thiện Tất cả mở khóa
+- Cải thiện Thoát ra trang đích
+- Cải thiện Hiển thị tất cả linh kiện vũ khí
+- Cập nhật lên phiên bản game mới nhất
+
+[5.34.1 LE]
+
+- Cập nhật lên phiên bản game mới nhất
+
+[5.35.0 EE]
+
+- Cập nhật Cherax cho EE
+- Thêm Mở khóa GTA+
+- Thêm Thẻ người chơi GTA+
+- Thêm Màu sắc phương tiện mới
+- Thêm Phụ kiện phương tiện mới
+- Cải thiện Mở khóa
+- Cải thiện Los Santos Most Wanted
+- Một số cải thiện khác
+- Sửa nhiều lỗi khác nhau
+
+[5.34.0]
+
+- Cập nhật lên phiên bản game b3442
+- Thêm Lái xe dưới nước
+- Thêm Mở khóa tất cả Media Stick
+- Thêm Hình ảnh phương tiện mới
+- Thêm Màu sắc bảng điều khiển tùy chỉnh
+- Thêm Thay thế hình ảnh Cherax News
+- Thêm Bắn kẻ thù làm bộ lọc Aimbot
+- Thêm Mở khóa giới hạn khung hình / Khắc phục giật hình trong Menu tạm dừng (luôn bật)
+- Cải thiện Đặt tên thành phần tủ đồ
+- Cải thiện Bỏ qua đoạn cắt cảnh
+- Cải thiện Hiện người chơi
+- Cải thiện Bảo vệ
+- Sửa Buộc làm chủ kịch bản
+- Sửa Nhượng quyền chủ kịch bản
+- Sửa một số phát hiện modder sai
+- Sửa nhiều lỗi khác nhau
+
+[5.33.0]
+
+- Thêm lại Kick BattlEye & Kick cấm
+- Cải thiện Triển khai máy chủ BattlEye
+- Cải thiện Mở khóa trang phục
+
+[5.32.0]
+
+- Cập nhật lên phiên bản game b3411
+- Chế độ Hulk & Phương tiện Hulk hiện đã đồng bộ chính xác với người dùng Cherax khác.
+
+Lua:
+- Đã thêm Memory.LuaCallCFunctionWithReturnValue.
+
+[5.31.1]
+
+- Sửa lỗi tải vô tận khi bắt đầu nhiệm vụ.
+
+[Cherax 5.31.0]
+
+- Thêm Crash ATF
+- Cải thiện Bảo vệ
+- Sửa một số phát hiện sai
+
+[Cherax 5.30.0]
+
+- Cập nhật lên phiên bản Game b3407
+- Thêm Phương tiện mới
+- Cập nhật Mở khóa nội dung DLC (bao gồm bất động sản Hangar mới)
+- Thêm Linh tinh -> Thế giới -> Bật động vật hoang dã trong Online
+- Thêm Phiên -> Chuyển cảnh nhanh hơn -> Chuyển cảnh mượt
+- Đã gỡ bỏ Crash Da Nile (Đã được Rockstar vá).
+- Cải thiện & sửa lỗi
+
+Lua:
+- Đã thêm FeatureMgr.GetAllPlayerFeatureHashes().
+- Đã thêm FeatureMgr.GetAllPlayerFeatureHashes(int).
+- Đã thêm Feature:IsPlayerFeature.
+- Đã thêm Feature:GetStepSizeInt.
+- Đã thêm Feature:GetFastStepSizeInt.
+- Đã thêm Feature:GetStepSizeFloat.
+- Đã thêm Feature:GetFastStepSizeFloat.
+- Đã sửa một số lỗi.
+
+[Cherax 5.29.0]
+
+- Thêm Triển khai máy chủ BattlEye (làm chủ phòng mà không khiến người chơi hợp lệ tự kick mình)
+- Thêm Giả lập một phần client BattlEye (ở lại phiên lâu hơn một chút mà không bị kick)
+- Sửa Trình duyệt phiên
+- Sửa Quảng bá phiên
+- Sửa lỗi không thể trực tuyến khi tiêm muộn.
+
+[Cherax 5.28.0]
+
+- Cập nhật lên phiên bản b3351
+- Cải thiện Mở khóa
+- Vệt bánh xe cầu vồng hiện cũng đồng bộ màu với các tùy chọn mờ dần khác.
+- Sửa Sắp xếp theo hàng đợi chủ phòng
+
+[5.27.1]
+
+- Cập nhật lên phiên bản Game b3337
+- Thêm Kick BattlEye & Kick cấm BattlEye
+- Vô hiệu hóa Ép buộc chủ phòng phiên tiếp theo cưỡng chế
+
+[5.27.0]
+
+- Cập nhật lên phiên bản Game b3323
+- Thêm Vô hiệu hóa giới hạn khoảng cách drone/tên lửa
+- Thêm Bất tử cho drone
+- Thêm Vô hiệu hóa hạn chế gái mại dâm
+- Cải thiện Bảo vệ
+- Sửa Sắp xếp tìm kiếm tính năng
+
+[5.26.0]
+
+- Thêm Phiên -> Giả mạo người chơi -> Giả mạo vị trí
+- Thêm Phiên -> Giả mạo người chơi -> Đặt vị trí giả mạo
+- Thêm Bảo vệ -> Phản ứng -> Đang quan sát bạn
+- Thêm Bảo vệ -> Phản ứng bằng -> Phản ứng giả mạo vị trí
+- Thêm Phương tiện -> Trình chỉnh sửa xử lý -> Đặt lại xử lý
+- Thêm Theo dõi người chơi -> Người chơi gần đây -> Chặn tham gia
+- Thêm Phiên -> Trò chuyện -> Tắt tiếng trò chuyện văn bản
+- Thêm Phiên -> Quảng bá phiên
+- Thêm Phiên -> Số lượt quảng bá
+- Thêm Hồi phục -> Mở khóa tất cả nhiệm vụ Freemode
+- Cải thiện Hoàn thành nhiệm vụ
+- Thêm Linh tinh -> Trò chuyện -> Tự động điền tên người chơi
+- Thêm Linh tinh -> ESP -> Vẽ đường dẫn
+- Thêm Discord RPC (mặc định tắt)
+- Cho phép tham gia phiên
+- Thông điệp khoảnh khắc
+- Thêm Linh tinh -> Thử nghiệm -> Ghi đè Blackjack
+- Thêm Linh tinh -> Thử nghiệm -> Ghi đè gắp thú
+- Thêm Linh tinh -> Thử nghiệm -> Ghi đè Axe Fury
+- Thêm Linh tinh -> Thử nghiệm -> Ghi đè Love Meter
+- Thêm Linh tinh -> Thử nghiệm -> Bất tử trong trò chơi Arcade
+- Thêm Linh tinh -> Thử nghiệm -> Vô hiệu hóa rung phi tiêu
+- Thêm Linh tinh -> Thử nghiệm -> Ghi đè vật tay
+- Thêm Linh tinh -> Thử nghiệm -> Vô hiệu hóa gió chơi gôn
+- Thêm Linh tinh -> Thử nghiệm -> Vô hiệu hóa va chạm lá cây chơi gôn
+- Thêm Linh tinh -> Thử nghiệm -> Tự động hoàn thành lỗ gôn
+- Thêm Linh tinh -> Thử nghiệm -> Hiển thị tất cả linh kiện vũ khí
+- Thêm Giao diện -> Hiện bộ đếm thông báo lặp lại
+- Thêm Giao diện -> Hiện thanh thời gian tồn tại thông báo
+- Thêm Giao diện -> Màu thanh thời gian tồn tại thông báo
+- Thêm hình nền thông báo (Đặt tên ảnh là toast_background.* (hỗ trợ .png, .jpg, .gif, v.v.) trong thư mục giao diện ClickGUI).
+- Thêm Giao diện List GUI -> Menu X,Y
+- Cải thiện Bảo vệ
+- Súng đặt khối giờ đây đặt các khối bất động.
+- Giờ đây bạn có thể sao chép bất kỳ thông tin người chơi nào vào khay nhớ tạm bằng cách nhấp vào nó.
+- Giờ đây bạn có thể di chuột qua lý do modder để xem toàn bộ danh sách phát hiện.
+- Sửa Mua sắm miễn phí không hoạt động đối với các vật phẩm bạn không đủ tiền mua.
+- Sửa Lag giả
+- Nhiều cải thiện và sửa lỗi khác
+
+[5.25.0]
+
+- Thêm Xóa phương tiện khỏi gara
+- Thêm Mở khóa tất cả cuộc gọi tình ái
+- Thêm Giữ ống giảm thanh khi ở trên phương tiện
+- Thêm Màu giữ bộ chọn người chơi vào tùy chỉnh giao diện Click GUI
+- Thêm Giao diện Click GUI -> Thanh tiêu đề con -> Biểu tượng tìm kiếm / Biểu tượng tìm kiếm đang kích hoạt
+- Thêm Giao diện Click GUI -> Thanh tiêu đề con -> Biểu tượng ngôi sao / Biểu tượng ngôi sao đang kích hoạt
+- Thêm Giao diện Click GUI -> Màu khác -> Điểm giữ chọn người chơi
+- Sửa lỗi các phím điều khiển game vẫn được xử lý khi đang nhập vào ô nhập màu.
+- Sửa một số tính năng trong tab Hồi phục của List GUI không hiển thị.
+- Cải thiện Bảo vệ
+
+Lua:
+- Đã thay đổi logic dỡ tải.
+
+[5.24.0]
+
+- Thêm Chuyển đổi phương tiện hiện tại thành PV (Cho phép bạn cất hầu hết mọi phương tiện vào gara cùng toàn bộ mod)
+- Thêm Los Santos Most Wanted
+- Thêm Ghi nhật ký kết thúc kịch bản
+- Cải thiện Khả năng tải đồng thời
+
+[5.23.0]
+
+- Thêm Mua sắm miễn phí
+- Thêm Tính năng yêu thích & Nổi bật
+- Thêm Tự tử ngay lập tức
+- Thêm Thắng xe thưởng Car Meet
+- Thêm Tên sự kiện kịch bản vào Trình ghi nhật ký sự kiện kịch bản
+- Cải thiện Bảo vệ
+- Cải thiện Hiệu năng đa dạng giao thông
+- Sửa lỗi không thể di chuyển khi sử dụng siêu thoát khỏi phiên.
+- Sửa một số vấn đề về nhập liệu
+- Sửa một số lỗi khác
+- Các gara đặc biệt như Terrorbyte và tầng xe giao hàng Nightclub giờ cũng hiển thị trong bộ sinh phương tiện cá nhân cùng các xe của chúng.
+
+Lua:
+- Đã thêm GTA.GetScriptEventName.
+
+[Loader]
+
+- Cherax hiện đã được lưu vào bộ nhớ đệm, giúp tiêm nhanh hơn và giảm bớt lưu lượng mạng.
+- Đã thêm nhiều phương án khắc phục sự cố tự động hơn.
+
+[5.22.0]
+
+- Thêm Mở khóa nội dung DLC
+- Thêm Thời gian hồi bán phỉnh vào Vô hiệu hóa các thời gian hồi chiêu khác nhau -> Đổi phỉnh Casino
+- Thêm Mục Drift vào bộ tạo phương tiện
+- Thêm Các phương tiện mới hơn vào các lớp bộ tạo tương ứng
+- Thêm Bật kích thước cửa sổ tùy chỉnh vào giao diện Click GUI
+- Cải thiện Mở khóa trang phục
+- Cải thiện Bảo vệ
+- Sửa nhiều lỗi khác nhau
+- Sửa các cờ cảnh báo sai tiềm ẩn đối với giả mạo dữ liệu điểm số.
+
+Lua:
+- Đã thêm các tham số tùy chọn cho ClickGUI.BeginCustomChildWindow.
+- textAlignX dạng số
+- textAlignY dạng số
+- Đã thêm các tham số tùy chọn cho ImGui.AddRectFilledMultiColor.
+- độ bo góc dạng số
+- flags dạng số nguyên
+- Sửa lỗi tài liệu không khớp.
+
+[5.21.2]
+
+- Thêm 2 loại thời tiết mới
+- Cập nhật Liệt kê phương tiện ẩn
+- Cải thiện Ghi nhật ký thoát khỏi phiên
+- Sửa một số lỗi
+- Bộ sinh PV hiện hiển thị chữ trên biển số xe.
+
+[5.21.1]
+
+- Đã gỡ bỏ các tính năng bị Rockstar vá.
+- Đã gỡ bỏ Crash IW.
+- Đã gỡ bỏ Kick cấm.
+- Đạn đã lưu tối đa
+- Tặng & Bảo hiểm phương tiện
+- Nhiều sửa lỗi
+- Lưu ý
+- Crash RID hiện vẫn chưa bị vá.
+
+[5.21.0]
+
+- Cập nhật lên phiên bản Game B3258
+- Thêm Phương tiện mới
+- Thêm Ped mới
+- Thêm Vũ khí mới
+- Cải thiện Bảo vệ
+- Cải thiện Phát hiện modder
+- Cải thiện Chống phát hiện modder
+- Cải thiện Buộc làm chủ phòng
+- Sửa Tự động sửa chữa khi phương tiện bị chìm trong nước.
+- Sửa Tiêu đề quá nhỏ cho cửa sổ phím tắt & thông tin.
+- Sửa Cửa sổ bổ sung người chơi gây ra ngoại lệ khi dùng Siêu thoát.
+- Sửa Hồi sinh tức thì gây ra ngoại lệ.
+- Sửa Chế độ Streamer không ẩn tên khỏi ESP.
+- Sửa Dịch chuyển không hoạt động nếu được gắn vào một vật thể.
+- Sửa các tính năng sự kiện kịch bản người chơi gây ra ngoại lệ trong chế độ cốt truyện.
+
+Lua:
+- Cải thiện Ghi nhật ký lỗi
+
+[5.20.0]
+
+- Thêm Crash RID
+- Thêm Crash Da Nile
+- Cải thiện Bảo vệ
+- Sửa Tự động xác nhận cảnh báo tham gia
+- Sửa một số cảnh báo sai cho quảng cáo trò chuyện.
+- Lưu ý: Crash RID chúng tôi thêm vào đã được báo cáo cho Rockstar và rất có thể sẽ được vá trong bản DLC sắp tới. Phiên bản miễn phí của Cherax cũng sẽ bảo vệ bạn khỏi lỗi này cũng như các bản khai thác riêng tư khác.
+
+[5.19.1]
+
+- Cải thiện Bảo vệ
+- Sửa cảnh báo sai \"Bắn khi bất tử\" khi người chơi đang ở trong xe tăng RC.
+- Các sửa lỗi khác
+
+[5.19.0]
+
+- Thêm Hồi phục -> Phương tiện -> Liệt kê phương tiện ẩn (trên trang web)
+- Thêm Danh sách người chơi -> Thẻ -> Thẻ người chơi (bật/tắt thẻ người chơi)
+- Thêm Người chơi -> Chung -> Buộc đồng bộ mô hình DLC
+- Thêm Bảo vệ -> Chung -> Chặn spam tiền thưởng
+- Thêm Thẻ người chơi trong phiên phụ
+- Cải thiện Phát hiện Admin Rockstar
+- Cải thiện Chống kick AFK để hoạt động cả ở chế độ toàn màn hình khi chuyển cửa sổ
+- Cải thiện Phát hiện modder
+- Cải thiện Bảo vệ
+- Tách Drop RP thành \"Drop Tiền và RP\" và \"Drop Phỉnh và RP\".
+- Nhiều sửa lỗi khác nhau
+
+Lua:
+- Đã thêm Utils.IsKeyDown.
+- Đã thêm Utils.IsKeyPressed.
+- Đã thêm Utils.GetClipBoardText.
+- Đã thêm Utils.SetClipBoardText.
+- Đã thêm enum eProtectionType.
+- Đã thêm eLuaEvent.ON_REACTION.
+- Cách dùng trong kịch bản ví dụ
+
+[Loader]
+
+- Sửa lỗi bị crash nếu đường dẫn thư mục Cherax chứa ký tự đặc biệt.
+
+[5.18.2]
+
+- Cải thiện Phát hiện quan sát
+- Cải thiện Cho phép vũ khí trong nội thất
+- Sửa phát hiện modder sai
+
+[5.18.1]
+
+- Cải thiện Phát hiện đang ở trong nội thất
+- Cải thiện Phát hiện quan sát
+- Cải thiện Phát hiện modder
+- Sửa cờ cảnh báo sai cho chỉnh sửa sát thương.
+
+[5.18.0 Bravado Update]
+
+- Bản cập nhật này đi kèm các thay đổi giao diện để menu dễ điều hướng hơn.
+- Thêm Người chơi -> Di chuyển -> Hệ số rơi
+- Thêm Người chơi -> Di chuyển -> Hệ số nhảy
+- Thêm Người chơi -> Máu -> Vô hiệu hóa rào cản tử vong
+- Thêm Người chơi -> Va chạm -> Chế độ Hulk
+- Thêm Người chơi -> Va chạm -> Đi xuyên phương tiện
+- Thêm Người chơi -> Va chạm -> Đi xuyên Ped
+- Thêm Người chơi -> Va chạm -> Đi xuyên vật thể
+- Thêm Người chơi -> Va chạm -> Đi xuyên tường
+- Thêm Phương tiện -> Va chạm -> Phương tiện Hulk
+- Đã xóa Phương tiện hạng nặng
+- Thêm Trình chỉnh sửa xử lý -> Cờ xử lý
+- Thêm Trình chỉnh sửa xử lý -> Cờ mô hình
+- Thêm Trình chỉnh sửa xử lý -> Cờ nâng cao
+- Thêm Trình chỉnh sửa xử lý -> Cờ hư hại cửa
+- Thêm Thế giới -> Phát sáng vật thể -> Vô hiệu hóa phát sáng vật nhặt
+- Thêm Thế giới -> Phát sáng vật thể -> Bật phát sáng kính
+- Thêm Thế giới -> Phát sáng vật thể -> Ghi đè hiệu ứng phát sáng
+- Thêm Thế giới -> Phát sáng vật thể -> Cường độ phát sáng
+- Thêm Thế giới -> Phát sáng vật thể -> Tần số phát sáng
+- Thêm Bảo vệ -> Khác -> Ẩn sửa đổi sát thương
+- Cải thiện Bảo vệ
+- Sửa Nhượng quyền chủ kịch bản
+- Sửa Súng hoán đổi linh hồn
+- Đổi tên Dùng mã Cherax thành Dịch vụ miễn phí.
+- Vệt bánh xe cầu vồng hiện hoạt động trên mọi bề mặt.
+
+Lua:
+- Đã thêm ModderDB.GetModderDetections.
+- Đã thêm ModderDB.GetModderDetectionsByPlayerId.
+- Đã thêm usertype CPlayerInfo.
+- Đã thêm CNetGamePlayer.PlayerInfo.
+- Đã thêm CPed.PlayerInfo.
+- Đã thêm Players.GetCam.
+- Đã thêm Players.GetCamRot.
+- Đã thêm Players.GetIPInfo.
+- Đã thêm ModderDB.RemoveModder.
+- Đã thêm ModderDB.RemoveModderDetection.
+- Đã sửa Memory.LuaCallCFunction.
+- Sửa lỗi tính năng kết hợp có nhãn trống để lại khoảng trống khi render.
+
+[5.17.3]
+
+- Cải thiện Chống Crash
+- Sửa lỗi đăng ký kịch bản chưa được phê duyệt gây ra crash.
+- Một số sửa lỗi khác
+
+[5.17.2]
+
+- Thêm Thanh tìm kiếm trực tiếp vào thanh tiêu đề cửa sổ
+- Thêm Màu nền tìm kiếm thanh tiêu đề vào tùy chỉnh
+- Cải thiện Chống Crash
+- Sửa lỗi một số thực thể rơi xuyên qua mặt đất khi đạt đến ngưỡng va chạm nhất định.
+- Sửa các sự cố trò chuyện trong trò chơi khi sử dụng list gui.
+
+[5.17.1]
+
+- Thêm Bảo vệ ẩn khỏi phiên
+- Thêm Bật/tắt Bản tin Cherax
+- Cải thiện Dùng mã Cherax (tất cả dịch vụ điện thoại và menu tương tác hiện đều miễn phí, bao gồm Cỗ pháo quỹ đạo)
+- Sửa lỗi gian lận Roulette gây crash.
+- Sửa lỗi nhân bản phương tiện gây crash.
+- Sửa lỗi thêm cầu nhảy vào phương tiện gây crash.
+- Sửa một số lỗi chính tả
+- Đã xóa Freemode miễn phí
+
+Lua:
+- Đã thêm tham số vào FeatureMgr.AddFeature.
+- (điều này sẽ buộc callback luôn được xếp hàng trong luồng script riêng biệt, nơi bạn được phép yield)
+- bool forceQueue = true
+- Đã thêm Feature:GetId().
+
+[5.17.0]
+
+- Cập nhật theo bản cập nhật game
+- Cập nhật Bỏ qua chống gian lận
+- Thêm Cherax News (thay thế GTA News)
+- Thêm Người chơi -> Phương tiện -> Đặt tốc độ tối đa
+- Thêm Người chơi -> Ngoại trang -> Tủ đồ -> Trang phục -> Vô hiệu hóa hạn chế áp dụng trang phục
+- Cải thiện Dùng mã Cherax
+- Cải thiện Bảo vệ sự kiện kịch bản
+
+Lua:
+- Đã thêm Feature:GetColorU32.
+- Đã thêm Feature:SetColorU32.
+- Đã thêm Feature:GetColorFloats.
+- Đã thêm Feature:SetColorFloats.
+- Đã thêm ImGui.TableNextColumn.
+- Sửa Time.GetEpoche không khớp với thời gian đồng hồ hệ thống.
+- Sửa Time.GetEpocheMs không khớp với thời gian đồng hồ hệ thống.
+
+[5.16.1]
+
+- Thêm Cho phép bỏ qua đoạn cắt cảnh
+- Cho phép bạn bỏ qua các đoạn cắt cảnh như trong chế độ cốt truyện.
+- Cải thiện Thêm dấu phân cách tiền tệ
+- Hiện cũng thêm dấu phân cách cho phần hiển thị phỉnh.
+
+Lua:
+- Đã thêm CPed:IsPlayer().
+- Đã thêm CPed:IsInVehicle().
+- Đã thêm CPed.CurVehicle.
+- Đã thêm CPed.LastVehicle.
+
+[5.16.0]
+
+- Thêm Phiên -> Linh tinh -> Bỏ qua tham gia phiên đầy
+- Thêm Phiên -> Linh tinh -> Tự động xác nhận cảnh báo tham gia
+- Thêm Bảo vệ -> Kịch bản -> Chặn sự kiện phiên mod
+- Thêm Bảo vệ -> Tiện ích kick -> Tự động vào lại khi lệch đồng bộ
+- Thêm Linh tinh -> Khác -> Vệt bánh xe cầu vồng
+- Thêm Linh tinh -> ESP & HUD -> Phím tắt -> Xóa tất cả phím tắt
+- Thêm Người chơi -> Cam -> FOV dù lượn
+- Thêm Người chơi -> Cam -> FOV điện ảnh
+- Thêm Người chơi -> Cam -> FOV cắt cảnh
+- Thêm Người chơi -> Cam -> FOV màn hình tải mây
+- Thêm Kịch bản đã đăng ký -> Tự động bắt đầu
+- Thêm Ghi nhật ký tin nhắn mạng
+- Thêm Ghi nhật ký bắt đầu kịch bản
+- Cải thiện Trình tham gia bằng RID
+- Sửa Tham gia SC TV
+- Cải thiện Chặn điều khiển từ xa
+- Chặn Kỹ năng đặc biệt của phương tiện từ xa.
+- Chặn Còi phương tiện từ xa.
+- Thêm Phương tiện -> Vô hiệu hóa va chạm với tường
+- Vô hiệu hóa va chạm với tường và hầu hết các tòa nhà.
+- Cải thiện Phương tiện -> Vô hiệu hóa va chạm đạo cụ
+- Hiện cũng vô hiệu hóa va chạm với hầu hết các vật thể trong thế giới, ví dụ như cây cối.
+- Cải thiện Chống Crash
+- Kịch bản Lua cục bộ hiện được chọn sẽ tự động được tải lại nếu bị thay đổi từ bên ngoài.
+- Sửa lỗi Thoát khỏi phiên gây rẽ nhánh mạng cho phần còn lại của phiên khi làm chủ phòng.
+- Sửa lỗi dùng Ẩn người chơi cục bộ lên chính mình gây crash.
+- Sửa lỗi có thể gây crash khi dỡ tải.
+- Sửa trạng thái thời tiết bị lưu vào phần cài đặt.
+- Một số cải thiện và sửa lỗi khác
+
+[Lua]
+
+- Đã thêm CheraxExample.lua làm mặc định cho các kịch bản Lua cục bộ (sẽ được cập nhật theo thời gian).
+- Đã thêm enum eEntityType.
+- Đã thêm usertype CEntity (Lớp cơ sở cho CPhysical).
+- Đã thêm CEntity:GetType().
+- Đã thêm CEntity:IsPhysical().
+- Đã thêm eLuaEvent.SHOULD_COLLIDE.
+- Ngăn chặn việc sử dụng Script.Yield không đúng cách trong một số tình huống.
+- Sửa một số tài liệu không khớp.
+- Đã tách không gian tên Utils:
+- Đã thêm không gian tên Time.
+- Đã thêm Time.Get.
+- Đã thêm Time.GetEpoche.
+- Đã thêm Time.GetEpocheMs.
+- Đã thêm Time.GetEpocheNs.
+- Đã thêm không gian tên GTA.
+- Đã thêm GTA.GetLocalPed.
+- Đã thêm GTA.GetLocalVehicle.
+- Đã thêm GTA.GetLocalPlayerId.
+- Đã thêm GTA.HandleToPointer.
+- Đã thêm GTA.PointerToHandle.
+- Đã thêm GTA.ConvertSectorToWorldPosition.
+- Đã thêm GTA.ConvertWorldToSectorPosition.
+- Đã thêm GTA.ForceScriptHost.
+- Đã thêm GTA.TriggerScriptEvent.
+- Đã thêm GTA.GetLabelText.
+- Đã thêm GTA.GetGroundZ.
+- Đã thêm GTA.SpawnVehicle.
+- Đã thêm GTA.SpawnVehicleForPlayer.
+- Đã thêm GTA.CreateRandomPed.
+- Đã thêm GTA.CreatePed.
+- Đã thêm GTA.CreateObject.
+- Đã thêm GTA.CreateWorldObject.
+- Đã thêm GTA.SendChatMessageToEveryone.
+- Đã thêm GTA.SendChatMessageToPlayer.
+- Đã thêm GTA.AddChatMessageToPool.
+- Đã thêm GTA.GetModelInfoFromHash.
+- Đã thêm GTA.GetModelInfoFromIndex.
+- Đã thêm GTA.GetModelInfoIndexFromHash.
+- Đã thêm GTA.WorldToScreen.
+- Đã thêm GTA.GetBonePos3D.
+- Đã thêm GTA.GetBonePos2D.
+- Đã thêm GTA.GiveControl.
+- Đã thêm GTA.GetDisplayNameFromHash.
+- Đã thêm GTA.GetModelNameFromHash.
+- Đã thêm GTA.BeginService.
+- Đã thêm GTA.BasketStart.
+- Đã thêm GTA.BasketAddItem.
+- Đã thêm GTA.CheckoutStart.
+- Đã thêm GTA.RegisterFile.
+- Đã thêm GTA.DrawPedPreview.
+- Đã thêm GTA.SetLabelText.
+- Đã thêm GTA.RemoveLabelText.
+
+[5.15.1]
+
+- Thêm Cho phép ký tự đặc biệt
+- Cải thiện Giới hạn 30 ký tự từ Dán vào trò chuyện -> Giờ là 140
+- Cải thiện Bỏ qua bộ lọc ngôn từ thô tục
+- Cải thiện Chặn quảng cáo trò chuyện
+- Sửa Chế độ Streamer cho thông báo tham gia & rời phòng.
+- Sửa một số cảnh báo sai
+
+Lua:
+- Sửa lỗi có thể giả mạo ID người dùng bằng Cheat Engine.
+- Đã chuyển LuaCallCFunction sang không gian tên Memory.
+- Đã triển khai bỏ qua bộ lọc ngôn từ thô tục cho:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Thêm Linh tinh -> Chung -> Khác -> Dán vào trò chuyện
+- Sửa Bỏ qua bộ lọc ngôn từ thô tục cho trò chuyện
+- Sửa lỗi tin nhắn trò chuyện cục bộ không được ghi nhật ký.
+- Thêm Người chơi -> Chung -> Lưu người chơi
+- Thêm Người chơi -> Chung -> Sao chép ID Rockstar
+- Thêm Crash & Đuổi tất cả
+- Thêm Bảo vệ -> Chặn spam phương tiện
+- Thêm Bảo vệ -> Chặn spam ped
+- Cải thiện Chống Crash
+- Cải thiện Điều khiển List GUI
+- Sửa lỗi tải phông chữ giao diện List GUI.
+- Sửa lỗi Click GUI hiển thị tên người chơi thật trong chế độ Streamer.
+- IPv4 và ID Rockstar hiện cũng bị ẩn khi bật Chế độ Streamer.
+
+[5.14.1]
+
+- Thêm Phiên -> Ghép trận -> Sửa băm tài nguyên
+- Cải thiện Bảo vệ sự kiện kịch bản
+- Sửa lỗi Bảo vệ đồng bộ gây ra ngoại lệ.
+
+[5.14.0]
+
+- Thêm Người chơi -> Độc hại -> Crash bằng sự kiện kịch bản
+- Cải thiện Chống Crash
+- Thêm Người chơi -> Ẩn từ xa -> Ẩn phiên khỏi người chơi
+- Thêm Người chơi -> Ẩn từ xa -> Ẩn người chơi khỏi phiên
+- Thêm Người chơi -> Ẩn từ xa -> Ẩn người chơi cục bộ
+- Thêm Người chơi -> Trêu đùa -> Làm choáng người chơi
+- Thêm Bảo vệ -> Sự kiện mạng -> Chống spam súng gây choáng
+- Thêm Bảo vệ -> Sự kiện mạng -> Chống spam PTFX
+- Thêm Bật/tắt Thông báo quan sát
+- Thêm Người chơi -> Lạm dụng -> Gửi tới màn hình tải vô tận
+- Đã xóa Tiêu diệt kẻ tấn công & Đóng băng kẻ tấn công
+- Thêm Bảo vệ -> Phản ứng -> Nhắm vào bạn
+- Thêm Bảo vệ -> Phản ứng -> Bắn vào bạn
+- Thêm Bảo vệ -> Phản ứng -> Loại -> Đóng băng người chơi
+- Thêm Bảo vệ -> Phản ứng -> Loại -> Làm choáng người chơi
+- Thêm Phương tiện -> LSC di động -> Loại biển số xe
+- Thêm Phương tiện -> LSC di động -> Chữ trên biển số xe
+- Sửa FOV ngắm góc nhìn thứ ba
+- Sửa Bộ đệm mẫu pattern
+- Sửa các cảnh báo sai về crash xe cứu hộ.
+- Sửa Chống ngắm
+- Sửa loại phản ứng người chơi khi bị tấn công quỹ đạo.
+
+Lua:
+- Sửa lỗi một số thành viên Sync Data Node không thể truy cập được.
+
+[5.13.0]
+
+- Thêm Bỏ qua OpenIV (Khởi động trò chơi qua Cherax Loader giúp có thể tải online với các bản mod OpenIV, đã được thử nghiệm kỹ lưỡng với NVE)
+- Thêm Cam -> Trình đổi FOV (Góc nhìn thứ nhất, Góc nhìn thứ nhất trong xe, Ngắm qua ống ngắm, Góc nhìn thứ ba, Ngắm góc nhìn thứ ba, Góc nhìn thứ ba trong xe, Ngắm góc nhìn thứ ba trong xe)
+- Thêm Âm thanh -> Vô hiệu hóa nhạc bay
+- Thêm Âm thanh -> Vô hiệu hóa nhạc truy nã
+- Thêm Âm thanh -> Ép cảnh báo khóa mục tiêu
+- Thêm Tủ đồ -> Trình sửa đặc điểm khuôn mặt (Các đặc điểm khuôn mặt hiện được lưu cùng với Lưu trang phục)
+- Thêm ESP -> Cam người chơi
+- Thêm Xóa phương tiện của người chơi
+- Thêm Thông báo đang bị quan sát
+- Cải thiện Quan sát
+- Cải thiện Chống quan sát (giờ sẽ cố gắng ngăn chặn hành vi quan sát từ xa)
+- Cải thiện Mở khóa
+- Cải thiện Chống Crash
+- Sửa các phát hiện sai
+- Bộ nhớ đệm hiện tự động được bỏ qua nếu mã băm mô-đun bị thay đổi (ví dụ: socialclub.dll).
+
+Lua:
+- Đã thêm hơn 40 Sync Data Node sẵn sàng cho việc giả mạo tùy chỉnh.
+- Đã thêm eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC.
+- callback(int player, CPhysical entity)
+- Đã thêm eLuaEvent.ON_SYNC_DATA_NODE.
+- callback(eSyncDataNode node_type, node, CPhysical entity, bool is_exclusive, int exclusive_player)
+- Loader & Menu
+- Sửa lỗi 'couldn't resolve host'
+
+[Cherax 5.12.2]
+
+- Sửa Bảo vệ chống crash pháo phụ
+- Đã xóa Crash Equilibrium
+- Một số cải thiện khác
+
+[5.12.1]
+
+- Cải thiện Phát hiện modder
+- Sửa Crash người chơi
+- Sửa Giả mạo ngôn ngữ
+
+Lua:
+- Đã thêm Cherax.GetVersion.
+- Đã thêm Cherax.GetBuild.
+- Đã thêm Utils.sJoaat.
+- Đã đổi tên CEntity -> CPhysical.
+- Đã đổi tên NetGamePlayer -> CNetGamePlayer.
+- Đã thêm CNetObject:GetEntity.
+- Đã thêm NetworkObjectMgr.UnregisterNetworkObject.
+- Đã thêm NetworkObjectMgr.ChangeOwner.
+- Đã thêm NetworkObjectMgr.GetNetworkObject.
+- Đã xóa Utils.FindNetobjectById.
+
+[Cherax v5.12]
+
+- Thêm Crash pháo phụ
+- Thêm Giả mạo người chơi -> Giả mạo trong phiên hướng dẫn
+- Thêm Giả mạo người chơi -> Giả mạo ngôn ngữ
+- Thêm Thông tin người chơi -> Ngôn ngữ trò chơi
+- Thêm Phương tiện -> Hiện quỹ đạo bom
+- Đổi tên Ẩn khỏi danh sách người chơi -> Ẩn khỏi phiên.
+- Cải thiện Ẩn khỏi phiên
+- Thêm nút Mở thư mục vào Cài đặt, Giao diện và Bản dịch
+- Thêm nút Bật/tắt GUI bên trong GUI
+- Bộ theo dõi người chơi hiện hiển thị Loại phiên thay vì [Online].
+- Bộ theo dõi người chơi giờ đây sắp xếp người chơi đã lưu theo trạng thái trực tuyến trước rồi mới đến tên.
+- Cải thiện Chống Crash
+- Sửa Bỏ qua chờ Freemode không cung cấp vũ khí.
+- Sửa 'Lần cuối nhìn thấy' không hiển thị cho người chơi đã lưu.
+
+Lua:
+- Đã thêm PoolMgr.GetRenderedVehicles.
+- Đã thêm PoolMgr.GetRenderedPeds.
+- Đã thêm PoolMgr.GetRenderedObjects.
+- Đã thêm enum ClickTab.
+- Đã thêm ClickGUI.GetActiveMenuTab.
+- Đã thêm ClickGUI.SetActiveMenuTab.
+- Đã thêm ListGUI.SetCurrentTab.
+- Đã thêm ListGUI.RemoveTabFromStack.
+
+[Cherax v5.11]
+
+- Thêm Tiện ích kick -> Tăng cường drop kick -> Đã tắt/Hợp lệ/Mạnh mẽ
+- Thêm Tiện ích kick -> Sự kiện drop kick chủ phòng -> Thông báo sự cố kết nối, Thông báo drop kick, Chặn drop kick
+- Thêm Phiên -> Ép buộc chủ phòng phiên tiếp theo -> Đã tắt/Hợp lệ/Mạnh mẽ
+- Thêm Đặt tiền thưởng lên người chơi
+- Cải thiện Hiệu năng/FPS
+- Cải thiện Phát hiện modder
+- Cải thiện Tùy chọn giả mạo
+- Cải thiện Chống đuổi do lỗi mạng
+- Thêm Đưa phương tiện cá nhân vào gara
+- Cải thiện Sinh phương tiện cá nhân
+- Sinh phương tiện cá nhân hiện cũng áp dụng các cài đặt như Sinh bên trong xe & Động cơ luôn bật.
+- Admin Rockstar hiện được phát hiện qua IP và một danh sách tạo sẵn sẽ liên tục được cập nhật.
+- Sửa lỗi tin nhắn trò chuyện không gửi và nhận được khi ở chế độ quan sát.
+- Click GUI hiện hiển thị số lượng người chơi phía trên danh sách người chơi.
+- Một số thành phần GUI đã thay đổi thứ tự.
+- Trình duyệt phiên hiện cũng hiển thị các phiên ẩn.
+- Sửa một số vấn đề kết xuất hình ảnh với List Gui.
+
+Lua:
+- Đã thêm Cherax.GetUID.
+- Đã thêm Tab:RemoveSubTab.
+- Utils.TriggerScriptEvent hiện thực thi một số đối số cụ thể trên dữ liệu gửi đi.
+
+[Loader]
+
+- Chúng tôi đã khởi động lại máy chủ để phát hành bản cập nhật loader nhỏ.
+
+Loader:
+- Các lựa chọn hiện được lưu trữ liên tục.
+- Loader sẽ không còn render khi ở chế độ nền, giúp cải thiện FPS trong game một cách hiệu quả.
+
+[Cherax v5.10.1]
+
+- Sửa các vấn đề với bộ sinh phương tiện cá nhân và nhà để xe.
+- Sửa một số nhãn
+
+[Cherax v5.10.0]
+
+- Thêm Giả mạo dữ liệu điểm số
+- Thêm Phát hiện giả mạo dữ liệu điểm số
+- Thêm Giả mạo dữ liệu điểm số -> Cấp bậc
+- Thêm Giả mạo dữ liệu điểm số -> Số mạng hạ gục
+- Thêm Giả mạo dữ liệu điểm số -> Số lần chết
+- Thêm Giả mạo dữ liệu điểm số -> Ví tiền
+- Thêm Giả mạo dữ liệu điểm số -> Ngân hàng
+- Thêm Giả mạo dữ liệu điểm số -> Hành vi tình dục
+- Thêm Giả mạo dữ liệu điểm số -> Múa thoát y
+- Thêm Phương tiện -> Khả năng lượn
+- Thêm Thế giới -> Bầu trời -> Tắt bầu trời
+- Thêm Vũ khí -> Đạn vô hạn
+- Các phát hiện modder ngoài mục bảo vệ giờ đây cũng sẽ gửi thông báo.
+- Khả năng Nhảy cưỡng chế & Tăng tốc tên lửa cưỡng chế hiện có thể sử dụng cùng nhau.
+- Các khả năng của phương tiện hiện được nhóm lại với nhau.
+- Trình duyệt phiên giờ đây sẽ tìm thấy tối đa 1024 phiên cùng một lúc.
+
+[Cherax v5.9.0]
+
+- Thêm Trình chỉnh sửa xử lý -> Cờ thông tin mô hình phương tiện
+- Cờ thông tin mô hình phương tiện hiện cũng sẽ lưu cùng các cài đặt xử lý khác (tệp tương thích ngược).
+- Thêm Phương tiện -> Ép buộc kỹ năng dù lượn
+- Thêm Phương tiện -> Ép buộc kỹ năng nhảy
+- Thêm Phương tiện -> Ép buộc kỹ năng tăng tốc tên lửa
+- Thêm Giả mạo người chơi -> Cờ nhà phát triển Rockstar
+- Thêm Giả mạo người chơi -> Cờ QA Rockstar
+- Thêm Giả mạo người chơi -> Cờ Gian Lận
+- Thêm Danh sách người chơi -> Loại tặng vật phẩm thu thập
+- Thêm Danh sách người chơi -> Tặng vật phẩm thu thập
+- Thêm Danh sách người chơi -> Tặng tất cả vật phẩm thu thập
+- Thêm Tủ đồ -> Vô hiệu hóa xác thực trang phục
+- Thêm Phím tắt -> Thông báo khi nhấn phím tắt
+- Thêm Bản dịch -> Xuất tệp bản dịch hiện tại (bao gồm các tính năng Lua)
+- Cải thiện Chống phát hiện modder
+- Cải thiện Chống Crash
+- Sửa một số phát hiện sai
+- Đã đổi các giá trị trong Trình chỉnh sửa trang phục thành dạng ô nhập thay vì thanh trượt.
+- Sắp xếp lại các cửa sổ con/tab giả mạo
+- Cửa sổ bật lên bật/tắt kết hợp giờ lớn hơn để có cái nhìn tổng quan tốt hơn.
+
+Lua:
+- Đã thêm Utils.GiveControl.
+
+[Cherax v5.8.0]
+
+- Thêm Tiêu diệt người chơi
+- Thêm Phản ứng tiêu diệt người chơi
+- Thêm Phản ứng tấn công quỹ đạo
+- Thêm Vòng lặp ragdoll từ xa
+- Thêm Đá khỏi xe bằng kịch bản
+- Thêm Chặn tham gia ghép trận
+- Thêm Bộ công cụ chủ phòng: Người chơi tối đa
+- Thêm Sao chép ID Rockstar (Bộ theo dõi người chơi, Người chơi đã lưu, Trình duyệt phiên)
+- Thêm Nút bật/tắt Bảo vệ chống đuổi do lỗi mạng
+- Sửa Bảo vệ chống đuổi do lỗi mạng
+- Thêm Lý do chặn tham gia tùy chỉnh cho mọi người chơi đã lưu
+- Cải thiện Chặn tham gia
+- Cải thiện Trình duyệt phiên
+- Cải thiện Bảo vệ sự kiện kịch bản
+- Cải thiện Chống Crash
+- Cải thiện Bảo vệ sự kiện mạng
+- Cải thiện Chống đá khỏi xe
+- Sửa lỗi người chơi khác không thể vào phương tiện của bạn.
+- Sửa lỗi 'Force Script Host threw an exception'
+- Sửa lỗi atlas phông chữ quá lớn gây sự cố khi tiêm.
+- Sửa Súng xóa thực thể lên người chơi
+- Sửa lỗi sắp xếp danh sách người chơi khi người chơi đang ở trạng thái tham gia.
+- Phản ứng thông báo trong trò chuyện giờ sẽ ít spam hơn.
+- Cửa sổ điều khiển hiện được tô màu đầy đủ để dễ đọc hơn.
+
+[Cherax v5.7.1]
+
+- Sửa Trình ghi nhật ký ngoại lệ
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- Thêm Phản ứng cho sự kiện kịch bản xấu
+- Thêm Phản ứng khi bị bình chọn đuổi
+- Thêm Phản ứng thông báo trong trò chuyện
+- Thêm Phản ứng hết thời gian chờ đồng bộ thực thể gửi đi
+- Thêm Phản ứng hết thời gian chờ sự kiện kịch bản gửi đi
+- Thêm Nút bật tắt chặn đồng bộ thực thể gửi đến/gửi đi của người chơi
+- Thêm Nút bật tắt chặn sự kiện kịch bản gửi đến/gửi đi của người chơi
+- Thêm Chặn nhốt lồng
+- Thêm Chặn đồng bộ mô hình thế giới
+- Thêm Bật/tắt bảo vệ chống kick từ chủ kịch bản
+- Thêm Bật/tắt bảo vệ chống kick kết thúc phiên
+- Thêm ESP vật thể
+- Thêm Khoảng cách ESP vật thể
+- Thêm Sắp xếp danh sách người chơi theo (ID người chơi, Hàng đợi chủ phòng, Bảng chữ cái, Khoảng cách)
+- Thêm Lag giả
+- Thêm Freemode miễn phí
+- Thêm Dùng mã Cherax
+- Thêm Công việc Dax vào Bộ vô hiệu hóa thời gian hồi chiêu
+- Thêm Thông tin vị trí người chơi
+- Thêm Thông tin Token chủ phòng của người chơi
+- Thông tin người chơi hiện cũng có thể được dịch.
+- Cải thiện Chống Crash
+- Cải thiện Bảo vệ sự kiện kịch bản
+- Cải thiện Chống đá khỏi xe
+- Cải thiện Gửi tới rào cản tử vong
+- Cải thiện Trình duyệt phiên
+- Sửa lỗi đôi khi game làm gián đoạn Drop Kick.
+- Sửa Vòng lặp đá khỏi xe
+- Sửa các phát hiện sai
+- Sửa Đóng băng người chơi & Bảo vệ
+- Sửa lỗi No Clip làm đóng băng phương tiện khi vô hiệu hóa.
+- Sửa Vào phương tiện tức thì khi không có ped bên trong.
+- Sửa Bộ sửa đổi chu kỳ thời gian
+- Sửa Hệ số nhân tốc độ
+- Sửa Bật/tắt kết hợp cho List Gui
+- Sửa Chặn chế độ thụ động
+- Sửa lỗi một số điều khiển ngoài ý muốn vẫn lọt qua khi menu đang mở.
+- Các nút bật tắt bảo vệ hiện bật tắt hầu hết mọi thứ.
+- Đã rút ngắn một số nhãn.
+- Cherax hiện sẽ thông báo cho bạn nếu bạn đang dùng sai phiên bản DirectX.
+- Một số cải thiện và sửa lỗi khác
+
+LUA:
+- Đã thêm table<int, int> Players.Get(ePlayerListSort filter, string search).
+- Đã thêm FeatureMgr.SearchFeature.
+- Đã thêm Feature:SetSearchable, Feature:IsSearchable.
+- Sửa lỗi Lua Curl gây sự cố do dọn rác Lua.
+
+[Cherax 5.6.1]
+
+- Cải thiện Tùy chọn sự kiện theo mùa
+- Sửa Lỗi tiêm
+- Sửa Chặn spam trò chuyện của chính mình thông qua API Lua
+
+[Cherax 5.6.0]
+
+- Thêm Bản dịch tùy chỉnh (Tệp bản dịch mặc định sẽ được tạo trong Cherax/Translations)
+- Thêm Phản ứng (Đuổi, Crash, Báo cáo, Spam trò chuyện, Từ ngữ bị cấm trong trò chuyện)
+- Thêm Loại phản ứng (Đuổi, Crash, Hết thời gian chờ sự kiện kịch bản, Hết thời gian chờ đồng bộ thực thể)
+- Thêm Thanh trượt thời lượng hết thời gian chờ sự kiện kịch bản
+- Thêm Thanh trượt thời lượng hết thời gian chờ đồng bộ thực thể
+- Thêm Nhiều thông báo hơn (Đang đuổi, Đang gây crash, Chuyển giao chủ phòng)
+- Thêm Nhiều thời gian hồi chiêu hơn vào Vô hiệu hóa các thời gian hồi chiêu khác nhau
+- Sửa Chọn phương tiện cho các phương tiện có cùng tên.
+- Sửa Trôi No Clip
+- Ký tự chữ tượng hình tiếng Trung, tiếng Hàn, tiếng Nhật và tiếng Nga hiện luôn được tải và hiển thị chính xác khi cần.
+- Các tin nhắn bảng điều khiển lặp lại giờ đây sẽ có bộ đếm giống như thông báo toast.
+- Vô hiệu hóa các thời gian hồi chiêu khác nhau hiện cho phép bạn chọn loại thời gian hồi chiêu bạn muốn tắt.
+- Đã thêm vào Lua:
+- Hàm Native b3095
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Thêm Kick cấm
+- Thêm Chặn chế độ thụ động
+- Cải thiện Phát hiện modder
+- Cải thiện Tự động dọn dẹp thực thể kịch bản Lua
+- Sửa bảo vệ \"Script Host Crash V2\"
+- Sửa một số tính năng không khả dụng cho người dùng miễn phí.
+
+[Cherax V5.4.0]
+
+- Đã làm lại 'Thoát khỏi phiên'
+- Thêm 'Thoát khỏi phiên theo cốt truyện' (Thoát khỏi phiên cũ)
+- Thêm 'Siêu thoát khỏi phiên'
+- Thêm 'Sinh ra với radio tắt'
+- Cải thiện AAC
+- Sửa Bảo vệ sự kiện kịch bản và nhiều tính năng sự kiện kịch bản.
+- Sửa Bảo vệ chống đuổi do lỗi mạng
+- Sửa lỗi chơi trực tuyến với ped DLC và xe DLC.
+- Sửa Mở khóa Cấp 1000 cho LSCM.
+- Sửa Lỗi chính tả
+- Sửa một số mô tả ví dụ Lua.
+
+[Cherax V5.3.0]
+
+- Thêm Đóng băng kẻ tấn công
+- Thêm Nút bật tắt bảo vệ sự kiện kịch bản nâng cao
+- Thêm Giảm tác động kick từ chủ phòng
+- Thêm Vô hiệu hóa va chạm ped (Phương tiện)
+- Thêm Thông tin RTTI cho nhật ký ngoại lệ
+- Thêm Các tính năng còn thiếu trong List GUI
+- Cải thiện Phát hiện modder
+- Cải thiện Ghi nhật ký và ngăn chặn thoát phiên
+- Cải thiện Chống Crash
+- Cải thiện Mở khóa
+- Cải thiện Gian lận sòng bạc
+- Cải thiện Bảo vệ chống quảng cáo trò chuyện
+- Cải thiện Mô tả cho các tùy chọn trình chỉnh sửa xử lý
+- Sửa ASI Loader
+- Sửa cờ cảnh báo sai liên quan đến việc gắn vào xe của bạn.
+- Sửa Nhìn tầm nhiệt
+- Sửa lỗi tử vong khi đang quan sát.
+- Sửa lỗi 'Chế độ Deluxo' gây crash trên một số phương tiện nhất định.
+
+Lua:
+- Đã thêm CVehicle.SteerAngle.
+- Đã thêm CVehicle.SecondSteerAngle.
+- Đã thêm CVehicle.Throttle.
+- Đã thêm CVehicle.Brake.
+- Đã thêm CVehicle.Nitrous.
+- Đã thêm CVehicle.DirtLevel.
+- Đã thêm CVehicle.BodyDirtColor.
+- Đã thêm CVehicle.HeadlightMultiplier.
+- Đã thêm CVehicle.VehicleTopSpeedPercent.
+- Đã thêm CVehicle.CheatPowerIncrease.
+- Đã thêm tham số 'AutoCleanup' cho Utils.SpawnVehicle và Utils.CreatePed.
+
+[Cherax V5.2.2]
+
+- Sửa thêm các sự cố phát sinh do bản vá game mới nhất.
+- Một số sửa lỗi và cải thiện
+
+[Cherax V5.2.1]
+
+- Sửa Các vấn đề về độ ổn định
+
+[Cherax V5.2.0]
+
+- Cập nhật cho DLC Game mới nhất
+- Thêm Phương tiện \"The Chop Shop\" vào bộ sinh xe
+- Thêm Chế độ xử lý Drift (Áp dụng xử lý drift từ các phương tiện drift mới)
+- Thêm Tùy chọn người chơi \"Đuổi & Chặn tham gia\"
+- Thêm Vòng lặp đá khỏi xe
+- Thêm Phát hiện phương tiện mod
+- Thêm Vòng lặp đá khỏi xe toàn phiên
+- Thêm Phiên -> Hối lộ chính quyền
+- Thêm Phiên -> Ngoài tầm radar
+- Thêm Phiên -> Xóa truy nã
+- Thêm Phiên -> Nhốt lồng tất cả
+- Thêm Đuổi ngẫu nhiên
+- Thêm Tự động buộc làm chủ kịch bản
+- Thêm Trạng thái thông tin chuyển cảnh Hud
+- Thêm Buộc hiện Blip
+- Thêm Ghi đè máy đánh bạc
+- Thêm Ghi đè Roulette
+- Thêm Ghi đè đua ngựa
+- Thêm Ghi đè trò chơi bài
+- Thêm Ghi đè vòng quay may mắn
+- Thêm Sự kiện Happy Holidays Hauler vào Bật Giáng sinh
+- Thêm Mở khóa phương tiện phát hành nhỏ giọt
+- Thêm Bỏ qua chờ Freemode
+- Cải thiện Chống spam và chống quảng cáo
+- Cải thiện Drop Kick
+- Cải thiện Bảo vệ và gửi sự kiện kịch bản
+- Cải thiện Phát hiện modder và chống phát hiện modder
+- Đã gỡ bỏ Drop tiền (Mô hình đã bị Rockstar vá).
+- Lua hiện hỗ trợ nhiều loại tính năng hơn (Danh sách và Danh sách kèm thông tin).
+- Đổi tên Dừng đá khỏi xe thành Đá nhẹ khỏi xe.
+- Rất nhiều cải thiện nội bộ và sửa lỗi
+
+[Cherax 5.1.1]
+
+- Sửa lỗi đồng bộ vật thể khi sử dụng lỗ đen.
+- Sửa phát hiện modder sai đối với crash chủ phòng.
+- Đã thêm các mô hình được tạo gần nhất vào nhật ký ngoại lệ.
+
+[Cherax 5.1.0]
+
+- Thêm Dấu phân cách tiền tệ
+- Thêm Mở khóa di chuyển trong nội thất
+- Thêm Cho phép vũ khí trong nội thất
+- Thêm Chặn spam trò chuyện
+- Thêm Chống spam cháy nổ
+- Thêm Làm hỏng Token chủ phòng
+- Thêm Vô hiệu hóa va chạm đạo cụ cho phương tiện
+- Thêm Tìm kiếm cho tất cả danh sách người chơi
+- Thêm Lưu phương tiện (Danh sách người chơi)
+- Thêm Giữ vận tốc cho No Clip
+- Thêm Nhiều phát hiện modder hơn
+- Thêm và cải thiện một số ví dụ API Lua
+- Thêm Crash AC
+- Cải thiện đáng kể Chống Crash
+- Cải thiện Bảo vệ thông minh
+- Cải thiện Aimbot
+- Cải thiện Drop Kick (không hoạt động trên Chủ phòng)
+- Cải thiện Lỗ đen (hiện tương tác với đạo cụ)
+- Sửa lỗi tự động áp dụng một số mod không hợp lệ (Nâng cấp phương tiện).
+- Sửa Bắt cóc người chơi
+- Sửa Xóa tất cả vũ khí (Danh sách người chơi)
+- Sửa Người chơi đã lưu/gần đây cho List GUI
+- Tăng độ cao sinh cho máy bay.
+- Các phương tiện và trang phục đã lưu giờ sẽ bị ghi đè khi lưu trùng tên.
+
+[Cherax v5.0.2]
+
+- Sửa các sự cố tiêm do bản cập nhật Social Club.
+- Sửa một số vấn đề với các kịch bản đăng ký lớn.
+- Sửa lỗi nhập văn bản trong list gui.
+- Sửa bộ lọc tạo xe trong list gui.
+- Thêm xem trước bộ tạo xe trong list gui
+- Thêm một số phát hiện modder
+- Thêm một số bảo vệ chống crash
+- Tạm thời vô hiệu hóa bảo vệ chống kick do lệch đồng bộ.
+
+[Cherax v5.0.1]
+
+- Sửa lỗi crash do không tải được phông chữ khi tiêm.
+- Sửa các ký tự glyph tiếng Hàn không tải được.
+- Sửa tên nhà để xe trống trong bộ sinh phương tiện cá nhân.
+- Sửa cảnh báo sai khi gắn đồ vào Cargobob của bạn.
+- Sửa vị trí cửa sổ thông tin không lưu.
+- Sửa phím mở menu tùy chỉnh không lưu.
+- Sửa kiểm tra chủ phòng khi dịch chuyển thời gian người chơi về phía trước.
+- Sửa lỗi có thể crash khi dỡ tải.
+- Sửa các vấn đề hiệu năng khi đăng ký các kịch bản lớn.
+- Sửa rò rỉ bộ nhớ trong trình tải hình ảnh.
+- Sửa chống crash chủ phòng
+- Sửa bảo vệ chống ép camera về phía trước
+- Sửa lỗi dọn dẹp thực thể nhiệm vụ mang lại kết quả ngược lại.
+- Cải thiện bảo vệ chống quảng cáo trò chuyện
+
+Cherax Loader:
+- Cải thiện hiệu năng thêm 400%
+- Sửa các trang tài nguyên không hoạt động.
+- Sửa rò rỉ bộ nhớ trong trình tải hình ảnh.
+
+[Cherax V5.0.0]
+
+- Bản phát hành đầu tiên

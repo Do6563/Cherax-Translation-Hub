@@ -1,76 +1,1313 @@
 [5.52.1 EE / 5.43.1 LE]
 
-- Se añadió Vehículo -> Sin pérdida de tracción
-- Sistema de traducción mejorado
-- Protecciones mejoradas
+- Se añadió Vehículo -> Sin Pérdida de Agarre
+- Se mejoró el sistema de traducción
+- Se mejoraron las protecciones
 - Se corrigieron varios errores
 
+[5.52.0 EE / 5.43.0 LE]
 
+- Se añadió Sesión -> Reconexión Fluida
+- Se añadió Sesión -> Reconexión de Sesión Temporizada
+- Se añadió Propio -> Velocidades de No Clip en Interiores
+- Se añadió Propio -> Cosmético -> Animaciones de Robo de Vehículos
+- Se añadió Propio -> Cosmético -> Aleatorizar Animaciones de Robo de Vehículos
+- Se añadió Recuperación -> Eliminar Carrera Moddeada
+- Se añadió Recuperación -> Establecer/Eliminar Mal Jugador
+- Se añadió Recuperación -> Restablecer Fantasmas Expuestos
+- Se añadió Aimbot -> Disparar a Través
+- Se añadió ESP -> Objeto -> Dibujar Caja
+- Se añadió Vehículo -> Reproducción
+- Se actualizó Lua a 5.5.1
+- Se mejoró el renderizado a prueba de transmisiones
+- Se mejoró Transición Fluida
+- Se mejoró Vehículo Hulk y Ped Hulk
+- Se mejoró el aimbot
+- Se mejoró el ESP
+- Se mejoraron las protecciones
+- Ahora se pueden usar los botones del mouse como teclas de acceso rápido
+- Se corrigieron varios errores
 
+[5.51.0 EE / 5.42.0 LE]
 
+- Se añadió Varios -> Mundo -> Mundo Espejo
+- Se añadió Sesión -> General -> Reiniciar Modo Libre
+- Se mejoró la carga de DLC y se corrigió la funcionalidad en EE
+- Los DLC ahora solo se mostrarán si son compatibles con tu versión del juego
+- Se mejoró Transición Fluida
+- Se corrigieron varios errores
 
+[5.50.0 EE / 5.41.0 LE]
 
+- Se mejoraron las protecciones contra crashes
+- Otras correcciones de errores y mejoras
 
+[Hotfix Update]
 
-- 8/9/2026 10:34 AM
-[Cherax V5.0.1 - 2023/12/11]
-- Se corrigieron los crash causados por errores en la carga de fuentes al inyectar
-- Se corrigió el error que impedía cargar los glifos de la fuente coreana
-- Se corrigieron los nombres de garajes vacíos en el generador de vehículos personales
-- Se corrigió un falso positivo para los accesorios acoplados a tu cargobob
-- Se corrigió el error que impedía guardar la posición de la ventana de información
-- Se corrigió el error que impedía guardar la tecla para abrir el menu personalizado
-- Se corrigió la verificación de host al adelantar el tiempo del jugador
-- Se corrigió un posible crash al descargar
-- Se corrigieron los problemas de rendimiento al suscribirse a scripts grandes
-- Se corrigió la fuga de memoria en el cargador de imágenes
-- Se corrigió la protección contra crash de host
-- Se corrigió la protección de forzar cámara hacia adelante
-- Se corrigió el error por el cual limpiar las entidades de misión causaba el efecto contrario
-- Se mejoró la protección contra publicidad en el chat
-- 
-- Cherax Loader
-- Se mejoró el rendimiento en un 400%
-- Se corrigió el error que causaba que las páginas de recursos no funcionaran
-- Se corrigió la fuga de memoria en el cargador de imágenes
+- Se actualizó EE a la versión más reciente del juego
 
+[5.X EE & LE]
 
+- Se añadió Sesión -> Emparejamiento -> Anular Región
+- Se añadió Sesión ->  Emparejamiento -> Anular Tipo de Puntería
+- Se añadió Sesión -> Emparejamiento -> Anular Mínimo de Jugadores
+- Se añadió Sesión -> Kit de Herramientas de Anfitrión -> Anunciar Región
+- Se añadió Vehículo -> Comodidad -> Multiplicador de Control en el Aire
+- Se volvió a añadir Sesión -> Varios -> Bypass para Unirse a Sesiones Llenas
+- Se mejoró Desactivar Restricciones al Aplicar Conjuntos
+- Se implementó el parche de rendimiento de DaniGP17
+- Se corrigió y se mejoró el Explorador de Sesiones
+- Se corrigieron algunos problemas de carga de scripts
 
+[5.X EE & LE]
 
+- Se añadió Varios -> Experimentos -> Desactivar Colisión de Láser
+- Se añadió Protecciones -> Desactivar Errores de Transacción
+- Varias mejoras y correcciones de errores
 
+[5.X EE & LE]
 
+- Varias mejoras y correcciones de errores
 
+[5.48.0 EE]
 
-- 8/8/2026 12:24 PM
-[Cherax V5.3.0 - 2023/12/18]
-- Se agregó Freeze Attackers
-- Se agregó el interruptor de protección avanzada contra eventos de script
-- Se agregó Weaken Host Kicks
-- Se agregó desactivar colisión de peatones (Vehículo)
-- Se agregó información RTTI para registros de excepciones
-- Se agregaron las funciones faltantes en la GUI de lista
-- Se mejoró la detección de modders
-- Se mejoró el registro y la prevención de Bail
-- Se mejoró la protección contra crash
+- Se actualizó a la versión del juego 1.0.1158.13
+- Se actualizó Desbloquear Ropa
+- Se actualizó Desbloquear Contenido DLC
+- Varias mejoras y correcciones de errores
+
+[5.39.3 LE]
+
+- Se actualizó a la versión del juego 1.0.3889.0
+- Varias mejoras y correcciones de errores
+
+[5.X EE & LE]
+
+- Se añadieron ImGui.BeginDisabled e ImGui.EndDisabled para Luas.
+- Se añadió la personalización del desplazamiento del encabezado para temas. (Solo Click GUI)
+- Se añadió Falsificación de Presencia (Pestaña de Red)
+- Se mejoraron las protecciones.
+- Se corrigió que las motocicletas se detuvieran al acercarte a ellas
+- Otras correcciones de errores y mejoras
+
+Lua:
+- Se añadió el evento ON_NOTIFICATION para Luas (permite anular el sistema de notificaciones integrado).
+
+[5.X EE & LE]
+
+- Se actualizó a la versión más reciente del juego
+- Se mejoró Sin Ragdoll
+- Se mejoró Bloquear PTFX Moddeados (EE)
+- Se mejoró Bloquear Explosión Moddeada (EE)
+- Se mejoraron las protecciones contra Spam de Vehículos y Spam de Peds (puede provocar falsos positivos)
+- Se mejoraron las protecciones
+- Se corrigió que Dar Todas las Armas otorgara armas inválidas
+- Otras correcciones de errores y mejoras
+
+[5.X EE & LE]
+
+- Se actualizó a la versión más reciente del juego
+
+[5.X EE & LE]
+
+- Se mejoraron las protecciones
+- Se corrigieron varios errores
+
+[5.X EE & LE]
+
+- Se añadió Plataforma e ID de Plataforma a Información del Jugador
+- Se portó el nivel del Car Meet y de Arena Wars a LE
+- Se mejoraron las protecciones contra crashes
+- Se corrigieron errores
+
+[5.X EE & LE]
+
+- Se añadió Desbloquear Todos los Trofeos de Mansión
+- Se mejoró Desbloquear Contenido DLC
+- Se actualizó a la versión más reciente del juego
+
+[5.X EE & LE]
+
+- Se mejoró Compras Gratis (ahora incluye todo)
+- Se mejoró Activar Halloween (ahora incluye los ovnis)
+- Se mejoraron las protecciones
+- Se actualizó a la versión del juego 1.72
+
+[5.45.0 EE]
+
+- Se añadió Lista de Jugadores -> Enviar Mensaje de Texto
+- Se añadió Sesión -> Enviar Mensaje de Texto
+- Se añadió Sesión -> Anunciar Región
+- Se añadió Información del Jugador -> Nivel de Arena Wars
+- Se añadió Información del Jugador -> Nivel del Car Meet
+- Se añadió Protecciones -> Bloquear Recompensa Remota
+- Se añadió Protecciones -> Bloquear Sonidos Moddeados
+- Se añadió Protecciones -> Bloquear PTFX Moddeados
+- Se mejoró Desbloquear Ropa
+- Se actualizó Desbloquear Contenido DLC
+
+[5.X EE & LE]
+
+- Se añadió Lista de Jugadores -> Amigable -> Drop (Premium)
+- Se añadió Lista de Jugadores -> Amigable -> Tipo de Drop
+- Se añadió Lista de Jugadores -> Amigable -> Retraso de Drop
+- Se añadió Recuperación -> Otros Desbloqueos -> Pago Máximo de la Caja Fuerte del Desguace
+- Se añadió Varios -> ESP -> Hostil
+- Se rediseñó el sistema de ESP
+- Varios cambios en la interfaz de usuario
+- Se corrigió y se mejoró enormemente Varios -> General -> Restricciones -> Desactivar Varios Enfriamientos
+- Se mejoró Teletransportarse al Objetivo
+- Se mejoraron los tiempos de inyección
+- Reclamar Todo de MMI Automático ahora también recupera el vehículo del depósito
+
+[5.36.0 LE]
+
+- Se portó el código mejorado de Solicitar Vehículo Personal desde EE
+- Se portó Borrar Toda la Notoriedad de Negocios
+
+[5.44.0 EE]
+
+- Se añadió Jugador -> Cosmético -> Transformación -> Escala de Cabello
+- Se añadió Jugador -> General -> Invisibilidad -> Anular Visibilidad del Jugador
+- Se añadió Sesión -> Todos los Jugadores -> Revelar Jugadores Invisibles
+
+[Cherax 5.43.0 EE]
+
+- Se añadió compatibilidad con Frame Generation
+- Se corrigieron algunos errores
+
+[Cherax 5.35.1 LE]
+
+- Se corrigieron algunos errores
+
+[5.X EE & LE]
+
+- Se añadió Jugador -> General -> Invisibilidad -> Anular Visibilidad del Jugador
+- Se añadió Sesión -> Todos los Jugadores -> Revelar Jugadores Invisibles
+- Se añadió Lista Blanca de Protección
+- Se añadió Notificaciones de Protección
+- Se mejoraron las protecciones contra crashes
+- Se mejoró el registro de bloqueos de protección de SE
+- Se corrigió el bloqueo de unión
+- Se corrigió la imposibilidad de unirse a salas públicas
+- Se corrigieron varios errores y falsos positivos
+
+[5.42.0 EE]
+
+- Se mejoró la protección contra kicks
+
+[5.35.0 LE]
+
+- Se corrigió el fallo de entrada al presionar la tecla Inicio
+
+Lua:
+- PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup y GetObject ahora devuelven 0 en lugar de -1 cuando fallan
+- Se corrigió PoolMgr.GetRenderedVehicles
+- Se corrigió PoolMgr.GetRenderedPeds
+- Se corrigió PoolMgr.GetRenderedObjects
+
+[5.41.0 EE]
+
+- Se añadió Recuperación -> Desbloqueos Visuales -> Desbloquear Desorden del Penthouse del Casino
 - Se mejoraron los desbloqueos
-- Se mejoró el amaño del casino (Casino Rigging)
-- Se mejoró la protección contra publicidad en el chat
-- Se mejoraron las descripciones para las opciones del Handling Editor
-- Se corrigió el ASI Loader
-- Se corrigieron las falsas alarmas sobre acoplamientos a tu vehículo
-- Se corrigió la visión térmica (Heat Vision)
-- Se corrigió la muerte al espectar
-- Se corrigió el crash de 'Deluxo Mode' en ciertos vehículos
+- Se corrigieron algunos errores
 
-- Lua:
-- Se agregó CVehicle.SteerAngle
-- Se agregó CVehicle.SecondSteerAngle
-- Se agregó CVehicle.Throttle
-- Se agregó CVehicle.Brake
-- Se agregó CVehicle.Nitrous
-- Se agregó CVehicle.DirtLevel
-- Se agregó CVehicle.BodyDirtColor
-- Se agregó CVehicle.HeadlightMultiplier
-- Se agregó CVehicle.VehicleTopSpeedPercent
-- Se agregó CVehicle.CheatPowerIncrease
-- Se agregó el parámetro 'AutoCleanup' para Utils.SpawnVehicle y Utils.CreatePed
+[5.40.0 EE]
+
+- Se añadió Recuperación -> Otros Desbloqueos -> Borrar Toda la Notoriedad de Negocios
+- Se añadieron nuevas imágenes de vehículos
+- Se mejoraron los desbloqueos
+- Se actualizó Desbloquear Contenido DLC
+- Se corrigió Listar Vehículos Ocultos
+
+[5.39.0 EE]
+
+- Se actualizó a la versión más reciente del juego
+- Se añadió Varios -> Mundo -> Luces -> Sincronizar Luces con la Radio
+- Se mejoró Listar Todas las Modificaciones de Vehículos
+- Se mejoró Listar Todas las Prendas de Ropa
+- Se mejoraron los desbloqueos
+- Se corrigieron algunos errores
+
+[5.34.3 LE]
+
+- Se actualizó a la versión más reciente del juego
+
+[5.38.0 EE]
+
+- Se añadió Varios -> General -> Tiendas  -> Listar Todas las Modificaciones de Vehículos
+- Se corrigieron algunos errores
+
+[5.37.0 EE]
+
+- Se añadió Listar Todas las Prendas de Ropa
+- Se añadió Desbloquear Todos los Premios
+- Se añadió Desbloquear Todos los Trofeos de la Oficina de CEO
+- Se añadió Desbloquear Todos los Trofeos del Club de Motociclistas
+- Se añadió Desbloquear Todos los Trofeos del Club Nocturno
+- Se añadió Desbloquear Todos los Trofeos de las Instalaciones
+- Se añadió Desbloquear Todos los Trofeos del Arcade
+- Se añadió Desbloquear Todos los Trofeos de Arena
+- Se añadió Desbloquear Todos los Trofeos de la Agencia
+- Se añadió Desbloquear Todos los Trofeos del Freakshop
+- Se añadió Desbloquear Todos los Trofeos del Desguace
+- Se añadió Desbloquear Todos los Trofeos de la Oficina de Fianzas
+- Se añadió Desbloquear Todos los Trofeos de la Fábrica Textil
+- Se añadió Neumáticos Antibala/Bajo Agarre
+- Se añadió Eliminar Enfriamiento de Armas
+- Se añadió Eliminar Restricciones de Armas
+- Se añadió Control Remoto de Proyectiles
+- Se añadió Forzar Habilidad de Rampa
+- Se mejoró Solicitar Vehículo Personal
+- Se mejoraron los desbloqueos
+- Se mejoró la carga de imágenes
+- Se mejoró el rendimiento
+- Se corrigió que la lista de vehículos personales no mostrara las bicicletas
+- Se corrigió que el primer extra del vehículo no se configurara correctamente
+- Se corrigió que los extras del vehículo no se guardaran en el archivo
+- Se corrigió que el color del humo de los neumáticos no se aplicara correctamente al cargar un vehículo
+- Se corrigió que las bicicletas no aparecieran en la lista de vehículos personales
+- Se corrigieron falsos positivos
+- Se corrigió el error al escribir hacia atrás después de presionar Inicio
+- Se corrigieron varios otros errores pequeños
+- El velocímetro ahora se oculta mientras usas el teléfono
+- Se reemplazó el tema predeterminado (el tema predeterminado anterior se guardó como Old_Original)
+- Los temas de Cherax LE ahora son completamente compatibles con Cherax EE y viceversa
+- Se actualizó a la versión más reciente del juego
+
+Lua:
+- Se añadió GTA.AddExplosion(CExplosionArgs args)
+
+[5.34.2 LE]
+
+- Se actualizó a la versión más reciente del juego
+
+Loader:
+- El inicio automático ya está disponible para la aplicación de Xbox (PC)
+
+[5.36.1 EE]
+
+- Se añadieron los colores de vehículo Desgastado, Utilitario y Especial
+- Se corrigió la carga de glifos para las traducciones
+
+[5.36.0 EE]
+
+- Se añadió Desbloquear Progreso de la Carrera
+- Se añadió Desbloquear Todos los Coleccionables
+- Se añadió Saltar Introducción de Carrera Delictiva
+- Se añadió Camaleón a Colores de Ruedas
+- Se mejoró Todos los Desbloqueos
+- Se mejoró Salir a la Página de Inicio
+- Se mejoró Mostrar Todos los Componentes de Armas
+- Se actualizó a la versión más reciente del juego
+
+[5.34.1 LE]
+
+- Se actualizó a la versión más reciente del juego
+
+[5.35.0 EE]
+
+- Se actualizó Cherax para EE
+- Se añadió Desbloquear GTA+
+- Se añadió Etiqueta de Jugador GTA+
+- Se añadieron nuevos colores de vehículos
+- Se añadieron nuevos extras de vehículos
+- Se mejoraron los desbloqueos
+- Se mejoró Los Santos Most Wanted
+- Varias otras mejoras
+- Se corrigieron varios errores
+
+[5.34.0]
+
+- Se actualizó a la versión del juego b3442
+- Se añadió Conducir Bajo el Agua
+- Se añadió Desbloquear Todas las Memorias USB
+- Se añadieron nuevas imágenes de vehículos
+- Se añadieron colores de consola personalizados
+- Se añadió Reemplazo de Imagen de Noticias de Cherax
+- Se añadió Disparar a Enemigos como filtro de aimbot
+- Se añadió Desbloqueo de FPS / Eliminación de Tirones en el Menú de Pausa (siempre activo)
+- Se mejoró la asignación de nombres de los componentes del guardarropa
+- Se mejoró el salto de cinemáticas
+- Se mejoró Revelar Jugadores
+- Se mejoraron las protecciones
+- Se corrigió Forzar Anfitrión del Script
+- Se corrigió Dar Anfitrión del Script
+- Se corrigieron algunos falsos positivos de detección de modders
+- Se corrigieron varios errores
+
+[5.33.0]
+
+- Se volvió a añadir Kick de BattlEye y Kick de Ban
+- Se mejoró la implementación de servidor de BattlEye
+- Se mejoró Desbloquear Ropa
+
+[5.32.0]
+
+- Se actualizó a la versión del juego b3411
+- Modo Hulk y Vehículo Hulk ahora se sincronizan correctamente con otros usuarios de Cherax
+
+Lua:
+- Se añadió Memory.LuaCallCFunctionWithReturnValue
+
+[5.31.1]
+
+- Se corrigió la carga infinita al iniciar una actividad
+
+[Cherax 5.31.0]
+
+- Se añadió Crash ATF
+- Se mejoraron las protecciones
+- Se corrigieron algunos falsos positivos
+
+[Cherax 5.30.0]
+
+- Se actualizó a la versión del juego b3407
+- Se añadieron nuevos vehículos
+- Se actualizó Desbloquear Contenido DLC (incluye la nueva propiedad de hangar)
+- Se añadió Varios -> Mundo -> Activar Fauna en Online
+- Se añadió Sesión -> Transición Más Rápida -> Transición Fluida
+- Se eliminó Da Nile Crash (parcheado por Rockstar)
+- Mejoras y correcciones de errores
+
+Lua:
+- Se añadió FeatureMgr.GetAllPlayerFeatureHashes()
+- Se añadió FeatureMgr.GetAllPlayerFeatureHashes(int)
+- Se añadió Feature:IsPlayerFeature
+- Se añadió Feature:GetStepSizeInt
+- Se añadió Feature:GetFastStepSizeInt
+- Se añadió Feature:GetStepSizeFloat
+- Se añadió Feature:GetFastStepSizeFloat
+- Se corrigieron algunos errores
+
+[Cherax 5.29.0]
+
+- Se añadió la implementación de servidor de BattlEye (sé anfitrión sin que los jugadores legítimos se expulsen a sí mismos)
+- Se añadió la emulación parcial de cliente de BattlEye (quédate en una sesión un poco más de tiempo sin ser expulsado)
+- Se corrigió el Explorador de Sesiones
+- Se corrigió Anunciar Sesión
+- Se corrigió la imposibilidad de entrar a Online al inyectar tarde
+
+[Cherax 5.28.0]
+
+- Se actualizó a la versión b3351
+- Se mejoraron los desbloqueos
+- Marcas de Frenado Arcoíris ahora también sincroniza el color con las demás opciones de desvanecimiento
+- Se corrigió Ordenar por Cola de Anfitrión
+
+[5.27.1]
+
+- Se actualizó a la versión del juego b3337
+- Se añadió Kick de BattlEye y Kick de Ban de BattlEye
+- Se desactivó Forzar Siguiente Anfitrión de Sesión Forzado
+
+[5.27.0]
+
+- Se actualizó a la versión del juego b3323
+- Se añadió Desactivar Límites de Distancia de Dron/Misil
+- Se añadió Godmode de Dron
+- Se añadió Desactivar Restricciones de Prostitutas
+- Se mejoraron las protecciones
+- Se corrigió el ordenamiento de búsqueda de funciones
+
+[5.26.0]
+
+- Se añadió Sesión -> Falsificación de Jugador -> Falsificar Posición
+- Se añadió Sesión -> Falsificación de Jugador -> Establecer Posición Falsificada
+- Se añadió Protecciones -> Reacciones -> Observándote
+- Se añadió Protecciones -> Reaccionar con -> Reacción de Falsificar Posición
+- Se añadió Vehículo -> Editor de Manejo -> Restablecer Manejo
+- Se añadió Rastreador de Jugadores -> Jugadores Recientes -> Bloquear Uniones
+- Se añadió Sesión -> Chat -> Silenciar Chat de Texto
+- Se añadió Sesión -> Anunciar Sesión
+- Se añadió Sesión -> Cantidad de Anuncios
+- Se añadió Recuperación -> Desbloquear Todas las Misiones de Modo Libre
+- Se mejoró Completar Misiones
+- Se añadió Varios -> Chat -> Autocompletar Nombre de Jugador
+- Se añadió Varios -> ESP -> Dibujar Líneas de Rastreo
+- Se añadió Discord RPC (desactivado por defecto)
+- Permitir Unirse a la Sesión
+- Mensaje del Momento
+- Se añadió Varios -> Experimentos -> Anular Blackjack
+- Se añadió Varios -> Experimentos -> Anular Juego de Garra
+- Se añadió Varios -> Experimentos -> Anular Juego Furia de Hacha
+- Se añadió Varios -> Experimentos -> Anular Juego del Medidor de Amor
+- Se añadió Varios -> Experimentos -> Godmode en Juegos de Arcade
+- Se añadió Varios -> Experimentos -> Desactivar Temblor de Dardos
+- Se añadió Varios -> Experimentos -> Anular Vencidas
+- Se añadió Varios -> Experimentos -> Desactivar Viento en Golf
+- Se añadió Varios -> Experimentos -> Desactivar Colisión de Vegetación en Golf
+- Se añadió Varios -> Experimentos -> Finalizar Automáticamente Hoyo de Golf
+- Se añadió Varios -> Experimentos -> Mostrar Todos los Componentes de Armas
+- Se añadió Tema -> Mostrar Contador de Repeticiones de Toast
+- Se añadió Tema -> Mostrar Barra de Duración de Toast
+- Se añadió Tema -> Color de la Barra de Duración de Toast
+- Se añadió Imagen de Fondo de Toast (nombra una imagen toast_background.* (compatible con .png, .jpg, .gif, etc.) en una carpeta de temas de ClickGUI)
+- Se añadió Tema de List GUI -> Menú X,Y
+- Se mejoraron las protecciones
+- Block Gun ahora coloca cubos inamovibles
+- Ahora puedes copiar la información de cualquier jugador al portapapeles haciendo clic en ella
+- Ahora puedes pasar el cursor sobre los motivos de modder para ver la lista completa de detecciones
+- Se corrigió que Compras Gratis no funcionara para artículos que no podrías pagar
+- Se corrigió Fake Lag
+- Más mejoras y correcciones
+
+[5.25.0]
+
+- Se añadió Eliminar Vehículo del Garaje
+- Se añadió Desbloquear Todas las Llamadas de Ligue
+- Se añadió Mantener Silenciador en Vehículos
+- Se añadió Color de Agarre del Selector de Jugadores a la personalización de temas de Click GUI
+- Se añadió Tema de Click GUI ->  Barra de Título Secundaria -> Ícono de Búsqueda / Ícono de Búsqueda Activo
+- Se añadió Tema de Click GUI ->  Barra de Título Secundaria -> Ícono de Estrella / Ícono de Estrella Activo
+- Se añadió Tema de Click GUI -> Otros Colores -> Agarre del Selector de Jugadores
+- Se corrigió que se procesaran las entradas del juego al escribir en un campo de entrada de color
+- Se corrigió que no se mostraran algunas funciones en la pestaña Recuperación de List GUI
+- Se mejoraron las protecciones
+
+Lua:
+- Se cambió la lógica de descarga
+
+[5.24.0]
+
+- Se añadió Convertir Vehículo Actual a PV (te permite guardar casi cualquier vehículo en un garaje con todas sus modificaciones)
+- Se añadió Los Santos Most Wanted
+- Se añadió Registrar Terminaciones de Scripts
+- Se mejoró la coloadabilidad
+
+[5.23.0]
+
+- Se añadió Compras Gratis
+- Se añadieron Funciones Favoritas y Destacadas
+- Se añadió Suicidio Instantáneo
+- Se añadió Ganar Vehículo de Premio del Car Meet
+- Se añadieron nombres de eventos de script al Registrador de Eventos de Script
+- Se mejoraron las protecciones
+- Se mejoró el rendimiento de la variedad de tráfico
+- Se corrigió la imposibilidad de moverse al usar super bail
+- Se corrigieron algunos problemas con las entradas
+- Se corrigieron algunos otros errores
+- Los garajes especiales como el Terrorbyte y el piso de vehículos de entrega del club nocturno ahora también aparecen en el spawner de vehículos personales junto con sus vehículos
+
+Lua:
+- Se añadió GTA.GetScriptEventName
+
+[Loader]
+
+- Cherax ahora se guarda en caché, lo que significa una inyección aún más rápida y menos tráfico.
+- Se añadió más solución automática de problemas
+
+[5.22.0]
+
+- Se añadió Desbloquear Contenido DLC
+- Se añadió Enfriamiento de Venta de Fichas a Desactivar Varios Enfriamientos -> Canje de Fichas del Casino
+- Se añadió Sección de Drift al Spawner
+- Se añadieron Vehículos Más Recientes a Sus Clases de Spawner
+- Se añadió Activar Tamaño de Ventana Personalizado al Tema de Click GUI
+- Se mejoró Desbloquear Ropa
+- Se mejoraron las Protecciones
+- Se corrigieron varios errores
+- Se corrigieron posibles falsos positivos por falsificación de datos de puntuación
+
+Lua:
+- Se añadieron parámetros opcionales para ClickGUI.BeginCustomChildWindow
+- number textAlignX
+- number textAlignY
+- Se añadieron parámetros opcionales para ImGui.AddRectFilledMultiColor
+- number rounding
+- int flags
+- Se corrigieron discrepancias en la documentación
+
+[5.21.2]
+
+- Se añadieron 2 Nuevos Tipos de Clima
+- Se actualizó Listar Vehículos Ocultos
+- Se mejoró el registro de Bail
+- Se corrigieron algunos errores
+- El Spawner de PV ahora muestra el texto de la placa.
+
+[5.21.1]
+
+- Se eliminaron funciones parcheadas por Rockstar
+- Se eliminó IW Crash
+- Se eliminó Ban Kick
+- Munición Máxima Guardada
+- Regalar y Asegurar Vehículo
+- Varias correcciones de errores
+- Nota
+- RID Crash todavía no está parcheado
+
+[5.21.0]
+
+- Actualizado a la versión del juego B3258
+- Se añadieron Nuevos Vehículos
+- Se añadieron Nuevos Peds
+- Se añadieron Nuevas Armas
+- Se mejoraron las Protecciones
+- Se mejoraron las Detecciones de Modders
+- Se mejoraron las Detecciones Anti Modder
+- Se mejoró Forzar Anfitrión de Sesión
+- Se corrigió la Reparación Automática cuando el vehículo se ahoga
+- Se corrigió el encabezado demasiado pequeño para la Ventana de Teclas Rápidas e Información
+- Se corrigió que la Ventana Extra de Jugador arrojara excepciones al usar Super Bail
+- Se corrigió que Resurrección Instantánea arrojara excepciones
+- Se corrigió que el Modo Streamer no ocultara los nombres del ESP
+- Se corrigió que el Teletransporte no funcionara al estar acoplado a un objeto
+- Se corrigió que las funciones de Eventos de Script de Jugador arrojaran una excepción en el modo historia
+
+Lua:
+- Se mejoró el registro de errores
+
+[5.20.0]
+
+- Se añadió RID Crash
+- Se añadió Da Nile Crash
+- Se mejoró la Protección
+- Se corrigió Confirmar Automáticamente Alertas de Unión
+- Corrige algunos falsos positivos para anuncios en el chat
+- Nota: El RID Crash que añadimos ya fue reportado a Rockstar y lo más probable es que sea parcheado con el próximo DLC. La versión gratuita de Cherax te protegerá de esto así como de otros exploits privados.
+
+[5.19.1]
+
+- Se mejoraron las Protecciones
+- Se corrigió el falso positivo de "Shooting while Invincible" cuando el jugador está en un tanque RC
+- Otras correcciones de errores
+
+[5.19.0]
+
+- Se añadió Recuperación -> Vehículo -> Listar Vehículos Ocultos (en Sitios Web)
+- Se añadió Lista de Jugadores -> Etiquetas -> Etiquetas de Jugador (activar/desactivar Etiquetas de Jugador)
+- Se añadió Jugadores -> General -> Forzar Sincronización de Modelos DLC
+- Se añadió Protecciones -> General -> Bloquear Spam de Recompensas
+- Se añadió la Etiqueta de Jugador En Sub-Sesión
+- Se mejoró la Detección de Administrador de Rockstar
+- Se mejoró Anti AFK Kick para que también funcione en pantalla completa al cambiar de ventana
+- Se mejoró la Detección de Modders
+- Se mejoraron las Protecciones
+- Se dividió RP Drop en "Drop Money and RP" y "Drop Chips and RP"
+- Varias correcciones de errores
+
+Lua:
+- Se añadió Utils.IsKeyDown
+- Se añadió Utils.IsKeyPressed
+- Se añadió Utils.GetClipBoardText
+- Se añadió Utils.SetClipBoardText
+- Se añadieron los enums eProtectionType
+- Se añadió eLuaEvent.ON_REACTION
+- Uso en el Script de Ejemplo
+
+[Loader]
+
+- Se corrigieron los crashes si la ruta de la carpeta de Cherax contiene caracteres especiales
+
+[5.18.2]
+
+- Se mejoró la Detección de Espectador
+- Se mejoró Permitir Armas en Interiores
+- Se corrigió un falso positivo en la Detección de Modders
+
+[5.18.1]
+
+- Se mejoró la Detección de Está en el Interior
+- Se mejoró la Detección de Espectador
+- Se mejoró la Detección de Modders
+- Se corrigieron falsas alertas del Modificador de Daño
+
+[5.18.0 Bravado Update]
+
+- Esta actualización incluye cambios en la IU para que el menú sea más fácil de navegar.
+- Se añadió Jugador -> Movimiento -> Modificador de Caída
+- Se añadió Jugador -> Movimiento -> Modificador de Salto
+- Se añadió Jugador -> Salud -> Desactivar Barrera de Muerte
+- Se añadió Jugador -> Colisión -> Modo Hulk
+- Se añadió Jugador -> Colisión -> Atravesar Vehículos
+- Se añadió Jugador -> Colisión -> Atravesar Peds
+- Se añadió Jugador -> Colisión -> Atravesar Objetos
+- Se añadió Jugador -> Colisión -> Atravesar Paredes
+- Se añadió Vehículo -> Colisión -> Vehículo Hulk
+- Se eliminó Vehículo Pesado
+- Se añadió Editor de Manejo -> Handling Flags
+- Se añadió Editor de Manejo -> Model Flags
+- Se añadió Editor de Manejo -> Advanced Flags
+- Se añadió Editor de Manejo -> Door Damage Flags
+- Se añadió Mundo -> Brillo de Objetos -> Desactivar Brillo de Pickups
+- Se añadió Mundo -> Brillo de Objetos -> Activar Brillo de Vidrio
+- Se añadió Mundo -> Brillo de Objetos -> Anular Efecto de Brillo
+- Se añadió Mundo -> Brillo de Objetos -> Intensidad de Brillo
+- Se añadió Mundo -> Brillo de Objetos -> Frecuencia de Brillo
+- Se añadió Protecciones -> Otros -> Ocultar Modificador de Daño
+- Se mejoraron las Protecciones
+- Se corrigió Dar Anfitrión del Script
+- Se corrigió Soul Switch Gun
+- Se renombró Use Code Cherax a Free Services
+- Rainbow Skidmarks ahora funciona en todas las superficies.
+
+Lua:
+- Se añadió ModderDB.GetModderDetections
+- Se añadió ModderDB.GetModderDetectionsByPlayerId
+- Se añadió el usertype CPlayerInfo
+- Se añadió CNetGamePlayer.PlayerInfo
+- Se añadió CPed.PlayerInfo
+- Se añadió Players.GetCam
+- Se añadió Players.GetCamRot
+- Se añadió Players.GetIPInfo
+- Se añadió ModderDB.RemoveModder
+- Se añadió ModderDB.RemoveModderDetection
+- Se corrigió Memory.LuaCallCFunction
+- Se corrigió que las funciones combinadas con etiquetas vacías tuvieran espacio en blanco al renderizarse
+
+[5.17.3]
+
+- Se mejoró la Protección contra Crashes
+- Se corrigió un problema por el cual estar suscrito a un script no aprobado provocaba crashes
+- Otras correcciones de errores
+
+[5.17.2]
+
+- Se añadió la barra de búsqueda directamente en la barra de título de la ventana
+- Se añadió Color de Fondo de Búsqueda de Barra de Título a la personalización
+- Se mejoró la Protección contra Crashes
+- Se corrigió que algunas entidades cayeran a través del suelo al alcanzar un determinado límite de colisiones
+- Se corrigieron problemas con el chat del juego al usar la GUI de lista
+
+[5.17.1]
+
+- Se añadió Protección Ocultarse de la Sesión
+- Se añadió el Interruptor del Boletín de Cherax
+- Se mejoró Use Code Cherax (todos los servicios del teléfono y del menú de interacción ahora son gratuitos, incluido el Cañón Orbital)
+- Se corrigió que Amañar la Ruleta causara crashes
+- Se corrigió que Clonar Vehículo causara crashes
+- Se corrigió que Añadir Rampa al Vehículo causara crashes
+- Se corrigieron algunas erratas
+- Se eliminó Free Freemode
+
+Lua:
+- Se añadió un parámetro a FeatureMgr.AddFeature
+- (esto forzará a que el callback se ponga siempre en cola en un subproceso de scripting único donde podrás suspender la ejecución)
+- bool forceQueue = true
+- Se añadió Feature:GetId()
+
+[5.17.0]
+
+- Actualizado para la actualización del juego
+- Se actualizó el Bypass de Anti Cheat
+- Se añadió Noticias de Cherax (reemplaza Noticias de GTA)
+- Se añadió Jugadores -> Vehículo -> Establecer Velocidad Máxima
+- Se añadió Jugador -> Cosmético -> Guardarropa -> Atuendo -> Desactivar Restricciones de Aplicación de Atuendo
+- Se mejoró Use Code Cherax
+- Se mejoró la Protección de Eventos de Script
+
+Lua:
+- Se añadió Feature:GetColorU32
+- Se añadió Feature:SetColorU32
+- Se añadió Feature:GetColorFloats
+- Se añadió Feature:SetColorFloats
+- Se añadió ImGui.TableNextColumn
+- Se corrigió que Time.GetEpoche no fuera igual a la hora del reloj del sistema
+- Se corrigió que Time.GetEpocheMs no fuera igual a la hora del reloj del sistema
+
+[5.16.1]
+
+- Se añadió Permitir Saltar Cinemáticas
+- Te permite saltar cinemáticas como en el Modo Historia.
+- Se mejoró Añadir Delimitadores para Dinero
+- Ahora también añade delimitadores a la visualización de fichas.
+
+Lua:
+- Se añadió CPed:IsPlayer()
+- Se añadió CPed:IsInVehicle()
+- Se añadió CPed.CurVehicle
+- Se añadió CPed.LastVehicle
+
+[5.16.0]
+
+- Se añadió Sesión -> Varios -> Bypass para Unirse a Sesiones Llenas
+- Se añadió Sesión -> Varios -> Confirmar Automáticamente Alertas de Unión
+- Se añadió Protecciones -> Script -> Bloquear Eventos de Sesión Modificados
+- Se añadió Protecciones -> Utilidad de Kick -> Reconexión Automática tras Desincronización
+- Se añadió Varios -> Otros -> Rainbow Skidmarks
+- Se añadió Varios -> ESP y HUD -> Teclas Rápidas -> Borrar Todas las Teclas Rápidas
+- Se añadió Jugador -> Cámara -> FOV de Paracaídas
+- Se añadió Jugador -> Cámara -> FOV Cinemático
+- Se añadió Jugador -> Cámara -> FOV de Cinemática
+- Se añadió Jugador -> Cámara -> FOV de Pantalla de Carga de Nubes
+- Se añadió Scripts Suscritos -> Inicio Automático
+- Se añadió Registrar Mensajes de Red
+- Se añadió Registrar Inicios de Script
+- Se mejoró RID Joiner
+- Se corrigió SC TV Join
+- Se mejoró Bloquear Control Remoto
+- Bloquea la habilidad especial de vehículos remotos.
+- Bloquea la bocina de vehículos remotos.
+- Se añadió Vehículo -> Desactivar Colisión con Paredes
+- Desactiva la colisión con paredes y con la mayoría de los edificios.
+- Se mejoró Vehículo -> Desactivar Colisión con Props
+- Ahora también desactiva las colisiones con la mayoría de los objetos del mundo, p. ej. árboles.
+- Se mejoró la Protección contra Crashes
+- El script local de Lua seleccionado actualmente ahora se recarga automáticamente si se modificó de forma externa.
+- Se corrigió que Bail From Session causara una división de red al resto de la sesión cuando eres el anfitrión
+- Se corrigió que Hide Player Locally se pudiera usar en uno mismo provocando un crash
+- Se corrigió un posible crash al descargar
+- Se corrigió que el Estado del Clima se guardara en la configuración
+- Otras correcciones y mejoras
+
+[Lua]
+
+- Se añadió CheraxExample.lua por defecto a los scripts locales de Lua (se actualizará con el tiempo)
+- Se añadió el enum eEntityType
+- Se añadió el usertype CEntity (base para CPhysical)
+- Se añadió CEntity:GetType()
+- Se añadió CEntity:IsPhysical()
+- Se añadió eLuaEvent.SHOULD_COLLIDE
+- Se evitó el uso incorrecto de Script.Yield en determinadas situaciones.
+- Se corrigieron algunas discrepancias en la documentación
+- Se dividió el espacio de nombres Utils:
+- Se añadió el Espacio de Nombres Time
+- Se añadió Time.Get
+- Se añadió Time.GetEpoche
+- Se añadió Time.GetEpocheMs
+- Se añadió Time.GetEpocheNs
+- Se añadió el Espacio de Nombres GTA
+- Se añadió GTA.GetLocalPed
+- Se añadió GTA.GetLocalVehicle
+- Se añadió GTA.GetLocalPlayerId
+- Se añadió GTA.HandleToPointer
+- Se añadió GTA.PointerToHandle
+- Se añadió GTA.ConvertSectorToWorldPosition
+- Se añadió GTA.ConvertWorldToSectorPosition
+- Se añadió GTA.ForceScriptHost
+- Se añadió GTA.TriggerScriptEvent
+- Se añadió GTA.GetLabelText
+- Se añadió GTA.GetGroundZ
+- Se añadió GTA.SpawnVehicle
+- Se añadió GTA.SpawnVehicleForPlayer
+- Se añadió GTA.CreateRandomPed
+- Se añadió GTA.CreatePed
+- Se añadió GTA.CreateObject
+- Se añadió GTA.CreateWorldObject
+- Se añadió GTA.SendChatMessageToEveryone
+- Se añadió GTA.SendChatMessageToPlayer
+- Se añadió GTA.AddChatMessageToPool
+- Se añadió GTA.GetModelInfoFromHash
+- Se añadió GTA.GetModelInfoFromIndex
+- Se añadió GTA.GetModelInfoIndexFromHash
+- Se añadió GTA.WorldToScreen
+- Se añadió GTA.GetBonePos3D
+- Se añadió GTA.GetBonePos2D
+- Se añadió GTA.GiveControl
+- Se añadió GTA.GetDisplayNameFromHash
+- Se añadió GTA.GetModelNameFromHash
+- Se añadió GTA.BeginService
+- Se añadió GTA.BasketStart
+- Se añadió GTA.BasketAddItem
+- Se añadió GTA.CheckoutStart
+- Se añadió GTA.RegisterFile
+- Se añadió GTA.DrawPedPreview
+- Se añadió GTA.SetLabelText
+- Se añadió GTA.RemoveLabelText
+
+[5.15.1]
+
+- Se añadió Permitir Caracteres Especiales
+- Se mejoró el Límite de 30 Caracteres de Pegar en el Chat -> Ahora 140
+- Se mejoró el Bypass del Filtro de Blasfemias
+- Se mejoró Bloquear Anuncios en el Chat
+- Se corrigió el Modo Streamer para Notificaciones de Unión y Abandono
+- Se corrigieron algunas falsas alertas
+
+Lua:
+- Se corrigió la posibilidad de falsificar el ID de usuario con Cheat Engine
+- Se movió LuaCallCFunction al espacio de nombres Memory
+- Se implementó el Bypass del Filtro de Blasfemias para:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Se añadió Varios -> General -> Otros -> Pegar en el Chat
+- Se corrigió el Bypass del Filtro de Blasfemias para el Chat
+- Se corrigió que los mensajes del chat local no se registraran
+- Se añadió Jugadores -> General -> Guardar Jugador
+- Se añadió Jugadores -> General -> Copiar Rockstar ID
+- Se añadió Crash y Kick a Todos
+- Se añadió Protecciones -> Bloquear Spam de Vehículos
+- Se añadió Protecciones -> Bloquear Spam de Peds
+- Se mejoró la Protección contra Crashes
+- Se mejoró el Control de la GUI de Lista
+- Se corrigió la Carga del Tema de Fuentes de la GUI de Lista
+- Se corrigió que Click GUI mostrara los nombres reales de los jugadores en el modo streamer
+- IPv4 y Rockstar ID ahora también se ocultan mientras el Modo Streamer está activado.
+
+[5.14.1]
+
+- Se añadió Sesión -> Matchmaking -> Reparar Hash de Recursos
+- Se mejoró la Protección de Eventos de Script
+- Se corrigió que la Protección de Sincronización arrojara excepciones
+
+[5.14.0]
+
+- Se añadió Jugadores -> Malicioso -> Crash por Evento de Script
+- Se mejoraron las Protecciones contra Crashes
+- Se añadió Jugadores -> Ocultación Remota -> Ocultar Sesión al Jugador
+- Se añadió Jugadores -> Ocultación Remota -> Ocultar Jugador de la Sesión
+- Se añadió Jugadores -> Ocultación Remota -> Ocultar Jugador Localmente
+- Se añadió Jugadores -> Troleo -> Aturdir Jugador
+- Se añadió Protección -> Eventos de Red -> Protección contra Spam de Pistola Táser
+- Se añadió Protección -> Eventos de Red -> Protección contra Spam de PTFX
+- Se añadió el Interruptor de Notificar Espectador
+- Se añadió Jugadores -> Abuso -> Enviar a Pantalla de Carga Infinita
+- Se eliminó Matar Atacantes y Congelar Atacantes
+- Se añadió Protecciones -> Reacciones -> Te Está Apuntando
+- Se añadió Protecciones -> Reacciones -> Te Está Disparando
+- Se añadió Protecciones -> Reacciones -> Tipos -> Congelar Jugador
+- Se añadió Protecciones -> Reacciones -> Tipos -> Aturdir Jugador
+- Se añadió Vehículo -> LSC Móvil -> Tipo de Placa
+- Se añadió Vehículo -> LSC Móvil -> Texto de Placa
+- Se corrigió el FOV de Apuntado en Tercera Persona
+- Se corrigió la Caché de Patrones
+- Se corrigieron falsos positivos de Tow Truck Crash
+- Se corrigió Anti Aim
+- Se corrigió el Tipo de Reacción de Jugador de Ataque Orbital
+
+Lua:
+- Se corrigió que algunos miembros de Sync Data Node no fueran accesibles
+
+[5.13.0]
+
+- Se añadió OpenIV Bypass (iniciar el juego a través del Cherax Loader permite cargar el modo online con mods de OpenIV, probado exhaustivamente con NVE)
+- Se añadió Cámara -> Modificador de FOV (Primera Persona, Primera Persona en Vehículo, Con Mira, Tercera Persona, Apuntado en Tercera Persona, Tercera Persona en Vehículo, Apuntado en Tercera Persona en Vehículo)
+- Se añadió Audio -> Desactivar Música de Vuelo
+- Se añadió Audio -> Desactivar Música de Búsqueda
+- Se añadió Audio -> Forzar Advertencia de Fijado de Blanco
+- Se añadió Guardarropa -> Modificador de Rasgos Faciales (los rasgos faciales ahora se guardan con el Guardado de Atuendos)
+- Se añadió ESP -> Cámara del Jugador
+- Se añadió Eliminar Vehículo del Jugador
+- Se añadió Notificaciones de Espectador
+- Se mejoró Espectador
+- Se mejoró Anti Espectador (ahora intentará detener de forma remota el modo espectador)
+- Se mejoraron los Desbloqueos
+- Se mejoraron las Protecciones contra Crashes
+- Se corrigieron falsos positivos
+- La caché ahora se omite automáticamente si cambia el hash del módulo (p. ej., socialclub.dll).
+
+Lua:
+- Se añadieron más de 40 Sync Data Nodes disponibles para falsificación personalizada
+- Se añadió eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC
+- callback(int player, CPhysical entity)
+- Se añadió eLuaEvent.ON_SYNC_DATA_NODE
+- callback(eSyncDataNode node_type, node,  CPhysical entity,  bool is_exclusive, int exclusive_player)
+- Loader y Menú
+- Se corrigieron los errores 'couldn't resolve host'
+
+[Cherax 5.12.2]
+
+- Se corrigió la Protección contra Crashes de Cañón Auxiliar
+- Se eliminó Equilibrium Crash
+- Otras mejoras
+
+[5.12.1]
+
+- Se mejoraron las detecciones de modders.
+- Se corrigió Crashear Jugador.
+- Se corrigió la falsificación de idioma.
+
+Lua:
+- Se añadió Cherax.GetVersion.
+- Se añadió Cherax.GetBuild.
+- Se añadió Utils.sJoaat.
+- Se renombró CEntity -> CPhysical.
+- Se renombró NetGamePlayer -> CNetGamePlayer.
+- Se añadió CNetObject:GetEntity.
+- Se añadió NetworkObjectMgr.UnregisterNetworkObject.
+- Se añadió NetworkObjectMgr.ChangeOwner.
+- Se añadió NetworkObjectMgr.GetNetworkObject.
+- Se eliminó Utils.FindNetobjectById.
+
+[Cherax v5.12]
+
+- Se añadió Crash de Cañón Auxiliar.
+- Se añadió Falsificación de Jugador -> Falsificar en Sesión de Tutorial.
+- Se añadió Falsificación de Jugador -> Falsificar Idioma.
+- Se añadió Información de Jugador -> Idioma del Juego.
+- Se añadió Vehículo -> Mostrar Trayectoria de Bomba.
+- Se renombró Ocultar de la Lista de Jugadores -> Ocultar de la Sesión.
+- Se mejoró Ocultar de la Sesión.
+- Se añadieron botones para abrir carpetas en Configuración, Temas y Traducciones.
+- Se añadió el botón Alternar GUI dentro de la GUI.
+- El Rastreador de Jugadores ahora muestra el Tipo de Sesión en lugar de [Online].
+- El Rastreador de Jugadores ahora ordena a los jugadores guardados primero por estado de conexión y luego por nombre.
+- Se mejoró la protección contra crashes.
+- Se corrigió que Omitir Espera de Modo Libre no otorgara armas.
+- Se corrigió que 'Visto por última vez' no se mostrara para los jugadores guardados.
+
+Lua:
+- Se añadió PoolMgr.GetRenderedVehicles.
+- Se añadió PoolMgr.GetRenderedPeds.
+- Se añadió PoolMgr.GetRenderedObjects.
+- Se añadió el enum ClickTab.
+- Se añadió ClickGUI.GetActiveMenuTab.
+- Se añadió ClickGUI.SetActiveMenuTab.
+- Se añadió ListGUI.SetCurrentTab.
+- Se añadió ListGUI.RemoveTabFromStack.
+
+[Cherax v5.11]
+
+- Se añadió Utilidad de Kick -> Dopaje de Drop Kick -> Desactivado/Legítimo/Fuerte.
+- Se añadió Utilidad de Kick -> Eventos de Drop Kick de Anfitrión -> Notificar Problemas de Conexión, Notificar Drop Kicks, Bloquear Drop Kicks.
+- Se añadió Sesión -> Forzar Próximo Anfitrión de Sesión -> Desactivado/Legítimo/Fuerte.
+- Se añadió Poner Recompensa a Jugador.
+- Se mejoró el rendimiento/FPS.
+- Se mejoró la detección de modders.
+- Se mejoraron las opciones de falsificación.
+- Se mejoró la protección contra kicks por error de red.
+- Se añadió Guardar Vehículo Personal en el Garaje.
+- Se mejoró Spawnear Vehículo Personal.
+- Spawnear Vehículo Personal ahora también usa ajustes como Spawnear Dentro del Vehículo y Motor Siempre Encendido.
+- Los administradores de Rockstar ahora se detectan por IP y una lista predefinida que se actualizará continuamente.
+- Se corrigió que los mensajes de chat no se enviaran ni recibieran mientras se está en modo espectador.
+- La GUI de clics ahora muestra el recuento de jugadores encima de la lista de jugadores.
+- Se cambió el orden de algunos elementos de la GUI.
+- El Explorador de Sesiones ahora también mostrará sesiones ocultas.
+- Se corrigieron algunos problemas de renderizado con la GUI de lista.
+
+Lua:
+- Se añadió Cherax.GetUID.
+- Se añadió Tab:RemoveSubTab.
+- Utils.TriggerScriptEvent ahora exige algunos argumentos específicos en los datos a enviar.
+
+[Loader]
+
+- Reiniciamos el servidor para implementar una pequeña actualización del loader.
+
+Loader:
+- Las selecciones ahora se guardan y son persistentes.
+- El loader ya no se renderizará mientras esté en segundo plano, lo que mejora efectivamente los FPS en el juego.
+
+[Cherax v5.10.1]
+
+- Se corrigieron problemas con el spawner de vehículos personales y los garajes.
+- Se corrigieron algunas etiquetas.
+
+[Cherax v5.10.0]
+
+- Se añadió Falsificación de Datos de Puntuación.
+- Se añadió Detección de Falsificación de Datos de Puntuación.
+- Se añadió Falsificación de Datos de Puntuación -> Nivel.
+- Se añadió Falsificación de Datos de Puntuación -> Bajas.
+- Se añadió Falsificación de Datos de Puntuación -> Muertes.
+- Se añadió Falsificación de Datos de Puntuación -> Cartera.
+- Se añadió Falsificación de Datos de Puntuación -> Banco.
+- Se añadió Falsificación de Datos de Puntuación -> Actos Sexuales.
+- Se añadió Falsificación de Datos de Puntuación -> Bailes Privados.
+- Se añadió Vehículo -> Habilidad de Planeo.
+- Se añadió Mundo -> Cielo -> Desactivar Cielo.
+- Se añadió Arma -> Munición Ilimitada.
+- Las detecciones de modders independientes de las protecciones ahora también notifican.
+- Forzar Habilidad de Salto y Forzar Habilidad de Impulso de Cohete ahora se pueden usar juntas.
+- Las habilidades de vehículos ahora están agrupadas.
+- El Explorador de Sesiones ahora encontrará hasta 1024 sesiones a la vez.
+
+[Cherax v5.9.0]
+
+- Se añadió Editor de Manejo -> Vehicle Model Info Flags.
+- Vehicle Model Info Flags ahora también se guardará junto con los demás ajustes de manejo (los archivos tienen compatibilidad con versiones anteriores).
+- Se añadió Vehículo -> Forzar Habilidad de Paracaídas.
+- Se añadió Vehículo -> Forzar Habilidad de Salto.
+- Se añadió Vehículo -> Forzar Habilidad de Impulso de Cohete.
+- Se añadió Falsificación de Jugador -> Distintivo de Desarrollador de Rockstar.
+- Se añadió Falsificación de Jugador -> Distintivo de QA de Rockstar.
+- Se añadió Falsificación de Jugador -> Distintivo de Tramposo.
+- Se añadió Lista de Jugadores -> Dar Tipo de Coleccionables.
+- Se añadió Lista de Jugadores -> Dar Coleccionables.
+- Se añadió Lista de Jugadores -> Dar Todos los Coleccionables.
+- Se añadió Guardarropa -> Desactivar Validación de Atuendos.
+- Se añadió Teclas Rápidas -> Notificar Tecla Rápida Presionada.
+- Se añadió Traducciones -> Volcar Archivo de Traducción Actual (incluye funciones de Lua).
+- Se mejoró la Anti Detección de Modders.
+- Se mejoró la protección contra crashes.
+- Se corrigieron algunos falsos positivos.
+- Se cambiaron los valores del Editor de Atuendos a campos de entrada en lugar de controles deslizantes.
+- Se reordenaron las ventanas secundarias/pestañas de falsificación.
+- Las ventanas emergentes de alternadores combinados ahora son más grandes para brindar una mejor visualización.
+
+Lua:
+- Se añadió Utils.GiveControl.
+
+[Cherax v5.8.0]
+
+- Se añadió Matar Jugador.
+- Se añadió Reacción a Matar Jugador.
+- Se añadió Reacción a Cañón Orbital.
+- Se añadió Bucle Remoto de Ragdoll.
+- Se añadió Kick de Vehículo por Script.
+- Se añadió Bloquear Uniones de Matchmaking.
+- Se añadió Kit de Herramientas de Anfitrión: Máx. de Jugadores.
+- Se añadió Copiar Rockstar ID (Rastreador de Jugadores, Jugadores Guardados, Explorador de Sesiones).
+- Se añadió el Alternador de Protección contra Kick por Error de Red.
+- Se corrigió la protección contra kicks por error de red.
+- Se añadió Razón Personalizada de Bloqueo de Unión para cada jugador guardado.
+- Se mejoró el bloqueo de uniones.
+- Se mejoró el Explorador de Sesiones.
+- Se mejoró la protección contra eventos de script.
+- Se mejoró la protección contra crashes.
+- Se mejoró la protección contra eventos de red.
+- Se mejoró la protección contra kicks de vehículos.
+- Se corrigió que otros jugadores no pudieran entrar a tu vehículo.
+- Se corrigió 'Forzar Anfitrión del Script arrojó una excepción'.
+- Se corrigieron problemas con el atlas de fuentes que se hacía demasiado grande y causaba problemas al inyectar.
+- Se corrigió el arma de borrado en jugadores.
+- Se corrigió el orden de la lista de jugadores cuando un jugador está en estado de unión.
+- La reacción Anunciar en el Chat ahora enviará menos spam.
+- La ventana de la consola ahora está totalmente coloreada para una mejor legibilidad.
+
+[Cherax v5.7.1]
+
+- Se corrigió el registrador de excepciones.
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- Se añadió Reacción a Evento de Script Malicioso.
+- Se añadió Reacción a Votación de Expulsión.
+- Se añadió la Reacción Anunciar en el Chat.
+- Se añadió Reacción a Tiempo de Espera Agotado de Sincronización de Entidades Salientes.
+- Se añadió Reacción a Tiempo de Espera Agotado de Eventos de Script Salientes.
+- Se añadieron alternadores de jugador para Bloquear Sincronizaciones de Entidades Entrantes/Salientes.
+- Se añadieron alternadores de jugador para Bloquear Eventos de Script Entrantes/Salientes.
+- Se añadió Bloquear Jaulas.
+- Se añadió Bloquear Sincronizaciones de Modelos del Mundo.
+- Se añadió el Alternador de Protección contra Kick de Anfitrión del Script.
+- Se añadió el Alternador de Protección contra Kick de Finalizar Sesión.
+- Se añadió ESP de Objetos.
+- Se añadió Distancia de ESP de Objetos.
+- Se añadió Ordenar Lista de Jugadores Por (ID de Jugador, Cola de Anfitrión, Alfabético, Distancia).
+- Se añadió Lag Falso.
+- Se añadió Modo Libre Gratuito.
+- Se añadió Usar Código Cherax.
+- Se añadió Trabajo de Dax al Desactivador de Enfriamientos.
+- Se añadió Posición a Información de Jugador.
+- Se añadió Token de Anfitrión a Información de Jugador.
+- Información de Jugador ahora también se puede traducir.
+- Se mejoró la protección contra crashes.
+- Se mejoró la protección contra eventos de script.
+- Se mejoró la protección contra kicks de vehículos.
+- Se mejoró Enviar a la Barrera Mortal.
+- Se mejoró el Explorador de Sesiones.
+- Se corrigió que el juego a veces interrumpiera el Drop Kick.
+- Se corrigió Kick de Vehículo en Bucle.
+- Se corrigieron falsos positivos.
+- Se corrigió Congelar Jugador y su protección.
+- Se corrigió que No Clip congelara el vehículo al desactivarse.
+- Se corrigió Entrada Instantánea al Vehículo cuando no había ningún ped adentro.
+- Se corrigió el Modificador de Ciclo de Tiempo.
+- Se corrigieron los multiplicadores de velocidad.
+- Se corrigieron los alternadores combinados para la GUI de lista.
+- Se corrigió Bloquear Modo Pasivo.
+- Se corrigió que algunos controles no deseados se filtraran con el menú abierto.
+- Los alternadores de protección ahora activan/desactivan la mayoría de las cosas.
+- Se acortaron algunas etiquetas.
+- Cherax ahora te notificará si estás usando la versión incorrecta de DirectX.
+- Otras mejoras y correcciones de errores.
+
+LUA:
+- Se añadió table<int, int> Players.Get(ePlayerListSort filter, string search).
+- Se añadió FeatureMgr.SearchFeature.
+- Se añadieron Feature:SetSearchable y Feature:IsSearchable.
+- Se corrigió que Lua Curl causara problemas debido al recolector de basura de Lua.
+
+[Cherax 5.6.1]
+
+- Se mejoraron las opciones de eventos de temporada.
+- Se corrigió el error de inyección.
+- Se corrigió el bloqueo del propio spam de chat a través de la API de Lua.
+
+[Cherax 5.6.0]
+
+- Se añadieron traducciones personalizadas (el archivo de traducción predeterminado se creará en Cherax/Translations).
+- Se añadieron reacciones (Kick, Crash, Reporte, Spam de Chat, Palabras Prohibidas en el Chat).
+- Se añadieron tipos de reacción (Kick, Crash, Tiempo de Espera Agotado de Eventos de Script, Tiempo de Espera Agotado de Sincronización de Entidades).
+- Se añadió el control deslizante de duración de tiempo de espera agotado de eventos de script.
+- Se añadió el control deslizante de duración de tiempo de espera agotado de sincronización de entidades.
+- Se añadieron más notificaciones (Kicking, Crashing, Migraciones de Anfitrión).
+- Se añadieron más enfriamientos a Desactivar Varios Enfriamientos.
+- Se corrigió la selección de vehículos para vehículos con el mismo nombre.
+- Se corrigió el desvío de No Clip.
+- Los glifos para chino, coreano, japonés y ruso ahora siempre se cargan y se muestran correctamente cuando es necesario.
+- Los mensajes de consola que se repiten ahora tendrán un contador como los avisos emergentes.
+- Desactivar Varios Enfriamientos ahora te permite elegir qué tipos de enfriamientos deseas desactivar.
+- Añadido a Lua:
+- Natives de b3095
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Se añadió Ban Kick.
+- Se añadió Bloquear Modo Pasivo.
+- Se mejoró la detección de modders.
+- Se mejoró la limpieza automática de entidades de scripts de Lua.
+- Se corrigió la protección contra "Script Host Crash V2".
+- Se corrigió que algunas funciones no estuvieran disponibles para usuarios gratuitos.
+
+[Cherax V5.4.0]
+
+- Se rediseñó 'Bail From Session'.
+- Se añadió 'Story Bail From Session' (antiguo Bail From Session).
+- Se añadió 'Super Bail From Session'.
+- Se añadió 'Spawnear con la Radio Apagada'.
+- Se mejoró AAC.
+- Se corrigió la protección contra eventos de script y muchas funciones de eventos de script.
+- Se corrigió la protección contra kicks por error de red.
+- Se corrigió el jugar en línea con peds de DLC y vehículos de DLC.
+- Se corrigió el desbloqueo de Nivel 1000 para LSCM.
+- Se corrigieron errores tipográficos.
+- Se corrigieron algunas descripciones de ejemplos de Lua.
+
+[Cherax V5.3.0]
+
+- Se añadió Congelar Atacantes.
+- Se añadió el Alternador de Protección Avanzada contra Eventos de Script.
+- Se añadió Debilitar Kicks de Anfitrión.
+- Se añadió Desactivar Colisión con Peds (Vehículo).
+- Se añadió información de RTTI para los registros de excepciones.
+- Se añadieron funciones faltantes en la GUI de lista.
+- Se mejoró la detección de modders.
+- Se mejoró el registro y la prevención de Bail.
+- Se mejoró la protección contra crashes.
+- Se mejoraron los desbloqueos.
+- Se mejoró la manipulación del casino.
+- Se mejoró la protección contra publicidad en el chat.
+- Se mejoraron las descripciones para las opciones del Editor de Manejo.
+- Se corrigió el cargador ASI.
+- Se corrigieron falsas alarmas sobre acoplamientos a tu vehículo.
+- Se corrigió la Visión Térmica.
+- Se corrigió la muerte al espectar.
+- Se corrigió que el 'Modo Deluxo' crasheara en ciertos vehículos.
+
+Lua:
+- Se añadió CVehicle.SteerAngle.
+- Se añadió CVehicle.SecondSteerAngle.
+- Se añadió CVehicle.Throttle.
+- Se añadió CVehicle.Brake.
+- Se añadió CVehicle.Nitrous.
+- Se añadió CVehicle.DirtLevel.
+- Se añadió CVehicle.BodyDirtColor.
+- Se añadió CVehicle.HeadlightMultiplier.
+- Se añadió CVehicle.VehicleTopSpeedPercent.
+- Se añadió CVehicle.CheatPowerIncrease.
+- Se añadió el parámetro 'AutoCleanup' para Utils.SpawnVehicle y Utils.CreatePed.
+
+[Cherax V5.2.2]
+
+- Se corrigieron más problemas introducidos por el parche más reciente del juego.
+- Algunas correcciones de errores y mejoras.
+
+[Cherax V5.2.1]
+
+- Se corrigieron problemas de estabilidad.
+
+[Cherax V5.2.0]
+
+- Se actualizó para el DLC más reciente del juego.
+- Se añadieron los vehículos de "The Chop Shop" al spawner.
+- Se añadió el Modo de Manejo de Drift (aplica el manejo de drift de los nuevos vehículos de drift).
+- Se añadió la opción de jugador "Kick y Bloquear Unión".
+- Se añadió Kick de Vehículo en Bucle.
+- Se añadió Detección de Vehículos Moddeados.
+- Se añadió Kick de Vehículo en Bucle de la Sesión.
+- Se añadió Sobornar a las Autoridades para la Sesión.
+- Se añadió Fuera del Radar para la Sesión.
+- Se añadió Limpiar Nivel de Búsqueda para la Sesión.
+- Se añadió Enjaular a Todos para la Sesión.
+- Se añadió Kick Aleatorio.
+- Se añadió Forzar Automáticamente Anfitrión del Script.
+- Se añadió Estado de Información de Transición del HUD.
+- Se añadió Forzar Blip.
+- Se añadió Anulación de Máquinas Tragamonedas.
+- Se añadió Anular Ruleta.
+- Se añadió Anular Carreras de Caballos.
+- Se añadió Anular Juegos de Cartas.
+- Se añadió Anulación de la Ruleta de la Fortuna.
+- Se añadió el evento Happy Holidays Hauler a Activar Navidad.
+- Se añadió Desbloquear Vehículos de Dripfeed.
+- Se añadió Omitir Espera de Modo Libre.
+- Se mejoró la protección contra spam y publicidad.
+- Se mejoró el Drop Kick.
+- Se mejoró la protección y el envío de eventos de script.
+- Se mejoró la detección de modders y la anti detección de modders.
+- Se eliminó Money Drop (modelo parcheado por Rockstar).
+- Lua ahora admite más tipos de funciones (List y List With Info).
+- Se renombró Stop Vehicle Kick a Gentle Vehicle Kick.
+- Muchas mejoras internas y correcciones de errores.
+
+[Cherax 5.1.1]
+
+- Se corrigieron problemas al sincronizar objetos cuando se usa el agujero negro.
+- Se corrigieron falsos positivos en la detección de modders por crash de anfitrión.
+- Se añadieron los últimos modelos creados al registro de excepciones.
+
+[Cherax 5.1.0]
+
+- Se añadieron delimitadores para el dinero.
+- Se añadió Desbloquear Movimiento en Interiores.
+- Se añadió Permitir Armas en Interiores.
+- Se añadió Bloqueo de Spam de Chat.
+- Se añadió Protección contra Spam de Explosiones.
+- Se añadió Corromper Token de Anfitrión.
+- Se añadió Desactivar Colisión de Objetos para el vehículo.
+- Se añadió búsqueda para todas las listas de jugadores.
+- Se añadió Guardar Vehículo (Lista de Jugadores).
+- Se añadió Mantener Velocidad para No Clip.
+- Se añadieron más detecciones de modders.
+- Se añadieron y mejoraron algunos ejemplos de la API de Lua.
+- Se añadió AC Crash.
+- Se mejoraron notablemente las protecciones contra crashes.
+- Se mejoró Protección Inteligente.
+- Se mejoró el Aimbot.
+- Se mejoró Drop Kick (no funciona en el Anfitrión).
+- Se mejoró Agujero Negro (ahora interactúa con props).
+- Se corrigió que se aplicaran automáticamente algunos mods inválidos (Mejorar Vehículo).
+- Se corrigió Secuestrar Jugador.
+- Se corrigió Quitar Todas las Armas (Lista de Jugadores).
+- Se corrigió Jugadores Guardados/Recientes para la GUI de lista.
+- Se aumentó la altura de spawn para aviones.
+- Los vehículos y atuendos guardados ahora se sobrescriben al guardar con el mismo nombre.
+
+[Cherax v5.0.2]
+
+- Se corrigieron problemas de inyección debidos a la actualización de Social Club.
+- Se corrigieron algunos problemas con scripts suscritos grandes.
+- Se corrigió la entrada de texto de la GUI de lista.
+- Se corrigió el filtro del spawner de la GUI de lista.
+- Se añadió la vista previa del spawner de la GUI de lista.
+- Se añadieron algunas detecciones de modders.
+- Se añadieron algunas protecciones contra crashes.
+- Se desactivó temporalmente la protección contra kicks de desincronización.
+
+[Cherax v5.0.1]
+
+- Se corrigieron los crashes debidos a fallos en la carga de fuentes al inyectar.
+- Se corrigió que no se cargaran los glifos de la fuente coreana.
+- Se corrigieron los nombres de garaje vacíos para el spawner de vehículos personales.
+- Se corrigió el falso positivo por acoplamientos a tu Cargobob.
+- Se corrigió que no se guardara la posición de la ventana de información.
+- Se corrigió que no se guardara la tecla personalizada para abrir el menú.
+- Se corrigió la comprobación de anfitrión al adelantar el tiempo del jugador.
+- Se corrigió un posible crash al descargar.
+- Se corrigieron problemas de rendimiento al suscribirse a scripts grandes.
+- Se corrigió una fuga de memoria en el cargador de imágenes.
+- Se corrigió la protección contra crash de anfitrión.
+- Se corrigió la protección contra forzar la cámara hacia adelante.
+- Se corrigió que limpiar entidades de misión tuviera el efecto contrario.
+- Se mejoró la protección contra publicidad en el chat.
+
+Cherax Loader:
+- Se mejoró el rendimiento en un 400%.
+- Se corrigió que las páginas de recursos no funcionaran.
+- Se corrigió una fuga de memoria en el cargador de imágenes.
+
+[Cherax V5.0.0]
+
+- Lanzamiento inicial

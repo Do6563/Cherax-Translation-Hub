@@ -1,112 +1,1192 @@
 [5.52.1 EE / 5.43.1 LE]
 
 - Hozzáadva: Jármű -> Nincs tapadásvesztés
-- Fejlesztett fordítási rendszer
-- Fejlesztett védelmek
-- Különböző hibák javítva
+- Fordítási rendszer fejlesztve
+- Védelmek fejlesztve
+- Különféle hibák javítva
 
+[5.52.0 EE / 5.43.0 LE]
 
+- Hozzáadva: Munkamenet -> Zökkenőmentes újracsatlakozás
+- Hozzáadva: Munkamenet -> Időzített munkamenet-újracsatlakozás
+- Hozzáadva: Saját karakter -> Belső terek NoClip-sebességei
+- Hozzáadva: Saját karakter -> Megjelenés -> Autólopási animációk
+- Hozzáadva: Saját karakter -> Megjelenés -> Autólopási animációk keverése
+- Hozzáadva: Recovery -> Módosított futás eltávolítása
+- Hozzáadva: Recovery -> Bad Sport beállítása/eltávolítása
+- Hozzáadva: Recovery -> Ghosts Exposed visszaállítása
+- Hozzáadva: Aimbot -> Átlövés
+- Hozzáadva: ESP -> Objektum -> Doboz rajzolása
+- Hozzáadva: Jármű -> Visszajátszás
+- Lua frissítve 5.5.1-es verzióra
+- Stream Proof renderelés fejlesztve
+- Sima átmenet fejlesztve
+- Hulk jármű és Hulk ped fejlesztve
+- Aimbot fejlesztve
+- ESP fejlesztve
+- Védelmek fejlesztve
+- Az egérgombok mostantól gyorsbillentyűként is használhatók
+- Különféle hibák javítva
 
+[5.51.0 EE / 5.42.0 LE]
 
+- Hozzáadva: Egyéb -> Világ -> Tükörvilág
+- Hozzáadva: Munkamenet -> Általános -> Freemode újraindítása
+- DLC-betöltés fejlesztve + működés javítva EE-n
+- A DLC-k mostantól csak akkor jelennek meg a listában, ha kompatibilisek a játékverzióddal
+- Sima átmenet fejlesztve
+- Különféle hibák javítva
 
+[5.50.0 EE / 5.41.0 LE]
 
+- Összeomlás elleni védelmek fejlesztve
+- Egyéb hibajavítások és fejlesztések
 
+[Hotfix Update]
 
-- 8/9/2026 10:34 AM
-[Cherax v5.0.1 - 2023/12/11]
-- javítva az injectáláskori sikertelen betűtípus-betöltés miatti crash-ek
-- javítva a koreai betűtípus-karakterek betöltési hibája
-- javítva az üres garázsnevek a személyes jármű-lehívóban
-- javítva a Cargobobodhoz csatolt elemek miatti téves riasztások
-- javítva az információs ablak pozíciójának mentési hibája
-- javítva az egyéni menu megnyitási gombjának mentési hibája
-- javítva a játékos időbeli előre-warp-olásának host ellenőrzése
-- javítva egy lehetséges crash unload-olás közben
-- javítva a teljesítménybeli problémák nagyobb scriptekre történő feliratkozáskor
-- javítva a memóriaszivárgás a képbetöltőben
-- javítva a host crash elleni védelem
-- javítva a kényszerített kamera-előrenézet (force camera forward) elleni védelem
-- javítva a küldetés entitások törlésének (clear mission entities) ellentétes hatása
-- továbbfejlesztve a chat-hirdetések elleni védelem
+- EE frissítve a legújabb játékverzióra
 
-- Cherax Loader
-- 400%-kal növelt teljesítmény
-- javítva a nem működő erőforrás-oldalak
-- javítva a memóriaszivárgás a képbetöltőben
+[5.X EE & LE]
 
+- Hozzáadva: Munkamenet -> Matchmaking -> Régió felülbírálása
+- Hozzáadva: Munkamenet -> Matchmaking -> Célzás típusának felülbírálása
+- Hozzáadva: Munkamenet -> Matchmaking -> Minimális játékosszám felülbírálása
+- Hozzáadva: Munkamenet -> Host eszköztár -> Régió hirdetése
+- Hozzáadva: Jármű -> Kényelem -> Levegőbeli irányítás szorzója
+- Újra hozzáadva: Munkamenet -> Egyéb -> Tele munkamenetekhez csatlakozás megkerülése
+- Öltözék-alkalmazási korlátozások letiltása fejlesztve
+- DaniGP17 teljesítményjavítása implementálva
+- Munkamenet-böngésző javítva és fejlesztve
+- Néhány szkriptbetöltési hiba javítva
 
+[5.X EE & LE]
 
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Lézerütközés letiltása
+- Hozzáadva: Védelmek -> Tranzakciós hibák letiltása
+- Különféle fejlesztések és hibajavítások
 
+[5.X EE & LE]
 
+- Különféle fejlesztések és hibajavítások
 
+[5.48.0 EE]
 
+- Frissítve az 1.0.1158.13-as játékverzióra
+- Ruházat feloldása frissítve
+- DLC-tartalmak feloldása frissítve
+- Különféle fejlesztések és hibajavítások
 
-- 8/8/2026 12:24 PM
-[Cherax V5.3.0 - 2023/12/18]
-- Támadók lefagyasztása (Freeze Attackers) hozzáadva
-- Fejlett Script Event védelmi kapcsoló hozzáadva
-- Host kirúgások gyengítése (Weaken Host Kicks) hozzáadva
-- Gyalogos ütközések kikapcsolása (Disable Ped Collision - Jármű) hozzáadva
-- RTTI információk a kivételnaplókhoz (Exception Logs) hozzáadva
-- Hiányzó funkciók a listás GUI-ban hozzáadva
+[5.39.3 LE]
+
+- Frissítve az 1.0.3889.0-s játékverzióra
+- Különféle fejlesztések és hibajavítások
+
+[5.X EE & LE]
+
+- Hozzáadva az ImGui.BeginDisabled és ImGui.EndDisabled a Lua szkriptekhez.
+- Fejléc-eltolás testreszabása hozzáadva a témákhoz. (Csak Click GUI)
+- Presence hamisítás hozzáadva (Hálózat fül)
+- Védelmek fejlesztve.
+- Javítva a motorkerékpárok megállása, amikor a közelükbe értél
+- Egyéb hibajavítások és fejlesztések
+
+Lua:
+- Hozzáadva az ON_NOTIFICATION esemény a Lua szkriptekhez (lehetővé teszi a beépített értesítési rendszer felülbírálását).
+
+[5.X EE & LE]
+
+- Frissítve a legújabb játékverzióra
+- No Ragdoll fejlesztve
+- Módosított PTFX blokkolása fejlesztve (EE)
+- Módosított robbanások blokkolása fejlesztve (EE)
+- Jármű spam és ped spam elleni védelmek fejlesztve (téves észlelésekhez vezethet)
+- Védelmek fejlesztve
+- Javítva a hiba, amely miatt az Összes fegyver átadása érvénytelen fegyvereket adott
+- Egyéb hibajavítások és fejlesztések
+
+[5.X EE & LE]
+
+- Frissítve a legújabb játékverzióra
+
+[5.X EE & LE]
+
+- Védelmek fejlesztve
+- Különféle hibák javítva
+
+[5.X EE & LE]
+
+- Platform és Platform-azonosító hozzáadva a Játékosinfóhoz
+- Car Meet és Arena Wars szint átültetve LE-re
+- Összeomlás elleni védelmek fejlesztve
+- Hibák javítva
+
+[5.X EE & LE]
+
+- Összes kúria trófea feloldása hozzáadva
+- DLC-tartalmak feloldása fejlesztve
+- Frissítve a legújabb játékverzióra
+
+[5.X EE & LE]
+
+- Ingyenes vásárlás fejlesztve (mostantól mindent tartalmaz)
+- Halloween engedélyezése fejlesztve (mostantól tartalmazza az UFO-kat is)
+- Védelmek fejlesztve
+- Frissítve az 1.72-es játékverzióra
+
+[5.45.0 EE]
+
+- Hozzáadva: Játékoslista -> Szöveges üzenet küldése
+- Hozzáadva: Munkamenet -> Szöveges üzenet küldése
+- Hozzáadva: Munkamenet -> Régió hirdetése
+- Hozzáadva: Játékosinfó -> Arena Wars szint
+- Hozzáadva: Játékosinfó -> Car Meet szint
+- Hozzáadva: Védelmek -> Távoli vérdíj blokkolása
+- Hozzáadva: Védelmek -> Módosított hangok blokkolása
+- Hozzáadva: Védelmek -> Módosított PTFX blokkolása
+- Ruházat feloldása fejlesztve
+- DLC-tartalmak feloldása frissítve
+
+[5.X EE & LE]
+
+- Hozzáadva: Játékoslista -> Barátságos -> Drop (Premium)
+- Hozzáadva: Játékoslista -> Barátságos -> Drop típusa
+- Hozzáadva: Játékoslista -> Barátságos -> Drop késleltetése
+- Hozzáadva: Recovery -> Egyéb feloldások -> Maximális Salvage Yard széfpénz
+- Hozzáadva: Egyéb -> ESP -> Ellenséges
+- Megújított ESP-rendszer
+- Számos felületi változtatás
+- Javítva és jelentősen fejlesztve: Egyéb -> Általános -> Korlátozások -> Különféle visszaszámlálások letiltása
+- Teleportálás a célhoz fejlesztve
+- Injektálási idők fejlesztve
+- Az Automatikus MMI minden igénylése mostantól a lefoglalt járművet is kiváltja
+
+[5.36.0 LE]
+
+- A továbbfejlesztett Személyes jármű kérése kód átültetve EE-ből
+- Összes vállalkozási figyelem törlése átültetve
+
+[5.44.0 EE]
+
+- Hozzáadva: Játékos -> Megjelenés -> Átváltozás -> Haj méretezése
+- Hozzáadva: Játékos -> Általános -> Láthatatlanság -> Látható játékos felülbírálása
+- Hozzáadva: Munkamenet -> Összes játékos -> Láthatatlan játékosok felfedése
+
+[Cherax 5.43.0 EE]
+
+- Képkocka-generálás támogatása hozzáadva
+- Néhány hiba javítva
+
+[Cherax 5.35.1 LE]
+
+- Néhány hiba javítva
+
+[5.X EE & LE]
+
+- Hozzáadva: Játékos -> Általános -> Láthatatlanság -> Látható játékos felülbírálása
+- Hozzáadva: Munkamenet -> Összes játékos -> Láthatatlan játékosok felfedése
+- Védelem fehérlista hozzáadva
+- Védelem értesítések hozzáadva
+- Összeomlás elleni védelmek fejlesztve
+- Szkriptesemény-védelem blokkolási naplója fejlesztve
+- Csatlakozás blokkolása javítva
+- Javítva a nyilvános lobbikhoz való csatlakozás sikertelensége
+- Különféle hibák és téves észlelések javítva
+
+[5.42.0 EE]
+
+- Kick elleni védelem fejlesztve
+
+[5.35.0 LE]
+
+- Javítva a beviteli hiba a Home billentyű lenyomásakor
+
+Lua:
+- A PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup, GetObject mostantól 0-t ad vissza -1 helyett hiba esetén
+- A PoolMgr.GetRenderedVehicles javítva
+- A PoolMgr.GetRenderedPeds javítva
+- A PoolMgr.GetRenderedObjects javítva
+
+[5.41.0 EE]
+
+- Hozzáadva: Recovery -> Vizuális feloldások -> Kaszinó Penthouse rendetlenség feloldása
+- Feloldások fejlesztve
+- Néhány hiba javítva
+
+[5.40.0 EE]
+
+- Hozzáadva: Recovery -> Egyéb feloldások -> Összes vállalkozási figyelem törlése
+- Új járműképek hozzáadva
+- Feloldások fejlesztve
+- DLC-tartalmak feloldása frissítve
+- Rejtett járművek listázása javítva
+
+[5.39.0 EE]
+
+- Frissítve a legújabb játékverzióra
+- Hozzáadva: Egyéb -> Világ -> Fények -> Fények szinkronizálása a rádióhoz
+- Összes járműmódosítás listázása fejlesztve
+- Összes ruházati elem listázása fejlesztve
+- Feloldások fejlesztve
+- Néhány hiba javítva
+
+[5.34.3 LE]
+
+- Frissítve a legújabb játékverzióra
+
+[5.38.0 EE]
+
+- Hozzáadva: Egyéb -> Általános -> Üzletek -> Összes járműmódosítás listázása
+- Néhány hiba javítva
+
+[5.37.0 EE]
+
+- Összes ruházati elem listázása hozzáadva
+- Összes kitüntetés feloldása hozzáadva
+- Összes CEO iroda trófea feloldása hozzáadva
+- Összes motoros klub trófea feloldása hozzáadva
+- Összes éjszakai klub trófea feloldása hozzáadva
+- Összes létesítmény trófea feloldása hozzáadva
+- Összes játékterem trófea feloldása hozzáadva
+- Összes aréna trófea feloldása hozzáadva
+- Összes ügynökség trófea feloldása hozzáadva
+- Összes Freakshop trófea feloldása hozzáadva
+- Összes Salvage Yard trófea feloldása hozzáadva
+- Összes óvadéki iroda trófea feloldása hozzáadva
+- Összes ruhaüzem trófea feloldása hozzáadva
+- Golyóálló/kis tapadású gumik hozzáadva
+- Fegyver-visszaszámlálás eltávolítása hozzáadva
+- Fegyverkorlátozások eltávolítása hozzáadva
+- Lövedékek távoli irányítása hozzáadva
+- Rámpaképesség kényszerítése hozzáadva
+- Személyes jármű kérése fejlesztve
+- Feloldások fejlesztve
+- Képbetöltés fejlesztve
+- Teljesítmény fejlesztve
+- Javítva a személyes járművek listája, amely nem jelenítette meg a kerékpárokat
+- Javítva az első jármű-extra hibás beállítása
+- Javítva a jármű-extrák fájlba mentésének hibája
+- Javítva a jármű betöltésekor hibásan alkalmazott gumifüst szín
+- Javítva a kerékpárok megjelenítése a személyes járművek listájában
+- Téves észlelések javítva
+- Javítva a Home billentyű lenyomása utáni fordított gépelés
+- Különféle egyéb kisebb hibák javítva
+- A sebességmérő mostantól rejtve van telefonálás közben
+- Alapértelmezett téma lecserélve (a régi alapértelmezett téma Old_Original néven mentve)
+- A Cherax LE témák mostantól teljesen kompatibilisek a Cherax EE-vel, és fordítva
+- Frissítve a legújabb játékverzióra
+
+Lua:
+- Hozzáadva: GTA.AddExplosion(CExplosionArgs args)
+
+[5.34.2 LE]
+
+- Frissítve a legújabb játékverzióra
+
+Loader:
+- Az automatikus indítás mostantól elérhető az Xbox Apphoz (PC)
+
+[5.36.1 EE]
+
+- Kopott, Haszonjármű és Különleges járműszínek hozzáadva
+- Karakterglifák betöltése a fordításokhoz javítva
+
+[5.36.0 EE]
+
+- Karrier előrehaladás feloldása hozzáadva
+- Összes gyűjthető tárgy feloldása hozzáadva
+- Bűnözői karrier bevezetőjének kihagyása hozzáadva
+- Kaméleon hozzáadva a kerékszínekhez
+- Összes feloldás fejlesztve
+- Kilépés a kezdőlapra fejlesztve
+- Összes fegyveralkatrész megjelenítése fejlesztve
+- Frissítve a legújabb játékverzióra
+
+[5.34.1 LE]
+
+- Frissítve a legújabb játékverzióra
+
+[5.35.0 EE]
+
+- Cherax frissítve EE-re
+- GTA+ feloldása hozzáadva
+- GTA+ játékoscímke hozzáadva
+- Új járműszínek hozzáadva
+- Új jármű-extrák hozzáadva
+- Feloldások fejlesztve
+- Los Santos Most Wanted fejlesztve
+- Számos egyéb fejlesztés
+- Különféle hibák javítva
+
+[5.34.0]
+
+- Frissítve a b3442-es játékverzióra
+- Víz alatti vezetés hozzáadva
+- Összes média pendrive feloldása hozzáadva
+- Új járműképek hozzáadva
+- Egyéni konzolszínek hozzáadva
+- Cherax News képcsere hozzáadva
+- Ellenségek lövése hozzáadva Aimbot szűrőként
+- Képkockasebesség-korlát feloldása / Akadozás megszüntetése a szünet menüben hozzáadva (mindig bekapcsolva)
+- Ruhatárelemek elnevezése fejlesztve
+- Átvezető jelenetek kihagyása fejlesztve
+- Játékosok felfedése fejlesztve
+- Védelmek fejlesztve
+- Script host kényszerítése javítva
+- Script host átadása javítva
+- Néhány modder észlelési téves riasztás javítva
+- Különféle hibák javítva
+
+[5.33.0]
+
+- BattlEye kick és ban kick újra hozzáadva
+- BattlEye szerver-implementáció fejlesztve
+- Ruházat feloldása fejlesztve
+
+[5.32.0]
+
+- Frissítve a b3411-es játékverzióra
+- A Hulk mód és Hulk jármű mostantól megfelelően szinkronizálódik a többi Cherax-felhasználóval
+
+Lua:
+- Hozzáadva: Memory.LuaCallCFunctionWithReturnValue
+
+[5.31.1]
+
+- Végtelen betöltés meló indításakor javítva
+
+[Cherax 5.31.0]
+
+- ATF Crash hozzáadva
+- Védelmek fejlesztve
+- Néhány téves észlelés javítva
+
+[Cherax 5.30.0]
+
+- Frissítve a b3407-es játékverzióra
+- Új járművek hozzáadva
+- DLC-tartalmak feloldása frissítve (tartalmazza az új Hangár ingatlant)
+- Hozzáadva: Egyéb -> Világ -> Vadvilág engedélyezése az Online-ban
+- Hozzáadva: Munkamenet -> Gyorsabb átmenet -> Sima átmenet
+- Da Nile Crash eltávolítva (a Rockstar javította)
+- Fejlesztések és hibajavítások
+
+Lua:
+- Hozzáadva: FeatureMgr.GetAllPlayerFeatureHashes()
+- Hozzáadva: FeatureMgr.GetAllPlayerFeatureHashes(int)
+- Hozzáadva: Feature:IsPlayerFeature
+- Hozzáadva: Feature:GetStepSizeInt
+- Hozzáadva: Feature:GetFastStepSizeInt
+- Hozzáadva: Feature:GetStepSizeFloat
+- Hozzáadva: Feature:GetFastStepSizeFloat
+- Néhány hiba javítva
+
+[Cherax 5.29.0]
+
+- BattlEye szerver-implementáció hozzáadva (legyél host anélkül, hogy a szabályos játékosok kirúgnák magukat)
+- Részleges BattlEye kliens-emuláció hozzáadva (maradj egy kicsit tovább a munkamenetben anélkül, hogy kirúgnának)
+- Munkamenet-böngésző javítva
+- Munkamenet hirdetése javítva
+- Javítva a hiba, amely miatt késői injektálás esetén nem lehetett online módba lépni
+
+[Cherax 5.28.0]
+
+- Frissítve a b3351-es verzióra
+- Feloldások fejlesztve
+- A szivárvány színű keréknyomok mostantól a színüket is szinkronizálják a többi áttűnési opcióval
+- Host sor szerinti rendezés javítva
+
+[5.27.1]
+
+- Frissítve a b3337-es játékverzióra
+- BattlEye kick és BattlEye ban kick hozzáadva
+- Következő munkamenet-host erőszakolt kényszerítése letiltva
+
+[5.27.0]
+
+- Frissítve a b3323-as játékverzióra
+- Drón/rakéta távolsági korlátok letiltása hozzáadva
+- Drón halhatatlanság hozzáadva
+- Prostituált-korlátozások letiltása hozzáadva
+- Védelmek fejlesztve
+- Funkciókeresés rendezése javítva
+
+[5.26.0]
+
+- Hozzáadva: Munkamenet -> Játékos-hamisítás -> Pozíció hamisítása
+- Hozzáadva: Munkamenet -> Játékos-hamisítás -> Hamisítási pozíció beállítása
+- Hozzáadva: Védelmek -> Reakciók -> Téged figyel meg
+- Hozzáadva: Védelmek -> Reagálás a következővel -> Pozícióhamisítási reakció
+- Hozzáadva: Jármű -> Handling szerkesztő -> Handling visszaállítása
+- Hozzáadva: Játékoskövető -> Legutóbbi játékosok -> Csatlakozások blokkolása
+- Hozzáadva: Munkamenet -> Csevegés -> Szöveges csevegés némítása
+- Hozzáadva: Munkamenet -> Munkamenet hirdetése
+- Hozzáadva: Munkamenet -> Hirdetések száma
+- Hozzáadva: Recovery -> Összes Freemode küldetés feloldása
+- Küldetések befejezése fejlesztve
+- Hozzáadva: Egyéb -> Csevegés -> Játékosnév automatikus kiegészítése
+- Hozzáadva: Egyéb -> ESP -> Nyomvonalak rajzolása
+- Discord RPC hozzáadva (alapértelmezetten kikapcsolva)
+- Munkamenet-csatlakozások engedélyezése
+- A pillanat üzenete
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Blackjack felülbírálása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Játékkiszedő gép felülbírálása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Axe Fury játék felülbírálása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Szerelemmérő játék felülbírálása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Játéktermi játékok halhatatlansága
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Darts-ingadozás letiltása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Szkander felülbírálása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Golfszél letiltása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Golf növényzet-ütközés letiltása
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Golflyuk automatikus befejezése
+- Hozzáadva: Egyéb -> Kísérleti funkciók -> Összes fegyveralkatrész megjelenítése
+- Hozzáadva: Téma -> Értesítésismétlési számláló megjelenítése
+- Hozzáadva: Téma -> Értesítési élettartamsáv megjelenítése
+- Hozzáadva: Téma -> Értesítési élettartamsáv színe
+- Értesítés háttérkép hozzáadva (Nevezz el egy képet toast_background.* névre (.png, .jpg, .gif stb. támogatott) egy ClickGUI téma mappájában)
+- Hozzáadva: List GUI téma -> Menü X, Y
+- Védelmek fejlesztve
+- A Block Gun mostantól mozdíthatatlan kockákat helyez el
+- Mostantól bármelyik játékosinfót a vágólapra másolhatod, ha rákattintasz
+- Mostantól a kurzort a modder-indokokra húzva megtekintheted az észlelések teljes listáját
+- Javítva a hiba, amely miatt az Ingyenes vásárlás nem működött olyan tárgyaknál, amelyeket nem engedhettél meg magadnak
+- Fake Lag javítva
+- További fejlesztések és javítások
+
+[5.25.0]
+
+- Jármű törlése a garázsból hozzáadva
+- Összes légyott feloldása hozzáadva
+- Hangtompító járművekben való megtartása hozzáadva
+- Játékosválasztó fogópont színe hozzáadva a Click GUI témázáshoz
+- Hozzáadva: Click GUI téma -> Gyermek címsor -> Keresés ikon / Keresés ikon aktív
+- Hozzáadva: Click GUI téma -> Gyermek címsor -> Csillag ikon / Csillag ikon aktív
+- Hozzáadva: Click GUI téma -> Egyéb színek -> Játékosválasztó fogópont
+- Javítva a játékbevitelek feldolgozása, amikor színbeviteli mezőbe írtál
+- Javítva a hiba, amely miatt a List GUI Recovery fülén néhány funkció nem jelent meg
+- Védelmek fejlesztve
+
+Lua:
+- Kibetöltési logika megváltoztatva
+
+[5.24.0]
+
+- Jelenlegi jármű személyes járművé alakítása hozzáadva (Lehetővé teszi szinte bármilyen jármű garázsban való tárolását annak összes módosításával együtt)
+- Los Santos Most Wanted hozzáadva
+- Szkriptleállások naplózása hozzáadva
+- Együtt betölthetőség fejlesztve
+
+[5.23.0]
+
+- Ingyenes vásárlás hozzáadva
+- Kedvenc és kiemelt funkciók hozzáadva
+- Azonnali öngyilkosság hozzáadva
+- Car Meet nyereményautó megnyerése hozzáadva
+- Szkriptesemény-nevek hozzáadva a szkriptesemény-naplózóhoz
+- Védelmek fejlesztve
+- Forgalmi változatosság teljesítménye fejlesztve
+- Javítva a mozgásképtelenség a super bail használatakor
+- Néhány beviteli hiba javítva
+- Néhány egyéb hiba javítva
+- A különleges garázsok, mint például a Terrorbyte és az Éjszakai klub szállítójármű szintje mostantól szintén megjelennek a személyes jármű lehívóban a járműveikkel együtt
+
+Lua:
+- Hozzáadva: GTA.GetScriptEventName
+
+[Loader]
+
+- A Cherax mostantól gyorsítótárazva van, ami még gyorsabb injektálást és kevesebb hálózati forgalmat jelent
+- További automatikus hibaelhárítás hozzáadva
+
+[5.22.0]
+
+- DLC-tartalmak feloldása hozzáadva
+- Zsetoneladási visszaszámlálás hozzáadva a Különféle visszaszámlálások letiltása -> Kaszinó zsetonváltás menüponthoz
+- Drift részleg hozzáadva a lehívóhoz
+- Újabb járművek hozzáadva a megfelelő lehívási kategóriájukhoz
+- Egyéni ablakméret engedélyezése hozzáadva a Click GUI témához
+- Ruházat feloldása fejlesztve
+- Védelmek fejlesztve
+- Számos hiba javítva
+- Javítva a pontszámadat-hamisítás lehetséges téves jelzései
+
+Lua:
+- Opcionális paraméterek hozzáadva a ClickGUI.BeginCustomChildWindow függvényhez
+- number textAlignX
+- number textAlignY
+- Opcionális paraméterek hozzáadva az ImGui.AddRectFilledMultiColor függvényhez
+- number rounding
+- int flags
+- Dokumentációs eltérések javítva
+
+[5.21.2]
+
+- 2 új időjárástípus hozzáadva
+- Rejtett járművek listázása frissítve
+- Kilépési naplózás fejlesztve
+- Néhány hiba javítva
+- A PV lehívó mostantól mutatja a rendszám szövegét
+
+[5.21.1]
+
+- A Rockstar által javított funkciók eltávolítva
+- IW Crash eltávolítva
+- Ban kick eltávolítva
+- Maximális mentett lőszer
+- Jármű ajándékozása és biztosítása
+- Számos hibajavítás
+- Megjegyzés
+- Az RID Crash továbbra sincs javítva
+
+[5.21.0]
+
+- Frissítve a b3258-as játékverzióra
+- Új járművek hozzáadva
+- Új pedek hozzáadva
+- Új fegyverek hozzáadva
+- Védelmek fejlesztve
+- Modder észlelések fejlesztve
+- Anti-modder észlelések fejlesztve
+- Munkamenet-host kényszerítése fejlesztve
+- Javítva az Automatikus javítás, ha a jármű vízbe fulladt
+- Javítva a túl kicsi fejléc a Gyorsbillentyű és Infó ablaknál
+- Javítva a hiba, amely miatt a Játékos extra ablak kivételeket dobott Super Bail használatakor
+- Javítva az Azonnali újraélesztés kivételhibája
+- Javítva a hiba, amely miatt a Streamer mód nem rejtette el a neveket az ESP-ről
+- Javítva a teleportálás működése, ha egy objektumhoz voltál csatolva
+- Javítva a játékos-szkriptesemény funkciók kivételhibája Story Mode-ban
+
+Lua:
+- Hibanaplózás fejlesztve
+
+[5.20.0]
+
+- RID Crash hozzáadva
+- Da Nile Crash hozzáadva
+- Védelem fejlesztve
+- Csatlakozási figyelmeztetések automatikus megerősítése javítva
+- Néhány téves észlelés javítva a csevegési hirdetéseknél
+- Megjegyzés: Az általunk hozzáadott RID Crash-t már jelentettük a Rockstarnak, és nagy valószínűséggel a közelgő DLC-vel javításra kerül. A Cherax ingyenes verziója meg fog védeni ettől és más privát exploitoktól is.
+
+[5.19.1]
+
+- Védelmek fejlesztve
+- Javítva a "Shooting while Invincible" téves észlelés, amikor a játékos RC tankban ül
+- Egyéb hibajavítások
+
+[5.19.0]
+
+- Hozzáadva: Recovery -> Jármű -> Rejtett járművek listázása (weboldalakon)
+- Hozzáadva: Játékoslista -> Címkék -> Játékoscímkék (játékoscímkék engedélyezése/letiltása)
+- Hozzáadva: Játékosok -> Általános -> DLC modellek szinkronizálásának kényszerítése
+- Hozzáadva: Védelmek -> Általános -> Vérdíj spam blokkolása
+- "Almunkamenetben" játékoscímke hozzáadva
+- Rockstar admin észlelés fejlesztve
+- Az Anti AFK kick fejlesztve, hogy teljes képernyőn, letálcázott állapotban is működjön
 - Modder észlelés fejlesztve
-- Bail naplózás és megelőzés fejlesztve
-- Crash védelem fejlesztve
-- Feloldások (Unlocks) fejlesztve
-- Kaszinó manipuláció (Casino Rigging) fejlesztve
-- Chat hirdetések elleni védelem fejlesztve
-- Handling Editor opciók leírásai fejlesztve
+- Védelmek fejlesztve
+- Az RP drop szétválasztva a következőkre: "Pénz és RP drop" és "Zseton és RP drop"
+- Különféle hibajavítások
+
+Lua:
+- Hozzáadva: Utils.IsKeyDown
+- Hozzáadva: Utils.IsKeyPressed
+- Hozzáadva: Utils.GetClipBoardText
+- Hozzáadva: Utils.SetClipBoardText
+- Hozzáadva az eProtectionType enumok
+- Hozzáadva: eLuaEvent.ON_REACTION
+- Használat a példaszkriptben
+
+[Loader]
+
+- Javítva az összeomlás, ha a Cherax mappájának elérési útja speciális karaktereket tartalmaz
+
+[5.18.2]
+
+- Megfigyelés észlelése fejlesztve
+- Fegyverek engedélyezése belső térben fejlesztve
+- Modder észlelés téves riasztása javítva
+
+[5.18.1]
+
+- Belső térben tartózkodás észlelése fejlesztve
+- Megfigyelés észlelése fejlesztve
+- Modder észlelés fejlesztve
+- Sebzésmódosító téves jelzései javítva
+
+[5.18.0 Bravado Update]
+
+- Ez a frissítés felületi változtatásokkal érkezik, hogy megkönnyítse a navigációt a menüben.
+- Hozzáadva: Játékos -> Mozgás -> Zuhanásmódosító
+- Hozzáadva: Játékos -> Mozgás -> Ugrásmódosító
+- Hozzáadva: Játékos -> Élet -> Halálhatár letiltása
+- Hozzáadva: Játékos -> Ütközés -> Hulk mód
+- Hozzáadva: Játékos -> Ütközés -> Átsétálás járműveken
+- Hozzáadva: Játékos -> Ütközés -> Átsétálás pedeken
+- Hozzáadva: Játékos -> Ütközés -> Átsétálás objektumokon
+- Hozzáadva: Játékos -> Ütközés -> Átsétálás falakon
+- Hozzáadva: Jármű -> Ütközés -> Hulk jármű
+- Nehéz jármű eltávolítva
+- Hozzáadva: Handling szerkesztő -> Handling jelzők
+- Hozzáadva: Handling szerkesztő -> Modell jelzők
+- Hozzáadva: Handling szerkesztő -> Haladó jelzők
+- Hozzáadva: Handling szerkesztő -> Ajtósérülési jelzők
+- Hozzáadva: Világ -> Objektumfénylés -> Felvételi pontok fénylésének letiltása
+- Hozzáadva: Világ -> Objektumfénylés -> Üvegfénylés engedélyezése
+- Hozzáadva: Világ -> Objektumfénylés -> Fénylési effektus felülbírálása
+- Hozzáadva: Világ -> Objektumfénylés -> Fénylés intenzitása
+- Hozzáadva: Világ -> Objektumfénylés -> Fénylés gyakorisága
+- Hozzáadva: Védelmek -> Egyéb -> Sebzésmódosító elrejtése
+- Védelmek fejlesztve
+- Script host átadása javítva
+- Soul Switch Gun javítva
+- A Use Code Cherax átnevezve Ingyenes szolgáltatások névre
+- A szivárvány színű keréknyomok mostantól minden felületen működnek
+
+Lua:
+- Hozzáadva: ModderDB.GetModderDetections
+- Hozzáadva: ModderDB.GetModderDetectionsByPlayerId
+- Hozzáadva a CPlayerInfo usertype
+- Hozzáadva: CNetGamePlayer.PlayerInfo
+- Hozzáadva: CPed.PlayerInfo
+- Hozzáadva: Players.GetCam
+- Hozzáadva: Players.GetCamRot
+- Hozzáadva: Players.GetIPInfo
+- Hozzáadva: ModderDB.RemoveModder
+- Hozzáadva: ModderDB.RemoveModderDetection
+- A Memory.LuaCallCFunction javítva
+- Javítva a hiba, amely miatt az üres feliratú Combo funkciók üres helyet hagytak rendereléskor
+
+[5.17.3]
+
+- Összeomlás elleni védelem fejlesztve
+- Javítva a hiba, amely miatt egy nem jóváhagyott szkriptre való feliratkozás összeomlást okozott
+- Néhány egyéb hibajavítás
+
+[5.17.2]
+
+- Keresősáv hozzáadva közvetlenül az ablak címsorába
+- Címsor-kereső háttérszíne hozzáadva a testreszabáshoz
+- Összeomlás elleni védelem fejlesztve
+- Javítva a hiba, amely miatt bizonyos entitások átestek a talajon az ütközések egy bizonyos küszöbértékének elérésekor
+- Javítva a játékon belüli csevegés problémái a List GUI használata közben
+
+[5.17.1]
+
+- Munkamenet elől való elrejtés védelem hozzáadva
+- Cherax hírlevél kapcsoló hozzáadva
+- A Use Code Cherax fejlesztve (mostantól minden telefonos és interakciós menüs szolgáltatás ingyenes, beleértve az Orbitális ágyút is)
+- Rulett manipulálás összeomlása javítva
+- Jármű klónozása összeomlása javítva
+- Rámpa járműhöz adása összeomlása javítva
+- Néhány elgépelés javítva
+- Free Freemode eltávolítva
+
+Lua:
+- Paraméter hozzáadva a FeatureMgr.AddFeature függvényhez
+- (ez arra kényszeríti a visszahívást, hogy mindig egy egyedi szkriptszálban álljon sorba, ahol engedélyezett a yield)
+- bool forceQueue = true
+- Hozzáadva: Feature:GetId()
+
+[5.17.0]
+
+- Frissítve a játékfrissítéshez
+- Anti-Cheat bypass frissítve
+- Cherax News hozzáadva (helyettesíti a GTA News-t)
+- Hozzáadva: Játékosok -> Jármű -> Végsebesség beállítása
+- Hozzáadva: Játékos -> Megjelenés -> Ruhatár -> Öltözék -> Öltözék-alkalmazási korlátozások letiltása
+- Use Code Cherax fejlesztve
+- Szkriptesemény-védelem fejlesztve
+
+Lua:
+- Hozzáadva: Feature:GetColorU32
+- Hozzáadva: Feature:SetColorU32
+- Hozzáadva: Feature:GetColorFloats
+- Hozzáadva: Feature:SetColorFloats
+- Hozzáadva: ImGui.TableNextColumn
+- Javítva a hiba, amely miatt a Time.GetEpoche nem egyezett a rendszeróra idejével
+- Javítva a hiba, amely miatt a Time.GetEpocheMs nem egyezett a rendszeróra idejével
+
+[5.16.1]
+
+- Átvezető jelenetek kihagyásának engedélyezése hozzáadva
+- Lehetővé teszi az átvezető jelenetek kihagyását, akárcsak Story Mode-ban
+- Pénz tagolása fejlesztve
+- Mostantól a zsetonok kijelzését is tagolja
+
+Lua:
+- Hozzáadva: CPed:IsPlayer()
+- Hozzáadva: CPed:IsInVehicle()
+- Hozzáadva: CPed.CurVehicle
+- Hozzáadva: CPed.LastVehicle
+
+[5.16.0]
+
+- Hozzáadva: Munkamenet -> Egyéb -> Tele munkamenetekhez csatlakozás megkerülése
+- Hozzáadva: Munkamenet -> Egyéb -> Csatlakozási figyelmeztetések automatikus megerősítése
+- Hozzáadva: Védelmek -> Szkript -> Módosított munkamenet-események blokkolása
+- Hozzáadva: Védelmek -> Kick segédprogramok -> Deszinkronizáció utáni automatikus újracsatlakozás
+- Hozzáadva: Egyéb -> Egyéb -> Szivárvány színű keréknyomok
+- Hozzáadva: Egyéb -> ESP és HUD -> Gyorsbillentyűk -> Összes gyorsbillentyű törlése
+- Hozzáadva: Játékos -> Kamera -> Ejtőernyő látószög
+- Hozzáadva: Játékos -> Kamera -> Moziszerű látószög
+- Hozzáadva: Játékos -> Kamera -> Átvezető látószög
+- Hozzáadva: Játékos -> Kamera -> Felhős betöltőképernyő látószög
+- Hozzáadva: Feliratkozott szkriptek -> Automatikus indítás
+- Hálózati üzenetek naplózása hozzáadva
+- Szkriptindítások naplózása hozzáadva
+- RID csatlakozó fejlesztve
+- Social Club TV csatlakozás javítva
+- Távoli irányítás blokkolása fejlesztve
+- Blokkolja a jármű távoli speciális képességét
+- Blokkolja a jármű távoli dudáját
+- Hozzáadva: Jármű -> Falakkal való ütközés letiltása
+- Letiltja az ütközést a falakkal és a legtöbb épülettel
+- Fejlesztve: Jármű -> Tereptárgyakkal való ütközés letiltása
+- Mostantól a legtöbb világobjektummal, például a fákkal való ütközést is letiltja
+- Összeomlás elleni védelem fejlesztve
+- A jelenleg kiválasztott helyi Lua szkript mostantól automatikusan újratöltődik, ha kívülről módosították
+- Javítva a hiba, amely miatt a Kilépés a munkamenetből szakadást okozott a munkamenet többi tagjának, amikor host voltál
+- Javítva az összeomlás, amikor a Játékos helyi elrejtése funkciót saját magadon használtad
+- Lehetséges összeomlás kibetöltéskor javítva
+- Javítva az időjárás állapotának mentése a beállításokba
+- Néhány egyéb javítás és fejlesztés
+
+[Lua]
+
+- A CheraxExample.lua alapértelmezettként hozzáadva a helyi Lua szkriptekhez (idővel frissülni fog)
+- Hozzáadva az eEntityType enum
+- Hozzáadva a CEntity usertype (a CPhysical alapja)
+- Hozzáadva: CEntity:GetType()
+- Hozzáadva: CEntity:IsPhysical()
+- Hozzáadva: eLuaEvent.SHOULD_COLLIDE
+- Megakadályozva a Script.Yield helytelen használata bizonyos helyzetekben
+- Néhány dokumentációs eltérés javítva
+- Az Utils névtér felosztva:
+- Time névtér hozzáadva
+- Hozzáadva: Time.Get
+- Hozzáadva: Time.GetEpoche
+- Hozzáadva: Time.GetEpocheMs
+- Hozzáadva: Time.GetEpocheNs
+- GTA névtér hozzáadva
+- Hozzáadva: GTA.GetLocalPed
+- Hozzáadva: GTA.GetLocalVehicle
+- Hozzáadva: GTA.GetLocalPlayerId
+- Hozzáadva: GTA.HandleToPointer
+- Hozzáadva: GTA.PointerToHandle
+- Hozzáadva: GTA.ConvertSectorToWorldPosition
+- Hozzáadva: GTA.ConvertWorldToSectorPosition
+- Hozzáadva: GTA.ForceScriptHost
+- Hozzáadva: GTA.TriggerScriptEvent
+- Hozzáadva: GTA.GetLabelText
+- Hozzáadva: GTA.GetGroundZ
+- Hozzáadva: GTA.SpawnVehicle
+- Hozzáadva: GTA.SpawnVehicleForPlayer
+- Hozzáadva: GTA.CreateRandomPed
+- Hozzáadva: GTA.CreatePed
+- Hozzáadva: GTA.CreateObject
+- Hozzáadva: GTA.CreateWorldObject
+- Hozzáadva: GTA.SendChatMessageToEveryone
+- Hozzáadva: GTA.SendChatMessageToPlayer
+- Hozzáadva: GTA.AddChatMessageToPool
+- Hozzáadva: GTA.GetModelInfoFromHash
+- Hozzáadva: GTA.GetModelInfoFromIndex
+- Hozzáadva: GTA.GetModelInfoIndexFromHash
+- Hozzáadva: GTA.WorldToScreen
+- Hozzáadva: GTA.GetBonePos3D
+- Hozzáadva: GTA.GetBonePos2D
+- Hozzáadva: GTA.GiveControl
+- Hozzáadva: GTA.GetDisplayNameFromHash
+- Hozzáadva: GTA.GetModelNameFromHash
+- Hozzáadva: GTA.BeginService
+- Hozzáadva: GTA.BasketStart
+- Hozzáadva: GTA.BasketAddItem
+- Hozzáadva: GTA.CheckoutStart
+- Hozzáadva: GTA.RegisterFile
+- Hozzáadva: GTA.DrawPedPreview
+- Hozzáadva: GTA.SetLabelText
+- Hozzáadva: GTA.RemoveLabelText
+
+[5.15.1]
+
+- Különleges karakterek engedélyezése hozzáadva
+- A 30 karakteres korlát a Beillesztés a csevegésbe funkciónál megnövelve -> Mostantól 140
+- Káromkodásszűrő megkerülése fejlesztve
+- Csevegési hirdetések blokkolása fejlesztve
+- Streamer mód javítva a csatlakozási és kilépési értesítéseknél
+- Néhány téves jelzés javítva
+
+Lua:
+- Javítva a felhasználói azonosító hamisításának lehetősége Cheat Engine-nel
+- A LuaCallCFunction átmozgatva a Memory névtérbe
+- Káromkodásszűrő megkerülése implementálva a következőkhöz:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Hozzáadva: Egyéb -> Általános -> Egyéb -> Beillesztés a csevegésbe
+- Káromkodásszűrő megkerülése javítva a csevegéshez
+- Javítva a helyi csevegési üzenetek naplózásának elmaradása
+- Hozzáadva: Játékosok -> Általános -> Játékos mentése
+- Hozzáadva: Játékosok -> Általános -> Rockstar azonosító másolása
+- Mindenki összeomlasztása és kirúgása hozzáadva
+- Hozzáadva: Védelmek -> Jármű spam blokkolása
+- Hozzáadva: Védelmek -> Ped spam blokkolása
+- Összeomlás elleni védelem fejlesztve
+- List GUI irányítása fejlesztve
+- List GUI betűtípus-téma betöltése javítva
+- Javítva a hiba, amely miatt a Click GUI valódi játékosneveket mutatott Streamer módban
+- Az IPv4-cím és a Rockstar azonosító mostantól szintén rejtve van, amíg a Streamer mód be van kapcsolva
+
+[5.14.1]
+
+- Hozzáadva: Munkamenet -> Matchmaking -> Asset hash javítása
+- Szkriptesemény-védelem fejlesztve
+- Javítva a szinkronizációs védelem kivételhibája
+
+[5.14.0]
+
+- Hozzáadva: Játékosok -> Kártékony -> Szkriptesemény összeomlasztás
+- Összeomlás elleni védelmek fejlesztve
+- Hozzáadva: Játékosok -> Távoli elrejtés -> Munkamenet elrejtése a játékos elől
+- Hozzáadva: Játékosok -> Távoli elrejtés -> Játékos elrejtése a munkamenet elől
+- Hozzáadva: Játékosok -> Távoli elrejtés -> Játékos helyi elrejtése
+- Hozzáadva: Játékosok -> Trollkodás -> Játékos lesokkolása
+- Hozzáadva: Védelem -> Hálózati események -> Sokkoló spam elleni védelem
+- Hozzáadva: Védelem -> Hálózati események -> PTFX spam elleni védelem
+- Megfigyelési értesítés kapcsoló hozzáadva
+- Hozzáadva: Játékosok -> Visszaélés -> Küldés végtelen betöltőképernyőre
+- Támadók megölése és Támadók lefagyasztása eltávolítva
+- Hozzáadva: Védelmek -> Reakciók -> Rád céloz
+- Hozzáadva: Védelmek -> Reakciók -> Rád lő
+- Hozzáadva: Védelmek -> Reakciók -> Típusok -> Játékos lefagyasztása
+- Hozzáadva: Védelmek -> Reakciók -> Típusok -> Játékos lesokkolása
+- Hozzáadva: Jármű -> Mobil LSC -> Rendszámtábla típusa
+- Hozzáadva: Jármű -> Mobil LSC -> Rendszámtábla szövege
+- Harmadik személyű célzási látószög javítva
+- Mintagyorsítótár javítva
+- Vontatóautó összeomlasztás téves észlelései javítva
+- Anti Aim javítva
+- Orbitális csapás játékosreakció típusa javítva
+
+Lua:
+- Javítva a hiba, amely miatt néhány Sync Data Node tag nem volt elérhető
+
+[5.13.0]
+
+- OpenIV bypass hozzáadva (A játék indítása a Cherax Loaderen keresztül lehetővé teszi az online betöltést OpenIV modokkal, alaposan tesztelve NVE-vel)
+- Hozzáadva: Kamera -> Látószög-módosító (Első személy, Első személy járműben, Távcsőbe nézés, Harmadik személy, Harmadik személyű célzás, Harmadik személy járműben, Harmadik személyű célzás járműben)
+- Hozzáadva: Hang -> Repülési zene letiltása
+- Hozzáadva: Hang -> Körözési zene letiltása
+- Hozzáadva: Hang -> Befogási figyelmeztetés kényszerítése
+- Hozzáadva: Ruhatár -> Arcvonás-módosító (Az arcvonások mostantól mentődnek az öltözék mentésével)
+- Hozzáadva: ESP -> Játékos kamera
+- Játékos járművének törlése hozzáadva
+- Megfigyelési értesítések hozzáadva
+- Megfigyelés fejlesztve
+- Megfigyelés elleni védelem fejlesztve (mostantól megkísérli távolról leállítani a megfigyelést)
+- Feloldások fejlesztve
+- Összeomlás elleni védelmek fejlesztve
+- Téves észlelések javítva
+- A gyorsítótár mostantól automatikusan kihagyásra kerül, ha a modul hash megváltozott (pl. socialclub.dll)
+
+Lua:
+- Több mint 40 Sync Data Node elérhetővé téve egyéni hamisításhoz
+- Hozzáadva: eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC
+- callback(int player, CPhysical entity)
+- Hozzáadva: eLuaEvent.ON_SYNC_DATA_NODE
+- callback(eSyncDataNode node_type, node,  CPhysical entity,  bool is_exclusive, int exclusive_player)
+- Loader és Menü
+- Javítva a 'couldn't resolve host' hibák
+
+[Cherax 5.12.2]
+
+- Auxiliary Cannon összeomlás elleni védelem javítva
+- Equilibrium Crash eltávolítva
+- Néhány egyéb fejlesztés
+
+[5.12.1]
+
+- Modder észlelések fejlesztve
+- Játékos összeomlasztása javítva
+- Nyelvhamisítás javítva
+
+Lua:
+- Hozzáadva: Cherax.GetVersion
+- Hozzáadva: Cherax.GetBuild
+- Hozzáadva: Utils.sJoaat
+- CEntity átnevezve CPhysical névre
+- NetGamePlayer átnevezve CNetGamePlayer névre
+- Hozzáadva: CNetObject:GetEntity
+- Hozzáadva: NetworkObjectMgr.UnregisterNetworkObject
+- Hozzáadva: NetworkObjectMgr.ChangeOwner
+- Hozzáadva: NetworkObjectMgr.GetNetworkObject
+- Utils.FindNetobjectById eltávolítva
+
+[Cherax v5.12]
+
+- Auxiliary Cannon Crash hozzáadva
+- Hozzáadva: Játékos-hamisítás -> Oktató munkamenetben való tartózkodás hamisítása
+- Hozzáadva: Játékos-hamisítás -> Nyelv hamisítása
+- Hozzáadva: Játékosinfó -> Játék nyelve
+- Hozzáadva: Jármű -> Bomba röppályájának megjelenítése
+- A Hide From Player List átnevezve Hide From Session névre
+- Munkamenet elől való elrejtés fejlesztve
+- Mappa megnyitása gombok hozzáadva a Beállításokhoz, Témákhoz és Fordításokhoz
+- GUI ki/bekapcsoló gomb hozzáadva a felületen belül
+- A Játékoskövető mostantól a munkamenet típusát mutatja az [Online] helyett
+- A Játékoskövető mostantól először online állapot, majd név szerint rendezi a mentett játékosokat
+- Összeomlás elleni védelem fejlesztve
+- Javítva a Freemode várakozás kihagyása, amely nem adott fegyvereket
+- Javítva a hiba, amely miatt a 'Last Seen' nem jelent meg a mentett játékosoknál
+
+Lua:
+- Hozzáadva: PoolMgr.GetRenderedVehicles
+- Hozzáadva: PoolMgr.GetRenderedPeds
+- Hozzáadva: PoolMgr.GetRenderedObjects
+- Hozzáadva a ClickTab enum
+- Hozzáadva: ClickGUI.GetActiveMenuTab
+- Hozzáadva: ClickGUI.SetActiveMenuTab
+- Hozzáadva: ListGUI.SetCurrentTab
+- Hozzáadva: ListGUI.RemoveTabFromStack
+
+[Cherax v5.11]
+
+- Hozzáadva: Kick segédprogramok -> Drop Kick Doping -> Letiltva/Legit/Erős
+- Hozzáadva: Kick segédprogramok -> Host Drop Kick események -> Csatlakozási problémák értesítése, Drop Kickek értesítése, Drop Kickek blokkolása
+- Hozzáadva: Munkamenet -> Következő munkamenet-host kényszerítése -> Letiltva/Legit/Erős
+- Vérdíj kitűzése a játékosra hozzáadva
+- Teljesítmény/FPS fejlesztve
+- Modder észlelés fejlesztve
+- Hamisítási opciók fejlesztve
+- Hálózati hiba miatti kick elleni védelem fejlesztve
+- Személyes jármű elhelyezése a garázsba hozzáadva
+- Személyes jármű lehívása fejlesztve
+- A Személyes jármű lehívása mostantól olyan beállításokat is használ, mint a Lehívás járműben és a Motor mindig jár
+- A Rockstar adminok mostantól IP-cím és egy folyamatosan frissülő előre elkészített lista alapján kerülnek észlelésre
+- Javítva a csevegési üzenetek küldése és fogadása megfigyelő módban
+- A Click GUI mostantól a játékosok számát mutatja a játékoslista felett
+- Néhány felületi elem sorrendje megváltozott
+- A Munkamenet-böngésző mostantól a rejtett munkameneteket is megjeleníti
+- Néhány megjelenítési probléma javítva a List GUI-nál
+
+Lua:
+- Hozzáadva: Cherax.GetUID
+- Hozzáadva: Tab:RemoveSubTab
+- Az Utils.TriggerScriptEvent mostantól bizonyos specifikus argumentumokat kényszerít ki az elküldendő adatoknál
+
+[Loader]
+
+- Újraindítottuk a szervert egy kisebb loader-frissítés kiadásához
+
+Loader:
+- A kiválasztások mostantól mentésre kerülnek és megmaradnak
+- A Loader mostantól nem renderel a háttérben, ami hatékonyan növeli a játékon belüli FPS-t
+
+[Cherax v5.10.1]
+
+- Javítva a személyes jármű lehívóval és a garázsokkal kapcsolatos problémák
+- Néhány felirat javítva
+
+[Cherax v5.10.0]
+
+- Pontszámadatok hamisítása hozzáadva
+- Pontszámadat-hamisítás észlelése hozzáadva
+- Hozzáadva: Pontszámadatok hamisítása -> Rang
+- Hozzáadva: Pontszámadatok hamisítása -> Ölések
+- Hozzáadva: Pontszámadatok hamisítása -> Halálok
+- Hozzáadva: Pontszámadatok hamisítása -> Pénztárca
+- Hozzáadva: Pontszámadatok hamisítása -> Bank
+- Hozzáadva: Pontszámadatok hamisítása -> Szexuális aktusok
+- Hozzáadva: Pontszámadatok hamisítása -> Öltáncok
+- Hozzáadva: Jármű -> Siklási képesség
+- Hozzáadva: Világ -> Égbolt -> Égbolt letiltása
+- Hozzáadva: Fegyver -> Korlátlan lőszer
+- A védelmeken kívüli modder észlelések mostantól szintén küldenek értesítést
+- Az Ugrásképesség kényszerítése és a Rakétalöket-képesség kényszerítése mostantól együtt is használható
+- A járműképességek mostantól csoportosítva vannak
+- A Munkamenet-böngésző mostantól akár 1024 munkamenetet is megtalál egyszerre
+
+[Cherax v5.9.0]
+
+- Hozzáadva: Handling szerkesztő -> Járműmodell-információs jelzők
+- A járműmodell-információs jelzők mostantól a többi handling-beállítással együtt mentődnek (a fájlok visszafelé kompatibilisek)
+- Hozzáadva: Jármű -> Ejtőernyő-képesség kényszerítése
+- Hozzáadva: Jármű -> Ugrásképesség kényszerítése
+- Hozzáadva: Jármű -> Rakétalöket-képesség kényszerítése
+- Hozzáadva: Játékos-hamisítás -> Rockstar fejlesztő jelző
+- Hozzáadva: Játékos-hamisítás -> Rockstar QA jelző
+- Hozzáadva: Játékos-hamisítás -> Csaló jelző
+- Hozzáadva: Játékoslista -> Gyűjthető tárgyak átadásának típusa
+- Hozzáadva: Játékoslista -> Gyűjthető tárgyak átadása
+- Hozzáadva: Játékoslista -> Összes gyűjthető tárgy átadása
+- Hozzáadva: Ruhatár -> Ruházat-ellenőrzés letiltása
+- Hozzáadva: Gyorsbillentyűk -> Értesítés gyorsbillentyű lenyomásakor
+- Hozzáadva: Fordítások -> Jelenlegi fordítási fájl kiírása (tartalmazza a Lua funkciókat)
+- Anti-modder észlelés fejlesztve
+- Összeomlás elleni védelem fejlesztve
+- Néhány téves észlelés javítva
+- Az Öltözékszerkesztő értékei beviteli mezőkre cserélve csúszka helyett
+- Hamisítás gyermekablakok/fülek átrendezése
+- A Combo kapcsoló felugró ablakai mostantól nagyobbak a jobb áttekinthetőség érdekében
+
+Lua:
+- Hozzáadva: Utils.GiveControl
+
+[Cherax v5.8.0]
+
+- Játékos megölése hozzáadva
+- Játékos megölése reakció hozzáadva
+- Orbitális csapás reakció hozzáadva
+- Távoli rongybaba ciklus hozzáadva
+- Szkript jármű kick hozzáadva
+- Matchmaking csatlakozások blokkolása hozzáadva
+- Hozzáadva: Host eszköztár: Maximális játékosszám
+- Rockstar azonosító másolása hozzáadva (Játékoskövető, Mentett játékosok, Munkamenet-böngésző)
+- Hálózati hiba miatti kick elleni védelem kapcsoló hozzáadva
+- Hálózati hiba miatti kick elleni védelem javítva
+- Egyéni csatlakozásblokkolási indok hozzáadva minden mentett játékoshoz
+- Csatlakozás blokkolása fejlesztve
+- Munkamenet-böngésző fejlesztve
+- Szkriptesemény-védelem fejlesztve
+- Összeomlás elleni védelem fejlesztve
+- Hálózati esemény védelem fejlesztve
+- Jármű kick elleni védelem fejlesztve
+- Javítva a hiba, amely miatt más játékosok nem tudtak beszállni a járművedbe
+- Javítva a 'Force Script Host threw an exception' hiba
+- Javítva a hiba, amely miatt a betűtípus-atlasz túl nagyra nőtt, problémákat okozva az injektáláskor
+- Játékosok elleni Delete Gun javítva
+- Játékoslista rendezése javítva, amikor a játékos csatlakozási állapotban van
+- A Bejelentés csevegésben reakció mostantól kevesebbet spamel
+- A konzolablak mostantól teljesen színezett a jobb olvashatóság érdekében
+
+[Cherax v5.7.1]
+
+- Kivételnaplózó javítva
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- Reakció hibás szkripteseményre hozzáadva
+- Reakció szavazásos kirúgásra hozzáadva
+- Bejelentés csevegésben reakció hozzáadva
+- Kimenő entitás-szinkronizációs időtúllépés reakció hozzáadva
+- Kimenő szkriptesemény-időtúllépés reakció hozzáadva
+- Bejövő/kimenő entitás-szinkronizációk blokkolása játékoskapcsolók hozzáadva
+- Bejövő/kimenő szkriptesemények blokkolása játékoskapcsolók hozzáadva
+- Ketrecek blokkolása hozzáadva
+- Világmodell-szinkronizációk blokkolása hozzáadva
+- Script host kick elleni védelem kapcsoló hozzáadva
+- Munkamenet befejezése kick elleni védelem kapcsoló hozzáadva
+- Objektum ESP hozzáadva
+- Objektum ESP távolság hozzáadva
+- Játékoslista rendezési szempontja hozzáadva (Játékos-azonosító, Host sor, Betűrend, Távolság)
+- Fake Lag hozzáadva
+- Free Freemode hozzáadva
+- Use Code Cherax hozzáadva
+- Dax munkák hozzáadva a visszaszámlálás-letiltóhoz
+- Pozíció játékosinfó hozzáadva
+- Host token játékosinfó hozzáadva
+- A játékosinfók mostantól szintén lefordíthatók
+- Összeomlás elleni védelem fejlesztve
+- Szkriptesemény-védelem fejlesztve
+- Jármű kick elleni védelem fejlesztve
+- Halálhatárhoz küldés fejlesztve
+- Munkamenet-böngésző fejlesztve
+- Javítva a hiba, amely miatt a játék néha megszakította a Drop Kicket
+- Ciklikus jármű kick javítva
+- Téves észlelések javítva
+- Játékos lefagyasztása és a védelem javítva
+- Javítva a hiba, amely miatt a NoClip letiltásakor lefagyasztotta a járművet
+- Azonnali járműbe szállás javítva, ha nem ült benne ped
+- Timecycle módosító javítva
+- Sebességszorzók javítva
+- Combo kapcsolók javítva a List GUI-hoz
+- Passzív mód blokkolása javítva
+- Javítva a hiba, amely miatt néhány nem kívánt irányítási parancs átment a menü megnyitásakor
+- A védelmi kapcsolók mostantól a legtöbb dolgot kapcsolják
+- Néhány felirat lerövidítve
+- A Cherax mostantól értesít, ha nem megfelelő DirectX-verziót használsz
+- Néhány egyéb fejlesztés és hibajavítás
+
+LUA:
+- Hozzáadva: table<int, int> Players.Get(ePlayerListSort filter, string search)
+- Hozzáadva: FeatureMgr.SearchFeature
+- Hozzáadva: Feature:SetSearchable, Feature:IsSearchable
+- Javítva a Lua Curl problémái a Lua szemétgyűjtő miatt
+
+[Cherax 5.6.1]
+
+- Szezonális eseményopciók fejlesztve
+- Injektálási hiba javítva
+- Saját csevegési spam blokkolása a Lua API-n keresztül javítva
+
+[Cherax 5.6.0]
+
+- Egyéni fordítások hozzáadva (Az alapértelmezett fordítási fájl a Cherax/Translations mappában jön létre)
+- Reakciók hozzáadva (Kick, Összeomlasztás, Jelentés, Csevegési spam, Tiltott csevegési szavak)
+- Reakciótípusok hozzáadva (Kick, Összeomlasztás, Szkriptesemény-időtúllépés, Entitás-szinkronizációs időtúllépés)
+- Szkriptesemény időtúllépési időtartam csúszka hozzáadva
+- Entitás-szinkronizáció időtúllépési időtartam csúszka hozzáadva
+- További értesítések hozzáadva (Kirúgás, Összeomlasztás, Host-migrációk)
+- További visszaszámlálások hozzáadva a Különféle visszaszámlálások letiltása funkcióhoz
+- Járműválasztás javítva azonos nevű járművek esetén
+- NoClip drift javítva
+- A kínai, koreai, japán és orosz glifák mostantól mindig betöltődnek, és szükség esetén helyesen jelennek meg
+- Az ismétlődő konzolüzenetek mostantól számlálót kapnak, akárcsak az értesítések
+- A Különféle visszaszámlálások letiltása mostantól lehetővé teszi a letiltani kívánt visszaszámlálás-típusok kiválasztását
+- Hozzáadva a Luához:
+- b3095 natívok
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Ban kick hozzáadva
+- Passzív mód blokkolása hozzáadva
+- Modder észlelés fejlesztve
+- Lua szkript entitások automatikus kitakarítása fejlesztve
+- A "Script Host Crash V2" védelem javítva
+- Javítva a hiba, amely miatt néhány funkció nem volt elérhető az ingyenes felhasználók számára
+
+[Cherax V5.4.0]
+
+- A 'Bail From Session' átdolgozva
+- 'Story Bail From Session' hozzáadva (régi Bail From Session)
+- 'Super Bail From Session' hozzáadva
+- 'Spawn With Radio Off' hozzáadva
+- AAC fejlesztve
+- Szkriptesemény-védelem és számos szkriptesemény-funkció javítva
+- Hálózati hiba miatti kick elleni védelem javítva
+- Javítva az online játék DLC pedekkel és DLC járművekkel
+- 1000-es szint feloldása javítva az LSCM-hez
+- Elgépelések javítva
+- Néhány Lua példaleírás javítva
+
+[Cherax V5.3.0]
+
+- Támadók lefagyasztása hozzáadva
+- Haladó szkriptesemény-védelem kapcsoló hozzáadva
+- Host kickek gyengítése hozzáadva
+- Ped-ütközés letiltása hozzáadva (Jármű)
+- RTTI infó hozzáadva a kivételnaplókhoz
+- Hiányzó funkciók hozzáadva a List GUI-ban
+- Modder észlelés fejlesztve
+- Kilépési naplózás és megelőzés fejlesztve
+- Összeomlás elleni védelem fejlesztve
+- Feloldások fejlesztve
+- Kaszinó manipulálás fejlesztve
+- Csevegési hirdetések elleni védelem fejlesztve
+- A Handling szerkesztő opcióinak leírásai fejlesztve
 - ASI Loader javítva
-- Saját járműhöz való csatolással kapcsolatos téves észlelések (False Flags) javítva
-- Hőlátás (Heat Vision) javítva
-- Megfigyelés (spectating) közbeni halál javítva
-- 'Deluxo Mode' crash javítva bizonyos járműveknél
+- A járművedhez csatolással kapcsolatos téves riasztások javítva
+- Hőlátás javítva
+- Javítva a halál megfigyelés közben
+- Javítva a 'Deluxo Mode' összeomlása bizonyos járműveknél
 
-- Lua:
-- CVehicle.SteerAngle hozzáadva
-- CVehicle.SecondSteerAngle hozzáadva
-- CVehicle.Throttle hozzáadva
-- CVehicle.Brake hozzáadva
-- CVehicle.Nitrous hozzáadva
-- CVehicle.DirtLevel hozzáadva
-- CVehicle.BodyDirtColor hozzáadva
-- CVehicle.HeadlightMultiplier hozzáadva
-- CVehicle.VehicleTopSpeedPercent hozzáadva
-- CVehicle.CheatPowerIncrease hozzáadva
-- 'AutoCleanup' paraméter hozzáadva az Utils.SpawnVehicle és Utils.CreatePed függvényekhez
-
-
-
-
-
-
-
-
-- 8/8/2026 11:11 AM
-[Cherax V5.3.0 - 2023/12/18]
-- 
-- Hozzáadva: Freeze Attackers
-- Hozzáadva: Advanced Script Event Protection kapcsoló
-- Hozzáadva: Weaken Host Kicks
-- Hozzáadva: Disable Ped Collision (Vehicle)
-- Hozzáadva: RTTI Info az Exception Logokhoz
-- Hozzáadva: Hiányzó funkciók a List GUI-ban
-- Fejlesztett Modder Detection
-- Fejlesztett Bail Logging és Prevention
-- Fejlesztett crash protection
-- Fejlesztett Unlocks
-- Fejlesztett Casino Rigging
-- Fejlesztett Chat Advertisement Protection
-- Fejlesztett leírások a Handling Editor opciókhoz
-- ASI Loader javítva
-- Járművedhez való csatolással kapcsolatos téves riasztások (False Flags) javítva
-- Heat Vision javítva
-- Megfigyelés (spectating) közbeni halál javítva
-- 'Deluxo Mode' crash-elés bizonyos járműveknél javítva
-- 
-- 
-- Lua:
-- 
+Lua:
 - Hozzáadva: CVehicle.SteerAngle
 - Hozzáadva: CVehicle.SecondSteerAngle
 - Hozzáadva: CVehicle.Throttle
@@ -117,4 +1197,117 @@
 - Hozzáadva: CVehicle.HeadlightMultiplier
 - Hozzáadva: CVehicle.VehicleTopSpeedPercent
 - Hozzáadva: CVehicle.CheatPowerIncrease
-- 'AutoCleanup' paraméter hozzáadva a Utils.SpawnVehicle és Utils.CreatePed függvényekhez
+- 'AutoCleanup' paraméter hozzáadva az Utils.SpawnVehicle és Utils.CreatePed függvényekhez
+
+[Cherax V5.2.2]
+
+- A legújabb játékjavítás által okozott további problémák javítva
+- Néhány hibajavítás és fejlesztés
+
+[Cherax V5.2.1]
+
+- Stabilitási problémák javítva
+
+[Cherax V5.2.0]
+
+- Frissítve a legújabb játék DLC-hez
+- "The Chop Shop" járművek hozzáadva a lehívóhoz
+- Drift handling mód hozzáadva (Alkalmazza az új drift járművek drift kezelhetőségét)
+- "Kick & Block Join" játékosopció hozzáadva
+- Ciklikus jármű kick hozzáadva
+- Módosított jármű észlelése hozzáadva
+- Munkamenet ciklikus jármű kick hozzáadva
+- Munkamenet: Hatóságok lekenyerezése hozzáadva
+- Munkamenet: Radar elhagyása hozzáadva
+- Munkamenet: Körözés törlése hozzáadva
+- Munkamenet: Mindenki ketrecbe zárása hozzáadva
+- Véletlenszerű kirúgás hozzáadva
+- Automatikus Script host kényszerítés hozzáadva
+- HUD átmenet infóállapot hozzáadva
+- Blip kényszerítése hozzáadva
+- Nyerőgép felülbírálása hozzáadva
+- Rulett felülbírálása hozzáadva
+- Lóverseny felülbírálása hozzáadva
+- Kártyajátékok felülbírálása hozzáadva
+- Szerencsekerék felülbírálása hozzáadva
+- Happy Holidays Hauler esemény hozzáadva a Karácsony engedélyezéséhez
+- Dripfeed járművek feloldása hozzáadva
+- Freemode várakozás kihagyása hozzáadva
+- Spam és hirdetések elleni védelem fejlesztve
+- Drop Kick fejlesztve
+- Szkriptesemény-védelem és -küldés fejlesztve
+- Modder és anti-modder észlelés fejlesztve
+- Money Drop eltávolítva (a Rockstar javította a modellt)
+- A Lua mostantól több funkciótípust támogat (List és List With Info)
+- A Stop Vehicle Kick átnevezve Gentle Vehicle Kick névre
+- Rengeteg belső fejlesztés és hibajavítás
+
+[Cherax 5.1.1]
+
+- Javítva az objektumok szinkronizálási problémái fekete lyuk használatakor
+- Host crash miatti modder észlelés téves jelzései javítva
+- Utoljára létrehozott modellek hozzáadva a kivételnaplóhoz
+
+[Cherax 5.1.0]
+
+- Pénz tagolása hozzáadva
+- Mozgás engedélyezése belső térben hozzáadva
+- Fegyverek engedélyezése belső térben hozzáadva
+- Csevegési spam blokkolása hozzáadva
+- Robbanás spam elleni védelem hozzáadva
+- Sérült host token hozzáadva
+- Tereptárgyakkal való ütközés letiltása járműhöz hozzáadva
+- Keresés hozzáadva az összes játékoslistához
+- Jármű mentése hozzáadva (Játékoslista)
+- Sebesség megtartása hozzáadva a NoCliphez
+- További modder észlelések hozzáadva
+- Néhány Lua API példa hozzáadva és fejlesztve
+- AC Crash hozzáadva
+- Összeomlás elleni védelmek jelentősen fejlesztve
+- Okos védelem fejlesztve
+- Aimbot fejlesztve
+- Drop Kick fejlesztve (nem működik a Hoston)
+- Fekete lyuk fejlesztve (mostantól kölcsönhatásba lép a tereptárgyakkal)
+- Javítva a hiba, amely miatt néhány érvénytelen módosítás automatikusan alkalmazásra került (Jármű tuningolása)
+- Játékos elrablása javítva
+- Összes fegyver eltávolítása javítva (Játékoslista)
+- Mentett/legutóbbi játékosok javítva a List GUI-hoz
+- Repülők lehívási magassága megnövelve
+- A mentett járművek és öltözékek mostantól felülíródnak, ha azonos néven mented őket
+
+[Cherax v5.0.2]
+
+- Social Club frissítés miatti injektálási problémák javítva
+- Nagy méretű feliratkozott szkriptekkel kapcsolatos néhány probléma javítva
+- List GUI szövegbevitel javítva
+- List GUI lehívó szűrő javítva
+- List GUI lehívó előnézet hozzáadva
+- Néhány modder észlelés hozzáadva
+- Néhány összeomlás elleni védelem hozzáadva
+- Deszinkronizációs kick elleni védelem ideiglenesen letiltva
+
+[Cherax v5.0.1]
+
+- Javítva az injektáláskori sikertelen betűtípus-betöltés miatti összeomlások
+- Javítva a hiba, amely miatt a koreai betűglifák nem töltődtek be
+- Üres garázsnevek javítva a személyes jármű lehívónál
+- Cargobobodhoz való csatolások téves jelzése javítva
+- Javítva a hiba, amely miatt az infóablak pozíciója nem mentődött
+- Javítva a hiba, amely miatt az egyéni menümegnyitó billentyű nem mentődött
+- Játékos időben előre teleportálásának host-ellenőrzése javítva
+- Lehetséges összeomlás kibetöltés közben javítva
+- Nagyobb szkriptekre való feliratkozáskor fellépő teljesítményproblémák javítva
+- Memóriaszivárgás javítva a képletöltőben
+- Host crash elleni védelem javítva
+- Kamera előrekényszerítése elleni védelem javítva
+- Javítva a hiba, amely miatt a küldetés entitások törlése ellenkező hatást váltott ki
+- Csevegési hirdetések elleni védelem fejlesztve
+
+Cherax Loader:
+- Teljesítmény 400%-kal növelve
+- Javítva a hiba, amely miatt az erőforrásoldalak nem működtek
+- Memóriaszivárgás javítva a képletöltőben
+
+[Cherax V5.0.0]
+
+- Kezdeti kiadás

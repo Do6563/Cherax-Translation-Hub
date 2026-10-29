@@ -1,5 +1,1172 @@
-- 8/8/2026 11:26 AM
-[Cherax V5.3.0 - 2023/12/18]
+[5.52.1 EE / 5.43.1 LE]
+
+- Added Vehicle -> No Grip Loss
+- Improved Translation System
+- Improved Protections
+- Fixed Various Bugs
+
+[5.52.0 EE / 5.43.0 LE]
+
+- Added Session -> Seamless Rejoin
+- Added Session -> Timed Session Rejoin
+- Added Self -> No Clip Interior Speeds
+- Added Self -> Cosmetic -> Carjack Animations
+- Added Self -> Cosmetic -> Shuffle Carjack Animations
+- Added Recovery -> Remove Modded Run
+- Added Recovery -> Set/Remove Bad Sport
+- Added Recovery -> Reset Ghosts Exposed
+- Added Aimbot -> Shoot Through
+- Added ESP -> Object -> Draw Box
+- Added Vehicle -> Playback
+- Updated Lua to 5.5.1
+- Improved Stream Proof Rendering
+- Improved Smooth Transition
+- Improved Hulk Vehicle & Hulk Ped
+- Improved Aimbot
+- Improved ESP
+- Improved Protections
+- Mouse Buttons can now be used as Hotkeys
+- Fixed Various Bugs
+
+[5.51.0 EE / 5.42.0 LE]
+
+- added Misc -> World -> Mirror World
+- added Session -> General -> Restart Freemode
+- improved DLC Loading + fixed functionality on EE
+- DLCs will now only be listed if compatible with your game version
+- improved Smooth Transition
+- fixed various bugs
+
+[5.50.0 EE / 5.41.0 LE]
+
+- Improved Crash Protections
+- Other Bug Fixes and Improvements
+
+[Hotfix Update]
+
+- Updated EE to the latest Game version
+
+[5.X EE & LE]
+
+- added Session -> Matchmaking -> Override Region
+- added Session ->  Matchmaking -> Override Aim Type
+- added Session -> Matchmaking -> Override Minimum Players
+- added Session -> Host Tool Kit -> Advertise Region
+- added Vehicle -> Convenience -> In-Air Control Multiplier
+- readded Session -> Misc -> Join Full Sessions Bypass
+- improved Disable Outfit Apply Restrictions
+- implemented DaniGP17's performance patch
+- fixed and improved Session Browser
+- fixed some script loading issues
+
+[5.X EE & LE]
+
+- Added Misc -> Experiments -> Disable Laser Collision
+- Added Protections -> Disable Transaction Errors
+- Various Improvements & Bug Fixes
+
+[5.X EE & LE]
+
+- Various Improvements & Bug Fixes
+
+[5.48.0 EE]
+
+- Updated to Game Version 1.0.1158.13
+- Updated Unlock Clothing
+- Updated Unlock DLC Content
+- Various Improvements & Bug Fixes
+
+[5.39.3 LE]
+
+- Updated to Game Version 1.0.3889.0
+- Various Improvements & Bug Fixes
+
+[5.X EE & LE]
+
+- Added ImGui.BeginDisabled and ImGui.EndDisabled for Luas.
+- Added header offset customization for themes. (Click GUI only)
+- Added Presence Spoofing (Network Tab)
+- Improved Protections.
+- Fixed Motorcycles stopping when you got close to them
+- Other Bug Fixes & Improvements
+
+Lua:
+- Added ON_NOTIFICATION event for Luas (allows overriding built-in notification system).
+
+[5.X EE & LE]
+
+- Updated to latest game version
+- Improved No Ragdoll
+- Improved Block Modded PTFX (EE)
+- Improved Block Modded Explosion (EE)
+- Improved Vehicle Spam & Ped Spam Protections (can lead to false positives)
+- Improved Protections
+- Fixed Give All Weapons giving invalid weapons
+- Other Bug Fixes & Improvements
+
+[5.X EE & LE]
+
+- Updated to latest game version
+
+[5.X EE & LE]
+
+- Improved Protections
+- Fixed various Bugs
+
+[5.X EE & LE]
+
+- Added Platform & Platform ID to Player Info
+- Ported Car Meet & Arena Wars Level to LE
+- Improved Crash Protections
+- Fixed Bugs
+
+[5.X EE & LE]
+
+- Added Unlock All Mansion Trophies
+- Improved Unlock DLC Content
+- Updated to latest game version
+
+[5.X EE & LE]
+
+- Improved Free Shopping (now includes everything)
+- Improved Enable Halloween (now includes the UFOs)
+- Improved Protections
+- Updated to Game Version 1.72
+
+[5.45.0 EE]
+
+- Added Player List -> Send Text Message
+- Added Session -> Send Text Message
+- Added Session -> Advertise Region
+- Added Player Info -> Arena Wars Level
+- Added Player Info -> Car Meet Level
+- Added Protections -> Block Remote Bounty
+- Added Protections -> Block Modded Sounds
+- Added Protections -> Block Modded PTFX
+- Improved Unlock Clothing
+- Updated Unlock DLC Content
+
+[5.X EE & LE]
+
+- Added Player List -> Friendly -> Drop (Premium)
+- Added Player List -> Friendly -> Drop Type
+- Added Player List -> Friendly -> Drop Delay
+- Added Recovery -> Other Unlocks -> Max Salvage Yard Safe Payout
+- Added Misc -> ESP -> Hostile
+- Revamped ESP System
+- Several UI Changes
+- Fixed and vastly improved Misc -> General -> Restrictions -> Disable Various Cooldowns
+- Improved Teleport to Objective
+- Improved Injection Times
+- Auto MMI Claim All now also recovers the vehicle from being impounded
+
+[5.36.0 LE]
+
+- Ported improved Request PV code from EE
+- Ported Clear All Business Heat
+
+[5.44.0 EE]
+
+- Added Player -> Cosmetic -> Transformation -> Hair Scale
+- Added Player -> General -> Invisibility -> Player Visible Override
+- Added Session -> All Players -> Reveal Invisible Players
+
+[Cherax 5.43.0 EE]
+
+- Added Frame Generation Support
+- Fixed Some Bugs
+
+[Cherax 5.35.1 LE]
+
+- Fixed Some Bugs
+
+[5.X EE & LE]
+
+- Added Player -> General -> Invisibility -> Player Visible Override
+- Added Session -> All Players -> Reveal Invisible Players
+- Added Protection Whitelist
+- Added Protection Notifications
+- Improved Crash Protections
+- Improved SE Protection Block Log
+- Fixed Join Blocking
+- Fixed being unable to join public lobbies
+- Fixed various bugs and false positives
+
+[5.42.0 EE]
+
+- Improved Kick Protection
+
+[5.35.0 LE]
+
+- Fixed input bugging out when pressing home key
+
+Lua:
+- PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup, GetObject now return 0 instead of -1 when failing
+- Fixed PoolMgr.GetRenderedVehicles
+- Fixed PoolMgr.GetRenderedPeds
+- Fixed PoolMgr.GetRenderedObjects
+
+[5.41.0 EE]
+
+- Added Recovery -> Visual Unlocks -> Unlock Casino Penthouse Clutter
+- Improved Unlocks
+- Fixed some bugs
+
+[5.40.0 EE]
+
+- Added Recovery -> Other Unlocks -> Clear All Business Heat
+- Added New Vehicle Images
+- Improved Unlocks
+- Updated Unlock DLC Content
+- Fixed List Hidden Vehicles
+
+[5.39.0 EE]
+
+- Updated to latest game version
+- Added Misc -> World -> Lights -> Sync Lights to Radio
+- Improved List All Vehicle Mods
+- Improved List All Clothing Items
+- Improved Unlocks
+- Fixed some bugs
+
+[5.34.3 LE]
+
+- Updated to latest game version
+
+[5.38.0 EE]
+
+- Added Misc -> General -> Stores  -> List All Vehicle Mods
+- Fixed some bugs
+
+[5.37.0 EE]
+
+- Added List all Clothing Items
+- Added Unlock All Awards
+- Added Unlock All CEO Office Trophies
+- Added Unlock All Motorcycle Club Trophies
+- Added Unlock All Nightclub Trophies
+- Added Unlock All Facility Trophies
+- Added Unlock All Arcade Trophies
+- Added Unlock All Arena Trophies
+- Added Unlock All Agency Trophies
+- Added Unlock All Freakshop Trophies
+- Added Unlock All Salvage Yard Trophies
+- Added Unlock All Bail Office Trophies
+- Added Unlock All Garment Factory Trophies
+- Added Bulletproof/Low Grip Tires
+- Added Remove Weapon Cooldown
+- Added Remove Weapon Restrictions
+- Added Remote Projectile Control
+- Added Force Ramp Ability
+- Improved Request Personal Vehicle
+- Improved Unlocks
+- Improved Image Loading
+- Improved Performance
+- Fixed personal vehicle list not showing bicycles
+- Fixed first vehicle extra not setting correctly
+- Fixed vehicle extras not saving to file
+- Fixed tire smoke color not being applied correctly when loading a vehicle
+- Fixed bicycles not showing in the personal vehicle list
+- Fixed false positives
+- Fixed typing backwards after pressing Home
+- Fixed various other small bugs
+- Speedometer is now hidden while on phone
+- Replaced Default Theme (old default theme is saved as Old_Original)
+- Cherax LE Themes are now fully compatible with Cherax EE, and vice versa
+- Updated to latest game version
+
+Lua:
+- Added GTA.AddExplosion(CExplosionArgs args)
+
+[5.34.2 LE]
+
+- Updated to latest game version
+
+Loader:
+- Autostart now available for the Xbox App (PC)
+
+[5.36.1 EE]
+
+- Added Vehicle Colors Worn, Utility and Special
+- Fixed glyph loading for translations
+
+[5.36.0 EE]
+
+- Added Unlock Career Progress
+- Added Unlock All Collectibles
+- Added Skip Criminal Career Intro
+- Added Chameleon to Wheel Colors
+- Improved All Unlocks
+- Improved Bail to Landing Page
+- Improved Display All Weapon Components
+- Updated to latest game version
+
+[5.34.1 LE]
+
+- Updated to latest game version
+
+[5.35.0 EE]
+
+- Updated Cherax for EE
+- Added Unlock GTA+
+- Added GTA+ Player Tag
+- Added New Vehicle Colors
+- Added New Vehicle Extras
+- Improved Unlocks
+- Improved Los Santos Most Wanted
+- Several other Improvements
+- Fixed Various Bugs
+
+[5.34.0]
+
+- Updated to game version b3442
+- Added Drive Underwater
+- Added Unlock All Media Sticks
+- Added New Vehicle Images
+- Added Custom Console Colours
+- Added Cherax News Image Replacement
+- Added Shoot Enemies as Aimbot Filter
+- Added Framerate Uncapper / Stutter Removal in Pause Menu (always on)
+- Improved Wardrobe Component Naming
+- Improved Cutscene Skipping
+- Improved Reveal Players
+- Improved Protections
+- Fixed Force Script Host
+- Fixed Give Script Host
+- Fixed Some Modder Detection False Positives
+- Fixed Various Bugs
+
+[5.33.0]
+
+- Re-added Battleye Kick & Ban Kick
+- Improved Battleye Server Implementation
+- Improved Unlock Clothing
+
+[5.32.0]
+
+- Updated to game version b3411
+- Hulk Mode & Hulk Vehicle now syncs properly with other Cherax Users
+
+Lua:
+- Added Memory.LuaCallCFunctionWithReturnValue
+
+[5.31.1]
+
+- Fixed Infinite Loading When Starting A Job
+
+[Cherax 5.31.0]
+
+- Added ATF Crash
+- Improved Protections
+- Fixed Some False Positives
+
+[Cherax 5.30.0]
+
+- Updated to Game Version b3407
+- Added New Vehicles
+- Updated Unlock DLC Content (includes new Hangar Property)
+- Added Misc -> World -> Enable Wildlife In Online
+- Added Session -> Faster Transition -> Smooth Transition
+- Removed Da Nile Crash Crash (Patched By Rockstar)
+- Improvements & Bug Fixes
+
+Lua:
+- Added FeatureMgr.GetAllPlayerFeatureHashes()
+- Added FeatureMgr.GetAllPlayerFeatureHashes(int)
+- Added Feature:IsPlayerFeature
+- Added Feature:GetStepSizeInt
+- Added Feature:GetFastStepSizeInt
+- Added Feature:GetStepSizeFloat
+- Added Feature:GetFastStepSizeFloat
+- Fixed some bugs
+
+[Cherax 5.29.0]
+
+- Added Battleye Server Implementation (be host without legit players kicking themselves)
+- Added Partial Battleye Client Emulation (stay in a session a bit longer without being kicked)
+- Fixed Session Browser
+- Fixed Advertise Session
+- Fixed not being able to go online when injecting late
+
+[Cherax 5.28.0]
+
+- Updated to version b3351
+- Improved Unlocks
+- Rainbow Skidmarks now also syncs the color with the other fade options
+- Fixed Sort By Host Queue
+
+[5.27.1]
+
+- Updated to Game Version b3337
+- Added Battleye Kick & Battleye Ban Kick
+- Disabled Forced Force Next Session Host
+
+[5.27.0]
+
+- Updated To Game Version b3323
+- Added Disable Drone/Missile Distance Limits
+- Added Drone Godmode
+- Added Disable Prostitute Restrictions
+- Improved Protections
+- Fixed Feature Search Sorting
+
+[5.26.0]
+
+- Added Session -> Player Spoofing -> Spoof Position
+- Added Session -> Player Spoofing -> Set Spoof Position
+- Added Protections -> Reactions -> Spectating You
+- Added Protections -> React With -> Spoof Position Reaction
+- Added Vehicle -> Handling Editor -> Reset Handling
+- Added Player Tracker -> Recent Players -> Block Joins
+- Added Session -> Chat -> Mute Text Chat
+- Added Session -> Advertise Session
+- Added Session -> Advertise Count
+- Added Recovery -> Unlock All Freemode Missions
+- Improved Complete Missions
+- Added Misc -> Chat -> Auto Player Name Complete
+- Added Misc -> ESP -> Draw Tracers
+- Added Discord RPC (default off)
+- Allow Session Joins
+- Message Of The Moment
+- Added Misc -> Experiments -> Override Blackjack
+- Added Misc -> Experiments -> Override Claw Crane Game
+- Added Misc -> Experiments -> Override Axe Fury Game
+- Added Misc -> Experiments -> Override Love Meter Game
+- Added Misc -> Experiments -> Arcade Games Godmode
+- Added Misc -> Experiments -> Disable Dart Wobble
+- Added Misc -> Experiments -> Override Armwrestling
+- Added Misc -> Experiments -> Disable Golf Wind
+- Added Misc -> Experiments -> Disable Golf Foliage Collision
+- Added Misc -> Experiments -> Auto Finish Golf Hole
+- Added Misc -> Experiments -> Display all Weapon Components
+- Added Theme -> Show Toast Repeat Counter
+- Added Theme -> Show Toast Lifetime Bar
+- Added Theme -> Toast Lifetime Bar Color
+- Added Toast Background Image (Name an image toast_background.* (supports .png, .jpg, .gif, etc) in a ClickGUI theme folder)
+- Added List GUI Theme -> Menu X,Y
+- Improved Protections
+- Block Gun now places immovable cubes
+- You can now copy any player info to clipboard by clicking on it
+- You can now hover over modder reasons to see the full list of detections
+- Fixed Free Shopping not working for items you wouldn't be able to afford
+- Fixed Fake Lag
+- More Improvements and Fixes
+
+[5.25.0]
+
+- Added Delete Vehicle from Garage
+- Added Unlock All Booty Calls
+- Added Keep Suppressor On In Vehicles
+- Added Player Selector Grab Color to Click GUI Theming
+- Added Click GUI Theme ->  Child Title Bar -> Search Icon / Search Icon Active
+- Added Click GUI Theme ->  Child Title Bar -> Star Icon / Star Icon Active
+- Added Click GUI Theme -> Other Colors -> Player Selector Grab
+- Fixed game inputs being processed when writing into a color input field
+- Fixed some features in the List GUI Recovery tab not being shown
+- Improved Protections
+
+Lua:
+- Changed Unloading Logic
+
+[5.24.0]
+
+- Added Convert Current Vehicle To PV (Let's you store almost any vehicle into a garage with all its modifications)
+- Added Los Santos Most Wanted
+- Added Log Script Terminations
+- Improved Coloadability
+
+[5.23.0]
+
+- Added Free Shopping
+- Added Favourite & Featured Features
+- Added Instant Suicide
+- Added Win Car Meet Prize Ride
+- Added Script Event Names to Script Event Logger
+- Improved Protections
+- Improved Traffic Variety Performance
+- Fixed unable to move when using super bail
+- Fixed Some Issues with inputs
+- Fixed Some Other Bugs
+- Special Garages like the Terrorbyte and the Nightclub Delivery Vehicle Floor now also show up in the personal vehicle spawner along with their vehicles
+
+Lua:
+- Added GTA.GetScriptEventName
+
+[Loader]
+
+- Cherax is now cached which means an even faster injection & less traffic
+- Added more automatic troubleshooting
+
+[5.22.0]
+
+- Added Unlock DLC Content
+- Added Chip Selling Cooldown To Disable Various Cooldowns -> Casino Chip Exchange
+- Added Drift Section To Spawner
+- Added Newer Vehicles To Their Spawner Classes
+- Added Enable Custom Window Size To Click GUI Theme
+- Improved Unlock Clothing
+- Improved Protections
+- Fixed Several Bugs
+- Fixed Possible False Flags for Score Data Spoofing
+
+Lua:
+- Added optional parameters for ClickGUI.BeginCustomChildWindow
+- number textAlignX
+- number textAlignY
+- Added optional parameters for ImGui.AddRectFilledMultiColor
+- number rounding
+- int flags
+- Fixed Doc Mismatches
+
+[5.21.2]
+
+- Added 2 New Weather Types
+- Updated List Hidden Vehicles
+- Improved Bail Logging
+- Fixed Some Bugs
+- PV Spawner now shows the plate text
+
+[5.21.1]
+
+- Removed Features Patched By Rockstar
+- Removed IW Crash
+- Removed Ban Kick
+- Max Saved Ammo
+- Gift & Insure Vehicle
+- Several Bugfixes
+- Note
+- RID Crash is still not patched
+
+[5.21.0]
+
+- Updated To Game Version B3258
+- Added New Vehicles
+- Added New Peds
+- Added New Weapons
+- Improved Protections
+- Improved Modder Detections
+- Improved Anti Modder Detections
+- Improved Force Session Host
+- Fixed Auto Repair when vehicle drowned
+- Fixed Too Small Header for Hotkey & Info Window
+- Fixed Player Extra Window throwing Exceptions when using Super Bail
+- Fixed Instant Resurrect throwing Exceptions
+- Fixed Streamer Mode not hiding names from ESP
+- Fixed Teleport not working if attached to an object
+- Fixed Player Script Event Features throwing an exception in story mode
+
+Lua:
+- Improved Error Logging
+
+[5.20.0]
+
+- Added RID Crash
+- Added Da Nile Crash
+- Improved Protection
+- Fixed Auto Confirm Join Alerts
+- Fixes Some False Positives For Chat Advertisements
+- Note: The RID Crash we added is already reported to Rockstar and will most likely be patched with the upcoming DLC. The free version of Cherax is going to protect you from this as well as other private exploits.
+
+[5.19.1]
+
+- Improved Protections
+- Fixed "Shooting while Invincible" false positive when player is in a RC tank
+- Other Bug Fixes
+
+[5.19.0]
+
+- Added Recovery -> Vehicle -> List Hidden Vehicles (on Websites)
+- Added Playerlist -> Tags -> Player Tags (enable/disable Player Tags)
+- Added Players -> General -> Force Sync DLC Models
+- Added Protections -> General -> Block Bounty Spam
+- Added In Sub-Session Player Tag
+- Improved Rockstar Admin Detection
+- Improved Anti AFK Kick to also work in Fullscreen while tabbed out
+- Improved Modder Detection
+- Improved Protections
+- split RP Drop into "Drop Money and RP" and "Drop Chips and RP"
+- various bugfixes
+
+Lua:
+- Added Utils.IsKeyDown
+- Added Utils.IsKeyPressed
+- Added Utils.GetClipBoardText
+- Added Utils.SetClipBoardText
+- Added eProtectionType enums
+- Added eLuaEvent.ON_REACTION
+- Usage in Example Script
+
+[Loader]
+
+- Fixed crashing if Cherax folder path has special chars
+
+[5.18.2]
+
+- Improved Spectate Detection
+- Improved Allow Weapons In Interiors
+- Fixed Modder Detection False Positive
+
+[5.18.1]
+
+- Improved Is in Interior Detection
+- Improved Spectate Detection
+- Improved Modder Detection
+- Fixed Damage Modifier False Flags
+
+[5.18.0 Bravado Update]
+
+- This update comes with UI Changes to make the menu easier to navigate.
+- Added Player -> Movement -> Fall Modifier
+- Added Player -> Movement -> Jump Modifier
+- Added Player -> Health -> Disable Death Barrier
+- Added Player -> Collision -> Hulk Mode
+- Added Player -> Collision -> Walk Through Vehicles
+- Added Player -> Collision -> Walk Through Peds
+- Added Player -> Collision -> Walk Through Objects
+- Added Player -> Collision -> Walk Through Walls
+- Added Vehicle -> Collision -> Hulk Vehicle
+- Removed Heavy Vehicle
+- Added Handling Editor -> Handling Flags
+- Added Handling Editor -> Model Flags
+- Added Handling Editor -> Advanced Flags
+- Added Handling Editor -> Door Damage Flags
+- Added World -> Object Glow -> Disable Pickup Glow
+- Added World -> Object Glow -> Enable Glass Glow
+- Added World -> Object Glow -> Override Glow Effect
+- Added World -> Object Glow -> Glow Intensity
+- Added World -> Object Glow -> Glow Frequency
+- Added Protections -> Other -> Hide Damage Modifier
+- Improved Protections
+- Fixed Give Script Host
+- Fixed Soul Switch Gun
+- Renamed Use Code Cherax to Free Services
+- Rainbow Skidmarks now work on every surface
+
+Lua:
+- Added ModderDB.GetModderDetections
+- Added ModderDB.GetModderDetectionsByPlayerId
+- Added CPlayerInfo usertype
+- Added CNetGamePlayer.PlayerInfo
+- Added CPed.PlayerInfo
+- Added Players.GetCam
+- Added Players.GetCamRot
+- Added Players.GetIPInfo
+- Added ModderDB.RemoveModder
+- Added ModderDB.RemoveModderDetection
+- Fixed Memory.LuaCallCFunction
+- Fixed Combo Features with empty labels having empty space when rendering
+
+[5.17.3]
+
+- Improved Crash Protection
+- Fixed an issue where being subscribed to an unapproved script caused crashing
+- Some other bug fixes
+
+[5.17.2]
+
+- Added Search Bar directly into window title bar
+- Added Title Bar Search Background Color to customization
+- Improved Crash Protection
+- Fixed some entities falling through ground when a certain threshold of collisions was reached
+- Fixed issues with in game chat while using list gui
+
+[5.17.1]
+
+- Added Hide From Session Protection
+- Added Cherax Newsletter Toggle
+- Improved Use Code Cherax (all phone and interaction menu services are free now, including the Orbital Cannon)
+- Fixed Roulette Rigging crashing
+- Fixed Clone Vehicle crashing
+- Fixed Add Ramp to Vehicle crashing
+- Fixed some typos
+- Removed Free Freemode
+
+Lua:
+- Added parameter to FeatureMgr.AddFeature
+- (this will force the callback to be always queued in a unique scripting thread where you will be allowed to yield)
+- bool forceQueue = true
+- Added Feature:GetId()
+
+[5.17.0]
+
+- Updated For Game Update
+- Updated Anti Cheat Bypass
+- Added Cherax News (replaces GTA News)
+- Added Players -> Vehicle -> Set Top Speed
+- Added Player -> Cosmetic -> Wardrobe -> Outfit -> Disable Outfit Apply Restrictions
+- Improved Use Code Cherax
+- Improved Script Event Protection
+
+Lua:
+- Added Feature:GetColorU32
+- Added Feature:SetColorU32
+- Added Feature:GetColorFloats
+- Added Feature:SetColorFloats
+- Added ImGui.TableNextColumn
+- Fixed Time.GetEpoche not being equal to system clock time
+- Fixed Time.GetEpocheMs not being equal to system clock time
+
+[5.16.1]
+
+- Added Allow Skipping Cutscenes
+- Allows you to skip cutscenes like in Story Mode
+- Improved Add Delimiters For Money
+- Now adds delimiters for the chip display too
+
+Lua:
+- Added CPed:IsPlayer()
+- Added CPed:IsInVehicle()
+- Added CPed.CurVehicle
+- Added CPed.LastVehicle
+
+[5.16.0]
+
+- Added Session -> Misc -> Join Full Sessions Bypass
+- Added Session -> Misc -> Auto Confirm Join Alerts
+- Added Protections -> Script -> Block Modded Session Events
+- Added Protections -> Kick Utility -> Desync Auto Rejoin
+- Added Misc -> Other -> Rainbow Skidmarks
+- Added Misc -> ESP & HUD -> Hotkeys -> Clear All Hotkeys
+- Added Player -> Cam -> Parachute FOV
+- Added Player -> Cam -> Cinematic FOV
+- Added Player -> Cam -> Cutscene FOV
+- Added Player -> Cam -> Clouds Loading Screen FOV
+- Added Subscribed Scripts -> Auto Start
+- Added Log Net Messages
+- Added Log Script Starts
+- Improved RID Joiner
+- Fixed SC TV Join
+- Improved Block Remote Control
+- Blocks Remote Vehicle Special Ability
+- Blocks Remote Vehicle Horn
+- Added Vehicle -> Disable Wall Collision
+- Disables collision with walls and most buildings
+- Improved Vehicle -> Disable Prop Collsion
+- Now also disables collisions with most world objects, e.g trees
+- Improved Crash Protection
+- The current selected local lua script now gets automatically reloaded if it has been changed externally
+- Fixed Bail From Session causing a net split to the rest of the session when host
+- Fixed Hide Player Locally useable on yourself causing a crash
+- Fixed possible crash when unloading
+- Fixed Weather State being saved in settings
+- Some other fixes and improvements
+
+[Lua]
+
+- Added CheraxExample.lua as default to local lua scripts (will be updated over time)
+- Added eEntityType enum
+- Added CEntity Usertype (Base for CPhysical)
+- Added CEntity:GetType()
+- Added CEntity:IsPhysical()
+- Added eLuaEvent.SHOULD_COLLIDE
+- Prevented incorrect use of Script.Yield in certain situations
+- Fixed Some Doc Missmatches
+- Splitted Utils namespace:
+- Added Time Namespace
+- Added Time.Get
+- Added Time.GetEpoche
+- Added Time.GetEpocheMs
+- Added Time.GetEpocheNs
+- Added GTA Namespace
+- Added GTA.GetLocalPed
+- Added GTA.GetLocalVehicle
+- Added GTA.GetLocalPlayerId
+- Added GTA.HandleToPointer
+- Added GTA.PointerToHandle
+- Added GTA.ConvertSectorToWorldPosition
+- Added GTA.ConvertWorldToSectorPosition
+- Added GTA.ForceScriptHost
+- Added GTA.TriggerScriptEvent
+- Added GTA.GetLabelText
+- Added GTA.GetGroundZ
+- Added GTA.SpawnVehicle
+- Added GTA.SpawnVehicleForPlayer
+- Added GTA.CreateRandomPed
+- Added GTA.CreatePed
+- Added GTA.CreateObject
+- Added GTA.CreateWorldObject
+- Added GTA.SendChatMessageToEveryone
+- Added GTA.SendChatMessageToPlayer
+- Added GTA.AddChatMessageToPool
+- Added GTA.GetModelInfoFromHash
+- Added GTA.GetModelInfoFromIndex
+- Added GTA.GetModelInfoIndexFromHash
+- Added GTA.WorldToScreen
+- Added GTA.GetBonePos3D
+- Added GTA.GetBonePos2D
+- Added GTA.GiveControl
+- Added GTA.GetDisplayNameFromHash
+- Added GTA.GetModelNameFromHash
+- Added GTA.BeginService
+- Added GTA.BasketStart
+- Added GTA.BasketAddItem
+- Added GTA.CheckoutStart
+- Added GTA.RegisterFile
+- Added GTA.DrawPedPreview
+- Added GTA.SetLabelText
+- Added GTA.RemoveLabelText
+
+[5.15.1]
+
+- Added Allow Special Chars
+- Improved 30 Char Limit from Paste In Chat -> Now 140
+- Improved Profanity Filter Bypass
+- Improved Block Chat Advertisement
+- Fixed Streamer Mode For Join & Leave Notifications
+- Fixed Some False Flags
+
+Lua:
+- Fixed being able to spoof user id with Cheat Engine
+- Moved LuaCallCFunction to Memory namespace
+- Implemented Profanity Filter Bypass For:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Added Miscellaneous -> General -> Other -> Paste In Chat
+- Fixed Profanity Filter Bypass For Chat
+- Fixed Local Chat Messages not being logged
+- Added Players -> General -> Save Player
+- Added Players -> General -> Copy Rockstar Id
+- Added Crash & Kick All
+- Added Protections -> Block Vehicle Spam
+- Added Protections -> Block Ped Spam
+- Improved Crash Protection
+- Improved List GUI Controlling
+- Fixed List GUI Font Theme Loading
+- Fixed Click GUI showing real player names in streamer mode
+- IPv4 and Rockstar Id is now also hidden while Streamer Mode is enabled
+
+[5.14.1]
+
+- Added Session -> Matchmaking -> Fix Asset Hash
+- Improved Script Event Protection
+- Fixed Sync Protection throwing excpeptions
+
+[5.14.0]
+
+- Added Players -> Malicious -> Script Event Crash
+- Improved Crash Protections
+- Added Players -> Remote Hide -> Hide Session From Player
+- Added Players -> Remote Hide -> Hide Player From Session
+- Added Players -> Remote Hide -> Hide Player Locally
+- Added Players -> Trolling -> Stun Player
+- Added Protection -> Network Events -> Stun Gun Spam Protection
+- Added Protection -> Network Events -> PTFX Spam Protection
+- Added Notify Spectate Toggle
+- Added Players -> Abuse -> Send To Infinite Loading Screen
+- Removed Kill Attackers & Freeze Attackers
+- Added Protections -> Reactions -> Aiming At You
+- Added Protections -> Reactions -> Shooting At You
+- Added Protections -> Reactions -> Types -> Freeze Player
+- Added Protections -> Reactions -> Types -> Stun Player
+- Added Vehicle -> Mobile LSC -> Number Plate Type
+- Added Vehicle -> Mobile LSC -> Number Plate Text
+- Fixed Third Person Aim FOV
+- Fixed Pattern Cache
+- Fixed Tow Truck Crash False Positives
+- Fixed Anti Aim
+- Fixed Orbital Strike Player Reaction Type
+
+Lua:
+- Fixed Some Sync Data Node members not being accessible
+
+[5.13.0]
+
+- Added OpenIV Bypass (Starting the game through the Cherax Loader makes it possible to load online with OpenIV mods, thoroughly tested with NVE)
+- Added Cam -> FOV Changer (First Person, First Person In Vehicle, Scoped In, Third Person, Third Person Aim, Third Person In Vehicle, Third Person In Vehicle Aim)
+- Added Audio -> Disable Flying Music
+- Added Audio -> Disable Wanted Music
+- Added Audio -> Force Lock-On Warning
+- Added Wardrobe-> Face Feature Modifier (Face Features now save with Outfit Saving)
+- Added ESP -> Player Cam
+- Added Delete Player Vehicle
+- Added Spectating Notifications
+- Improved Spectate
+- Improved Anti Spectate (will now attempt to remotely stop the spectating)
+- Improved Unlocks
+- Improved Crash Protections
+- Fixed False Positives
+- Cache is now automatically being skipped if module hash changed (e.g. socialclub.dll)
+
+Lua:
+- Added 40+ Sync Data Nodes available for custom spoofing
+- Added eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC
+- callback(int player, CPhysical entity)
+- Added eLuaEvent.ON_SYNC_DATA_NODE
+- callback(eSyncDataNode node_type, node,  CPhysical entity,  bool is_exclusive, int exclusive_player)
+- Loader & Menu
+- Fixed 'couldn't resolve host' Errors
+
+[Cherax 5.12.2]
+
+- Fixed Auxiliary Cannon Crash Protection
+- Removed Equilibrium Crash
+- Some Other Improvements
+
+[5.12.1]
+
+- Improved Modder Detections
+- Fixed Crash Player
+- Fixed Language Spoofing
+
+Lua:
+- Added Cherax.GetVersion
+- Added Cherax.GetBuild
+- Added Utils.sJoaat
+- Renamed CEntity -> CPhysical
+- Renamed NetGamePlayer -> CNetGamePlayer
+- Added CNetObject:GetEntity
+- Added NetworkObjectMgr.UnregisterNetworkObject
+- Added NetworkObjectMgr.ChangeOwner
+- Added NetworkObjectMgr.GetNetworkObject
+- Removed Utils.FindNetobjectById
+
+[Cherax v5.12]
+
+- Added Auxiliary Cannon Crash
+- Added Player Spoofing -> Spoof In Tutorial Session
+- Added Player Spoofing -> Spoof Language
+- Added Player Info -> Game Language
+- Added Vehicle -> Show Bomb Trajectory
+- Renamed Hide From Player List -> Hide From Session
+- Improved Hide From Session
+- Added Open Folder Buttons to Settings, Themes, and Translations
+- Added Toggle GUI Button insde GUI
+- Player Tracker now shows the Session Type instead of [Online]
+- Player Tracker now sorts saved players first by online state and then by name
+- Improved Crash Protection
+- Fixed Skip Freemode Wait not giving weapons
+- Fixed 'Last Seen' not shown for saved players
+
+Lua:
+- Added PoolMgr.GetRenderedVehicles
+- Added PoolMgr.GetRenderedPeds
+- Added PoolMgr.GetRenderedObjects
+- Added ClickTab enum
+- Added ClickGUI.GetActiveMenuTab
+- Added ClickGUI.SetActiveMenuTab
+- Added ListGUI.SetCurrentTab
+- Added ListGUI.RemoveTabFromStack
+
+[Cherax v5.11]
+
+- Added Kick Utility -> Drop Kick Doping -> Disabled/Legit/Strong
+- Added Kick Utility -> Host Drop Kick Events -> Notify Connection Issues, Notify Drop Kicks, Block Drop Kicks
+- Added Session -> Force Next Session Host -> Disabled/Legit/Strong
+- Added Set Bounty On Player
+- Improved Performance/FPS
+- Improved Modder Detection
+- Improved Spoofing Options
+- Improved Network Error Kick Protection
+- Added Put Personal Vehicle Into Garage
+- Improved Spawn Personal Vehicle
+- Spawn Personal Vehicle now also uses settings like Spawn Inside Vehicle & Engine Always On
+- Rockstar Admins are now detected by IP and a premade list which will continuely be updated
+- Fixed Chat Messages not being sent and received while in spectator mode
+- Click GUI now shows the player count above the player list
+- Some GUI elements order got changed
+- Session Browser will now also display hidden sessions
+- Fixed some rendering issues with List Gui
+
+Lua:
+- Added Cherax.GetUID
+- Added Tab:RemoveSubTab
+- Utils.TriggerScriptEvent now enforces some specifc args on the data to send
+
+[Loader]
+
+- We restarted the server to roll out a small loader update
+
+Loader:
+- Selections are now saved and persistent
+- Loader will no longer render while being in backgound which effectively improves fps in-game
+
+[Cherax v5.10.1]
+
+- Fixed issues with personal vehicle spawner and garages
+- Fixed some labels
+
+[Cherax v5.10.0]
+
+- Added Score Data Spoofing
+- Added Score Data Spoofing Detection
+- Added Score Data Spoofing -> Rank
+- Added Score Data Spoofing -> Kills
+- Added Score Data Spoofing -> Deaths
+- Added Score Data Spoofing -> Wallet
+- Added Score Data Spoofing -> Bank
+- Added Score Data Spoofing -> Sex Acts
+- Added Score Data Spoofing -> Lap Dances
+- Added Vehicle -> Glide Ability
+- Added World -> Sky -> Disable Sky
+- Added Weapon -> Unlimited Ammo
+- Modder detections besides from protections now notify as well
+- Force Jump Ability & Force Rocket Boost Ability can now be used together
+- Vehicle Abilities are now grouped together
+- Session Browser will now find up to 1024 sessions at once
+
+[Cherax v5.9.0]
+
+- Added Handling Editor -> Vehicle Model Info Flags
+- Vehicle Model Info Flags will now also save along with the other handling settings (files are backwards compability)
+- Added Vehicle -> Force Parachute Ability
+- Added Vehicle -> Force Jump Ability
+- Added Vehicle -> Force Rocket Boost Ability
+- Added Player Spoofing -> Rockstar Developer Flag
+- Added Player Spoofing -> Rockstar QA Flag
+- Added Player Spoofing -> Cheater Flag
+- Added Player List -> Give Collectibles Type
+- Added Player List -> Give Collectibles
+- Added Player List -> Give All Collectibles
+- Added Wardrobe -> Disable Outfit Validation
+- Added Hotkeys -> Notify Hotkey Pressed
+- Added Translations -> Dump Current Translation File (includes lua features)
+- Improved Anti Modder Detection
+- Improved Crash Protection
+- Fixed some false positives
+- Changed Outfit Editor values to inputs instead of slider
+- Reordering Spoofing Child Windows/Tabs
+- Combo Toggle Popups are now larger to get a better overview
+
+Lua:
+- Added Utils.GiveControl
+
+[Cherax v5.8.0]
+
+- Added Kill Player
+- Added Kill Player Reaction
+- Added Orbital Strike Reaction
+- Added Remote Ragdoll Loop
+- Added Script Vehicle Kick
+- Added Block Matchmaking Joins
+- Added Host Tool Kit: Max Players
+- Added Copy Rockstar Id (Player Tracker, Saved Players, Session Browser)
+- Added Network Error Kick Protection Toggle
+- Fixed Network Error Kick Protection
+- Added Custom Join Block Reason for every saved player
+- Improved Join Blocking
+- Improved Session Browser
+- Improved Script Event Protection
+- Improved Crash Protection
+- Improved Net Event Protection
+- Improved Vehicle Kick Protection
+- Fixed other players being unable to enter your vehicle
+- Fixed 'Force Script Host threw an exception'
+- Fixed issues with font atlas getting to big causing problems on injection
+- Fixed Delete Gun On Players
+- Fixed player list sort when player is in a joining state
+- Announce In Chat Reaction will now spam less
+- Console Window is now fully colourized for better readability
+
+[Cherax v5.7.1]
+
+- Fixed Exception Logger
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- Added Reaction for Bad Script Event
+- Added Reaction for Vote Kick
+- Added Announce In Chat Reaction
+- Added Outgoing Entity Sync Timeout Reaction
+- Added Outgoing Script Event Timeout Reaction
+- Added Player Toggles Block Incoming/Outgoing Entity Syncs
+- Added Player Toggles Block Incoming/Outgoing Script Events
+- Added Block Cages
+- Added Block World Model Syncs
+- Added Script Host Kick Protection Toggle
+- Added End Session Kick Protection Toggle
+- Added Object ESP
+- Added Object ESP Distance
+- Added Player List Sort By (Player Id,  Host Queue, Alphabetical, Distance)
+- Added Fake Lag
+- Added Free Freemode
+- Added Use Code Cherax
+- Added Dax Work to Cooldown Disabler
+- Added Position Player Info
+- Added Host Token Player Info
+- Player Info can now also be translated
+- Improved Crash Protection
+- Improved Script Event Protection
+- Improved Vehicle Kick Protection
+- Improved Send To Death Barrier
+- Improved Session Browser
+- Fixed the game interrupting the Drop Kick sometimes
+- Fixed Loop Vehicle Kick
+- Fixed False Positives
+- Fixed Freeze Player & Protection
+- Fixed No Clip freezing vehicle when disabling
+- Fixed Instant Vehicle Enter when no ped was inside
+- Fixed Timecycle Modifier
+- Fixed Speed Multipliers
+- Fixed Combo Toggles for List Gui
+- Fixed Block Passive Mode
+- Fixed some unwanted controls getting through when menu open
+- Protection Toggles do now toggle most stuff
+- Shortened some labels
+- Cherax will now notify you if you are using the wrong DirectX Version
+- Some other improvements and bug fixes
+
+LUA:
+- Added table<int, int> Players.Get(ePlayerListSort filter, string search)
+- Added FeatureMgr.SearchFeature
+- Added Feature:SetSearchable, Feature:IsSearchable
+- Fixed Lua Curl causing issues due to lua gc
+
+[Cherax 5.6.1]
+
+- improved Seasonal Event Options
+- fixed Injection Error
+- fixed Blocking own Chat Spam through Lua API
+
+[Cherax 5.6.0]
+
+- Added Custom Translations (Default Translation File will be created in Cherax/Translations)
+- Added Reactions (Kick, Crash,  Report, Chat Spam, Chat Banned Words)
+- Added Reaction Types (Kick, Crash,  Script Event Timeout,  Entity Sync Timeout)
+- Added Script Event Timeout Duration Slider
+- Added Entity Sync Timeout Duration Slider
+- Added more Notifications (Kicking, Crashing, Host Migrations)
+- Added more Cooldowns to Disable Various Cooldowns
+- Fixed Vehicle Selection for Vehicles with the same name
+- Fixed No Clip Drift
+- Glyphes For Chinese, Korean, Japanese and Russian are now always loaded and correctly displayed when required
+- Console Messages that repeat will now have a counter like the toasts
+- Disable Various Cooldowns now lets you pick which types of Cooldowns you want to disable
+- Added to Lua:
+- b3095 Natives
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Added Ban Kick
+- Added Block Passive Mode
+- Improved Modder Detection
+- Improved Lua Script Entity Auto Cleanup
+- Fixed "Script Host Crash V2" Protection
+- Fixed Some Features Unavailable For Free Users
+
+[Cherax V5.4.0]
+
+- Reworked 'Bail From Session'
+- Added 'Story Bail From Session' (old Bail From Session)
+- Added 'Super Bail From Session'
+- Added 'Spawn With Radio Off'
+- Improved AAC
+- Fixed Script Event Protection and a lot of Script Event Features
+- Fixed Network Error Kick Protection
+- Fixed playing online with dlc peds and dlc vehicles
+- Fixed Level 1000 Unlock for LSCM
+- Fixed Typos
+- Fixed some Lua Example Descriptions
+
+[Cherax V5.3.0]
+
 - Added Freeze Attackers
 - Added Advanced Script Event Protection Toggle
 - Added Weaken Host Kicks
@@ -18,16 +1185,129 @@
 - Fixed Heat Vision
 - Fixed Death while spectating
 - Fixed 'Deluxo Mode' Crashing on Certain Vehicles
-- 
-- Lua:
+
+Lua:
 - Added CVehicle.SteerAngle
-- Added CVehicle.SecondSteerAngle
-- Added CVehicle.Throttle
-- Added CVehicle.Brake
-- Added CVehicle.Nitrous
-- Added CVehicle.DirtLevel
-- Added CVehicle.BodyDirtColor
-- Added CVehicle.HeadlightMultiplier
-- Added CVehicle.VehicleTopSpeedPercent
-- Added CVehicle.CheatPowerIncrease
+- Added  CVehicle.SecondSteerAngle
+- Added  CVehicle.Throttle
+- Added  CVehicle.Brake
+- Added  CVehicle.Nitrous
+- Added  CVehicle.DirtLevel
+- Added  CVehicle.BodyDirtColor
+- Added  CVehicle.HeadlightMultiplier
+- Added  CVehicle.VehicleTopSpeedPercent
+- Added  CVehicle.CheatPowerIncrease
 - Added 'AutoCleanup' Parameter for Utils.SpawnVehicle and Utils.CreatePed
+
+[Cherax V5.2.2]
+
+- fixed more issues introduced by latest game patch
+- some bug fixes and improvements
+
+[Cherax V5.2.1]
+
+- Fixed Stability Issues
+
+[Cherax V5.2.0]
+
+- Updated for latest Game DLC
+- Added "The Chop Shop" Vehicles to Spawner
+- Added Drift Handling Mode (Applies the drift handling from the new drift vehicles)
+- Added "Kick & Block Join" Player Option
+- Added Loop Vehicle Kick
+- Added Modded Vehicle Detection
+- Added Session Loop Vehicle Kick
+- Added Session Bribe Authorities
+- Added Session Off The Radar
+- Added Session Clear Wanted
+- Added Session Cage All
+- Added Kick Random
+- Added Auto Force Script Host
+- Added Hud Transition Info State
+- Added Force Blip
+- Added Slot Machine Override
+- Added Override Roulette
+- Added Override Horse Race
+- Added Override Card Games
+- Added Lucky Wheel Override
+- Added Happy Holidays Hauler Event to Enable Christmas
+- Added Unlock Dripfeed Vehicles
+- Added Skip Freemode Wait
+- Improved Spam and Advertisement Protection
+- Improved Drop Kick
+- Improved Script Event Protection and Sending
+- Improved Modder and Anti Modder Detection
+- Removed Money Drop (Model patched by Rockstar)
+- Lua now supports more feature types (List and List With Info)
+- Renamed Stop Vehicle Kick to Gentle Vehicle Kick
+- A lot of internal improvements and bug fixes
+
+[Cherax 5.1.1]
+
+- fixed issues with syncing objects when using blackhole
+- fixed false postives modder detection for host crash
+- added last created models to exception log
+
+[Cherax 5.1.0]
+
+- added Deliminators For Money
+- added Unlock Movement in Interiors
+- added Allow Weapons in Interiors
+- added Chat Spam Blocking
+- added Explosion Spam Protection
+- added Corrupt Host Token
+- added Disable Prop Collision for vehicle
+- added Search for all Player Lists
+- added Save Vehicle (Playerlist)
+- added Keep Velocity for No Clip
+- added more Modder Detections
+- added and improved some Lua API Examples
+- added AC Crash
+- vastly improved Crash Protections
+- improved Smart Protection
+- improved Aimbot
+- improved Drop Kick (doesn't work on Host)
+- improved Blackhole (now interacts with Props)
+- fixed some Invalid Mods being automatically applied (Upgrade Vehicle)
+- fixed Kidnap Player
+- fixed Remove All Weapons (Playerlist)
+- fixed Saved/Recent Players for List GUI
+- increased Spawn Height for Planes
+- saved vehicles and outfits are now overridden when saving with same name
+
+[Cherax v5.0.2]
+
+- fixed injection issues due to social club update
+- fixed some issues with large subscribed scripts
+- fixed list gui text input
+- fixed list gui spawner filter
+- added list gui spawner preview
+- added some modder detections
+- added some crash protections
+- temporarily disabled desync kick protection
+
+[Cherax v5.0.1]
+
+- fixed crashes due to failed font loading on inject
+- fixed korean font glyphs not being loaded
+- fixed empty garage names for personal vehicle spawner
+- fixed false positive for attachments to your cargobob
+- fixed info window position not saving
+- fixed custom menu open key not saving
+- fixed warp player time forward host check
+- fixed possible crash while unloading
+- fixed performance issues when subscribing to larger scripts
+- fixed memory leak in image loader
+- fixed host crash protection
+- fixed force camera forward protection
+- fixed clear mission entities having opposite effect
+- improved chat advertisement protection
+
+Cherax Loader:
+- improved performance by 400%
+- fixed resource pages not working
+- fixed memory leak in image loader
+
+[Cherax V5.0.0]
+
+- Initial release

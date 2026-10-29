@@ -5,64 +5,1188 @@
 - Meningkatkan Proteksi
 - Memperbaiki Berbagai Bug
 
+[5.52.0 EE / 5.43.0 LE]
 
+- Menambahkan Sesi -> Bergabung Kembali Mulus
+- Menambahkan Sesi -> Bergabung Kembali Sesi Berwaktu
+- Menambahkan Diri -> Kecepatan No Clip Interior
+- Menambahkan Diri -> Kosmetik -> Animasi Pembajakan Mobil
+- Menambahkan Diri -> Kosmetik -> Acak Animasi Pembajakan Mobil
+- Menambahkan Pemulihan -> Hapus Lari Modded
+- Menambahkan Pemulihan -> Atur/Hapus Bad Sport
+- Menambahkan Pemulihan -> Reset Ghosts Exposed
+- Menambahkan Aimbot -> Tembus Objek
+- Menambahkan ESP -> Objek -> Gambar Kotak
+- Menambahkan Kendaraan -> Pemutaran
+- Memperbarui Lua ke 5.5.1
+- Meningkatkan Rendering Tahan Streaming
+- Meningkatkan Transisi Mulus
+- Meningkatkan Kendaraan Hulk & Ped Hulk
+- Meningkatkan Aimbot
+- Meningkatkan ESP
+- Meningkatkan Proteksi
+- Tombol mouse sekarang dapat digunakan sebagai Hotkey
+- Memperbaiki Berbagai Bug
 
+[5.51.0 EE / 5.42.0 LE]
 
+- Menambahkan Lain-lain -> Dunia -> Dunia Cermin
+- Menambahkan Sesi -> Umum -> Mulai Ulang Freemode
+- Meningkatkan Pemuatan DLC + memperbaiki fungsionalitas di EE
+- DLC sekarang hanya akan dicantumkan jika kompatibel dengan versi game kamu
+- Meningkatkan Transisi Mulus
+- Memperbaiki berbagai bug
 
+[5.50.0 EE / 5.41.0 LE]
 
+- Meningkatkan Proteksi Crash
+- Perbaikan Bug dan Peningkatan Lainnya
 
+[Hotfix Update]
 
-- 8/9/2026 10:34 AM
-[Cherax v5.0.1 - 2023/11/12]
-- memperbaiki crash akibat kegagalan memuat font saat inject
-- memperbaiki glyph font Korea yang tidak dimuat
-- memperbaiki nama garasi yang kosong untuk personal vehicle spawner
-- memperbaiki false positive untuk attachment pada cargobob Anda
-- memperbaiki posisi info window yang tidak tersimpan
-- memperbaiki tombol buka custom menu yang tidak tersimpan
-- memperbaiki host check untuk warp player time forward
-- memperbaiki kemungkinan crash saat unloading
-- memperbaiki masalah performa saat berlangganan script yang lebih besar
-- memperbaiki memory leak pada image loader
-- memperbaiki proteksi host crash
-- memperbaiki proteksi force camera forward
-- memperbaiki clear mission entities yang memiliki efek sebaliknya
-- meningkatkan proteksi iklan chat
-- 
-- Cherax Loader
-- meningkatkan performa sebesar 400%
-- memperbaiki halaman resource yang tidak berfungsi
-- memperbaiki memory leak pada image loader
+- Memperbarui EE ke versi game terbaru
 
+[5.X EE & LE]
 
+- Menambahkan Sesi -> Matchmaking -> Timpa Wilayah
+- Menambahkan Sesi -> Matchmaking -> Timpa Tipe Bidikan
+- Menambahkan Sesi -> Matchmaking -> Timpa Pemain Minimum
+- Menambahkan Sesi -> Kit Alat Host -> Iklankan Wilayah
+- Menambahkan Kendaraan -> Kenyamanan -> Pengganda Kontrol di Udara
+- Menambahkan kembali Sesi -> Lain-lain -> Bypass Gabung Sesi Penuh
+- Meningkatkan Nonaktifkan Pembatasan Penerapan Pakaian
+- Mengimplementasikan patch performa DaniGP17
+- Memperbaiki dan meningkatkan Browser Sesi
+- Memperbaiki beberapa masalah pemuatan skrip
 
+[5.X EE & LE]
 
+- Menambahkan Lain-lain -> Eksperimen -> Nonaktifkan Tabrakan Laser
+- Menambahkan Proteksi -> Nonaktifkan Eror Transaksi
+- Berbagai Peningkatan & Perbaikan Bug
 
+[5.X EE & LE]
 
+- Berbagai Peningkatan & Perbaikan Bug
 
+[5.48.0 EE]
 
-- 8/8/2026 12:24 PM
-[Cherax V5.3.0 - 2023/12/18]
-- Menambahkan Freeze Attackers
-- Menambahkan Toggle Perlindungan Event Script Lanjutan
-- Menambahkan Pelemahan Host Kicks
-- Menambahkan Penonaktifan Tabrakan Ped (Kendaraan)
-- Menambahkan Info RTTI untuk Log Pengecualian
+- Memperbarui ke Versi Game 1.0.1158.13
+- Memperbarui Buka Pakaian
+- Memperbarui Buka Konten DLC
+- Berbagai Peningkatan & Perbaikan Bug
+
+[5.39.3 LE]
+
+- Memperbarui ke Versi Game 1.0.3889.0
+- Berbagai Peningkatan & Perbaikan Bug
+
+[5.X EE & LE]
+
+- Menambahkan ImGui.BeginDisabled dan ImGui.EndDisabled untuk Lua.
+- Menambahkan kustomisasi offset header untuk tema. (Hanya Click GUI)
+- Menambahkan Pemalsuan Presence (Tab Jaringan)
+- Meningkatkan Proteksi.
+- Memperbaiki Sepeda Motor yang berhenti saat kamu mendekatinya
+- Perbaikan Bug & Peningkatan Lainnya
+
+Lua:
+- Menambahkan event ON_NOTIFICATION untuk Lua (memungkinkan menimpa sistem notifikasi bawaan).
+
+[5.X EE & LE]
+
+- Memperbarui ke versi game terbaru
+- Meningkatkan Tanpa Ragdoll
+- Meningkatkan Blokir PTFX Modded (EE)
+- Meningkatkan Blokir Ledakan Modded (EE)
+- Meningkatkan Proteksi Spam Kendaraan & Spam Ped (dapat menyebabkan positif palsu)
+- Meningkatkan Proteksi
+- Memperbaiki Beri Semua Senjata yang memberikan senjata tidak valid
+- Perbaikan Bug & Peningkatan Lainnya
+
+[5.X EE & LE]
+
+- Memperbarui ke versi game terbaru
+
+[5.X EE & LE]
+
+- Meningkatkan Proteksi
+- Memperbaiki berbagai Bug
+
+[5.X EE & LE]
+
+- Menambahkan Platform & ID Platform ke Info Pemain
+- Mem-porting Level Car Meet & Arena Wars ke LE
+- Meningkatkan Proteksi Crash
+- Memperbaiki Bug
+
+[5.X EE & LE]
+
+- Menambahkan Buka Semua Trofi Mansion
+- Meningkatkan Buka Konten DLC
+- Memperbarui ke versi game terbaru
+
+[5.X EE & LE]
+
+- Meningkatkan Belanja Gratis (sekarang mencakup semuanya)
+- Meningkatkan Aktifkan Halloween (sekarang mencakup UFO)
+- Meningkatkan Proteksi
+- Memperbarui ke Versi Game 1.72
+
+[5.45.0 EE]
+
+- Menambahkan Daftar Pemain -> Kirim Pesan Teks
+- Menambahkan Sesi -> Kirim Pesan Teks
+- Menambahkan Sesi -> Iklankan Wilayah
+- Menambahkan Info Pemain -> Level Arena Wars
+- Menambahkan Info Pemain -> Level Car Meet
+- Menambahkan Proteksi -> Blokir Bounty Jarak Jauh
+- Menambahkan Proteksi -> Blokir Suara Modded
+- Menambahkan Proteksi -> Blokir PTFX Modded
+- Meningkatkan Buka Pakaian
+- Memperbarui Buka Konten DLC
+
+[5.X EE & LE]
+
+- Menambahkan Daftar Pemain -> Ramah -> Drop (Premium)
+- Menambahkan Daftar Pemain -> Ramah -> Tipe Drop
+- Menambahkan Daftar Pemain -> Ramah -> Jeda Drop
+- Menambahkan Pemulihan -> Pembuka Kunci Lainnya -> Pembayaran Brankas Salvage Yard Maks
+- Menambahkan Lain-lain -> ESP -> Musuh
+- Memperbarui Sistem ESP
+- Beberapa Perubahan UI
+- Memperbaiki dan meningkatkan pesat Lain-lain -> Umum -> Pembatasan -> Nonaktifkan Berbagai Cooldown
+- Meningkatkan Teleportasi ke Objektif
+- Meningkatkan Waktu Injeksi
+- Klaim Semua MMI Otomatis sekarang juga memulihkan kendaraan yang disita
+
+[5.36.0 LE]
+
+- Mem-porting kode Minta Kendaraan Pribadi yang ditingkatkan dari EE
+- Mem-porting Bersihkan Semua Heat Bisnis
+
+[5.44.0 EE]
+
+- Menambahkan Pemain -> Kosmetik -> Transformasi -> Skala Rambut
+- Menambahkan Pemain -> Umum -> Gaib -> Timpa Pemain Terlihat
+- Menambahkan Sesi -> Semua Pemain -> Ungkap Pemain Gaib
+
+[Cherax 5.43.0 EE]
+
+- Menambahkan Dukungan Frame Generation
+- Memperbaiki Beberapa Bug
+
+[Cherax 5.35.1 LE]
+
+- Memperbaiki Beberapa Bug
+
+[5.X EE & LE]
+
+- Menambahkan Pemain -> Umum -> Gaib -> Timpa Pemain Terlihat
+- Menambahkan Sesi -> Semua Pemain -> Ungkap Pemain Gaib
+- Menambahkan Daftar Putih Proteksi
+- Menambahkan Notifikasi Proteksi
+- Meningkatkan Proteksi Crash
+- Meningkatkan Log Blokir Proteksi SE
+- Memperbaiki Pemblokiran Gabung
+- Memperbaiki masalah tidak dapat bergabung ke lobi publik
+- Memperbaiki berbagai bug dan positif palsu
+
+[5.42.0 EE]
+
+- Meningkatkan Proteksi Kick
+
+[5.35.0 LE]
+
+- Memperbaiki input yang bermasalah saat menekan tombol Home
+
+Lua:
+- PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup, GetObject sekarang mengembalikan 0 alih-alih -1 saat gagal
+- Memperbaiki PoolMgr.GetRenderedVehicles
+- Memperbaiki PoolMgr.GetRenderedPeds
+- Memperbaiki PoolMgr.GetRenderedObjects
+
+[5.41.0 EE]
+
+- Menambahkan Pemulihan -> Pembuka Kunci Visual -> Buka Clutter Casino Penthouse
+- Meningkatkan Pembuka Kunci
+- Memperbaiki beberapa bug
+
+[5.40.0 EE]
+
+- Menambahkan Pemulihan -> Pembuka Kunci Lainnya -> Bersihkan Semua Heat Bisnis
+- Menambahkan Gambar Kendaraan Baru
+- Meningkatkan Pembuka Kunci
+- Memperbarui Buka Konten DLC
+- Memperbaiki Tampilkan Daftar Kendaraan Tersembunyi
+
+[5.39.0 EE]
+
+- Memperbarui ke versi game terbaru
+- Menambahkan Lain-lain -> Dunia -> Lampu -> Sinkronkan Lampu ke Radio
+- Meningkatkan Tampilkan Semua Mod Kendaraan
+- Meningkatkan Tampilkan Semua Item Pakaian
+- Meningkatkan Pembuka Kunci
+- Memperbaiki beberapa bug
+
+[5.34.3 LE]
+
+- Memperbarui ke versi game terbaru
+
+[5.38.0 EE]
+
+- Menambahkan Lain-lain -> Umum -> Toko -> Tampilkan Semua Mod Kendaraan
+- Memperbaiki beberapa bug
+
+[5.37.0 EE]
+
+- Menambahkan Tampilkan Semua Item Pakaian
+- Menambahkan Buka Semua Penghargaan
+- Menambahkan Buka Semua Trofi Kantor CEO
+- Menambahkan Buka Semua Trofi Klub Motor
+- Menambahkan Buka Semua Trofi Klub Malam
+- Menambahkan Buka Semua Trofi Fasilitas
+- Menambahkan Buka Semua Trofi Arcade
+- Menambahkan Buka Semua Trofi Arena
+- Menambahkan Buka Semua Trofi Agensi
+- Menambahkan Buka Semua Trofi Freakshop
+- Menambahkan Buka Semua Trofi Salvage Yard
+- Menambahkan Buka Semua Trofi Kantor Jaminan
+- Menambahkan Buka Semua Trofi Pabrik Garmen
+- Menambahkan Ban Tahan Peluru/Cengkeraman Rendah
+- Menambahkan Hapus Cooldown Senjata
+- Menambahkan Hapus Pembatasan Senjata
+- Menambahkan Kontrol Proyektil Jarak Jauh
+- Menambahkan Kemampuan Force Ramp
+- Meningkatkan Minta Kendaraan Pribadi
+- Meningkatkan Pembuka Kunci
+- Meningkatkan Pemuatan Gambar
+- Meningkatkan Performa
+- Memperbaiki daftar kendaraan pribadi yang tidak menampilkan sepeda
+- Memperbaiki ekstra kendaraan pertama yang tidak terpasang dengan benar
+- Memperbaiki ekstra kendaraan yang tidak tersimpan ke file
+- Memperbaiki warna asap ban yang tidak diterapkan dengan benar saat memuat kendaraan
+- Memperbaiki sepeda yang tidak tampil di daftar kendaraan pribadi
+- Memperbaiki positif palsu
+- Memperbaiki mengetik terbalik setelah menekan Home
+- Memperbaiki berbagai bug kecil lainnya
+- Speedometer sekarang disembunyikan saat menggunakan ponsel
+- Mengganti Tema Default (tema default lama disimpan sebagai Old_Original)
+- Tema Cherax LE sekarang sepenuhnya kompatibel dengan Cherax EE, dan sebaliknya
+- Memperbarui ke versi game terbaru
+
+Lua:
+- Menambahkan GTA.AddExplosion(CExplosionArgs args)
+
+[5.34.2 LE]
+
+- Memperbarui ke versi game terbaru
+
+Loader:
+- Mulai otomatis sekarang tersedia untuk Xbox App (PC)
+
+[5.36.1 EE]
+
+- Menambahkan Warna Kendaraan Kusam, Utilitas, dan Spesial
+- Memperbaiki pemuatan glif untuk terjemahan
+
+[5.36.0 EE]
+
+- Menambahkan Buka Progres Karier
+- Menambahkan Buka Semua Koleksi
+- Menambahkan Lewati Intro Karier Kriminal
+- Menambahkan Chameleon ke Warna Roda
+- Meningkatkan Semua Pembuka Kunci
+- Meningkatkan Keluar Cepat ke Halaman Awal
+- Meningkatkan Tampilkan Semua Komponen Senjata
+- Memperbarui ke versi game terbaru
+
+[5.34.1 LE]
+
+- Memperbarui ke versi game terbaru
+
+[5.35.0 EE]
+
+- Memperbarui Cherax untuk EE
+- Menambahkan Buka GTA+
+- Menambahkan Tag Pemain GTA+
+- Menambahkan Warna Kendaraan Baru
+- Menambahkan Ekstra Kendaraan Baru
+- Meningkatkan Pembuka Kunci
+- Meningkatkan Los Santos Most Wanted
+- Beberapa Peningkatan Lainnya
+- Memperbaiki Berbagai Bug
+
+[5.34.0]
+
+- Memperbarui ke versi game b3442
+- Menambahkan Mengemudi di Bawah Air
+- Menambahkan Buka Semua Media Stick
+- Menambahkan Gambar Kendaraan Baru
+- Menambahkan Warna Konsol Kustom
+- Menambahkan Penggantian Gambar Berita Cherax
+- Menambahkan Tembak Musuh sebagai Filter Aimbot
+- Menambahkan Pembuka Batas Frame Rate / Penghapus Stutter di Menu Jeda (selalu aktif)
+- Meningkatkan Penamaan Komponen Lemari Pakaian
+- Meningkatkan Lewati Cutscene
+- Meningkatkan Ungkap Pemain
+- Meningkatkan Proteksi
+- Memperbaiki Paksa Jadi Host Skrip
+- Memperbaiki Berikan Host Skrip
+- Memperbaiki Beberapa Positif Palsu Deteksi Modder
+- Memperbaiki Berbagai Bug
+
+[5.33.0]
+
+- Menambahkan kembali Kick BattlEye & Ban Kick
+- Meningkatkan Implementasi Server BattlEye
+- Meningkatkan Buka Pakaian
+
+[5.32.0]
+
+- Memperbarui ke versi game b3411
+- Mode Hulk & Kendaraan Hulk sekarang tersinkronisasi dengan benar dengan pengguna Cherax lainnya
+
+Lua:
+- Menambahkan Memory.LuaCallCFunctionWithReturnValue
+
+[5.31.1]
+
+- Memperbaiki Memuat Tak Terbatas Saat Memulai Pekerjaan
+
+[Cherax 5.31.0]
+
+- Menambahkan ATF Crash
+- Meningkatkan Proteksi
+- Memperbaiki Beberapa Positif Palsu
+
+[Cherax 5.30.0]
+
+- Memperbarui ke Versi Game b3407
+- Menambahkan Kendaraan Baru
+- Memperbarui Buka Konten DLC (termasuk Properti Hangar baru)
+- Menambahkan Lain-lain -> Dunia -> Aktifkan Satwa Liar di Online
+- Menambahkan Sesi -> Transisi Lebih Cepat -> Transisi Mulus
+- Menghapus Da Nile Crash (Ditambal Oleh Rockstar)
+- Peningkatan & Perbaikan Bug
+
+Lua:
+- Menambahkan FeatureMgr.GetAllPlayerFeatureHashes()
+- Menambahkan FeatureMgr.GetAllPlayerFeatureHashes(int)
+- Menambahkan Feature:IsPlayerFeature
+- Menambahkan Feature:GetStepSizeInt
+- Menambahkan Feature:GetFastStepSizeInt
+- Menambahkan Feature:GetStepSizeFloat
+- Menambahkan Feature:GetFastStepSizeFloat
+- Memperbaiki beberapa bug
+
+[Cherax 5.29.0]
+
+- Menambahkan Implementasi Server BattlEye (jadi host tanpa pemain sah menendang diri mereka sendiri)
+- Menambahkan Emulasi Klien BattlEye Sebagian (tetap berada di sesi sedikit lebih lama tanpa di-kick)
+- Memperbaiki Browser Sesi
+- Memperbaiki Iklankan Sesi
+- Memperbaiki masalah tidak dapat online saat injeksi terlambat
+
+[Cherax 5.28.0]
+
+- Memperbarui ke versi b3351
+- Meningkatkan Pembuka Kunci
+- Jejak Ban Pelangi sekarang juga menyinkronkan warnanya dengan opsi pudar lainnya
+- Memperbaiki Urutkan Berdasarkan Antrean Host
+
+[5.27.1]
+
+- Memperbarui ke Versi Game b3337
+- Menambahkan Kick BattlEye & Ban Kick BattlEye
+- Menonaktifkan Paksa Jadi Host Sesi Berikutnya yang Dipaksakan
+
+[5.27.0]
+
+- Memperbarui ke Versi Game b3323
+- Menambahkan Nonaktifkan Batas Jarak Drone/Rudal
+- Menambahkan Mode Kebal Drone
+- Menambahkan Nonaktifkan Pembatasan Prostitusi
+- Meningkatkan Proteksi
+- Memperbaiki Pengurutan Pencarian Fitur
+
+[5.26.0]
+
+- Menambahkan Sesi -> Pemalsuan Pemain -> Palsukan Posisi
+- Menambahkan Sesi -> Pemalsuan Pemain -> Atur Posisi Palsu
+- Menambahkan Proteksi -> Reaksi -> Mengawasi Kamu
+- Menambahkan Proteksi -> Bereaksi Dengan -> Reaksi Palsukan Posisi
+- Menambahkan Kendaraan -> Editor Handling -> Reset Handling
+- Menambahkan Pelacak Pemain -> Pemain Terkini -> Blokir Gabung
+- Menambahkan Sesi -> Obrolan -> Bisukan Obrolan Teks
+- Menambahkan Sesi -> Iklankan Sesi
+- Menambahkan Sesi -> Jumlah Iklan
+- Menambahkan Pemulihan -> Buka Semua Misi Freemode
+- Meningkatkan Selesaikan Misi
+- Menambahkan Lain-lain -> Obrolan -> Lengkapi Otomatis Nama Pemain
+- Menambahkan Lain-lain -> ESP -> Gambar Garis Pelacak
+- Menambahkan Discord RPC (default nonaktif)
+- Izinkan Bergabung ke Sesi
+- Pesan Saat Ini
+- Menambahkan Lain-lain -> Eksperimen -> Timpa Blackjack
+- Menambahkan Lain-lain -> Eksperimen -> Timpa Game Capit Boneka
+- Menambahkan Lain-lain -> Eksperimen -> Timpa Game Axe Fury
+- Menambahkan Lain-lain -> Eksperimen -> Timpa Game Love Meter
+- Menambahkan Lain-lain -> Eksperimen -> Mode Kebal Game Arcade
+- Menambahkan Lain-lain -> Eksperimen -> Nonaktifkan Goyangan Dart
+- Menambahkan Lain-lain -> Eksperimen -> Timpa Panco
+- Menambahkan Lain-lain -> Eksperimen -> Nonaktifkan Angin Golf
+- Menambahkan Lain-lain -> Eksperimen -> Nonaktifkan Tabrakan Dedaunan Golf
+- Menambahkan Lain-lain -> Eksperimen -> Selesaikan Otomatis Lubang Golf
+- Menambahkan Lain-lain -> Eksperimen -> Tampilkan Semua Komponen Senjata
+- Menambahkan Tema -> Tampilkan Penghitung Pengulangan Toast
+- Menambahkan Tema -> Tampilkan Bilah Durasi Toast
+- Menambahkan Tema -> Warna Bilah Durasi Toast
+- Menambahkan Gambar Latar Belakang Toast (Beri nama gambar toast_background.* (mendukung .png, .jpg, .gif, dll) di folder tema ClickGUI)
+- Menambahkan Tema List GUI -> Menu X,Y
+- Meningkatkan Proteksi
+- Senjata Blok sekarang menempatkan kubus yang tidak dapat digerakkan
+- Kamu sekarang dapat menyalin info pemain mana pun ke papan klip dengan mengekliknya
+- Kamu sekarang dapat mengarahkan kursor ke alasan modder untuk melihat daftar lengkap deteksi
+- Memperbaiki Belanja Gratis yang tidak berfungsi untuk item yang tidak mampu kamu beli
+- Memperbaiki Lag Palsu
+- Peningkatan dan Perbaikan Lainnya
+
+[5.25.0]
+
+- Menambahkan Hapus Kendaraan dari Garasi
+- Menambahkan Buka Semua Booty Call
+- Menambahkan Pertahankan Peredam Suara di Kendaraan
+- Menambahkan Warna Tarikan Pemilih Pemain ke Penataan Tema Click GUI
+- Menambahkan Tema Click GUI -> Bilah Judul Anak -> Ikon Cari / Ikon Cari Aktif
+- Menambahkan Tema Click GUI -> Bilah Judul Anak -> Ikon Bintang / Ikon Bintang Aktif
+- Menambahkan Tema Click GUI -> Warna Lainnya -> Tarikan Pemilih Pemain
+- Memperbaiki input game yang diproses saat mengetik di kolom input warna
+- Memperbaiki beberapa fitur di tab Pemulihan List GUI yang tidak ditampilkan
+- Meningkatkan Proteksi
+
+Lua:
+- Mengubah Logika Pelepasan
+
+[5.24.0]
+
+- Menambahkan Ubah Kendaraan Saat Ini ke Kendaraan Pribadi (Memungkinkan kamu menyimpan hampir semua kendaraan ke dalam garasi beserta seluruh modifikasinya)
+- Menambahkan Los Santos Most Wanted
+- Menambahkan Catat Penghentian Skrip
+- Meningkatkan Kompatibilitas Co-load
+
+[5.23.0]
+
+- Menambahkan Belanja Gratis
+- Menambahkan Fitur Favorit & Unggulan
+- Menambahkan Bunuh Diri Instan
+- Menambahkan Menangkan Hadiah Kendaraan Car Meet
+- Menambahkan Nama Script Event ke Pencatat Script Event
+- Meningkatkan Proteksi
+- Meningkatkan Performa Variasi Lalu Lintas
+- Memperbaiki masalah tidak bisa bergerak saat menggunakan super bail
+- Memperbaiki Beberapa Masalah pada input
+- Memperbaiki Beberapa Bug Lainnya
+- Garasi Khusus seperti Terrorbyte dan Lantai Kendaraan Pengiriman Klub Malam sekarang juga muncul di spawner kendaraan pribadi beserta kendaraannya
+
+Lua:
+- Menambahkan GTA.GetScriptEventName
+
+[Loader]
+
+- Cherax sekarang di-cache sehingga injeksi lebih cepat & lalu lintas data lebih sedikit
+- Menambahkan lebih banyak pemecahan masalah otomatis
+
+[5.22.0]
+
+- Menambahkan Buka Konten DLC
+- Menambahkan Cooldown Penjualan Chip ke Nonaktifkan Berbagai Cooldown -> Pertukaran Chip Kasino
+- Menambahkan Bagian Drift ke Spawner
+- Menambahkan Kendaraan Lebih Baru ke Kelas Spawner-nya
+- Menambahkan Aktifkan Ukuran Jendela Kustom ke Tema Click GUI
+- Meningkatkan Buka Pakaian
+- Meningkatkan Proteksi
+- Memperbaiki Beberapa Bug
+- Memperbaiki Kemungkinan Positif Palsu untuk Pemalsuan Data Skor
+
+Lua:
+- Menambahkan parameter opsional untuk ClickGUI.BeginCustomChildWindow
+- number textAlignX
+- number textAlignY
+- Menambahkan parameter opsional untuk ImGui.AddRectFilledMultiColor
+- number rounding
+- int flags
+- Memperbaiki Ketidakcocokan Dokumen
+
+[5.21.2]
+
+- Menambahkan 2 Tipe Cuaca Baru
+- Memperbarui Tampilkan Daftar Kendaraan Tersembunyi
+- Meningkatkan Pencatatan Bail
+- Memperbaiki Beberapa Bug
+- Spawner Kendaraan Pribadi sekarang menampilkan teks pelat nomor
+
+[5.21.1]
+
+- Menghapus Fitur yang Ditambal Oleh Rockstar
+- Menghapus IW Crash
+- Menghapus Ban Kick
+- Amunisi Tersimpan Maksimal
+- Hadiahkan & Asuransikan Kendaraan
+- Beberapa Perbaikan Bug
+- Catatan
+- RID Crash masih belum ditambal
+
+[5.21.0]
+
+- Memperbarui ke Versi Game B3258
+- Menambahkan Kendaraan Baru
+- Menambahkan Ped Baru
+- Menambahkan Senjata Baru
+- Meningkatkan Proteksi
+- Meningkatkan Deteksi Modder
+- Meningkatkan Deteksi Anti Modder
+- Meningkatkan Paksa Jadi Host Sesi
+- Memperbaiki Perbaikan Otomatis saat kendaraan tenggelam
+- Memperbaiki Header yang Terlalu Kecil untuk Jendela Hotkey & Info
+- Memperbaiki Jendela Ekstra Pemain yang menghasilkan exception saat menggunakan Super Bail
+- Memperbaiki Bangkit Instan yang menghasilkan exception
+- Memperbaiki Mode Streamer yang tidak menyembunyikan nama dari ESP
+- Memperbaiki Teleportasi yang tidak berfungsi jika menempel pada suatu objek
+- Memperbaiki Fitur Script Event Pemain yang menghasilkan exception dalam mode cerita
+
+Lua:
+- Meningkatkan Pencatatan Eror
+
+[5.20.0]
+
+- Menambahkan RID Crash
+- Menambahkan Da Nile Crash
+- Meningkatkan Proteksi
+- Memperbaiki Konfirmasi Otomatis Peringatan Gabung
+- Memperbaiki Beberapa Positif Palsu untuk Iklan Obrolan
+- Catatan: RID Crash yang kami tambahkan sudah dilaporkan ke Rockstar dan kemungkinan besar akan ditambal pada DLC mendatang. Versi gratis Cherax akan melindungi kamu dari ini maupun exploit privat lainnya.
+
+[5.19.1]
+
+- Meningkatkan Proteksi
+- Memperbaiki positif palsu \"Menembak saat Kebal\" ketika pemain berada di dalam tank RC
+- Perbaikan Bug Lainnya
+
+[5.19.0]
+
+- Menambahkan Pemulihan -> Kendaraan -> Tampilkan Daftar Kendaraan Tersembunyi (di Situs Web)
+- Menambahkan Daftar Pemain -> Tag -> Tag Pemain (aktifkan/nonaktifkan Tag Pemain)
+- Menambahkan Pemain -> Umum -> Paksa Sinkronisasi Model DLC
+- Menambahkan Proteksi -> Umum -> Blokir Spam Bounty
+- Menambahkan Tag Pemain Di Sub-Sesi
+- Meningkatkan Deteksi Admin Rockstar
+- Meningkatkan Anti AFK Kick agar juga berfungsi dalam Layar Penuh saat berpindah jendela
+- Meningkatkan Deteksi Modder
+- Meningkatkan Proteksi
+- Membagi RP Drop menjadi \"Drop Uang dan RP\" dan \"Drop Chip dan RP\"
+- Berbagai perbaikan bug
+
+Lua:
+- Menambahkan Utils.IsKeyDown
+- Menambahkan Utils.IsKeyPressed
+- Menambahkan Utils.GetClipBoardText
+- Menambahkan Utils.SetClipBoardText
+- Menambahkan enum eProtectionType
+- Menambahkan eLuaEvent.ON_REACTION
+- Penggunaan di Skrip Contoh
+
+[Loader]
+
+- Memperbaiki crash jika jalur folder Cherax memiliki karakter khusus
+
+[5.18.2]
+
+- Meningkatkan Deteksi Pengawasan
+- Meningkatkan Izinkan Senjata di Interior
+- Memperbaiki Positif Palsu Deteksi Modder
+
+[5.18.1]
+
+- Meningkatkan Deteksi Berada di Dalam Interior
+- Meningkatkan Deteksi Pengawasan
+- Meningkatkan Deteksi Modder
+- Memperbaiki Positif Palsu Pengubah Kerusakan
+
+[5.18.0 Bravado Update]
+
+- Pembaruan ini hadir dengan Perubahan UI untuk membuat navigasi menu lebih mudah.
+- Menambahkan Pemain -> Pergerakan -> Pengubah Jatuh
+- Menambahkan Pemain -> Pergerakan -> Pengubah Lompatan
+- Menambahkan Pemain -> Kesehatan -> Nonaktifkan Batas Kematian
+- Menambahkan Pemain -> Tabrakan -> Mode Hulk
+- Menambahkan Pemain -> Tabrakan -> Tembus Kendaraan
+- Menambahkan Pemain -> Tabrakan -> Tembus Ped
+- Menambahkan Pemain -> Tabrakan -> Tembus Objek
+- Menambahkan Pemain -> Tabrakan -> Tembus Dinding
+- Menambahkan Kendaraan -> Tabrakan -> Kendaraan Hulk
+- Menghapus Kendaraan Berat
+- Menambahkan Editor Handling -> Flag Handling
+- Menambahkan Editor Handling -> Flag Model
+- Menambahkan Editor Handling -> Flag Lanjutan
+- Menambahkan Editor Handling -> Flag Kerusakan Pintu
+- Menambahkan Dunia -> Kilau Objek -> Nonaktifkan Kilau Pickup
+- Menambahkan Dunia -> Kilau Objek -> Aktifkan Kilau Kaca
+- Menambahkan Dunia -> Kilau Objek -> Timpa Efek Kilau
+- Menambahkan Dunia -> Kilau Objek -> Intensitas Kilau
+- Menambahkan Dunia -> Kilau Objek -> Frekuensi Kilau
+- Menambahkan Proteksi -> Lainnya -> Sembunyikan Pengubah Kerusakan
+- Meningkatkan Proteksi
+- Memperbaiki Berikan Host Skrip
+- Memperbaiki Soul Switch Gun
+- Mengubah nama Gunakan Kode Cherax menjadi Layanan Gratis
+- Jejak Ban Pelangi sekarang berfungsi di setiap permukaan
+
+Lua:
+- Menambahkan ModderDB.GetModderDetections
+- Menambahkan ModderDB.GetModderDetectionsByPlayerId
+- Menambahkan usertype CPlayerInfo
+- Menambahkan CNetGamePlayer.PlayerInfo
+- Menambahkan CPed.PlayerInfo
+- Menambahkan Players.GetCam
+- Menambahkan Players.GetCamRot
+- Menambahkan Players.GetIPInfo
+- Menambahkan ModderDB.RemoveModder
+- Menambahkan ModderDB.RemoveModderDetection
+- Memperbaiki Memory.LuaCallCFunction
+- Memperbaiki Fitur Kombo dengan label kosong yang memiliki ruang kosong saat dirender
+
+[5.17.3]
+
+- Meningkatkan Proteksi Crash
+- Memperbaiki masalah saat berlangganan skrip yang belum disetujui menyebabkan crash
+- Beberapa perbaikan bug lainnya
+
+[5.17.2]
+
+- Menambahkan Bilah Pencarian langsung ke bilah judul jendela
+- Menambahkan Warna Latar Belakang Pencarian Bilah Judul ke kustomisasi
+- Meningkatkan Proteksi Crash
+- Memperbaiki beberapa entitas yang jatuh menembus tanah ketika batas tabrakan tertentu tercapai
+- Memperbaiki masalah obrolan dalam game saat menggunakan list gui
+
+[5.17.1]
+
+- Menambahkan Proteksi Sembunyi Dari Sesi
+- Menambahkan Tombol Buletin Cherax
+- Meningkatkan Gunakan Kode Cherax (semua layanan telepon dan menu interaksi sekarang gratis, termasuk Meriam Orbital)
+- Memperbaiki Kecurangan Rolet yang menyebabkan crash
+- Memperbaiki Kloning Kendaraan yang menyebabkan crash
+- Memperbaiki Tambahkan Ramp ke Kendaraan yang menyebabkan crash
+- Memperbaiki beberapa salah ketik
+- Menghapus Freemode Gratis
+
+Lua:
+- Menambahkan parameter ke FeatureMgr.AddFeature
+- (ini akan memaksa callback untuk selalu diantrekan dalam utas skrip unik tempat kamu diizinkan untuk yield)
+- bool forceQueue = true
+- Menambahkan Feature:GetId()
+
+[5.17.0]
+
+- Memperbarui Untuk Pembaruan Game
+- Memperbarui Bypass Anti-Cheat
+- Menambahkan Berita Cherax (menggantikan Berita GTA)
+- Menambahkan Pemain -> Kendaraan -> Atur Kecepatan Maksimum
+- Menambahkan Pemain -> Kosmetik -> Lemari Pakaian -> Pakaian -> Nonaktifkan Pembatasan Penerapan Pakaian
+- Meningkatkan Gunakan Kode Cherax
+- Meningkatkan Proteksi Script Event
+
+Lua:
+- Menambahkan Feature:GetColorU32
+- Menambahkan Feature:SetColorU32
+- Menambahkan Feature:GetColorFloats
+- Menambahkan Feature:SetColorFloats
+- Menambahkan ImGui.TableNextColumn
+- Memperbaiki Time.GetEpoche yang tidak sama dengan waktu jam sistem
+- Memperbaiki Time.GetEpocheMs yang tidak sama dengan waktu jam sistem
+
+[5.16.1]
+
+- Menambahkan Izinkan Lewati Cutscene
+- Memungkinkan kamu melewati cutscene seperti dalam Mode Cerita
+- Meningkatkan Tambahkan Pemisah Untuk Uang
+- Sekarang juga menambahkan pemisah untuk tampilan chip
+
+Lua:
+- Menambahkan CPed:IsPlayer()
+- Menambahkan CPed:IsInVehicle()
+- Menambahkan CPed.CurVehicle
+- Menambahkan CPed.LastVehicle
+
+[5.16.0]
+
+- Menambahkan Sesi -> Lain-lain -> Bypass Gabung Sesi Penuh
+- Menambahkan Sesi -> Lain-lain -> Konfirmasi Otomatis Peringatan Gabung
+- Menambahkan Proteksi -> Skrip -> Blokir Event Sesi Modded
+- Menambahkan Proteksi -> Utilitas Kick -> Gabung Kembali Otomatis Desinkronisasi
+- Menambahkan Lain-lain -> Lainnya -> Jejak Ban Pelangi
+- Menambahkan Lain-lain -> ESP & HUD -> Hotkey -> Hapus Semua Hotkey
+- Menambahkan Pemain -> Kamera -> FOV Parasut
+- Menambahkan Pemain -> Kamera -> FOV Sinematik
+- Menambahkan Pemain -> Kamera -> FOV Cutscene
+- Menambahkan Pemain -> Kamera -> FOV Layar Memuat Awan
+- Menambahkan Skrip Langganan -> Mulai Otomatis
+- Menambahkan Catat Pesan Jaringan
+- Menambahkan Catat Awal Skrip
+- Meningkatkan Penggabung RID
+- Memperbaiki Gabung SC TV
+- Meningkatkan Blokir Kontrol Jarak Jauh
+- Memblokir Kemampuan Khusus Kendaraan Jarak Jauh
+- Memblokir Klakson Kendaraan Jarak Jauh
+- Menambahkan Kendaraan -> Nonaktifkan Tabrakan Dinding
+- Menonaktifkan tabrakan dengan dinding dan sebagian besar bangunan
+- Meningkatkan Kendaraan -> Nonaktifkan Tabrakan Prop
+- Sekarang juga menonaktifkan tabrakan dengan sebagian besar objek dunia, mis. pohon
+- Meningkatkan Proteksi Crash
+- Skrip lua lokal yang saat ini dipilih sekarang dimuat ulang secara otomatis jika telah diubah secara eksternal
+- Memperbaiki Keluar Cepat Dari Sesi yang menyebabkan perpisahan jaringan ke seluruh sesi saat menjadi host
+- Memperbaiki Sembunyikan Pemain Secara Lokal yang dapat digunakan pada diri sendiri hingga memicu crash
+- Memperbaiki kemungkinan crash saat membongkar
+- Memperbaiki Status Cuaca yang tersimpan di pengaturan
+- Beberapa perbaikan dan peningkatan lainnya
+
+[Lua]
+
+- Menambahkan CheraxExample.lua sebagai default ke skrip lua lokal (akan diperbarui seiring waktu)
+- Menambahkan enum eEntityType
+- Menambahkan Usertype CEntity (Dasar untuk CPhysical)
+- Menambahkan CEntity:GetType()
+- Menambahkan CEntity:IsPhysical()
+- Menambahkan eLuaEvent.SHOULD_COLLIDE
+- Mencegah penggunaan Script.Yield yang salah dalam situasi tertentu
+- Memperbaiki Beberapa Ketidakcocokan Dokumen
+- Membagi namespace Utils:
+- Menambahkan Namespace Time
+- Menambahkan Time.Get
+- Menambahkan Time.GetEpoche
+- Menambahkan Time.GetEpocheMs
+- Menambahkan Time.GetEpocheNs
+- Menambahkan Namespace GTA
+- Menambahkan GTA.GetLocalPed
+- Menambahkan GTA.GetLocalVehicle
+- Menambahkan GTA.GetLocalPlayerId
+- Menambahkan GTA.HandleToPointer
+- Menambahkan GTA.PointerToHandle
+- Menambahkan GTA.ConvertSectorToWorldPosition
+- Menambahkan GTA.ConvertWorldToSectorPosition
+- Menambahkan GTA.ForceScriptHost
+- Menambahkan GTA.TriggerScriptEvent
+- Menambahkan GTA.GetLabelText
+- Menambahkan GTA.GetGroundZ
+- Menambahkan GTA.SpawnVehicle
+- Menambahkan GTA.SpawnVehicleForPlayer
+- Menambahkan GTA.CreateRandomPed
+- Menambahkan GTA.CreatePed
+- Menambahkan GTA.CreateObject
+- Menambahkan GTA.CreateWorldObject
+- Menambahkan GTA.SendChatMessageToEveryone
+- Menambahkan GTA.SendChatMessageToPlayer
+- Menambahkan GTA.AddChatMessageToPool
+- Menambahkan GTA.GetModelInfoFromHash
+- Menambahkan GTA.GetModelInfoFromIndex
+- Menambahkan GTA.GetModelInfoIndexFromHash
+- Menambahkan GTA.WorldToScreen
+- Menambahkan GTA.GetBonePos3D
+- Menambahkan GTA.GetBonePos2D
+- Menambahkan GTA.GiveControl
+- Menambahkan GTA.GetDisplayNameFromHash
+- Menambahkan GTA.GetModelNameFromHash
+- Menambahkan GTA.BeginService
+- Menambahkan GTA.BasketStart
+- Menambahkan GTA.BasketAddItem
+- Menambahkan GTA.CheckoutStart
+- Menambahkan GTA.RegisterFile
+- Menambahkan GTA.DrawPedPreview
+- Menambahkan GTA.SetLabelText
+- Menambahkan GTA.RemoveLabelText
+
+[5.15.1]
+
+- Menambahkan Izinkan Karakter Khusus
+- Meningkatkan Batas 30 Karakter dari Tempel di Obrolan -> Sekarang 140
+- Meningkatkan Bypass Filter Kata Kasar
+- Meningkatkan Blokir Iklan Obrolan
+- Memperbaiki Mode Streamer Untuk Notifikasi Gabung & Keluar
+- Memperbaiki Beberapa Positif Palsu
+
+Lua:
+- Memperbaiki masalah pengguna dapat memalsukan ID pengguna dengan Cheat Engine
+- Memindahkan LuaCallCFunction ke namespace Memory
+- Mengimplementasikan Bypass Filter Kata Kasar Untuk:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Menambahkan Lain-lain -> Umum -> Lainnya -> Tempel di Obrolan
+- Memperbaiki Bypass Filter Kata Kasar Untuk Obrolan
+- Memperbaiki Pesan Obrolan Lokal yang tidak dicatat
+- Menambahkan Pemain -> Umum -> Simpan Pemain
+- Menambahkan Pemain -> Umum -> Salin ID Rockstar
+- Menambahkan Crash & Kick Semua
+- Menambahkan Proteksi -> Blokir Spam Kendaraan
+- Menambahkan Proteksi -> Blokir Spam Ped
+- Meningkatkan Proteksi Crash
+- Meningkatkan Pengontrolan List GUI
+- Memperbaiki Pemuatan Tema Font List GUI
+- Memperbaiki Click GUI yang menampilkan nama asli pemain dalam mode streamer
+- IPv4 dan ID Rockstar sekarang juga disembunyikan saat Mode Streamer diaktifkan
+
+[5.14.1]
+
+- Menambahkan Sesi -> Matchmaking -> Perbaiki Hash Aset
+- Meningkatkan Proteksi Script Event
+- Memperbaiki Proteksi Sinkronisasi yang menghasilkan exception
+
+[5.14.0]
+
+- Menambahkan Pemain -> Berbahaya -> Script Event Crash
+- Meningkatkan Proteksi Crash
+- Menambahkan Pemain -> Sembunyi Jarak Jauh -> Sembunyikan Sesi Dari Pemain
+- Menambahkan Pemain -> Sembunyi Jarak Jauh -> Sembunyikan Pemain Dari Sesi
+- Menambahkan Pemain -> Sembunyi Jarak Jauh -> Sembunyikan Pemain Secara Lokal
+- Menambahkan Pemain -> Trolling -> Setrum Pemain
+- Menambahkan Proteksi -> Event Jaringan -> Proteksi Spam Senjata Setrum
+- Menambahkan Proteksi -> Event Jaringan -> Proteksi Spam PTFX
+- Menambahkan Tombol Beri Tahu Pengawasan
+- Menambahkan Pemain -> Penyalahgunaan -> Kirim Ke Layar Memuat Tak Terbatas
+- Menghapus Bunuh Penyerang & Bekukan Penyerang
+- Menambahkan Proteksi -> Reaksi -> Membidik ke Arahmu
+- Menambahkan Proteksi -> Reaksi -> Menembak ke Arahmu
+- Menambahkan Proteksi -> Reaksi -> Tipe -> Bekukan Pemain
+- Menambahkan Proteksi -> Reaksi -> Tipe -> Setrum Pemain
+- Menambahkan Kendaraan -> LSC Seluler -> Tipe Pelat Nomor
+- Menambahkan Kendaraan -> LSC Seluler -> Teks Pelat Nomor
+- Memperbaiki FOV Bidikan Orang Ketiga
+- Memperbaiki Cache Pola
+- Memperbaiki Positif Palsu Crash Truk Derek
+- Memperbaiki Anti Aim
+- Memperbaiki Tipe Reaksi Pemain Serangan Orbital
+
+Lua:
+- Memperbaiki Beberapa anggota Simpul Data Sinkronisasi yang tidak dapat diakses
+
+[5.13.0]
+
+- Menambahkan Bypass OpenIV (Memulai game melalui Cherax Loader memungkinkan pemuatan online dengan mod OpenIV, telah diuji secara menyeluruh dengan NVE)
+- Menambahkan Kamera -> Pengubah FOV (Orang Pertama, Orang Pertama di Kendaraan, Membidik Teropong, Orang Ketiga, Bidikan Orang Ketiga, Orang Ketiga di Kendaraan, Bidikan Orang Ketiga di Kendaraan)
+- Menambahkan Audio -> Nonaktifkan Musik Terbang
+- Menambahkan Audio -> Nonaktifkan Musik Buronan
+- Menambahkan Audio -> Paksa Peringatan Penguncian Target
+- Menambahkan Lemari Pakaian -> Pengubah Fitur Wajah (Fitur Wajah sekarang disimpan bersama Penyimpanan Pakaian)
+- Menambahkan ESP -> Kamera Pemain
+- Menambahkan Hapus Kendaraan Pemain
+- Menambahkan Notifikasi Pengawasan
+- Meningkatkan Mengawasi
+- Meningkatkan Anti-Pengawasan (sekarang akan mencoba menghentikan pengawasan dari jarak jauh)
+- Meningkatkan Pembuka Kunci
+- Meningkatkan Proteksi Crash
+- Memperbaiki Positif Palsu
+- Cache sekarang dilewati secara otomatis jika hash modul berubah (mis. socialclub.dll)
+
+Lua:
+- Menambahkan 40+ Simpul Data Sinkronisasi yang tersedia untuk pemalsuan kustom
+- Menambahkan eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC
+- callback(int player, CPhysical entity)
+- Menambahkan eLuaEvent.ON_SYNC_DATA_NODE
+- callback(eSyncDataNode node_type, node,  CPhysical entity,  bool is_exclusive, int exclusive_player)
+- Loader & Menu
+- Memperbaiki Eror 'couldn't resolve host'
+
+[Cherax 5.12.2]
+
+- Memperbaiki Proteksi Crash Meriam Tambahan
+- Menghapus Equilibrium Crash
+- Beberapa Peningkatan Lainnya
+
+[5.12.1]
+
+- Meningkatkan Deteksi Modder
+- Memperbaiki Crash Pemain
+- Memperbaiki Pemalsuan Bahasa
+
+Lua:
+- Menambahkan Cherax.GetVersion
+- Menambahkan Cherax.GetBuild
+- Menambahkan Utils.sJoaat
+- Mengubah nama CEntity -> CPhysical
+- Mengubah nama NetGamePlayer -> CNetGamePlayer
+- Menambahkan CNetObject:GetEntity
+- Menambahkan NetworkObjectMgr.UnregisterNetworkObject
+- Menambahkan NetworkObjectMgr.ChangeOwner
+- Menambahkan NetworkObjectMgr.GetNetworkObject
+- Menghapus Utils.FindNetobjectById
+
+[Cherax v5.12]
+
+- Menambahkan Crash Meriam Tambahan
+- Menambahkan Pemalsuan Pemain -> Palsukan Berada di Sesi Tutorial
+- Menambahkan Pemalsuan Pemain -> Palsukan Bahasa
+- Menambahkan Info Pemain -> Bahasa Game
+- Menambahkan Kendaraan -> Tampilkan Lintasan Bom
+- Mengubah nama Sembunyi Dari Daftar Pemain -> Sembunyi Dari Sesi
+- Meningkatkan Sembunyi Dari Sesi
+- Menambahkan Tombol Buka Folder ke Pengaturan, Tema, dan Terjemahan
+- Menambahkan Tombol Alihkan GUI di dalam GUI
+- Pelacak Pemain sekarang menampilkan Tipe Sesi alih-alih [Online]
+- Pelacak Pemain sekarang mengurutkan pemain tersimpan pertama berdasarkan status online dan kemudian berdasarkan nama
+- Meningkatkan Proteksi Crash
+- Memperbaiki Lewati Tunggu Freemode yang tidak memberikan senjata
+- Memperbaiki 'Terakhir Terlihat' yang tidak ditampilkan untuk pemain tersimpan
+
+Lua:
+- Menambahkan PoolMgr.GetRenderedVehicles
+- Menambahkan PoolMgr.GetRenderedPeds
+- Menambahkan PoolMgr.GetRenderedObjects
+- Menambahkan enum ClickTab
+- Menambahkan ClickGUI.GetActiveMenuTab
+- Menambahkan ClickGUI.SetActiveMenuTab
+- Menambahkan ListGUI.SetCurrentTab
+- Menambahkan ListGUI.RemoveTabFromStack
+
+[Cherax v5.11]
+
+- Menambahkan Utilitas Kick -> Doping Drop Kick -> Nonaktif/Wajar/Kuat
+- Menambahkan Utilitas Kick -> Event Host Drop Kick -> Beri Tahu Masalah Koneksi, Beri Tahu Drop Kick, Blokir Drop Kick
+- Menambahkan Sesi -> Paksa Jadi Host Sesi Berikutnya -> Nonaktif/Wajar/Kuat
+- Menambahkan Pasang Bounty Pada Pemain
+- Meningkatkan Performa/FPS
+- Meningkatkan Deteksi Modder
+- Meningkatkan Opsi Pemalsuan
+- Meningkatkan Proteksi Kick Eror Jaringan
+- Menambahkan Masukkan Kendaraan Pribadi ke Garasi
+- Meningkatkan Munculkan Kendaraan Pribadi
+- Munculkan Kendaraan Pribadi sekarang juga menggunakan pengaturan seperti Muncul di Dalam Kendaraan & Mesin Selalu Menyala
+- Admin Rockstar sekarang dideteksi berdasarkan IP dan daftar siap pakai yang akan terus diperbarui
+- Memperbaiki Pesan Obrolan yang tidak terkirim dan tidak diterima saat berada dalam mode penonton
+- Click GUI sekarang menampilkan jumlah pemain di atas daftar pemain
+- Beberapa urutan elemen GUI diubah
+- Browser Sesi sekarang juga menampilkan sesi tersembunyi
+- Memperbaiki beberapa masalah rendering pada List GUI
+
+Lua:
+- Menambahkan Cherax.GetUID
+- Menambahkan Tab:RemoveSubTab
+- Utils.TriggerScriptEvent sekarang memberlakukan beberapa argumen spesifik pada data yang akan dikirim
+
+[Loader]
+
+- Kami memulai ulang server untuk meluncurkan pembaruan loader kecil
+
+Loader:
+- Pilihan sekarang disimpan dan persisten
+- Loader tidak lagi merender saat berada di latar belakang, yang secara efektif meningkatkan FPS dalam game
+
+[Cherax v5.10.1]
+
+- Memperbaiki masalah pada spawner kendaraan pribadi dan garasi
+- Memperbaiki beberapa label
+
+[Cherax v5.10.0]
+
+- Menambahkan Pemalsuan Data Skor
+- Menambahkan Deteksi Pemalsuan Data Skor
+- Menambahkan Pemalsuan Data Skor -> Rank
+- Menambahkan Pemalsuan Data Skor -> Kill
+- Menambahkan Pemalsuan Data Skor -> Death
+- Menambahkan Pemalsuan Data Skor -> Dompet
+- Menambahkan Pemalsuan Data Skor -> Bank
+- Menambahkan Pemalsuan Data Skor -> Tindakan Seksual
+- Menambahkan Pemalsuan Data Skor -> Lap Dance
+- Menambahkan Kendaraan -> Kemampuan Meluncur
+- Menambahkan Dunia -> Langit -> Nonaktifkan Langit
+- Menambahkan Senjata -> Amunisi Tak Terbatas
+- Deteksi modder selain dari proteksi sekarang juga memberikan notifikasi
+- Kemampuan Paksa Lompat & Kemampuan Paksa Pendorong Roket sekarang dapat digunakan bersamaan
+- Kemampuan Kendaraan sekarang dikelompokkan bersama
+- Browser Sesi sekarang dapat menemukan hingga 1024 sesi sekaligus
+
+[Cherax v5.9.0]
+
+- Menambahkan Editor Handling -> Flag Info Model Kendaraan
+- Flag Info Model Kendaraan sekarang juga akan disimpan bersama dengan pengaturan handling lainnya (file memiliki kompatibilitas mundur)
+- Menambahkan Kendaraan -> Kemampuan Paksa Parasut
+- Menambahkan Kendaraan -> Kemampuan Paksa Lompat
+- Menambahkan Kendaraan -> Kemampuan Paksa Pendorong Roket
+- Menambahkan Pemalsuan Pemain -> Flag Pengembang Rockstar
+- Menambahkan Pemalsuan Pemain -> Flag QA Rockstar
+- Menambahkan Pemalsuan Pemain -> Flag Cheater
+- Menambahkan Daftar Pemain -> Tipe Beri Koleksi
+- Menambahkan Daftar Pemain -> Beri Koleksi
+- Menambahkan Daftar Pemain -> Beri Semua Koleksi
+- Menambahkan Lemari Pakaian -> Nonaktifkan Validasi Pakaian
+- Menambahkan Hotkey -> Beri Tahu Hotkey Ditekan
+- Menambahkan Terjemahan -> Ekstrak File Terjemahan Saat Ini (termasuk fitur lua)
+- Meningkatkan Deteksi Anti Modder
+- Meningkatkan Proteksi Crash
+- Memperbaiki beberapa positif palsu
+- Mengubah nilai Editor Pakaian menjadi input alih-alih penggeser
+- Mengatur ulang urutan Jendela/Tab Anak Pemalsuan
+- Popup Tombol Kombo sekarang lebih besar untuk mendapatkan tinjauan yang lebih baik
+
+Lua:
+- Menambahkan Utils.GiveControl
+
+[Cherax v5.8.0]
+
+- Menambahkan Bunuh Pemain
+- Menambahkan Reaksi Bunuh Pemain
+- Menambahkan Reaksi Serangan Orbital
+- Menambahkan Loop Ragdoll Jarak Jauh
+- Menambahkan Script Vehicle Kick
+- Menambahkan Blokir Gabung Matchmaking
+- Menambahkan Kit Alat Host: Jumlah Pemain Maksimal
+- Menambahkan Salin ID Rockstar (Pelacak Pemain, Pemain Tersimpan, Browser Sesi)
+- Menambahkan Tombol Proteksi Kick Eror Jaringan
+- Memperbaiki Proteksi Kick Eror Jaringan
+- Menambahkan Alasan Blokir Gabung Kustom untuk setiap pemain yang disimpan
+- Meningkatkan Pemblokiran Gabung
+- Meningkatkan Browser Sesi
+- Meningkatkan Proteksi Script Event
+- Meningkatkan Proteksi Crash
+- Meningkatkan Proteksi Net Event
+- Meningkatkan Proteksi Vehicle Kick
+- Memperbaiki pemain lain yang tidak dapat memasuki kendaraan kamu
+- Memperbaiki 'Force Script Host threw an exception'
+- Memperbaiki masalah font atlas yang terlalu besar sehingga menimbulkan masalah saat injeksi
+- Memperbaiki Senjata Hapus Pada Pemain
+- Memperbaiki pengurutan daftar pemain saat pemain dalam status bergabung
+- Reaksi Umumkan di Obrolan sekarang tidak akan terlalu nge-spam
+- Jendela Konsol sekarang diwarnai penuh untuk keterbacaan yang lebih baik
+
+[Cherax v5.7.1]
+
+- Memperbaiki Pencatat Exception
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- Menambahkan Reaksi untuk Script Event Buruk
+- Menambahkan Reaksi untuk Vote Kick
+- Menambahkan Reaksi Umumkan di Obrolan
+- Menambahkan Reaksi Batas Waktu Sinkronisasi Entitas Keluar
+- Menambahkan Reaksi Batas Waktu Script Event Keluar
+- Menambahkan Tombol Pemain Blokir Sinkronisasi Entitas Masuk/Keluar
+- Menambahkan Tombol Pemain Blokir Script Event Masuk/Keluar
+- Menambahkan Blokir Kurungan
+- Menambahkan Blokir Sinkronisasi Model Dunia
+- Menambahkan Tombol Proteksi Script Host Kick
+- Menambahkan Tombol Proteksi End Session Kick
+- Menambahkan ESP Objek
+- Menambahkan Jarak ESP Objek
+- Menambahkan Pengurutan Daftar Pemain Berdasarkan (ID Pemain, Antrean Host, Abjad, Jarak)
+- Menambahkan Lag Palsu
+- Menambahkan Freemode Gratis
+- Menambahkan Gunakan Kode Cherax
+- Menambahkan Pekerjaan Dax ke Penonaktif Cooldown
+- Menambahkan Info Pemain Posisi
+- Menambahkan Info Pemain Token Host
+- Info Pemain sekarang juga dapat diterjemahkan
+- Meningkatkan Proteksi Crash
+- Meningkatkan Proteksi Script Event
+- Meningkatkan Proteksi Vehicle Kick
+- Meningkatkan Kirim Ke Batas Kematian
+- Meningkatkan Browser Sesi
+- Memperbaiki game yang terkadang mengganggu Drop Kick
+- Memperbaiki Loop Vehicle Kick
+- Memperbaiki Positif Palsu
+- Memperbaiki Bekukan Pemain & Proteksi
+- Memperbaiki No Clip yang membekukan kendaraan saat dinonaktifkan
+- Memperbaiki Masuk Kendaraan Instan saat tidak ada ped di dalam
+- Memperbaiki Pengubah Timecycle
+- Memperbaiki Pengganda Kecepatan
+- Memperbaiki Tombol Kombo untuk List GUI
+- Memperbaiki Blokir Mode Pasif
+- Memperbaiki beberapa kontrol tak diinginkan yang lolos saat menu terbuka
+- Tombol Proteksi sekarang mengalihkan sebagian besar hal
+- Memperpendek beberapa label
+- Cherax sekarang akan memberi tahu kamu jika menggunakan Versi DirectX yang salah
+- Beberapa peningkatan dan perbaikan bug lainnya
+
+LUA:
+- Menambahkan table<int, int> Players.Get(ePlayerListSort filter, string search)
+- Menambahkan FeatureMgr.SearchFeature
+- Menambahkan Feature:SetSearchable, Feature:IsSearchable
+- Memperbaiki Lua Curl yang menyebabkan masalah karena garbage collector lua
+
+[Cherax 5.6.1]
+
+- Meningkatkan Opsi Event Musiman
+- Memperbaiki Eror Injeksi
+- Memperbaiki Pemblokiran Spam Obrolan sendiri melalui API Lua
+
+[Cherax 5.6.0]
+
+- Menambahkan Terjemahan Kustom (File Terjemahan Default akan dibuat di Cherax/Translations)
+- Menambahkan Reaksi (Kick, Crash, Lapor, Spam Obrolan, Kata Terlarang Obrolan)
+- Menambahkan Tipe Reaksi (Kick, Crash, Batas Waktu Script Event, Batas Waktu Sinkronisasi Entitas)
+- Menambahkan Penggeser Durasi Batas Waktu Script Event
+- Menambahkan Penggeser Durasi Batas Waktu Sinkronisasi Entitas
+- Menambahkan lebih banyak Notifikasi (Kicking, Crashing, Migrasi Host)
+- Menambahkan lebih banyak Cooldown ke Nonaktifkan Berbagai Cooldown
+- Memperbaiki Pemilihan Kendaraan untuk Kendaraan dengan nama yang sama
+- Memperbaiki Pergeseran No Clip
+- Glif untuk Bahasa Mandarin, Korea, Jepang, dan Rusia sekarang selalu dimuat dan ditampilkan dengan benar saat diperlukan
+- Pesan Konsol yang berulang sekarang akan memiliki penghitung seperti notifikasi toast
+- Nonaktifkan Berbagai Cooldown sekarang memungkinkan kamu memilih jenis Cooldown mana yang ingin dinonaktifkan
+- Ditambahkan ke Lua:
+- Native b3095
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Menambahkan Ban Kick
+- Menambahkan Blokir Mode Pasif
+- Meningkatkan Deteksi Modder
+- Meningkatkan Pembersihan Otomatis Entitas Skrip Lua
+- Memperbaiki Proteksi \"Script Host Crash V2\"
+- Memperbaiki Beberapa Fitur Tidak Tersedia Untuk Pengguna Gratis
+
+[Cherax V5.4.0]
+
+- Mengerjakan ulang 'Bail From Session'
+- Menambahkan 'Story Bail From Session' (Bail From Session lama)
+- Menambahkan 'Super Bail From Session'
+- Menambahkan 'Muncul Dengan Radio Mati'
+- Meningkatkan AAC
+- Memperbaiki Proteksi Script Event dan banyak Fitur Script Event
+- Memperbaiki Proteksi Kick Eror Jaringan
+- Memperbaiki bermain online dengan ped DLC dan kendaraan DLC
+- Memperbaiki Buka Kunci Level 1000 untuk LSCM
+- Memperbaiki Salah Ketik
+- Memperbaiki beberapa Deskripsi Contoh Lua
+
+[Cherax V5.3.0]
+
+- Menambahkan Bekukan Penyerang
+- Menambahkan Tombol Proteksi Tingkat Lanjut Script Event
+- Menambahkan Lemahkan Host Kick
+- Menambahkan Nonaktifkan Tabrakan Ped (Kendaraan)
+- Menambahkan Info RTTI untuk Log Exception
 - Menambahkan Fitur yang Hilang di List GUI
 - Meningkatkan Deteksi Modder
-- Meningkatkan Log dan Pencegahan Bail
-- Meningkatkan Perlindungan crash
-- Meningkatkan Unlocks
-- Meningkatkan Casino Rigging
-- Meningkatkan Perlindungan Iklan Chat
-- Meningkatkan Deskripsi untuk Opsi Handling Editor
+- Meningkatkan Pencatatan dan Pencegahan Bail
+- Meningkatkan Proteksi Crash
+- Meningkatkan Pembuka Kunci
+- Meningkatkan Kecurangan Kasino
+- Meningkatkan Proteksi Iklan Obrolan
+- Meningkatkan Deskripsi untuk Opsi Editor Handling
 - Memperbaiki ASI Loader
-- Memperbaiki False Flags terkait Penempelan pada Kendaraan Anda
-- Memperbaiki Heat Vision
-- Memperbaiki Kematian saat spectating
-- Memperbaiki crash 'Deluxo Mode' pada Kendaraan Tertentu
-- 
-- Lua:
+- Memperbaiki Positif Palsu terkait Attachment Pada Kendaraan Kamu
+- Memperbaiki Penglihatan Termal
+- Memperbaiki Kematian saat mengawasi
+- Memperbaiki 'Mode Deluxo' yang Crash pada Kendaraan Tertentu
+
+Lua:
 - Menambahkan CVehicle.SteerAngle
 - Menambahkan CVehicle.SecondSteerAngle
 - Menambahkan CVehicle.Throttle
@@ -74,3 +1198,116 @@
 - Menambahkan CVehicle.VehicleTopSpeedPercent
 - Menambahkan CVehicle.CheatPowerIncrease
 - Menambahkan Parameter 'AutoCleanup' untuk Utils.SpawnVehicle dan Utils.CreatePed
+
+[Cherax V5.2.2]
+
+- Memperbaiki lebih banyak masalah yang muncul akibat patch game terbaru
+- Beberapa perbaikan bug dan peningkatan
+
+[Cherax V5.2.1]
+
+- Memperbaiki Masalah Stabilitas
+
+[Cherax V5.2.0]
+
+- Memperbarui untuk DLC Game terbaru
+- Menambahkan Kendaraan \"The Chop Shop\" ke Spawner
+- Menambahkan Mode Handling Drift (Menerapkan handling drift dari kendaraan drift baru)
+- Menambahkan Opsi Pemain \"Kick & Blokir Gabung\"
+- Menambahkan Loop Vehicle Kick
+- Menambahkan Deteksi Kendaraan Modded
+- Menambahkan Sesi Loop Vehicle Kick
+- Menambahkan Sesi Suap Otoritas
+- Menambahkan Sesi Di Luar Radar
+- Menambahkan Sesi Hapus Status Buron
+- Menambahkan Sesi Kurung Semua
+- Menambahkan Kick Acak
+- Menambahkan Paksa Jadi Host Skrip Otomatis
+- Menambahkan Status Info Transisi HUD
+- Menambahkan Paksa Blip
+- Menambahkan Timpa Mesin Slot
+- Menambahkan Timpa Rolet
+- Menambahkan Timpa Balap Kuda
+- Menambahkan Timpa Game Kartu
+- Menambahkan Timpa Lucky Wheel
+- Menambahkan Event Truk Happy Holidays ke Aktifkan Natal
+- Menambahkan Buka Kendaraan Dripfeed
+- Menambahkan Lewati Tunggu Freemode
+- Meningkatkan Proteksi Spam dan Iklan
+- Meningkatkan Drop Kick
+- Meningkatkan Proteksi dan Pengiriman Script Event
+- Meningkatkan Deteksi Modder dan Anti Modder
+- Menghapus Money Drop (Model ditambal oleh Rockstar)
+- Lua sekarang mendukung lebih banyak tipe fitur (List dan List With Info)
+- Mengubah nama Stop Vehicle Kick menjadi Gentle Vehicle Kick
+- Banyak peningkatan internal dan perbaikan bug
+
+[Cherax 5.1.1]
+
+- Memperbaiki masalah sinkronisasi objek saat menggunakan blackhole
+- Memperbaiki positif palsu deteksi modder untuk host crash
+- Menambahkan model terakhir yang dibuat ke log exception
+
+[Cherax 5.1.0]
+
+- Menambahkan Pemisah Untuk Uang
+- Menambahkan Buka Pergerakan di Interior
+- Menambahkan Izinkan Senjata di Interior
+- Menambahkan Pemblokiran Spam Obrolan
+- Menambahkan Proteksi Spam Ledakan
+- Menambahkan Rusak Token Host
+- Menambahkan Nonaktifkan Tabrakan Prop untuk kendaraan
+- Menambahkan Pencarian untuk semua Daftar Pemain
+- Menambahkan Simpan Kendaraan (Daftar Pemain)
+- Menambahkan Pertahankan Kecepatan untuk No Clip
+- Menambahkan lebih banyak Deteksi Modder
+- Menambahkan dan meningkatkan beberapa Contoh API Lua
+- Menambahkan AC Crash
+- Meningkatkan pesat Proteksi Crash
+- Meningkatkan Proteksi Cerdas
+- Meningkatkan Aimbot
+- Meningkatkan Drop Kick (tidak berfungsi pada Host)
+- Meningkatkan Blackhole (sekarang berinteraksi dengan Prop)
+- Memperbaiki beberapa Mod Tidak Valid yang diterapkan secara otomatis (Tingkatkan Kendaraan)
+- Memperbaiki Culik Pemain
+- Memperbaiki Hapus Semua Senjata (Daftar Pemain)
+- Memperbaiki Pemain Tersimpan/Terkini untuk List GUI
+- Meningkatkan Ketinggian Pemunculan untuk Pesawat
+- Kendaraan dan pakaian yang disimpan sekarang ditimpa saat menyimpan dengan nama yang sama
+
+[Cherax v5.0.2]
+
+- Memperbaiki masalah injeksi karena pembaruan Social Club
+- Memperbaiki beberapa masalah pada skrip langganan berukuran besar
+- Memperbaiki input teks list gui
+- Memperbaiki filter spawner list gui
+- Menambahkan pratinjau spawner list gui
+- Menambahkan beberapa deteksi modder
+- Menambahkan beberapa proteksi crash
+- Menonaktifkan sementara proteksi desync kick
+
+[Cherax v5.0.1]
+
+- Memperbaiki crash karena gagal memuat font saat injeksi
+- Memperbaiki glif font bahasa Korea yang tidak dimuat
+- Memperbaiki nama garasi kosong untuk spawner kendaraan pribadi
+- Memperbaiki positif palsu untuk attachment pada Cargobob kamu
+- Memperbaiki posisi jendela info yang tidak tersimpan
+- Memperbaiki tombol kustom pembuka menu yang tidak tersimpan
+- Memperbaiki pemeriksaan host pada percepat waktu pemain
+- Memperbaiki kemungkinan crash saat membongkar
+- Memperbaiki masalah performa saat berlangganan skrip yang lebih besar
+- Memperbaiki kebocoran memori pada pemuat gambar
+- Memperbaiki proteksi host crash
+- Memperbaiki proteksi paksa kamera ke depan
+- Memperbaiki pembersihan entitas misi yang memberikan efek sebaliknya
+- Meningkatkan proteksi iklan obrolan
+
+Cherax Loader:
+- Meningkatkan performa sebesar 400%
+- Memperbaiki halaman sumber daya yang tidak berfungsi
+- Memperbaiki kebocoran memori pada pemuat gambar
+
+[Cherax V5.0.0]
+
+- Rilis awal

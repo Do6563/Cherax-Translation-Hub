@@ -1,117 +1,1313 @@
 [5.52.1 EE / 5.43.1 LE]
 
-- Araç -> Yol Tutuş Kaybı Yok seçeneği eklendi
+- Araç -> Yol Tutuş Kaybı Yok eklendi
 - Çeviri Sistemi İyileştirildi
 - Korumalar İyileştirildi
 - Çeşitli Hatalar Düzeltildi
 
+[5.52.0 EE / 5.43.0 LE]
 
+- Oturum -> Sorunsuz Yeniden Katılma eklendi
+- Oturum -> Zaman Ayarlı Oturuma Yeniden Katılma eklendi
+- Kendin -> No Clip İç Mekân Hızları eklendi
+- Kendin -> Kozmetik -> Araç Çalma Animasyonları eklendi
+- Kendin -> Kozmetik -> Araç Çalma Animasyonlarını Karıştır eklendi
+- Recovery -> Modlu Koşuyu Kaldır eklendi
+- Recovery -> Bad Sport Ayarla/Kaldır eklendi
+- Recovery -> Ghosts Exposed Sıfırla eklendi
+- Aimbot -> İçinden Vur eklendi
+- ESP -> Obje -> Kutu Çiz eklendi
+- Araç -> Yeniden Oynatma eklendi
+- Lua 5.5.1 sürümüne güncellendi
+- Yayın Korumalı İşleme İyileştirildi
+- Pürüzsüz Geçiş İyileştirildi
+- Hulk Aracı ve Hulk Ped İyileştirildi
+- Aimbot İyileştirildi
+- ESP İyileştirildi
+- Korumalar İyileştirildi
+- Fare Düğmeleri artık Kısayol Tuşu olarak kullanılabilir
+- Çeşitli Hatalar Düzeltildi
 
+[5.51.0 EE / 5.42.0 LE]
 
+- Çeşitli -> Dünya -> Ayna Dünyası eklendi
+- Oturum -> Genel -> Freemode'u Yeniden Başlat eklendi
+- DLC Yükleme iyileştirildi + EE'deki işlevsellik düzeltildi
+- DLC'ler artık yalnızca oyun sürümünüzle uyumluysa listelenecektir
+- Pürüzsüz Geçiş iyileştirildi
+- çeşitli hatalar düzeltildi
 
+[5.50.0 EE / 5.41.0 LE]
 
+- Crash Korumaları İyileştirildi
+- Diğer Hata Düzeltmeleri ve İyileştirmeler
 
+[Hotfix Update]
 
-- 8/9/2026 10:34 AM
-[Cherax v5.0.1 - 2023/11/12]
-- Inject esnasında yazı tipi yükleme hatasından kaynaklanan crash'ler düzeltildi
+- EE en son Oyun sürümüne güncellendi
+
+[5.X EE & LE]
+
+- Oturum -> Eşleştirme -> Bölgeyi Geçersiz Kıl eklendi
+- Oturum ->  Eşleştirme -> Nişan Alma Türünü Geçersiz Kıl eklendi
+- Oturum -> Eşleştirme -> Minimum Oyuncuyu Geçersiz Kıl eklendi
+- Oturum -> Host Araç Seti -> Bölgeyi Duyur eklendi
+- Araç -> Kolaylık -> Havada Kontrol Çarpanı eklendi
+- Oturum -> Çeşitli -> Dolu Oturumlara Katılma Bypassı yeniden eklendi
+- Kıyafet Uygulama Kısıtlamalarını Devre Dışı Bırak iyileştirildi
+- DaniGP17'nin performans yaması uygulandı
+- Oturum Tarayıcısı düzeltildi ve iyileştirildi
+- bazı script yükleme sorunları düzeltildi
+
+[5.X EE & LE]
+
+- Çeşitli -> Deneyler -> Lazer Çarpışmasını Devre Dışı Bırak eklendi
+- Korumalar -> İşlem Hatalarını Devre Dışı Bırak eklendi
+- Çeşitli İyileştirmeler ve Hata Düzeltmeleri
+
+[5.X EE & LE]
+
+- Çeşitli İyileştirmeler ve Hata Düzeltmeleri
+
+[5.48.0 EE]
+
+- Oyun Sürümü 1.0.1158.13'e güncellendi
+- Kıyafetlerin Kilidini Aç güncellendi
+- DLC İçeriklerinin Kilidini Aç güncellendi
+- Çeşitli İyileştirmeler ve Hata Düzeltmeleri
+
+[5.39.3 LE]
+
+- Oyun Sürümü 1.0.3889.0'a güncellendi
+- Çeşitli İyileştirmeler ve Hata Düzeltmeleri
+
+[5.X EE & LE]
+
+- Lua'lar için ImGui.BeginDisabled ve ImGui.EndDisabled eklendi.
+- Temalar için başlık ofseti özelleştirmesi eklendi. (Yalnızca Click GUI)
+- Varlık Sahteciliği eklendi (Ağ Sekmesi)
+- Korumalar İyileştirildi.
+- Motosikletlerin yanlarına yaklaştığınızda durması düzeltildi
+- Diğer Hata Düzeltmeleri ve İyileştirmeler
+
+Lua:
+- Lua'lar için ON_NOTIFICATION olayı eklendi (yerleşik bildirim sistemini geçersiz kılmaya izin verir).
+
+[5.X EE & LE]
+
+- En son oyun sürümüne güncellendi
+- No Ragdoll İyileştirildi
+- Modlu PTFX Engelleme İyileştirildi (EE)
+- Modlu Patlamayı Engelleme İyileştirildi (EE)
+- Araç Spamı ve Ped Spamı Korumaları İyileştirildi (yanlış tespitlere yol açabilir)
+- Korumalar İyileştirildi
+- Tüm Silahları Ver özelliğinin geçersiz silahlar vermesi düzeltildi
+- Diğer Hata Düzeltmeleri ve İyileştirmeler
+
+[5.X EE & LE]
+
+- En son oyun sürümüne güncellendi
+
+[5.X EE & LE]
+
+- Korumalar İyileştirildi
+- Çeşitli Hatalar Düzeltildi
+
+[5.X EE & LE]
+
+- Oyuncu Bilgisi'ne Platform ve Platform Kimliği eklendi
+- Car Meet ve Arena Wars Seviyesi LE'ye aktarıldı
+- Crash Korumaları İyileştirildi
+- Hatalar Düzeltildi
+
+[5.X EE & LE]
+
+- Tüm Malikâne Kupalarının Kilidini Aç eklendi
+- DLC İçeriklerinin Kilidini Aç İyileştirildi
+- En son oyun sürümüne güncellendi
+
+[5.X EE & LE]
+
+- Ücretsiz Alışveriş İyileştirildi (artık her şeyi içerir)
+- Cadılar Bayramını Etkinleştir İyileştirildi (artık UFO'ları içerir)
+- Korumalar İyileştirildi
+- Oyun Sürümü 1.72'ye güncellendi
+
+[5.45.0 EE]
+
+- Oyuncu Listesi -> Kısa Mesaj Gönder eklendi
+- Oturum -> Kısa Mesaj Gönder eklendi
+- Oturum -> Bölgeyi Duyur eklendi
+- Oyuncu Bilgisi -> Arena Wars Seviyesi eklendi
+- Oyuncu Bilgisi -> Car Meet Seviyesi eklendi
+- Korumalar -> Uzaktan Ödül Koymayı Engelle eklendi
+- Korumalar -> Modlu Sesleri Engelle eklendi
+- Korumalar -> Modlu PTFX'i Engelle eklendi
+- Kıyafetlerin Kilidini Aç İyileştirildi
+- DLC İçeriklerinin Kilidini Aç güncellendi
+
+[5.X EE & LE]
+
+- Oyuncu Listesi -> Dostça -> Drop (Premium) eklendi
+- Oyuncu Listesi -> Dostça -> Drop Türü eklendi
+- Oyuncu Listesi -> Dostça -> Drop Gecikmesi eklendi
+- Recovery -> Diğer Kilit Açmalar -> Maksimum Salvage Yard Kasa Ödemesi eklendi
+- Çeşitli -> ESP -> Düşman eklendi
+- ESP Sistemi Yenilendi
+- Çeşitli Kullanıcı Arayüzü Değişiklikleri
+- Çeşitli -> Genel -> Kısıtlamalar -> Çeşitli Bekleme Sürelerini Devre Dışı Bırak düzeltildi ve büyük ölçüde iyileştirildi
+- Hedefe Işınlanma İyileştirildi
+- Enjeksiyon Süreleri İyileştirildi
+- Otomatik MMI Hepsini Talep Et artık aracı hacizden de kurtarır
+
+[5.36.0 LE]
+
+- İyileştirilmiş Kişisel Araç Çağırma kodu EE'den aktarıldı
+- Tüm İşletme Aranmasını Temizle aktarıldı
+
+[5.44.0 EE]
+
+- Oyuncu -> Kozmetik -> Dönüşüm -> Saç Boyutu eklendi
+- Oyuncu -> Genel -> Görünmezlik -> Oyuncuyu Görünür Kılmayı Geçersiz Kıl eklendi
+- Oturum -> Tüm Oyuncular -> Görünmez Oyuncuları Açığa Çıkar eklendi
+
+[Cherax 5.43.0 EE]
+
+- Kare Oluşturma Desteği eklendi
+- Bazı Hatalar Düzeltildi
+
+[Cherax 5.35.1 LE]
+
+- Bazı Hatalar Düzeltildi
+
+[5.X EE & LE]
+
+- Oyuncu -> Genel -> Görünmezlik -> Oyuncuyu Görünür Kılmayı Geçersiz Kıl eklendi
+- Oturum -> Tüm Oyuncular -> Görünmez Oyuncuları Açığa Çıkar eklendi
+- Koruma Beyaz Listesi eklendi
+- Koruma Bildirimleri eklendi
+- Crash Korumaları İyileştirildi
+- SE Koruma Engelleme Günlüğü İyileştirildi
+- Katılma Engelleme düzeltildi
+- Herkese açık lobilere katılınamaması düzeltildi
+- Çeşitli hatalar ve yanlış tespitler düzeltildi
+
+[5.42.0 EE]
+
+- Kick Koruması İyileştirildi
+
+[5.35.0 LE]
+
+- Home tuşuna basıldığında girdinin bozulması düzeltildi
+
+Lua:
+- PoolMgr.GetCamera, GetVehicle, GetPed, GetPickup, GetObject artık başarısız olduğunda -1 yerine 0 döndürüyor
+- PoolMgr.GetRenderedVehicles düzeltildi
+- PoolMgr.GetRenderedPeds düzeltildi
+- PoolMgr.GetRenderedObjects düzeltildi
+
+[5.41.0 EE]
+
+- Recovery -> Görsel Kilit Açmalar -> Casino Çatı Katı Dağınıklığının Kilidini Aç eklendi
+- Kilit Açmalar İyileştirildi
+- bazı hatalar düzeltildi
+
+[5.40.0 EE]
+
+- Recovery -> Diğer Kilit Açmalar -> Tüm İşletme Aranmasını Temizle eklendi
+- Yeni Araç Görselleri eklendi
+- Kilit Açmalar İyileştirildi
+- DLC İçeriklerinin Kilidini Aç güncellendi
+- Gizli Araçları Listele düzeltildi
+
+[5.39.0 EE]
+
+- En son oyun sürümüne güncellendi
+- Çeşitli -> Dünya -> Işıklar -> Işıkları Radyoyla Senkronize Et eklendi
+- Tüm Araç Modifiyelerini Listele İyileştirildi
+- Tüm Kıyafet Öğelerini Listele İyileştirildi
+- Kilit Açmalar İyileştirildi
+- bazı hatalar düzeltildi
+
+[5.34.3 LE]
+
+- En son oyun sürümüne güncellendi
+
+[5.38.0 EE]
+
+- Çeşitli -> Genel -> Mağazalar  -> Tüm Araç Modifiyelerini Listele eklendi
+- bazı hatalar düzeltildi
+
+[5.37.0 EE]
+
+- Tüm Kıyafet Öğelerini Listele eklendi
+- Tüm Ödüllerin Kilidini Aç eklendi
+- Tüm CEO Ofisi Kupalarının Kilidini Aç eklendi
+- Tüm Motosiklet Kulübü Kupalarının Kilidini Aç eklendi
+- Tüm Gece Kulübü Kupalarının Kilidini Aç eklendi
+- Tüm Tesis Kupalarının Kilidini Aç eklendi
+- Tüm Arcade Kupalarının Kilidini Aç eklendi
+- Tüm Arena Kupalarının Kilidini Aç eklendi
+- Tüm Ajans Kupalarının Kilidini Aç eklendi
+- Tüm Freakshop Kupalarının Kilidini Aç eklendi
+- Tüm Salvage Yard Kupalarının Kilidini Aç eklendi
+- Tüm Kefalet Ofisi Kupalarının Kilidini Aç eklendi
+- Tüm Konfeksiyon Fabrikası Kupalarının Kilidini Aç eklendi
+- Kurşun Geçirmez/Düşük Yol Tutuşlu Lastikler eklendi
+- Silah Bekleme Süresini Kaldır eklendi
+- Silah Kısıtlamalarını Kaldır eklendi
+- Uzaktan Fırlatılabilir Madde Kontrolü eklendi
+- Rampa Yeteneğini Zorla eklendi
+- Kişisel Araç Çağır İyileştirildi
+- Kilit Açmalar İyileştirildi
+- Görsel Yükleme İyileştirildi
+- Performans İyileştirildi
+- Kişisel araç listesinde bisikletlerin görünmemesi düzeltildi
+- İlk araç ekstrasının doğru ayarlanmaması düzeltildi
+- Araç ekstralarının dosyaya kaydedilmemesi düzeltildi
+- Araç yüklenirken lastik dumanı renginin doğru uygulanmaması düzeltildi
+- Bisikletlerin kişisel araç listesinde görünmemesi düzeltildi
+- Yanlış tespitler düzeltildi
+- Home tuşuna bastıktan sonra geriye doğru yazma sorunu düzeltildi
+- Diğer çeşitli küçük hatalar düzeltildi
+- Hız göstergesi artık telefondayken gizlenir
+- Varsayılan Tema değiştirildi (eski varsayılan tema Old_Original olarak kaydedildi)
+- Cherax LE Temaları artık Cherax EE ile ve tam tersi şekilde tamamen uyumludur
+- En son oyun sürümüne güncellendi
+
+Lua:
+- GTA.AddExplosion(CExplosionArgs args) eklendi
+
+[5.34.2 LE]
+
+- En son oyun sürümüne güncellendi
+
+Loader:
+- Xbox Uygulaması (PC) için otomatik başlatma artık kullanılabilir
+
+[5.36.1 EE]
+
+- Yıpranmış, Hizmet ve Özel Araç Renkleri eklendi
+- Çeviriler için glif yükleme düzeltildi
+
+[5.36.0 EE]
+
+- Kariyer İlerlemesinin Kilidini Aç eklendi
+- Tüm Toplanabilirlerin Kilidini Aç eklendi
+- Suç Kariyeri Tanıtımını Atla eklendi
+- Tekerlek Renklerine Bukalemun eklendi
+- Tüm Kilit Açmalar İyileştirildi
+- Açılış Sayfasına Çıkış İyileştirildi
+- Tüm Silah Bileşenlerini Göster İyileştirildi
+- En son oyun sürümüne güncellendi
+
+[5.34.1 LE]
+
+- En son oyun sürümüne güncellendi
+
+[5.35.0 EE]
+
+- Cherax EE için güncellendi
+- GTA+ Kilidini Aç eklendi
+- GTA+ Oyuncu Etiketi eklendi
+- Yeni Araç Renkleri eklendi
+- Yeni Araç Ekstraları eklendi
+- Kilit Açmalar İyileştirildi
+- Los Santos Most Wanted İyileştirildi
+- Diğer Çeşitli İyileştirmeler
+- Çeşitli Hatalar Düzeltildi
+
+[5.34.0]
+
+- b3442 oyun sürümüne güncellendi
+- Su Altında Sürüş eklendi
+- Tüm Medya Belleklerinin Kilidini Aç eklendi
+- Yeni Araç Görselleri eklendi
+- Özel Konsol Renkleri eklendi
+- Cherax Haberleri Görsel Değişimi eklendi
+- Aimbot Filtresi olarak Düşmanları Vur eklendi
+- Kare Hızı Sınırını Kaldırıcı / Duraklatma Menüsünde Takılma Giderme eklendi (her zaman açık)
+- Gardırop Bileşeni Adlandırması İyileştirildi
+- Ara Sahne Atlatma İyileştirildi
+- Oyuncuları Açığa Çıkar İyileştirildi
+- Korumalar İyileştirildi
+- Script Host Olmaya Zorla düzeltildi
+- Script Host Ver düzeltildi
+- Bazı Modder Tespiti Yanlış Tespitleri Düzeltildi
+- Çeşitli Hatalar Düzeltildi
+
+[5.33.0]
+
+- BattlEye Kick ve Ban Kick yeniden eklendi
+- BattlEye Sunucu Uygulaması İyileştirildi
+- Kıyafetlerin Kilidini Aç İyileştirildi
+
+[5.32.0]
+
+- b3411 oyun sürümüne güncellendi
+- Hulk Modu ve Hulk Aracı artık diğer Cherax kullanıcılarıyla düzgün şekilde senkronize oluyor
+
+Lua:
+- Memory.LuaCallCFunctionWithReturnValue eklendi
+
+[5.31.1]
+
+- Bir İşe Başlarken Sonsuz Yükleme Düzeltildi
+
+[Cherax 5.31.0]
+
+- ATF Crash eklendi
+- Korumalar İyileştirildi
+- Bazı Yanlış Tespitler Düzeltildi
+
+[Cherax 5.30.0]
+
+- b3407 Oyun Sürümüne güncellendi
+- Yeni Araçlar eklendi
+- DLC İçeriklerinin Kilidini Aç güncellendi (yeni Hangâr Mülkünü içerir)
+- Çeşitli -> Dünya -> Online'da Vahşi Yaşamı Etkinleştir eklendi
+- Oturum -> Daha Hızlı Geçiş -> Pürüzsüz Geçiş eklendi
+- Da Nile Crash Crash kaldırıldı (Rockstar Tarafından Yamalandı)
+- İyileştirmeler ve Hata Düzeltmeleri
+
+Lua:
+- FeatureMgr.GetAllPlayerFeatureHashes() eklendi
+- FeatureMgr.GetAllPlayerFeatureHashes(int) eklendi
+- Feature:IsPlayerFeature eklendi
+- Feature:GetStepSizeInt eklendi
+- Feature:GetFastStepSizeInt eklendi
+- Feature:GetStepSizeFloat eklendi
+- Feature:GetFastStepSizeFloat eklendi
+- bazı hatalar düzeltildi
+
+[Cherax 5.29.0]
+
+- BattlEye Sunucu Uygulaması eklendi (meşru oyuncular kendi kendilerini atmadan host olun)
+- Kısmi BattlEye İstemci Emülasyonu eklendi (atılmadan oturumda biraz daha uzun kalın)
+- Oturum Tarayıcısı düzeltildi
+- Oturumu Duyur düzeltildi
+- Geç enjeksiyon yapıldığında çevrim içi olunamaması düzeltildi
+
+[Cherax 5.28.0]
+
+- b3351 sürümüne güncellendi
+- Kilit Açmalar İyileştirildi
+- Gökkuşağı Patinaj İzleri artık rengi diğer solma seçenekleriyle de senkronize ediyor
+- Host Sırasına Göre Sırala düzeltildi
+
+[5.27.1]
+
+- b3337 Oyun Sürümüne güncellendi
+- BattlEye Kick ve BattlEye Ban Kick eklendi
+- Zorunlu Bir Sonraki Oturum Hostu Olmaya Zorla devre dışı bırakıldı
+
+[5.27.0]
+
+- b3323 Oyun Sürümüne Güncellendi
+- Dron/Füze Mesafe Sınırlarını Devre Dışı Bırak eklendi
+- Dron Ölümsüzlüğü eklendi
+- Hayat Kadını Kısıtlamalarını Devre Dışı Bırak eklendi
+- Korumalar İyileştirildi
+- Özellik Arama Sıralaması düzeltildi
+
+[5.26.0]
+
+- Oturum -> Oyuncu Sahteciliği -> Konum Sahteciliği Yap eklendi
+- Oturum -> Oyuncu Sahteciliği -> Sahte Konumu Ayarla eklendi
+- Korumalar -> Tepkiler -> Seni İzliyor eklendi
+- Korumalar -> Şununla Tepki Ver -> Konum Sahteciliği Tepkisi eklendi
+- Araç -> Yol Tutuş Editörü -> Yol Tutuşunu Sıfırla eklendi
+- Oyuncu Takipçisi -> Son Oyuncular -> Katılmaları Engelle eklendi
+- Oturum -> Sohbet -> Yazılı Sohbeti Sustur eklendi
+- Oturum -> Oturumu Duyur eklendi
+- Oturum -> Duyuru Sayısı eklendi
+- Recovery -> Tüm Freemode Görevlerinin Kilidini Aç eklendi
+- Görevleri Tamamla İyileştirildi
+- Çeşitli -> Sohbet -> Oyuncu Adını Otomatik Tamamla eklendi
+- Çeşitli -> ESP -> İz Çiz eklendi
+- Discord RPC eklendi (varsayılan kapalı)
+- Oturuma Katılmalara İzin Ver
+- Günün Mesajı
+- Çeşitli -> Deneyler -> Blackjack'i Geçersiz Kıl eklendi
+- Çeşitli -> Deneyler -> Vinç Oyununu Geçersiz Kıl eklendi
+- Çeşitli -> Deneyler -> Axe Fury Oyununu Geçersiz Kıl eklendi
+- Çeşitli -> Deneyler -> Aşk Ölçer Oyununu Geçersiz Kıl eklendi
+- Çeşitli -> Deneyler -> Arcade Oyunları Ölümsüzlüğü eklendi
+- Çeşitli -> Deneyler -> Dart Sallantısını Devre Dışı Bırak eklendi
+- Çeşitli -> Deneyler -> Bilek Güreşini Geçersiz Kıl eklendi
+- Çeşitli -> Deneyler -> Golf Rüzgârını Devre Dışı Bırak eklendi
+- Çeşitli -> Deneyler -> Golf Bitki Örtüsü Çarpışmasını Devre Dışı Bırak eklendi
+- Çeşitli -> Deneyler -> Golf Deliğini Otomatik Bitir eklendi
+- Çeşitli -> Deneyler -> Tüm Silah Bileşenlerini Göster eklendi
+- Tema -> Bildirim Tekrar Sayacını Göster eklendi
+- Tema -> Bildirim Süresi Çubuğunu Göster eklendi
+- Tema -> Bildirim Süresi Çubuğu Rengi eklendi
+- Bildirim Arka Plan Görseli eklendi (ClickGUI tema klasöründe bir görseli toast_background.* (.png, .jpg, .gif vb. destekler) olarak adlandırın)
+- List GUI Teması -> Menü X,Y eklendi
+- Korumalar İyileştirildi
+- Block Gun artık hareket ettirilemez küpler yerleştiriyor
+- Artık üzerine tıklayarak herhangi bir oyuncu bilgisini panoya kopyalayabilirsiniz
+- Artık tüm tespit listesini görmek için modder nedenlerinin üzerine gelebilirsiniz
+- Paranızın yetmeyeceği eşyalar için Ücretsiz Alışverişin çalışmaması düzeltildi
+- Fake Lag düzeltildi
+- Daha Fazla İyileştirme ve Düzeltme
+
+[5.25.0]
+
+- Garajdan Araç Sil eklendi
+- Tüm Booty Call'ların Kilidini Aç eklendi
+- Araçlarda Susturucuyu Açık Tut eklendi
+- Click GUI Temalandırmasına Oyuncu Seçici Tutma Rengi eklendi
+- Click GUI Teması ->  Alt Başlık Çubuğu -> Arama Simgesi / Etkin Arama Simgesi eklendi
+- Click GUI Teması ->  Alt Başlık Çubuğu -> Yıldız Simgesi / Etkin Yıldız Simgesi eklendi
+- Click GUI Teması -> Diğer Renkler -> Oyuncu Seçici Tutma eklendi
+- Bir renk giriş alanına yazarken oyun girdilerinin işlenmesi düzeltildi
+- List GUI Recovery sekmesindeki bazı özelliklerin gösterilmemesi düzeltildi
+- Korumalar İyileştirildi
+
+Lua:
+- Kaldırma Mantığı Değiştirildi
+
+[5.24.0]
+
+- Mevcut Aracı Kişisel Araca Dönüştür eklendi (neredeyse tüm araçları tüm modifiyeleriyle birlikte bir garaja kaydetmenizi sağlar)
+- Los Santos Most Wanted eklendi
+- Script Sonlandırmalarını Günlüğe Kaydet eklendi
+- Birlikte Yüklenebilirlik İyileştirildi
+
+[5.23.0]
+
+- Ücretsiz Alışveriş eklendi
+- Favori ve Öne Çıkan Özellikler eklendi
+- Anında İntihar eklendi
+- Car Meet Ödül Aracını Kazan eklendi
+- Script Olayı Günlükleyicisine Script Olayı İsimleri eklendi
+- Korumalar İyileştirildi
+- Trafik Çeşitliliği Performansı İyileştirildi
+- Super bail kullanılırken hareket edilememesi düzeltildi
+- Girdilerle ilgili bazı sorunlar düzeltildi
+- Diğer Bazı Hatalar Düzeltildi
+- Terrorbyte ve Gece Kulübü Teslimat Aracı Katı gibi Özel Garajlar artık araçlarıyla birlikte kişisel araç oluşturucusunda da görünür
+
+Lua:
+- GTA.GetScriptEventName eklendi
+
+[Loader]
+
+- Cherax artık önbelleğe alınıyor; bu da daha da hızlı bir enjeksiyon ve daha az trafik anlamına geliyor
+- Daha fazla otomatik sorun giderme eklendi
+
+[5.22.0]
+
+- DLC İçeriklerinin Kilidini Açma eklendi
+- Çeşitli Bekleme Sürelerini Devre Dışı Bırak -> Casino Çip Değişimi bölümüne Çip Satış Bekleme Süresi eklendi
+- Spawner'a Drift Bölümü eklendi
+- Daha yeni araçlar kendi Spawner sınıflarına eklendi
+- Click GUI Teması'na Özel Pencere Boyutunu Etkinleştir eklendi
+- Kıyafetlerin Kilidini Açma iyileştirildi
+- Korumalar iyileştirildi
+- Çeşitli hatalar düzeltildi
+- Skor Verisi Sahteciliği için olası yanlış tespitler düzeltildi
+
+Lua:
+- ClickGUI.BeginCustomChildWindow için isteğe bağlı parametreler eklendi
+- number textAlignX
+- number textAlignY
+- ImGui.AddRectFilledMultiColor için isteğe bağlı parametreler eklendi
+- number rounding
+- int flags
+- Dokümantasyon uyuşmazlıkları düzeltildi
+
+[5.21.2]
+
+- 2 Yeni Hava Durumu Türü eklendi
+- Gizli Araçları Listele güncellendi
+- Bail günlük kaydı iyileştirildi
+- Bazı hatalar düzeltildi
+- PV Spawner artık plaka metnini gösteriyor
+
+[5.21.1]
+
+- Rockstar tarafından yamalanan özellikler kaldırıldı
+- IW Crash kaldırıldı
+- Ban Kick kaldırıldı
+- Maksimum Kayıtlı Mühimmat
+- Aracı Hediye Et & Sigortala
+- Çeşitli Hata Düzeltmeleri
+- Not
+- RID Crash henüz yamalanmadı
+
+[5.21.0]
+
+- Oyun sürümü B3258'e güncellendi
+- Yeni Araçlar eklendi
+- Yeni Pedler eklendi
+- Yeni Silahlar eklendi
+- Korumalar iyileştirildi
+- Modder Tespitleri iyileştirildi
+- Anti-Modder Tespitleri iyileştirildi
+- Oturum Hostunu Zorlama iyileştirildi
+- Araç suya battığında Otomatik Onarım düzeltildi
+- Kısayol Tuşu & Bilgi Penceresi için çok küçük olan başlık düzeltildi
+- Super Bail kullanılırken Oyuncu Ekstra Penceresinin istisna fırlatması düzeltildi
+- Anında Canlanma'nın istisna fırlatması düzeltildi
+- Yayıncı Modu'nun isimleri ESP'den gizlememesi düzeltildi
+- Bir nesneye bağlıyken Işınlanma'nın çalışmaması düzeltildi
+- Hikaye modunda Oyuncu Script Olayı Özelliklerinin istisna fırlatması düzeltildi
+
+Lua:
+- Hata günlük kaydı iyileştirildi
+
+[5.20.0]
+
+- RID Crash eklendi
+- Da Nile Crash eklendi
+- Koruma iyileştirildi
+- Katılma Uyarılarını Otomatik Onaylama düzeltildi
+- Sohbet Reklamları için bazı yanlış tespitler düzeltildi
+- Not: Eklediğimiz RID Crash zaten Rockstar'a bildirildi ve büyük olasılıkla gelecek DLC ile yamalanacak. Cherax'ın ücretsiz sürümü, diğer özel exploit'lerin yanı sıra sizi bundan da koruyacaktır.
+
+[5.19.1]
+
+- Korumalar iyileştirildi
+- Oyuncu bir RC tankındayken oluşan "Ölümsüzken Ateş Etme" yanlış tespiti düzeltildi
+- Diğer Hata Düzeltmeleri
+
+[5.19.0]
+
+- Recovery -> Araç -> Gizli Araçları Listele (Web Sitelerindeki) eklendi
+- Oyuncu Listesi -> Etiketler -> Oyuncu Etiketleri (Oyuncu Etiketlerini etkinleştir/devre dışı bırak) eklendi
+- Oyuncular -> Genel -> DLC Modellerini Eşitlemeye Zorla eklendi
+- Korumalar -> Genel -> Ödül Spamını Engelle eklendi
+- Alt Oturumda Oyuncu Etiketi eklendi
+- Rockstar Admin Tespiti iyileştirildi
+- Anti AFK Kick, tam ekrandayken sekmeden çıkıldığında da çalışacak şekilde iyileştirildi
+- Modder Tespiti iyileştirildi
+- Korumalar iyileştirildi
+- RP Drop, "Para ve RP Dağıt" ve "Çip ve RP Dağıt" olarak ikiye ayrıldı
+- Çeşitli hata düzeltmeleri
+
+Lua:
+- Utils.IsKeyDown eklendi
+- Utils.IsKeyPressed eklendi
+- Utils.GetClipBoardText eklendi
+- Utils.SetClipBoardText eklendi
+- eProtectionType enum'ları eklendi
+- eLuaEvent.ON_REACTION eklendi
+- Örnek Scriptte Kullanım
+
+[Loader]
+
+- Cherax klasör yolunda özel karakterler olduğunda oluşan çökme düzeltildi
+
+[5.18.2]
+
+- İzleme Tespiti iyileştirildi
+- İç Mekanlarda Silahlara İzin Ver iyileştirildi
+- Modder Tespitindeki yanlış tespit düzeltildi
+
+[5.18.1]
+
+- İç Mekanda Olma Tespiti iyileştirildi
+- İzleme Tespiti iyileştirildi
+- Modder Tespiti iyileştirildi
+- Hasar Değiştirici için yanlış tespitler düzeltildi
+
+[5.18.0 Bravado Update]
+
+- Bu güncelleme, menüde gezinmeyi kolaylaştırmak için Kullanıcı Arayüzü Değişiklikleri ile birlikte gelir.
+- Oyuncu -> Hareket -> Düşme Değiştirici eklendi
+- Oyuncu -> Hareket -> Zıplama Değiştirici eklendi
+- Oyuncu -> Can -> Ölüm Bariyerini Devre Dışı Bırak eklendi
+- Oyuncu -> Çarpışma -> Hulk Modu eklendi
+- Oyuncu -> Çarpışma -> Araçların İçinden Geç eklendi
+- Oyuncu -> Çarpışma -> Pedlerin İçinden Geç eklendi
+- Oyuncu -> Çarpışma -> Nesnelerin İçinden Geç eklendi
+- Oyuncu -> Çarpışma -> Duvarların İçinden Geç eklendi
+- Araç -> Çarpışma -> Hulk Aracı eklendi
+- Ağır Araç kaldırıldı
+- Handling Düzenleyici -> Handling Bayrakları eklendi
+- Handling Düzenleyici -> Model Bayrakları eklendi
+- Handling Düzenleyici -> Gelişmiş Bayraklar eklendi
+- Handling Düzenleyici -> Kapı Hasarı Bayrakları eklendi
+- Dünya -> Nesne Parlaması -> Toplanabilir Parlamasını Devre Dışı Bırak eklendi
+- Dünya -> Nesne Parlaması -> Cam Parlamasını Etkinleştir eklendi
+- Dünya -> Nesne Parlaması -> Parlama Efektini Geçersiz Kıl eklendi
+- Dünya -> Nesne Parlaması -> Parlama Yoğunluğu eklendi
+- Dünya -> Nesne Parlaması -> Parlama Frekansı eklendi
+- Korumalar -> Diğer -> Hasar Değiştiriciyi Gizle eklendi
+- Korumalar iyileştirildi
+- Script Host Verme düzeltildi
+- Soul Switch Silahı düzeltildi
+- Use Code Cherax, Free Services olarak yeniden adlandırıldı
+- Gökkuşağı Lastik İzleri artık her yüzeyde çalışıyor
+
+Lua:
+- ModderDB.GetModderDetections eklendi
+- ModderDB.GetModderDetectionsByPlayerId eklendi
+- CPlayerInfo usertype eklendi
+- CNetGamePlayer.PlayerInfo eklendi
+- CPed.PlayerInfo eklendi
+- Players.GetCam eklendi
+- Players.GetCamRot eklendi
+- Players.GetIPInfo eklendi
+- ModderDB.RemoveModder eklendi
+- ModderDB.RemoveModderDetection eklendi
+- Memory.LuaCallCFunction düzeltildi
+- Boş etiketli Combo Özelliklerinin render edilirken boş alan bırakması düzeltildi
+
+[5.17.3]
+
+- Crash Koruması iyileştirildi
+- Onaylanmamış bir scripte abone olmanın çökmeye yol açtığı bir sorun düzeltildi
+- Diğer bazı hata düzeltmeleri
+
+[5.17.2]
+
+- Pencere başlık çubuğuna doğrudan Arama Çubuğu eklendi
+- Özelleştirmeye Başlık Çubuğu Arama Arka Plan Rengi eklendi
+- Crash Koruması iyileştirildi
+- Belirli bir çarpışma eşiğine ulaşıldığında bazı varlıkların yerin altına düşmesi düzeltildi
+- List GUI kullanılırken oyun içi sohbette karşılaşılan sorunlar düzeltildi
+
+[5.17.1]
+
+- Oturumdan Gizlenme Koruması eklendi
+- Cherax Bülteni Aç/Kapat seçeneği eklendi
+- Use Code Cherax iyileştirildi (Orbital Cannon dahil tüm telefon ve etkileşim menüsü hizmetleri artık ücretsiz)
+- Rulet Ayarlamanın çökmeye neden olması düzeltildi
+- Araç Kopyalama'nın çökmesi düzeltildi
+- Araca Rampa Ekleme'nin çökmesi düzeltildi
+- Bazı yazım hataları düzeltildi
+- Free Freemode kaldırıldı
+
+Lua:
+- FeatureMgr.AddFeature fonksiyonuna parametre eklendi
+- (bu, callback'in her zaman yield yapmanıza izin verilen benzersiz bir script iş parçacığında kuyruğa alınmasını zorunlu kılacaktır)
+- bool forceQueue = true
+- Feature:GetId() eklendi
+
+[5.17.0]
+
+- Oyun Güncellemesi için güncellendi
+- Anti-Cheat Bypass güncellendi
+- Cherax Haberleri eklendi (GTA Haberleri'nin yerini alır)
+- Oyuncular -> Araç -> Azami Hızı Ayarla eklendi
+- Oyuncu -> Kozmetik -> Gardırop -> Kıyafet -> Kıyafet Uygulama Kısıtlamalarını Devre Dışı Bırak eklendi
+- Use Code Cherax iyileştirildi
+- Script Olayı Koruması iyileştirildi
+
+Lua:
+- Feature:GetColorU32 eklendi
+- Feature:SetColorU32 eklendi
+- Feature:GetColorFloats eklendi
+- Feature:SetColorFloats eklendi
+- ImGui.TableNextColumn eklendi
+- Time.GetEpoche değerinin sistem saatine eşit olmaması düzeltildi
+- Time.GetEpocheMs değerinin sistem saatine eşit olmaması düzeltildi
+
+[5.16.1]
+
+- Ara Sahneleri Atlamaya İzin Ver eklendi
+- Ara sahneleri Hikaye Modundaki gibi atlamanızı sağlar
+- Para İçin Basamak Ayırıcı Ekleme iyileştirildi
+- Artık çip göstergesi için de basamak ayırıcıları ekliyor
+
+Lua:
+- CPed:IsPlayer() eklendi
+- CPed:IsInVehicle() eklendi
+- CPed.CurVehicle eklendi
+- CPed.LastVehicle eklendi
+
+[5.16.0]
+
+- Oturum -> Çeşitli -> Dolu Oturumlara Katılma Bypassı eklendi
+- Oturum -> Çeşitli -> Katılma Uyarılarını Otomatik Onayla eklendi
+- Korumalar -> Script -> Modlu Oturum Olaylarını Engelle eklendi
+- Korumalar -> Kick Araçları -> Desync Otomatik Yeniden Katılma eklendi
+- Çeşitli -> Diğer -> Gökkuşağı Lastik İzleri eklendi
+- Çeşitli -> ESP & HUD -> Kısayol Tuşları -> Tüm Kısayol Tuşlarını Temizle eklendi
+- Oyuncu -> Kamera -> Paraşüt FOV eklendi
+- Oyuncu -> Kamera -> Sinematik FOV eklendi
+- Oyuncu -> Kamera -> Ara Sahne FOV eklendi
+- Oyuncu -> Kamera -> Bulutlar Yükleme Ekranı FOV eklendi
+- Abone Olunan Scriptler -> Otomatik Başlat eklendi
+- Ağ Mesajlarını Günlüğe Kaydet eklendi
+- Script Başlangıçlarını Günlüğe Kaydet eklendi
+- RID Joiner iyileştirildi
+- SC TV Üzerinden Katılma düzeltildi
+- Uzaktan Kontrolü Engelleme iyileştirildi
+- Uzaktan araç özel yeteneğini engeller.
+- Uzaktan araç kornasını engeller.
+- Araç -> Duvar Çarpışmasını Devre Dışı Bırak eklendi
+- Duvarlar ve çoğu bina ile olan çarpışmayı devre dışı bırakır.
+- Araç -> Nesne Çarpışmasını Devre Dışı Bırak iyileştirildi
+- Artık ağaçlar gibi çoğu dünya nesnesiyle olan çarpışmaları da devre dışı bırakır.
+- Crash Koruması iyileştirildi
+- Seçili yerel Lua scripti harici olarak değiştirilirse artık otomatik olarak yeniden yüklenir
+- Host iken Oturumdan Ayrılma seçeneğinin oturumun geri kalanında ağ bölünmesine yol açması düzeltildi
+- Kendi üzerinizde kullanılabilen Oyuncuyu Yerel Olarak Gizle seçeneğinin çökmeye neden olması düzeltildi
+- Kaldırma (unload) sırasında meydana gelebilecek olası çökme düzeltildi
+- Hava Durumunun ayarlara kaydedilmesi düzeltildi
+- Diğer bazı düzeltmeler ve iyileştirmeler
+
+[Lua]
+
+- CheraxExample.lua varsayılan olarak yerel Lua scriptlerine eklendi (zamanla güncellenecektir)
+- eEntityType enum'ı eklendi
+- CEntity Usertype eklendi (CPhysical için Temel)
+- CEntity:GetType() eklendi
+- CEntity:IsPhysical() eklendi
+- eLuaEvent.SHOULD_COLLIDE eklendi
+- Belirli durumlarda Script.Yield fonksiyonunun hatalı kullanımı engellendi
+- Bazı dokümantasyon uyuşmazlıkları düzeltildi
+- Utils ad alanı bölündü:
+- Time Ad Alanı eklendi
+- Time.Get eklendi
+- Time.GetEpoche eklendi
+- Time.GetEpocheMs eklendi
+- Time.GetEpocheNs eklendi
+- GTA Ad Alanı eklendi
+- GTA.GetLocalPed eklendi
+- GTA.GetLocalVehicle eklendi
+- GTA.GetLocalPlayerId eklendi
+- GTA.HandleToPointer eklendi
+- GTA.PointerToHandle eklendi
+- GTA.ConvertSectorToWorldPosition eklendi
+- GTA.ConvertWorldToSectorPosition eklendi
+- GTA.ForceScriptHost eklendi
+- GTA.TriggerScriptEvent eklendi
+- GTA.GetLabelText eklendi
+- GTA.GetGroundZ eklendi
+- GTA.SpawnVehicle eklendi
+- GTA.SpawnVehicleForPlayer eklendi
+- GTA.CreateRandomPed eklendi
+- GTA.CreatePed eklendi
+- GTA.CreateObject eklendi
+- GTA.CreateWorldObject eklendi
+- GTA.SendChatMessageToEveryone eklendi
+- GTA.SendChatMessageToPlayer eklendi
+- GTA.AddChatMessageToPool eklendi
+- GTA.GetModelInfoFromHash eklendi
+- GTA.GetModelInfoFromIndex eklendi
+- GTA.GetModelInfoIndexFromHash eklendi
+- GTA.WorldToScreen eklendi
+- GTA.GetBonePos3D eklendi
+- GTA.GetBonePos2D eklendi
+- GTA.GiveControl eklendi
+- GTA.GetDisplayNameFromHash eklendi
+- GTA.GetModelNameFromHash eklendi
+- GTA.BeginService eklendi
+- GTA.BasketStart eklendi
+- GTA.BasketAddItem eklendi
+- GTA.CheckoutStart eklendi
+- GTA.RegisterFile eklendi
+- GTA.DrawPedPreview eklendi
+- GTA.SetLabelText eklendi
+- GTA.RemoveLabelText eklendi
+
+[5.15.1]
+
+- Özel Karakterlere İzin Ver eklendi
+- Sohbete Yapıştır özelliğindeki 30 Karakter Sınırı iyileştirildi -> Artık 140
+- Küfür Filtresi Bypassı iyileştirildi
+- Sohbet Reklamlarını Engelleme iyileştirildi
+- Katılma ve Ayrılma Bildirimleri için Yayıncı Modu düzeltildi
+- Bazı yanlış tespitler düzeltildi
+
+Lua:
+- Cheat Engine ile kullanıcı ID'sinin sahtesinin yapılabilmesi düzeltildi
+- LuaCallCFunction, Memory ad alanına taşındı
+- Küfür Filtresi Bypassı şunlar için uygulandı:
+- Utils.SendChatMessageToEveryone
+- Utils.SendChatMessageToPlayer
+
+[5.15.0]
+
+- Çeşitli -> Genel -> Diğer -> Sohbete Yapıştır eklendi
+- Sohbet İçin Küfür Filtresi Bypassı düzeltildi
+- Yerel Sohbet Mesajlarının günlüğe kaydedilmemesi düzeltildi
+- Oyuncular -> Genel -> Oyuncuyu Kaydet eklendi
+- Oyuncular -> Genel -> Rockstar ID Kopyala eklendi
+- Herkesi Crashle & At eklendi
+- Korumalar -> Araç Spamını Engelle eklendi
+- Korumalar -> Ped Spamını Engelle eklendi
+- Crash Koruması iyileştirildi
+- List GUI Kontrolleri iyileştirildi
+- List GUI Yazı Tipi Teması Yükleme düzeltildi
+- Click GUI'nin yayıncı modunda gerçek oyuncu isimlerini göstermesi düzeltildi
+- Yayıncı Modu etkinken IPv4 ve Rockstar ID'si de artık gizleniyor
+
+[5.14.1]
+
+- Oturum -> Eşleştirme -> Asset Hash Düzelt eklendi
+- Script Olayı Koruması iyileştirildi
+- Senkronizasyon Korumasının istisna fırlatması düzeltildi
+
+[5.14.0]
+
+- Oyuncular -> Zararlı -> Script Event Crash eklendi
+- Crash Korumaları iyileştirildi
+- Oyuncular -> Uzaktan Gizleme -> Oturumu Oyuncudan Gizle eklendi
+- Oyuncular -> Uzaktan Gizleme -> Oyuncuyu Oturumdan Gizle eklendi
+- Oyuncular -> Uzaktan Gizleme -> Oyuncuyu Yerel Olarak Gizle eklendi
+- Oyuncular -> Trolleme -> Oyuncuyu Şokla eklendi
+- Koruma -> Ağ Olayları -> Şok Tabancası Spam Koruması eklendi
+- Koruma -> Ağ Olayları -> PTFX Spam Koruması eklendi
+- İzleme Bildirimi Aç/Kapat seçeneği eklendi
+- Oyuncular -> Suistimal -> Sonsuz Yükleme Ekranına Gönder eklendi
+- Saldırganları Öldür & Saldırganları Dondur kaldırıldı
+- Korumalar -> Tepkiler -> Sana Nişan Alma eklendi
+- Korumalar -> Tepkiler -> Sana Ateş Etme eklendi
+- Korumalar -> Tepkiler -> Türler -> Oyuncuyu Dondur eklendi
+- Korumalar -> Tepkiler -> Türler -> Oyuncuyu Şokla eklendi
+- Araç -> Mobil LSC -> Plaka Türü eklendi
+- Araç -> Mobil LSC -> Plaka Metni eklendi
+- Üçüncü Şahıs Nişan Alma FOV'u düzeltildi
+- Pattern Önbelleği düzeltildi
+- Tow Truck Crash yanlış tespitleri düzeltildi
+- Anti-Aim düzeltildi
+- Orbital Strike Oyuncu Tepki Türü düzeltildi
+
+Lua:
+- Bazı Sync Data Node üyelerinin erişilebilir olmaması düzeltildi
+
+[5.13.0]
+
+- OpenIV Bypass eklendi (Oyunu Cherax Loader üzerinden başlatmak OpenIV modlarıyla Online'a girmeyi mümkün kılar, NVE ile kapsamlı bir şekilde test edildi)
+- Kamera -> FOV Değiştirici (Birinci Şahıs, Araç İçi Birinci Şahıs, Dürbün Açık, Üçüncü Şahıs, Üçüncü Şahıs Nişan Alma, Araç İçi Üçüncü Şahıs, Araç İçi Üçüncü Şahıs Nişan Alma) eklendi
+- Ses -> Uçuş Müziğini Devre Dışı Bırak eklendi
+- Ses -> Aranma Müziğini Devre Dışı Bırak eklendi
+- Ses -> Kilitlenme Uyarısını Zorla eklendi
+- Gardırop -> Yüz Özellikleri Değiştirici (Yüz Özellikleri artık Kıyafet Kaydetme ile birlikte kaydediliyor) eklendi
+- ESP -> Oyuncu Kamerası eklendi
+- Oyuncu Aracını Sil eklendi
+- İzleme Bildirimleri eklendi
+- İzleme iyileştirildi
+- Anti-İzleme iyileştirildi (artık izlemeyi uzaktan durdurmaya çalışacaktır)
+- Kilit Açmalar iyileştirildi
+- Crash Korumaları iyileştirildi
+- Yanlış tespitler düzeltildi
+- Modül hash'i değiştiğinde (örn. socialclub.dll) önbellek artık otomatik olarak atlanıyor
+
+Lua:
+- Özel spooflama için kullanılabilir 40'tan fazla Sync Data Node eklendi
+- eLuaEvent.SHOULD_TRIGGER_EXCLUSIVE_SYNC eklendi
+- callback(int player, CPhysical entity)
+- eLuaEvent.ON_SYNC_DATA_NODE eklendi
+- callback(eSyncDataNode node_type, node,  CPhysical entity,  bool is_exclusive, int exclusive_player)
+- Loader & Menü
+- 'couldn't resolve host' hataları düzeltildi
+
+[Cherax 5.12.2]
+
+- Auxiliary Cannon Crash Koruması düzeltildi
+- Equilibrium Crash kaldırıldı
+- Diğer bazı iyileştirmeler
+
+[5.12.1]
+
+- Modder tespitleri iyileştirildi
+- Oyuncuyu Crashle düzeltildi
+- Dil Sahteciliği düzeltildi
+
+Lua:
+- Cherax.GetVersion eklendi
+- Cherax.GetBuild eklendi
+- Utils.sJoaat eklendi
+- CEntity -> CPhysical olarak yeniden adlandırıldı
+- NetGamePlayer -> CNetGamePlayer olarak yeniden adlandırıldı
+- CNetObject:GetEntity eklendi
+- NetworkObjectMgr.UnregisterNetworkObject eklendi
+- NetworkObjectMgr.ChangeOwner eklendi
+- NetworkObjectMgr.GetNetworkObject eklendi
+- Utils.FindNetobjectById kaldırıldı
+
+[Cherax v5.12]
+
+- Auxiliary Cannon Crash eklendi
+- Oyuncu Sahteciliği -> Eğitim Oturumunda Göster eklendi
+- Oyuncu Sahteciliği -> Dil Sahteciliği eklendi
+- Oyuncu Bilgisi -> Oyun Dili eklendi
+- Araç -> Bomba Yörüngesini Göster eklendi
+- Oyuncu Listesinden Gizle -> Oturumdan Gizle olarak yeniden adlandırıldı
+- Oturumdan Gizle iyileştirildi
+- Ayarlar, Temalar ve Çeviriler bölümlerine Klasör Aç butonları eklendi
+- GUI içine GUI Aç/Kapat butonu eklendi
+- Oyuncu Takipçisi artık [Online] yerine Oturum Türünü gösterir
+- Oyuncu Takipçisi artık kaydedilen oyuncuları önce çevrim içi durumuna, ardından ada göre sıralar
+- Crash Koruması iyileştirildi
+- Freemode Beklemesini Atla özelliğinin silah vermemesi düzeltildi
+- Kaydedilen oyuncular için 'Son Görülme' bilgisinin gösterilmemesi düzeltildi
+
+Lua:
+- PoolMgr.GetRenderedVehicles eklendi
+- PoolMgr.GetRenderedPeds eklendi
+- PoolMgr.GetRenderedObjects eklendi
+- ClickTab enum'ı eklendi
+- ClickGUI.GetActiveMenuTab eklendi
+- ClickGUI.SetActiveMenuTab eklendi
+- ListGUI.SetCurrentTab eklendi
+- ListGUI.RemoveTabFromStack eklendi
+
+[Cherax v5.11]
+
+- Kick Aracı -> Drop Kick Doping -> Devre Dışı/Legit/Güçlü eklendi
+- Kick Aracı -> Host Drop Kick Olayları -> Bağlantı Sorunlarını Bildir, Drop Kick'leri Bildir, Drop Kick'leri Engelle eklendi
+- Oturum -> Sonraki Oturum Hostunu Zorla -> Devre Dışı/Legit/Güçlü eklendi
+- Oyuncuya Ödül Koy eklendi
+- Performans/FPS iyileştirildi
+- Modder Tespiti iyileştirildi
+- Sahtecilik Seçenekleri iyileştirildi
+- Ağ Hatası Kick Koruması iyileştirildi
+- Kişisel Aracı Garaja Koy eklendi
+- Kişisel Aracı Çağır iyileştirildi
+- Kişisel Aracı Çağır artık Araç İçinde Doğ ve Motor Her Zaman Açık gibi ayarları da kullanır
+- Rockstar yöneticileri artık IP ve sürekli güncellenecek önceden hazırlanmış bir liste ile tespit edilir
+- İzleyici modundayken sohbet mesajlarının gönderilememesi ve alınamaması düzeltildi
+- Click GUI artık oyuncu listesinin üzerinde oyuncu sayısını gösterir
+- Bazı GUI öğelerinin sırası değiştirildi
+- Oturum Tarayıcısı artık gizli oturumları da görüntüler
+- List GUI ile ilgili bazı görselleştirme sorunları düzeltildi
+
+Lua:
+- Cherax.GetUID eklendi
+- Tab:RemoveSubTab eklendi
+- Utils.TriggerScriptEvent artık gönderilecek verilerde belirli bazı argümanları zorunlu kılar
+
+[Loader]
+
+- Küçük bir loader güncellemesi yayınlamak için sunucuyu yeniden başlattık
+
+Loader:
+- Seçimler artık kaydedilir ve kalıcıdır
+- Loader artık arka plandayken işlenmeyecek, bu da oyun içi FPS'yi etkili bir şekilde artırır
+
+[Cherax v5.10.1]
+
+- Kişisel araç çağırıcı ve garajlarla ilgili sorunlar düzeltildi
+- Bazı etiketler düzeltildi
+
+[Cherax v5.10.0]
+
+- Skor Verisi Sahteciliği eklendi
+- Skor Verisi Sahteciliği Tespiti eklendi
+- Skor Verisi Sahteciliği -> Seviye eklendi
+- Skor Verisi Sahteciliği -> Öldürmeler eklendi
+- Skor Verisi Sahteciliği -> Ölümler eklendi
+- Skor Verisi Sahteciliği -> Cüzdan eklendi
+- Skor Verisi Sahteciliği -> Banka eklendi
+- Skor Verisi Sahteciliği -> Cinsel Eylemler eklendi
+- Skor Verisi Sahteciliği -> Kucak Dansları eklendi
+- Araç -> Süzülme Yeteneği eklendi
+- Dünya -> Gökyüzü -> Gökyüzünü Devre Dışı Bırak eklendi
+- Silah -> Sınırsız Mermi eklendi
+- Korumalar dışındaki Modder tespitleri de artık bildirim gönderir
+- Zıplama Yeteneğine Zorla ve Roket Hızlandırma Yeteneğine Zorla artık birlikte kullanılabilir
+- Araç Yetenekleri artık bir arada gruplandırıldı
+- Oturum Tarayıcısı artık tek seferde 1024'e kadar oturum bulur
+
+[Cherax v5.9.0]
+
+- Handling Düzenleyici -> Araç Modeli Bilgi Bayrakları eklendi
+- Araç Modeli Bilgi Bayrakları artık diğer handling ayarlarıyla birlikte de kaydedilecek (dosyalar geriye dönük uyumludur)
+- Araç -> Paraşüt Yeteneğine Zorla eklendi
+- Araç -> Zıplama Yeteneğine Zorla eklendi
+- Araç -> Roket Hızlandırma Yeteneğine Zorla eklendi
+- Oyuncu Sahteciliği -> Rockstar Geliştirici Bayrağı eklendi
+- Oyuncu Sahteciliği -> Rockstar QA Bayrağı eklendi
+- Oyuncu Sahteciliği -> Hileci Bayrağı eklendi
+- Oyuncu Listesi -> Koleksiyon Öğesi Türünü Ver eklendi
+- Oyuncu Listesi -> Koleksiyon Öğelerini Ver eklendi
+- Oyuncu Listesi -> Tüm Koleksiyon Öğelerini Ver eklendi
+- Gardırop -> Kıyafet Doğrulamasını Devre Dışı Bırak eklendi
+- Kısayol Tuşları -> Kısayol Tuşuna Basıldığında Bildir eklendi
+- Çeviriler -> Geçerli Çeviri Dosyasını Dök (Lua özelliklerini içerir) eklendi
+- Anti Modder Tespiti iyileştirildi
+- Crash Koruması iyileştirildi
+- Bazı hatalı tespitler düzeltildi
+- Kıyafet Düzenleyici değerleri kaydırıcı yerine giriş kutusu olarak değiştirildi
+- Sahtecilik alt pencereleri/sekmeleri yeniden sıralandı
+- Açılır kombo geçiş pencereleri daha iyi bir genel bakış için artık daha büyük
+
+Lua:
+- Utils.GiveControl eklendi
+
+[Cherax v5.8.0]
+
+- Oyuncuyu Öldür eklendi
+- Oyuncuyu Öldür Tepkisi eklendi
+- Orbital Vuruş Tepkisi eklendi
+- Uzaktan Döngülü Ragdoll eklendi
+- Script Araç Kick eklendi
+- Eşleştirme Katılımlarını Engelle eklendi
+- Host Araç Kiti: Maksimum Oyuncu eklendi
+- Rockstar ID Kopyala (Oyuncu Takipçisi, Kaydedilen Oyuncular, Oturum Tarayıcısı) eklendi
+- Ağ Hatası Kick Koruması Geçişi eklendi
+- Ağ Hatası Kick Koruması düzeltildi
+- Kaydedilen her oyuncu için Özel Katılma Engelleme Nedeni eklendi
+- Katılma Engelleme iyileştirildi
+- Oturum Tarayıcısı iyileştirildi
+- Script Olayı Koruması iyileştirildi
+- Crash Koruması iyileştirildi
+- Ağ Olayı Koruması iyileştirildi
+- Araç Kick Koruması iyileştirildi
+- Diğer oyuncuların aracınıza binememesi düzeltildi
+- 'Force Script Host bir istisna fırlattı' hatası düzeltildi
+- Yazı tipi atlasının aşırı büyümesi nedeniyle enjeksiyon sırasında yaşanan sorunlar düzeltildi
+- Oyuncular üzerinde Silme Silahı düzeltildi
+- Oyuncu katılma durumundayken oyuncu listesi sıralaması düzeltildi
+- Sohbette Duyur Tepkisi artık daha az spam yapacak
+- Konsol Penceresi daha iyi okunabilirlik için artık tamamen renklendirildi
+
+[Cherax v5.7.1]
+
+- İstisna Kaydedici düzeltildi
+
+[Cherax v5.7.0 13/01/2024 02:57 AM]
+
+- Hatalı Script Olayı için Tepki eklendi
+- Oylamayla Atma için Tepki eklendi
+- Sohbette Duyur Tepkisi eklendi
+- Giden Varlık Senkronizasyonu Zaman Aşımı Tepkisi eklendi
+- Giden Script Olayı Zaman Aşımı Tepkisi eklendi
+- Gelen/Giden Varlık Senkronizasyonlarını Engelle oyuncu geçişleri eklendi
+- Gelen/Giden Script Olaylarını Engelle oyuncu geçişleri eklendi
+- Kafesleri Engelle eklendi
+- Dünya Modeli Senkronizasyonlarını Engelle eklendi
+- Script Host Kick Koruması Geçişi eklendi
+- Oturumu Sonlandır Kick Koruması Geçişi eklendi
+- Nesne ESP eklendi
+- Nesne ESP Mesafesi eklendi
+- Oyuncu Listesi Sıralama Ölçütü (Oyuncu ID, Host Sırası, Alfabetik, Mesafe) eklendi
+- Sahte Gecikme eklendi
+- Ücretsiz Freemode eklendi
+- Use Code Cherax eklendi
+- Bekleme Süresi Devre Dışı Bırakıcıya Dax Görevleri eklendi
+- Oyuncu Bilgisine Konum eklendi
+- Oyuncu Bilgisine Host Jetonu eklendi
+- Oyuncu Bilgisi artık çevrilebilir
+- Crash Koruması iyileştirildi
+- Script Olayı Koruması iyileştirildi
+- Araç Kick Koruması iyileştirildi
+- Ölüm Sınırına Gönder iyileştirildi
+- Oturum Tarayıcısı iyileştirildi
+- Oyunun bazen Drop Kick'i kesintiye uğratması düzeltildi
+- Döngülü Araç Kick düzeltildi
+- Hatalı tespitler düzeltildi
+- Oyuncuyu Dondur ve Koruması düzeltildi
+- No Clip devre dışı bırakılırken aracın donması düzeltildi
+- İçinde ped yokken Anında Araca Binme düzeltildi
+- Timecycle Değiştirici düzeltildi
+- Hız Çarpanları düzeltildi
+- List GUI için kombo geçişler düzeltildi
+- Pasif Modu Engelle düzeltildi
+- Menü açıkken bazı istenmeyen kontrollerin araya girmesi düzeltildi
+- Koruma geçişleri artık çoğu şeyi açıp kapatıyor
+- Bazı etiketler kısaltıldı
+- Cherax, yanlış DirectX Sürümü kullanıyorsanız artık sizi uyaracak
+- Diğer bazı iyileştirmeler ve hata düzeltmeleri
+
+LUA:
+- table<int, int> Players.Get(ePlayerListSort filter, string search) eklendi
+- FeatureMgr.SearchFeature eklendi
+- Feature:SetSearchable, Feature:IsSearchable eklendi
+- Lua cURL'ün Lua gc nedeniyle sorunlara yol açması düzeltildi
+
+[Cherax 5.6.1]
+
+- Mevsimsel Etkinlik Seçenekleri iyileştirildi
+- Enjeksiyon Hatası düzeltildi
+- Lua API üzerinden kendi Sohbet Spamını engelleme düzeltildi
+
+[Cherax 5.6.0]
+
+- Özel Çeviriler eklendi (Varsayılan Çeviri Dosyası Cherax/Translations içinde oluşturulacaktır)
+- Tepkiler (Kick, Crash, Rapor, Sohbet Spamı, Sohbette Yasaklı Kelimeler) eklendi
+- Tepki Türleri (Kick, Crash, Script Olayı Zaman Aşımı, Varlık Senkronizasyonu Zaman Aşımı) eklendi
+- Script Olayı Zaman Aşımı Süresi Kaydırıcısı eklendi
+- Varlık Senkronizasyonu Zaman Aşımı Süresi Kaydırıcısı eklendi
+- Daha fazla Bildirim (Atma, Çökertme, Host Geçişleri) eklendi
+- Çeşitli Bekleme Sürelerini Devre Dışı Bırak özelliğine daha fazla bekleme süresi eklendi
+- Aynı ada sahip araçlar için Araç Seçimi düzeltildi
+- No Clip Kayması düzeltildi
+- Çince, Korece, Japonca ve Rusça için yazı tipi glifleri artık her zaman yüklenir ve gerektiğinde doğru şekilde görüntülenir
+- Tekrarlanan konsol mesajları artık bildirimlerdeki gibi bir sayaca sahip olacak
+- Çeşitli Bekleme Sürelerini Devre Dışı Bırak artık hangi tür bekleme sürelerini devre dışı bırakmak istediğinizi seçmenize olanak tanır
+- Lua'ya eklendi:
+- b3095 Natives
+- eFeatureType.ComboToggles
+- Feature.IsListIndexToggled
+- Feature.ToggleListIndex
+- FeatureMgr.GetFeatureList
+- ScriptGlobal.GetTunableByHash
+
+[Cherax V5.5.0]
+
+- Ban Kick eklendi
+- Pasif Modu Engelle eklendi
+- Modder Tespiti iyileştirildi
+- Lua Scripti Varlık Otomatik Temizleme iyileştirildi
+- "Script Host Crash V2" Koruması düzeltildi
+- Ücretsiz kullanıcılar için bazı özelliklerin kullanılamaması düzeltildi
+
+[Cherax V5.4.0]
+
+- 'Oturumdan Ayrıl' yeniden düzenlendi
+- 'Hikaye Modu Oturumdan Ayrıl' (eski Oturumdan Ayrıl) eklendi
+- 'Süper Oturumdan Ayrıl' eklendi
+- 'Radyo Kapalı Olarak Doğ' eklendi
+- AAC iyileştirildi
+- Script Olayı Koruması ve birçok Script Olayı özelliği düzeltildi
+- Ağ Hatası Kick Koruması düzeltildi
+- DLC pedleri ve DLC araçlarıyla çevrim içi oynama düzeltildi
+- LSCM için 1000. Seviye Kilit Açma düzeltildi
+- Yazım hataları düzeltildi
+- Bazı Lua Örnek Açıklamaları düzeltildi
+
+[Cherax V5.3.0]
+
+- Saldırganları Dondur eklendi
+- Gelişmiş Script Olayı Koruması Geçişi eklendi
+- Host Kicklerini Zayıflat eklendi
+- Ped Çarpışmasını Devre Dışı Bırak (Araç) eklendi
+- İstisna Günlükleri için RTTI Bilgisi eklendi
+- List GUI'deki Eksik Özellikler eklendi
+- Modder Tespiti iyileştirildi
+- Ayrılma Günlüğü ve Önleme iyileştirildi
+- Crash Koruması iyileştirildi
+- Kilit Açmalar iyileştirildi
+- Casino Hileleri iyileştirildi
+- Sohbet Reklam Koruması iyileştirildi
+- Handling Düzenleyici Seçeneklerinin Açıklamaları iyileştirildi
+- ASI Loader düzeltildi
+- Aracınıza nesne bağlanmasıyla ilgili hatalı alarmlar düzeltildi
+- Termal Görüş düzeltildi
+- İzleme sırasındaki ölüm düzeltildi
+- 'Deluxo Modu'nun belirli araçlarda oyunu çökertmesi düzeltildi
+
+Lua:
+- CVehicle.SteerAngle eklendi
+- CVehicle.SecondSteerAngle eklendi
+- CVehicle.Throttle eklendi
+- CVehicle.Brake eklendi
+- CVehicle.Nitrous eklendi
+- CVehicle.DirtLevel eklendi
+- CVehicle.BodyDirtColor eklendi
+- CVehicle.HeadlightMultiplier eklendi
+- CVehicle.VehicleTopSpeedPercent eklendi
+- CVehicle.CheatPowerIncrease eklendi
+- Utils.SpawnVehicle ve Utils.CreatePed için 'AutoCleanup' parametresi eklendi
+
+[Cherax V5.2.2]
+
+- Son oyun yamasıyla ortaya çıkan daha fazla sorun düzeltildi
+- Bazı hata düzeltmeleri ve iyileştirmeler
+
+[Cherax V5.2.1]
+
+- Kararlılık sorunları düzeltildi
+
+[Cherax V5.2.0]
+
+- En son Oyun DLC'si için güncellendi
+- Araç Çağırıcıya "The Chop Shop" Araçları eklendi
+- Drift Handling Modu (Yeni drift araçlarının drift yol tutuşunu uygular) eklendi
+- "Kick ve Katılmayı Engelle" Oyuncu Seçeneği eklendi
+- Döngülü Araç Kick eklendi
+- Modlu Araç Tespiti eklendi
+- Oturum Döngülü Araç Kick eklendi
+- Oturum Yetkililere Rüşvet Ver eklendi
+- Oturum Radardan Kaybolma eklendi
+- Oturum Aranma Seviyesini Temizle eklendi
+- Oturum Herkesi Kafese Kapat eklendi
+- Rastgele Kick eklendi
+- Otomatik Script Host Olmaya Zorla eklendi
+- Hud Geçiş Bilgi Durumu eklendi
+- Blip Olmaya Zorla eklendi
+- Slot Makinesini Geçersiz Kılma eklendi
+- Ruleti Geçersiz Kıl eklendi
+- At Yarışını Geçersiz Kıl eklendi
+- Kart Oyunlarını Geçersiz Kıl eklendi
+- Şans Çarkını Geçersiz Kılma eklendi
+- Noel'i Etkinleştirmek için Happy Holidays Hauler Etkinliği eklendi
+- Dripfeed Araçlarının Kilidini Aç eklendi
+- Freemode Beklemesini Atla eklendi
+- Spam ve Reklam Koruması iyileştirildi
+- Drop Kick iyileştirildi
+- Script Olayı Koruması ve Gönderimi iyileştirildi
+- Modder ve Anti Modder Tespiti iyileştirildi
+- Para Atma kaldırıldı (Model Rockstar tarafından yamalandı)
+- Lua artık daha fazla özellik türünü destekliyor (List ve List With Info)
+- Stop Vehicle Kick, Gentle Vehicle Kick olarak yeniden adlandırıldı
+- Birçok dahili iyileştirme ve hata düzeltmesi
+
+[Cherax 5.1.1]
+
+- Kara delik kullanılırken nesneleri senkronize etmeyle ilgili sorunlar düzeltildi
+- Host crash için hatalı pozitif modder tespiti düzeltildi
+- İstisna günlüğüne en son oluşturulan modeller eklendi
+
+[Cherax 5.1.0]
+
+- Para İçin Ayırıcılar eklendi
+- İç Mekanlarda Hareket Kilidini Aç eklendi
+- İç Mekanlarda Silahlara İzin Ver eklendi
+- Sohbet Spamı Engelleme eklendi
+- Patlama Spamı Koruması eklendi
+- Host Jetonunu Boz eklendi
+- Araç için Nesne Çarpışmasını Devre Dışı Bırak eklendi
+- Tüm Oyuncu Listeleri için Arama eklendi
+- Aracı Kaydet (Oyuncu Listesi) eklendi
+- No Clip için Hızı Koru eklendi
+- Daha fazla Modder Tespiti eklendi
+- Bazı Lua API Örnekleri eklendi ve iyileştirildi
+- AC Crash eklendi
+- Crash Korumaları büyük ölçüde iyileştirildi
+- Akıllı Koruma iyileştirildi
+- Aimbot iyileştirildi
+- Drop Kick iyileştirildi (Host üzerinde çalışmaz)
+- Kara Delik iyileştirildi (artık nesnelerle etkileşime giriyor)
+- Bazı Geçersiz Modifiyelerin otomatik olarak uygulanması düzeltildi (Aracı Yükselt)
+- Oyuncuyu Kaçır düzeltildi
+- Tüm Silahları Kaldır (Oyuncu Listesi) düzeltildi
+- List GUI için Kaydedilen/Son Oyuncular düzeltildi
+- Uçaklar için Çağırma Yüksekliği artırıldı
+- Kaydedilen araçlar ve kıyafetler artık aynı adla kaydedildiğinde üzerine yazılır
+
+[Cherax v5.0.2]
+
+- Social Club güncellemesinden kaynaklanan enjeksiyon sorunları düzeltildi
+- Abone olunan büyük scriptlerle ilgili bazı sorunlar düzeltildi
+- List GUI metin girişi düzeltildi
+- List GUI çağırıcı filtresi düzeltildi
+- List GUI çağırıcı önizlemesi eklendi
+- Bazı modder tespitleri eklendi
+- Bazı crash korumaları eklendi
+- Desync kick koruması geçici olarak devre dışı bırakıldı
+
+[Cherax v5.0.1]
+
+- Enjeksiyon sırasında yazı tipi yükleme hatasından kaynaklanan çökmeler düzeltildi
 - Korece yazı tipi gliflerinin yüklenmemesi düzeltildi
-- Kişisel araç spawner'ı için boş garaj adları düzeltildi
-- Cargobob'unuza yapılan eklentiler için yanlış pozitif (false positive) durumları düzeltildi
+- Kişisel araç çağırıcı için boş garaj adları düzeltildi
+- Cargobob'unuza nesne bağlanmasına yönelik hatalı tespit düzeltildi
 - Bilgi penceresi konumunun kaydedilmemesi düzeltildi
-- Özel menu açma tuşunun kaydedilmemesi düzeltildi
-- Oyuncuyu zamanda ileri sarma (warp player time forward) host kontrolü düzeltildi
-- Unload esnasında meydana gelebilecek olası crash düzeltildi
-- Büyük script'lere abone olunurken yaşanan performans sorunları düzeltildi
-- Görsel yükleyicideki bellek sızıntısı düzeltildi
+- Özel menü açma tuşunun kaydedilmemesi düzeltildi
+- Oyuncunun zamanını ileri sarma için host denetimi düzeltildi
+- Kaldırma sırasında meydana gelebilecek olası çökme düzeltildi
+- Daha büyük scriptlere abone olurken yaşanan performans sorunları düzeltildi
+- Görüntü yükleyicideki bellek sızıntısı düzeltildi
 - Host crash koruması düzeltildi
-- Kamerayı zorla öne alma (force camera forward) koruması düzeltildi
-- Görev varlıklarını temizleme (clear mission entities) özelliğinin ters etki yaratması düzeltildi
-- Sohbet reklamı koruması iyileştirildi
-- 
-- Cherax Loader
-- Performans %400 oranında iyileştirildi
+- Kamerayı öne zorlama koruması düzeltildi
+- Görev Varlıklarını Temizle seçeneğinin ters etki yapması düzeltildi
+- Sohbet reklam koruması iyileştirildi
+
+Cherax Loader:
+- Performans %400 iyileştirildi
 - Kaynak sayfalarının çalışmaması düzeltildi
-- Görsel yükleyicideki bellek sızıntısı düzeltildi
+- Görüntü yükleyicideki bellek sızıntısı düzeltildi
 
+[Cherax V5.0.0]
 
-
-
-
-
-
-
-- 8/8/2026 12:24 PM
-[Cherax V5.3.0 - 2023/12/18]
-- Saldırganları Dondurma Özelliği Eklendi
-- Gelişmiş Script Event Koruması Açma/Kapatma Seçeneği Eklendi
-- Host Kicklerini Zayıflatma Özelliği Eklendi
-- Yaya Çarpışmasını Devre Dışı Bırakma (Araç) Eklendi
-- Exception Logları için RTTI Bilgisi Eklendi
-- Liste GUI'sindeki Eksik Özellikler Eklendi
-- Modder Tespiti İyileştirildi
-- Bail Günlükleme ve Engelleme İyileştirildi
-- Crash Koruması İyileştirildi
-- Unlocks İyileştirildi
-- Casino Rigging İyileştirildi
-- Sohbet Reklam Koruması İyileştirildi
-- Handling Düzenleyici Seçenekleri için Açıklamalar İyileştirildi
-- ASI Loader Düzeltildi
-- Aracınıza Nesne Bağlanmasıyla İlgili Yanlış Tespitler (False Flags) Düzeltildi
-- Heat Vision Düzeltildi
-- İzleme Modundayken Ölme Sorunu Düzeltildi
-- Belirli Araçlarda 'Deluxo Modu'nun Crash Yapması Düzeltildi
-
-- Lua:
-- CVehicle.SteerAngle Eklendi
-- CVehicle.SecondSteerAngle Eklendi
-- CVehicle.Throttle Eklendi
-- CVehicle.Brake Eklendi
-- CVehicle.Nitrous Eklendi
-- CVehicle.DirtLevel Eklendi
-- CVehicle.BodyDirtColor Eklendi
-- CVehicle.HeadlightMultiplier Eklendi
-- CVehicle.VehicleTopSpeedPercent Eklendi
-- CVehicle.CheatPowerIncrease Eklendi
-- Utils.SpawnVehicle ve Utils.CreatePed için 'AutoCleanup' Parametresi Eklendi
-
-
-
-
-
-
-
-
-- 8/8/2026 11:26 AM
-[Cherax V5.3.0 - 2023/12/18]
-- Saldırganları Dondurma Eklendi
-- Gelişmiş Script Event Koruması Açma/Kapatma Seçeneği Eklendi
-- Host Kicklerini Zayıflatma Özelliği Eklendi
-- Ped Çarpışmasını Devre Dışı Bırakma (Araç) Eklendi
-- Hata Günlükleri (Exception Logs) için RTTI Bilgisi Eklendi
-- Liste GUI'sindeki Eksik Özellikler Eklendi
-- Modder Tespiti İyileştirildi
-- Bail Loglama ve Engellemesi İyileştirildi
-- Crash Koruması İyileştirildi
-- Kilit Açmalar (Unlocks) İyileştirildi
-- Casino Rigging İyileştirildi
-- Sohbet Reklam Koruması İyileştirildi
-- Handling Düzenleyici Seçenekleri için Açıklamalar İyileştirildi
-- ASI Loader Düzeltildi
-- Aracınıza Eklenti Yapılması (Attachment) ile İlgili Hatalı Tespitler (False Flags) Düzeltildi
-- Heat Vision (Isı Görüşü) Düzeltildi
-- İzleme (Spectating) Sırasında Ölme Hatası Düzeltildi
-- Belirli Araçlarda 'Deluxo Modu'nun Crash Yapması Düzeltildi
-- 
-- Lua:
-- CVehicle.SteerAngle Eklendi
-- CVehicle.SecondSteerAngle Eklendi
-- CVehicle.Throttle Eklendi
-- CVehicle.Brake Eklendi
-- CVehicle.Nitrous Eklendi
-- CVehicle.DirtLevel Eklendi
-- CVehicle.BodyDirtColor Eklendi
-- CVehicle.HeadlightMultiplier Eklendi
-- CVehicle.VehicleTopSpeedPercent Eklendi
-- CVehicle.CheatPowerIncrease Eklendi
-- Utils.SpawnVehicle ve Utils.CreatePed için 'AutoCleanup' Parametresi Eklendi
+- İlk sürüm
