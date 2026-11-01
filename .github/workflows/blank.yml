@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - 'Translations/*.json'
+      - 'Translations_V2/*.json'
       - 'Translations_Vanilla/*.json'  
       - 'Translations_Noti/*.json'
       - 'AutoChatTranslator_Localization/*.json'
@@ -41,6 +42,40 @@ jobs:
               print(f"{path}: {len(data)} UI strings")
           PY
 
+      - name: Validate V2 translation JSON
+        run: |
+          python3 - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+          def unique(pairs):
+              result = {}
+              for key, value in pairs:
+                  if key in result:
+                      raise ValueError(f"Duplicate key: {key}")
+                  result[key] = value
+              return result
+          for path in sorted(Path("Translations_V2").glob("*.json")):
+              data = json.loads(path.read_text(encoding="utf-8-sig"), object_pairs_hook=unique)
+              if not isinstance(data, dict) or not data:
+                  raise ValueError(f"{path}: expected a nonempty grouped translation object")
+              count = 0
+              for group, entries in data.items():
+                  if not isinstance(entries, dict):
+                      raise ValueError(f"{path}: invalid group {group}")
+                  for key, entry in entries.items():
+                      if not re.fullmatch(r"-?[0-9]+", key) or not isinstance(entry, dict):
+                          raise ValueError(f"{path}: invalid entry {group}/{key}")
+                      if not isinstance(entry.get("source"), str) or not isinstance(entry.get("text"), str):
+                          raise ValueError(f"{path}: missing source/text in {group}/{key}")
+                      if not all(isinstance(value, str) for value in entry.values()):
+                          raise ValueError(f"{path}: invalid text field in {group}/{key}")
+                      count += 1
+              if not count:
+                  raise ValueError(f"{path}: no translation entries")
+              print(f"{path}: {count} translation entries")
+          PY
+
       - name: Detect Changed Files and Bump Versions
         env:
           BEFORE_SHA: ${{ github.event.before }}
@@ -54,7 +89,7 @@ jobs:
             BEFORE_SHA=$(git hash-object -w -t tree /dev/null)
           fi
           CHANGED_FILES=$(git diff --no-renames --diff-filter=d --name-only "$BEFORE_SHA" "$AFTER_SHA")
-          CHANGED_JSONS=$(printf '%s\n' "$CHANGED_FILES" | grep -E "^(Translations|Translations_Vanilla|Translations_Noti|AutoChatTranslator_Localization)/[^/]+\.json$" || true)
+          CHANGED_JSONS=$(printf '%s\n' "$CHANGED_FILES" | grep -E "^(Translations|Translations_V2|Translations_Vanilla|Translations_Noti|AutoChatTranslator_Localization)/[^/]+\.json$" || true)
 
           if [ -n "$CHANGED_JSONS" ]; then
             echo "Changed translation files:"
@@ -64,7 +99,15 @@ jobs:
               DIRNAME=$(dirname "$FILE")
               
               CLEAN_NAME="${BASENAME%_Vanilla}"
-              if [ "$DIRNAME" = "AutoChatTranslator_Localization" ]; then
+              if [ "$DIRNAME" = "Translations_V2" ]; then
+                VERSION_FILE="Versions/V2_${BASENAME}_version.txt"
+                if [ ! -f "$VERSION_FILE" ]; then
+                  LEGACY_VERSION_FILE="Versions/${BASENAME}_version.txt"
+                  if [ -f "$LEGACY_VERSION_FILE" ]; then
+                    cp -- "$LEGACY_VERSION_FILE" "$VERSION_FILE"
+                  fi
+                fi
+              elif [ "$DIRNAME" = "AutoChatTranslator_Localization" ]; then
                 VERSION_FILE="Versions/AutoChatTranslator_${BASENAME}_version.txt"
               elif [ "$DIRNAME" = "Translations_Vanilla" ]; then
                 VERSION_FILE="Versions/${CLEAN_NAME}_Vanilla_version.txt"
@@ -126,4 +169,5 @@ jobs:
             git pull --rebase origin main
             git push origin main
           fi
+
 
