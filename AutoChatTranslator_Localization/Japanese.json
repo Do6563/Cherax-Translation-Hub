@@ -239,7 +239,7 @@
   "glossary.instruction.deleted": "指示を削除しました",
   "glossary.instruction.editing": "保存された翻訳指示を編集中",
   "glossary.instruction.example": "例: 笑い声には haha の代わりに zz を使用する。",
-  "glossary.instruction.help": "翻訳時にAIに使用させたい言い回しや口調を記述してください。",
+  "glossary.instruction.help": "翻訳で使ってほしい言い方や口調を書いてください。",
   "glossary.instruction.incoming.title": "翻訳指示 - 受信",
   "glossary.instruction.outgoing.title": "翻訳指示 - 送信",
   "glossary.instruction.replace_notice": "新しい指示を保存すると、このチャット方向の現在の指示が置き換えられます。",
@@ -258,7 +258,7 @@
   "glossary.mode.term.example": "出現場所に関係なくこのテキストを置換します。例: cat を dog に置換すると cat food は dog food に、cats は dogs に変わります。",
   "glossary.mode.term.name": "どこでも置換",
   "glossary.replacement.heading": "単語やフレーズを置換",
-  "glossary.replacement.help": "チャット内で見つかったテキストを選択したテキストに置換します。",
+  "glossary.replacement.help": "チャット内の言葉を、翻訳結果では指定した言葉で表示します。",
   "glossary.retry_save": "保存を再試行",
   "glossary.search.close": "検索を閉じる",
   "glossary.search.hint": "単語を検索",
@@ -360,5 +360,7 @@
   "storage.root_unavailable": "Cheraxルートフォルダーが見つかりませんでした。",
   "tabs.main": "ChatTranslator",
   "tabs.translation": "翻訳",
-  "tabs.word_rules": "単語ルール"
+  "tabs.word_rules": "単語ルール",
+  "glossary.status.finish_current_rule": "別のルールを編集する前に、現在のルールを保存またはキャンセルしてください。",
+  "glossary.status.finish_draft": "別のルールを編集する前に、この下書きを保存するか、両方のテキスト欄をクリアしてください。"
 }
