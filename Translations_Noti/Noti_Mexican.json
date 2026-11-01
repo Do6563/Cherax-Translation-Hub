@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "Configuración de Traducción de Notificaciones",
+    "desc1": "¿Traducir las notificaciones (toasts) de scripts Lua de terceros al español?",
+    "desc2": "(Detecciones de modders de Lua, intentos de kick, alertas de protección, etc.)",
+    "btn_enable": "Activar Traducción",
+    "btn_disable": "Desactivar Traducción"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "Aviso de Traducción por IA y Traducción de Lua",
+    "desc1": "Esta traducción fue creada originalmente por un humano. Después de que se detuvieron las actualizaciones mantenidas por humanos, se continuó con asistencia de IA.",
+    "desc2": "La traducción del menú Cherax vanilla es de alta calidad, pero las traducciones por IA de scripts de Lua creados por usuarios pueden contener redacción extraña o significados imprecisos.",
+    "desc3": "Por favor, elige un modo de traducción.",
+    "btn_full": "Incluir Traducciones de Lua (Versión Completa)",
+    "btn_vanilla": "Traducir Solo Cherax Vanilla (Mantener Texto Original de Lua)",
+    "btn_postpone": "Probar Primero y Decidir Después (Preguntar de Nuevo la Próxima Vez)"
+  },
+  "Changelog_UI": {
+    "title": "¡Cherax Ha Sido Actualizado!",
+    "subtitle": "- Registro de Cambios -",
+    "btn_dont_show": "No Volver a Mostrar Esta Ventana",
+    "btn_mark_read": "Marcar como Leído"
+  },
+  "System_Messages": {
+    "init": "Sistema de traducción inicializado.",
+    "update_found": "¡Actualización detectada! Descargando archivos...",
+    "downloading": "Descargando archivos de idioma...",
+    "download_success": "Descarga y guardado completados con éxito.",
+    "loaded": "Traducción cargada: ",
+    "applied": "Traducción aplicada",
+    "file_error": "Archivo no encontrado en el servidor (404).",
+    "setup_complete": "Configuración completada: ",
+    "script_stopped": "El script se ha detenido.",
+    "noti_update_found": "Actualización de traducción de notificaciones detectada",
+    "noti_downloading": "Descargando archivo de traducción de notificaciones...",
+    "changelog_update_found": "¡Una nueva actualización está disponible!",
+    "watcher_active": "Monitoreo de traducción habilitado",
+    "update_check_disabled": "Las ventanas emergentes de notas del parche están desactivadas.",
+    "marked_as_read": "Marcado como leído.",
+    "download_failed": "Error al descargar. Continuando con los archivos locales disponibles.",
+    "settings_save_failed": "No se pudo guardar la configuración. Por favor, inténtalo de nuevo.",
+    "settings_read_failed": "No se pudo leer la configuración. Por favor, recarga el script.",
+    "wizard_purpose": "AutoTranslate es para personas que no hablan inglés, por lo que el inglés no es una opción aquí.",
+    "wizard_chat_available": "Auto Chat Translator está disponible para todos.",
+    "wizard_chat_only": "Usar Solo Auto Chat Translator",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "¿Te gustaría usar Auto Chat Translator?",
+    "chat_setup_incoming": "- Traduce el chat entrante a tu idioma.",
+    "chat_setup_outgoing": "- Traduce tus mensajes para otros jugadores.",
+    "chat_setup_target": "- Elige un idioma de destino o usa Auto.",
+    "chat_setup_rules": "- Reemplaza palabras y guarda instrucciones de traducción.",
+    "chat_setup_providers": "Google funciona sin clave de API. Groq es opcional y utiliza tu propia clave de API.",
+    "chat_setup_enable": "Usar Chat Translator",
+    "chat_setup_disable": "No Usar",
+    "chat_setup_back": "Volver a Configuración de Idioma"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "Carga Automática de Configuración",
+    "text": "¡Configuración cargada con éxito!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Autoexpulsar Modders",
+    "text": "Se detectó que {1} usa mods, expulsando..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "Eliminar Jugadores Desincronizados",
+    "text": "{1} ha sido eliminado de la sesión para evitar posibles problemas de conexión."
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "Enviando Velocity Shot a {1}."
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "Enviando Tow Mater a {1}."
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "Protección",
+    "text": "{1} está intentando bloquear tu unión."
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater finalizado."
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "Desbordamiento Cegador",
+    "text": "Desbordamiento Cegador finalizado."
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "Portapapeles",
+    "text": "Rockstar ID copiado."
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "Teletransportarse al Vehículo Personal",
+    "text": "¡No se pudo encontrar el vehículo personal de {1}!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Autoexpulsar Modders",
+    "text": "Se detectó que '{1}' usa mods."
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "Teletransportar a Todos Hacia Mí",
+    "text": "¡No tienes ningún guardaespaldas activo!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "Copiar Información",
+    "text": "Se copió la información de {1} al portapapeles."
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "Generar Rampa",
+    "text": "¡'{1}' debe estar en un vehículo!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "Activar Defensa de Mercancía",
+    "text": "Enviando 'Activar Defensa de Mercancía' a {1}..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "Activar Furgón Blindado",
+    "text": "Enviando 'Activar Furgón Blindado' a {1}..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "Activar Misión de Modo Libre",
+    "text": "Enviando 'Activar Misión de Modo Libre' a {1}..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "Warp a Departamento",
+    "text": "Enviando Warp a Departamento a {1}..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "Warp Infinito a Departamento",
+    "text": "Enviando Warp Infinito a Departamento a {1}..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

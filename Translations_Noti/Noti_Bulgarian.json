@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "Настройки за превод на известията",
+    "desc1": "Превеждане на известията (toasts) от външни Lua скриптове на български?",
+    "desc2": "(Засичания на модъри от Lua, опити за кикване, предупреждения за защита и др.)",
+    "btn_enable": "Включи превода",
+    "btn_disable": "Изключи превода"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "Известие за AI превод и превод на Lua",
+    "desc1": "Този превод първоначално бе създаден от човек. След като поддържаните от хора актуализации спряха, той бе продължен с помощта на AI.",
+    "desc2": "Преводът на базовото меню Cherax е с високо качество, но AI преводите на създадените от потребители Lua скриптове може да съдържат странни формулировки или неточни значения.",
+    "desc3": "Моля, изберете режим на превод.",
+    "btn_full": "Включи преводите на Lua (пълна версия)",
+    "btn_vanilla": "Превеждай само базовия Cherax (запази оригиналния текст на Lua)",
+    "btn_postpone": "Първо изпробвайте и решете по-късно (попитай отново следващия път)"
+  },
+  "Changelog_UI": {
+    "title": "Cherax беше актуализиран!",
+    "subtitle": "- Дневник на промените -",
+    "btn_dont_show": "Не показвай този прозорец отново",
+    "btn_mark_read": "Маркирай като прочетено"
+  },
+  "System_Messages": {
+    "init": "Системата за превод е инициализирана.",
+    "update_found": "Открита е актуализация! Файловете се изтеглят...",
+    "downloading": "Изтегляне на езикови файлове...",
+    "download_success": "Изтеглянето и запазването завършиха успешно.",
+    "loaded": "Зареден превод: ",
+    "applied": "Преводът е приложен",
+    "file_error": "Файлът не е намерен на сървъра (404).",
+    "setup_complete": "Настройката завърши: ",
+    "script_stopped": "Скриптът спря.",
+    "noti_update_found": "Открита е актуализация на превода на известията",
+    "noti_downloading": "Изтегляне на файла за превод на известията...",
+    "changelog_update_found": "Налична е нова актуализация!",
+    "watcher_active": "Наблюдението на превода е включено",
+    "update_check_disabled": "Изскачащите прозорци с бележки за пача са изключени.",
+    "marked_as_read": "Маркирано като прочетено.",
+    "download_failed": "Неуспешно изтегляне. Продължаване с наличните локални файлове.",
+    "settings_save_failed": "Настройките не можаха да се запазят. Моля, опитайте отново.",
+    "settings_read_failed": "Настройките не можаха да се прочетат. Моля, презаредете скрипта.",
+    "wizard_purpose": "AutoTranslate е за хора, които не говорят английски, затова английският тук не е опция.",
+    "wizard_chat_available": "Auto Chat Translator е достъпен за всички.",
+    "wizard_chat_only": "Използвай само Auto Chat Translator",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "Искате ли да използвате Auto Chat Translator?",
+    "chat_setup_incoming": "- Превеждай входящия чат на твоя език.",
+    "chat_setup_outgoing": "- Превеждай твоите съобщения за другите играчи.",
+    "chat_setup_target": "- Избери целеви език или използвай Auto.",
+    "chat_setup_rules": "- Заменяй думи и запазвай инструкции за превод.",
+    "chat_setup_providers": "Google работи без ключ за API. Groq е по избор и използва твоя собствен ключ за API.",
+    "chat_setup_enable": "Използвай Chat Translator",
+    "chat_setup_disable": "Не го използвай",
+    "chat_setup_back": "Назад към настройката на езика"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "Автоматично зареждане на настройки",
+    "text": "Настройките бяха заредени успешно!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Автоматично изваждане на модъри",
+    "text": "Беше открито, че {1} използва модове, изваждане..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "Премахване на десинхронизирани играчи",
+    "text": "{1} беше премахнат от сесията, за да се избегнат потенциални проблеми с връзката."
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "Изпращане на Velocity Shot към {1}"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "Изпращане на Tow Mater към {1}"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "Защита",
+    "text": "{1} се опитва да блокира присъединяването ви"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater завърши."
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "Ослепяващо препълване",
+    "text": "Ослепяващото препълване завърши"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "Клипборд",
+    "text": "Копиран Rockstar ID"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "Телепорт към лично ПС",
+    "text": "Личното превозно средство на {1} не беше намерено!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Автоматично изваждане на модъри",
+    "text": "Беше открито, че '{1}' използва модове"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "Телепортирай всички при мен",
+    "text": "Нямате активни телохранители!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "Копиране на информация",
+    "text": "Информацията за {1} беше копирана в клипборда."
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "Създаване на рампа",
+    "text": "'{1}' трябва да бъде в превозно средство!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "Задействане на защита на товар",
+    "text": "Изпращане на „Задействане на защита на товар“ към {1}..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "Задействане на брониран ван",
+    "text": "Изпращане на „Задействане на брониран ван“ към {1}..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "Задействане на мисия във Freemode",
+    "text": "Изпращане на „Задействане на мисия във Freemode“ към {1}..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "Телепорт до апартамент",
+    "text": "Изпращане на „Телепорт до апартамент“ към {1}..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "Безкраен телепорт до апартамент",
+    "text": "Изпращане на „Безкраен телепорт до апартамент“ към {1}..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

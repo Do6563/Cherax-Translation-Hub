@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "Bildirim Çeviri Ayarları",
+    "desc1": "Üçüncü taraf Lua bildirimleri (toasts) Türkçe diline çevrilsin mi?",
+    "desc2": "(Lua hileci tespitleri, atma girişimleri, koruma uyarıları vb.)",
+    "btn_enable": "Çeviriyi Etkinleştir",
+    "btn_disable": "Çeviriyi Devre Dışı Bırak"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "Yapay Zekâ Çevirisi ve Lua Çevirisi Bildirimi",
+    "desc1": "Bu çeviri başlangıçta bir insan tarafından oluşturuldu. İnsan tarafından sürdürülen güncellemeler durduktan sonra yapay zekâ desteğiyle devam ettirildi.",
+    "desc2": "Orijinal Cherax menü çevirisi yüksek kalitededir, ancak kullanıcı yapımı Lua scriptlerinin yapay zekâ çevirileri garip ifadeler veya hatalı anlamlar içerebilir.",
+    "desc3": "Lütfen bir çeviri modu seçin.",
+    "btn_full": "Lua Çevirilerini Dahil Et (Tam Sürüm)",
+    "btn_vanilla": "Yalnızca Orijinal Cherax'ı Çevir (Orijinal Lua Metnini Koru)",
+    "btn_postpone": "Önce Dene ve Sonra Karar Ver (Bir Dahaki Sefere Tekrar Sor)"
+  },
+  "Changelog_UI": {
+    "title": "Cherax Güncellendi!",
+    "subtitle": "- Değişiklik Günlükleri -",
+    "btn_dont_show": "Bu Pencereyi Bir Daha Gösterme",
+    "btn_mark_read": "Okundu Olarak İşaretle"
+  },
+  "System_Messages": {
+    "init": "Çeviri sistemi başlatıldı.",
+    "update_found": "Güncelleme tespit edildi! Dosyalar indiriliyor...",
+    "downloading": "Dil dosyaları indiriliyor...",
+    "download_success": "İndirme ve kaydetme başarıyla tamamlandı.",
+    "loaded": "Çeviri yüklendi: ",
+    "applied": "Çeviri uygulandı",
+    "file_error": "Dosya sunucuda bulunamadı (404).",
+    "setup_complete": "Kurulum tamamlandı: ",
+    "script_stopped": "Script durdu.",
+    "noti_update_found": "Bildirim çevirisi güncellemesi tespit edildi",
+    "noti_downloading": "Bildirim çeviri dosyası indiriliyor...",
+    "changelog_update_found": "Yeni bir güncelleme mevcut!",
+    "watcher_active": "Çeviri izleme etkinleştirildi",
+    "update_check_disabled": "Güncelleme notu açılır pencereleri devre dışı bırakıldı.",
+    "marked_as_read": "Okundu olarak işaretlendi.",
+    "download_failed": "İndirme başarısız oldu. Mevcut yerel dosyalarla devam ediliyor.",
+    "settings_save_failed": "Ayarlar kaydedilemedi. Lütfen tekrar deneyin.",
+    "settings_read_failed": "Ayarlar okunamadı. Lütfen betiği yeniden yükleyin.",
+    "wizard_purpose": "AutoTranslate İngilizce bilmeyenler içindir, bu nedenle burada İngilizce bir seçenek değildir.",
+    "wizard_chat_available": "Auto Chat Translator herkesin kullanımına açıktır.",
+    "wizard_chat_only": "Yalnızca Auto Chat Translator Kullan",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "Auto Chat Translator kullanmak ister misiniz?",
+    "chat_setup_incoming": "- Gelen sohbeti kendi dilinize çevirin.",
+    "chat_setup_outgoing": "- Mesajlarınızı diğer oyuncular için çevirin.",
+    "chat_setup_target": "- Bir hedef dil seçin veya Auto kullanın.",
+    "chat_setup_rules": "- Kelimeleri değiştirin ve çeviri talimatlarını kaydedin.",
+    "chat_setup_providers": "Google bir API anahtarı olmadan çalışır. Groq isteğe bağlıdır ve kendi API anahtarınızı kullanır.",
+    "chat_setup_enable": "Chat Translator'ı Kullan",
+    "chat_setup_disable": "Kullanma",
+    "chat_setup_back": "Dil Kurulumuna Dön"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "Ayarları Otomatik Yükle",
+    "text": "Ayarlar başarıyla yüklendi!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Hilecileri Otomatik Kickle",
+    "text": "{1} hile yaparken tespit edildi, kickleniyor..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "Desync Olan Oyuncuları Kaldır",
+    "text": "{1}, olası bağlantı sorunlarını önlemek için oturumdan kaldırıldı."
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "{1} hedefine Velocity Shot gönderiliyor"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "{1} hedefine Tow Mater gönderiliyor"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "Koruma",
+    "text": "{1} oyuna girişinizi engellemeye çalışıyor"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater tamamlandı."
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "Blinding Overflow",
+    "text": "Blinding Overflow tamamlandı"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "Pano",
+    "text": "Rockstar ID kopyalandı"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "Kişisel Araca Işınlan",
+    "text": "{1}'in kişisel aracı bulunamadı!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Hilecileri Otomatik Kickle",
+    "text": "'{1}' hile yaparken tespit edildi"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "Herkesi Bana Işınla",
+    "text": "Aktif bir korumanız yok!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "Bilgileri Kopyala",
+    "text": "{1}'in bilgileri panoya kopyalandı."
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "Rampa Oluştur",
+    "text": "'{1}' bir araçta olmalıdır!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "Trigger Cargo Defend",
+    "text": "{1} hedefine Trigger Cargo Defend gönderiliyor..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "Trigger Security Van",
+    "text": "{1} hedefine Trigger Security Van gönderiliyor..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "Trigger Freemode Mission",
+    "text": "{1} hedefine Trigger Freemode Mission gönderiliyor..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "Apartment Warp",
+    "text": "{1} hedefine Apartment Warp gönderiliyor..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "Infinite Apartment Warp",
+    "text": "{1} hedefine Infinite Apartment Warp gönderiliyor..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

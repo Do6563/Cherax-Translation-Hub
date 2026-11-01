@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "Pengaturan Terjemahan Notifikasi",
+    "desc1": "Terjemahkan notifikasi (toasts) skrip Lua pihak ketiga ke bahasa Indonesia?",
+    "desc2": "(Deteksi modder Lua, percobaan kick, peringatan perlindungan, dll.)",
+    "btn_enable": "Aktifkan Terjemahan",
+    "btn_disable": "Nonaktifkan Terjemahan"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "Pemberitahuan Terjemahan AI dan Terjemahan Lua",
+    "desc1": "Terjemahan ini awalnya dibuat oleh manusia. Setelah pembaruan manual dihentikan, proses penerjemahan dilanjutkan dengan bantuan AI.",
+    "desc2": "Terjemahan menu bawaan Cherax memiliki kualitas tinggi, tetapi terjemahan AI untuk skrip Lua buatan pengguna mungkin mengandung kata-kata yang janggal atau makna yang kurang akurat.",
+    "desc3": "Silakan pilih mode terjemahan.",
+    "btn_full": "Sertakan Terjemahan Lua (Versi Lengkap)",
+    "btn_vanilla": "Terjemahkan Cherax Bawaan Saja (Pertahankan Teks Lua Asli)",
+    "btn_postpone": "Coba Dulu dan Tentukan Nanti (Tanyakan Lagi Lain Kali)"
+  },
+  "Changelog_UI": {
+    "title": "Cherax Telah Diperbarui!",
+    "subtitle": "- Log Perubahan -",
+    "btn_dont_show": "Jangan Tampilkan Jendela Ini Lagi",
+    "btn_mark_read": "Tandai sebagai Telah Dibaca"
+  },
+  "System_Messages": {
+    "init": "Sistem terjemahan diinisialisasi.",
+    "update_found": "Pembaruan terdeteksi! Mengunduh file...",
+    "downloading": "Mengunduh file bahasa...",
+    "download_success": "Pengunduhan dan penyimpanan berhasil diselesaikan.",
+    "loaded": "Terjemahan dimuat: ",
+    "applied": "Terjemahan diterapkan",
+    "file_error": "File tidak ditemukan di server (404).",
+    "setup_complete": "Penyiapan selesai: ",
+    "script_stopped": "Skrip telah berhenti.",
+    "noti_update_found": "Pembaruan terjemahan notifikasi terdeteksi",
+    "noti_downloading": "Mengunduh file terjemahan notifikasi...",
+    "changelog_update_found": "Pembaruan baru telah tersedia!",
+    "watcher_active": "Pemantauan terjemahan diaktifkan",
+    "update_check_disabled": "Popup catatan pembaruan dinonaktifkan.",
+    "marked_as_read": "Ditandai sebagai telah dibaca.",
+    "download_failed": "Gagal mengunduh. Melanjutkan dengan file lokal yang tersedia.",
+    "settings_save_failed": "Tidak dapat menyimpan pengaturan. Silakan coba lagi.",
+    "settings_read_failed": "Tidak dapat membaca pengaturan. Silakan muat ulang skrip.",
+    "wizard_purpose": "AutoTranslate ditujukan untuk pengguna non-bahasa Inggris, sehingga bahasa Inggris tidak tersedia di sini.",
+    "wizard_chat_available": "Auto Chat Translator tersedia untuk semua orang.",
+    "wizard_chat_only": "Gunakan Auto Chat Translator Saja",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "Apakah Anda ingin menggunakan Auto Chat Translator?",
+    "chat_setup_incoming": "- Terjemahkan chat masuk ke dalam bahasa Anda.",
+    "chat_setup_outgoing": "- Terjemahkan pesan Anda untuk pemain lain.",
+    "chat_setup_target": "- Pilih bahasa tujuan atau gunakan Auto.",
+    "chat_setup_rules": "- Ganti kata dan simpan instruksi terjemahan.",
+    "chat_setup_providers": "Google berfungsi tanpa kunci API. Groq bersifat opsional dan menggunakan kunci API Anda sendiri.",
+    "chat_setup_enable": "Gunakan Chat Translator",
+    "chat_setup_disable": "Jangan Gunakan",
+    "chat_setup_back": "Kembali ke Pengaturan Bahasa"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "Muat Pengaturan Otomatis",
+    "text": "Pengaturan berhasil dimuat!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Kick Otomatis Modder",
+    "text": "{1} terdeteksi nge-mod, sedang di-kick..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "Hapus Pemain Desync",
+    "text": "{1} telah dikeluarkan dari sesi untuk menghindari potensi masalah koneksi."
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "Mengirim Velocity Shot ke {1}"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "Mengirim Tow Mater ke {1}"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "Proteksi",
+    "text": "{1} sedang mencoba memblokir join Anda"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater selesai."
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "Blinding Overflow",
+    "text": "Blinding Overflow selesai."
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "Papan Klip",
+    "text": "ID Rockstar telah disalin"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "Teleport ke Kendaraan Pribadi",
+    "text": "Tidak dapat menemukan kendaraan pribadi milik {1}!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Kick Otomatis Modder",
+    "text": "'{1}' terdeteksi nge-mod"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "Teleport Semua ke Saya",
+    "text": "Anda tidak memiliki pengawal yang aktif!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "Salin Informasi",
+    "text": "Informasi {1} telah disalin ke papan klip."
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "Spawn Ramp",
+    "text": "'{1}' harus berada di dalam kendaraan!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "Picu Pertahanan Kargo",
+    "text": "Mengirim 'Picu Pertahanan Kargo' ke {1}..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "Picu Van Keamanan",
+    "text": "Mengirim 'Picu Van Keamanan' ke {1}..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "Picu Misi Freemode",
+    "text": "Mengirim 'Picu Misi Freemode' ke {1}..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "Warp Apartemen",
+    "text": "Mengirim Warp Apartemen ke {1}..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "Warp Apartemen Tak Berujung",
+    "text": "Mengirim Warp Apartemen Tak Berujung ke {1}..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

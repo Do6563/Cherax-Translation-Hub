@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "নোটিফিকেশন অনুবাদ সেটিংস",
+    "desc1": "থার্ড-পার্টি Lua নোটিফিকেশন (toasts) বাংলায় অনুবাদ করবেন?",
+    "desc2": "(Lua মডার সনাক্তকরণ, কিক করার চেষ্টা, সুরক্ষা সতর্কতা ইত্যাদি)",
+    "btn_enable": "অনুবাদ চালু করুন",
+    "btn_disable": "অনুবাদ নিষ্ক্রিয় করুন"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "AI অনুবাদ এবং Lua অনুবাদ সংক্রান্ত নোটিশ",
+    "desc1": "এই অনুবাদটি মূলত একজন মানুষ দ্বারা তৈরি করা হয়েছিল। মানুষের দ্বারা আপডেট রক্ষণাবেক্ষণ বন্ধ হয়ে যাওয়ার পর, এটি AI-এর সহায়তায় চালিয়ে যাওয়া হয়েছে।",
+    "desc2": "ভ্যানিলা Cherax মেনুর অনুবাদ উচ্চ মানের হলেও, ব্যবহারকারীর তৈরি Lua স্ক্রিপ্টের AI অনুবাদে অপ্রীতিকর বাক্যগঠন বা ভুল অর্থ থাকতে পারে।",
+    "desc3": "অনুগ্রহ করে একটি অনুবাদ মোড বেছে নিন।",
+    "btn_full": "Lua অনুবাদ অন্তর্ভুক্ত করুন (সম্পূর্ণ সংস্করণ)",
+    "btn_vanilla": "শুধুমাত্র ভ্যানিলা Cherax অনুবাদ করুন (মূল Lua টেক্সট রাখুন)",
+    "btn_postpone": "প্রথমে ব্যবহার করে দেখুন এবং পরে সিদ্ধান্ত নিন (পরের বার আবার জিজ্ঞাসা করুন)"
+  },
+  "Changelog_UI": {
+    "title": "Cherax আপডেট করা হয়েছে!",
+    "subtitle": "- চেঞ্জ লগ -",
+    "btn_dont_show": "এই উইন্ডোটি আর দেখাবেন না",
+    "btn_mark_read": "পঠিত হিসেবে চিহ্নিত করুন"
+  },
+  "System_Messages": {
+    "init": "অনুবাদ সিস্টেম শুরু হয়েছে।",
+    "update_found": "আপডেট শনাক্ত হয়েছে! ফাইল ডাউনলোড করা হচ্ছে...",
+    "downloading": "ভাষা ফাইল ডাউনলোড করা হচ্ছে...",
+    "download_success": "ডাউনলোড এবং সংরক্ষণ সফলভাবে সম্পন্ন হয়েছে।",
+    "loaded": "অনুবাদ লোড হয়েছে: ",
+    "applied": "অনুবাদ প্রয়োগ করা হয়েছে",
+    "file_error": "সার্ভারে ফাইলটি পাওয়া যায়নি (404)।",
+    "setup_complete": "সেটআপ সম্পন্ন: ",
+    "script_stopped": "স্ক্রিপ্টটি বন্ধ হয়ে গেছে।",
+    "noti_update_found": "নোটিফিকেশন অনুবাদ আপডেট শনাক্ত হয়েছে",
+    "noti_downloading": "নোটিফিকেশন অনুবাদ ফাইল ডাউনলোড করা হচ্ছে...",
+    "changelog_update_found": "একটি নতুন আপডেট উপলব্ধ!",
+    "watcher_active": "অনুবাদ পর্যবেক্ষণ চালু করা হয়েছে",
+    "update_check_disabled": "প্যাচ নোটের পপআপ নিষ্ক্রিয় করা হয়েছে।",
+    "marked_as_read": "পঠিত হিসেবে চিহ্নিত করা হয়েছে।",
+    "download_failed": "ডাউনলোড ব্যর্থ হয়েছে। উপলব্ধ লোকাল ফাইল দিয়ে চালিয়ে যাওয়া হচ্ছে।",
+    "settings_save_failed": "সেটিংস সংরক্ষণ করা যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।",
+    "settings_read_failed": "সেটিংস পড়া যায়নি। অনুগ্রহ করে স্ক্রিপ্টটি রিলোড করুন।",
+    "wizard_purpose": "AutoTranslate যারা ইংরেজি বলেন না তাদের জন্য, তাই এখানে ইংরেজি কোনো বিকল্প নয়।",
+    "wizard_chat_available": "Auto Chat Translator সবার জন্য উপলব্ধ।",
+    "wizard_chat_only": "শুধুমাত্র Auto Chat Translator ব্যবহার করুন",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "আপনি কি Auto Chat Translator ব্যবহার করতে চান?",
+    "chat_setup_incoming": "- আগত চ্যাট আপনার ভাষায় অনুবাদ করুন।",
+    "chat_setup_outgoing": "- অন্যান্য খেলোয়াড়দের জন্য আপনার বার্তা অনুবাদ করুন।",
+    "chat_setup_target": "- একটি লক্ষ্য ভাষা বেছে নিন অথবা Auto ব্যবহার করুন।",
+    "chat_setup_rules": "- শব্দ প্রতিস্থাপন করুন এবং অনুবাদের নির্দেশাবলী সংরক্ষণ করুন।",
+    "chat_setup_providers": "Google কোনো API কী ছাড়াই কাজ করে। Groq ঐচ্ছিক এবং আপনার API কী ব্যবহার করে।",
+    "chat_setup_enable": "Chat Translator ব্যবহার করুন",
+    "chat_setup_disable": "ব্যবহার করবেন না",
+    "chat_setup_back": "ভাষা সেটআপে ফিরে যান"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "অটো লোড সেটিংস",
+    "text": "সেটিংস সফলভাবে লোড হয়েছে!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "মডডারদের অটো কিক",
+    "text": "{1}-কে মডিং করতে শনাক্ত করা হয়েছে, কিক করা হচ্ছে..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "ডিসিঙ্ক হওয়া প্লেয়ারদের অপসারণ করুন",
+    "text": "সম্ভাব্য সংযোগ সমস্যা এড়াতে {1}-কে সেশন থেকে সরিয়ে দেওয়া হয়েছে।"
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "{1}-কে Velocity Shot পাঠানো হচ্ছে"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "{1}-কে Tow Mater পাঠানো হচ্ছে"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "প্রটেকশন",
+    "text": "{1} আপনার জয়েন ব্লক করার চেষ্টা করছে"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater সম্পন্ন হয়েছে।"
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "ব্লাইন্ডিং ওভারফ্লো",
+    "text": "ব্লাইন্ডিং ওভারফ্লো সম্পন্ন হয়েছে"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "ক্লিপবোর্ড",
+    "text": "Rockstar Id কপি করা হয়েছে"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "পার্সোনাল ভেহিকেলে টেলিপোর্ট করুন",
+    "text": "{1}-এর পার্সোনাল ভেহিকেল খুঁজে পাওয়া যায়নি!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "মডডারদের অটো কিক",
+    "text": "'{1}'-কে মডিং করতে শনাক্ত করা হয়েছে"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "সবাইকে আমার কাছে টেলিপোর্ট করুন",
+    "text": "আপনার কোনো সক্রিয় বডিগার্ড নেই!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "তথ্য কপি করুন",
+    "text": "{1}-এর তথ্য ক্লিপবোর্ডে কপি করা হয়েছে।"
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "র‍্যাম্প স্পন করুন",
+    "text": "'{1}'-কে অবশ্যই একটি ভেহিকেলে থাকতে হবে!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "কার্গো প্রতিরক্ষা চালু করুন",
+    "text": "{1}-কে 'কার্গো প্রতিরক্ষা চালু করুন' পাঠানো হচ্ছে..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "সিকিউরিটি ভ্যান চালু করুন",
+    "text": "{1}-কে 'সিকিউরিটি ভ্যান চালু করুন' পাঠানো হচ্ছে..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "ফ্রিমোড মিশন চালু করুন",
+    "text": "{1}-কে 'ফ্রিমোড মিশন চালু করুন' পাঠানো হচ্ছে..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "অ্যাপার্টমেন্ট ওয়ার্প",
+    "text": "{1}-কে অ্যাপার্টমেন্ট ওয়ার্প পাঠানো হচ্ছে..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "সীমাহীন অ্যাপার্টমেন্ট ওয়ার্প",
+    "text": "{1}-কে সীমাহীন অ্যাপার্টমেন্ট ওয়ার্প পাঠানো হচ্ছে..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "Cài đặt dịch thông báo",
+    "desc1": "Dịch thông báo (toasts) từ script Lua của bên thứ ba sang tiếng Việt?",
+    "desc2": "(Phát hiện modder của Lua, lần thử kick, cảnh báo bảo vệ, v.v.)",
+    "btn_enable": "Bật dịch",
+    "btn_disable": "Tắt dịch"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "Thông báo về dịch thuật AI và dịch thuật Lua",
+    "desc1": "Bản dịch này ban đầu được tạo bởi con người. Sau khi các bản cập nhật do con người duy trì bị dừng lại, nó đã được tiếp tục với sự hỗ trợ của AI.",
+    "desc2": "Bản dịch menu Cherax gốc có chất lượng cao, nhưng các bản dịch AI cho tập lệnh Lua do người dùng tạo có thể chứa từ ngữ ngượng nghịu hoặc ý nghĩa không chính xác.",
+    "desc3": "Vui lòng chọn một chế độ dịch.",
+    "btn_full": "Bao gồm bản dịch Lua (Phiên bản đầy đủ)",
+    "btn_vanilla": "Chỉ dịch Cherax gốc (Giữ văn bản Lua gốc)",
+    "btn_postpone": "Dùng thử trước và quyết định sau (Hỏi lại vào lần tới)"
+  },
+  "Changelog_UI": {
+    "title": "Cherax đã được cập nhật!",
+    "subtitle": "- Nhật ký thay đổi -",
+    "btn_dont_show": "Không hiển thị lại cửa sổ này",
+    "btn_mark_read": "Đánh dấu là đã đọc"
+  },
+  "System_Messages": {
+    "init": "Hệ thống dịch đã được khởi tạo.",
+    "update_found": "Phát hiện bản cập nhật! Đang tải xuống các tệp...",
+    "downloading": "Đang tải xuống các tệp ngôn ngữ...",
+    "download_success": "Tải xuống và lưu thành công.",
+    "loaded": "Đã tải bản dịch: ",
+    "applied": "Đã áp dụng bản dịch",
+    "file_error": "Không tìm thấy tệp trên máy chủ (404).",
+    "setup_complete": "Thiết lập hoàn tất: ",
+    "script_stopped": "Kịch bản đã dừng.",
+    "noti_update_found": "Phát hiện bản cập nhật dịch thông báo",
+    "noti_downloading": "Đang tải xuống tệp dịch thông báo...",
+    "changelog_update_found": "Đã có bản cập nhật mới!",
+    "watcher_active": "Đã bật giám sát dịch thuật",
+    "update_check_disabled": "Cửa sổ bật lên ghi chú bản vá đã bị tắt.",
+    "marked_as_read": "Đã đánh dấu là đã đọc.",
+    "download_failed": "Tải xuống thất bại. Tiếp tục với các tệp cục bộ hiện có.",
+    "settings_save_failed": "Không thể lưu cài đặt. Vui lòng thử lại.",
+    "settings_read_failed": "Không thể đọc cài đặt. Vui lòng tải lại script.",
+    "wizard_purpose": "AutoTranslate dành cho người không nói tiếng Anh, vì vậy tiếng Anh không phải là một lựa chọn ở đây.",
+    "wizard_chat_available": "Auto Chat Translator có sẵn cho tất cả mọi người.",
+    "wizard_chat_only": "Chỉ dùng Auto Chat Translator",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "Bạn có muốn sử dụng Auto Chat Translator không?",
+    "chat_setup_incoming": "- Dịch trò chuyện đến sang ngôn ngữ của bạn.",
+    "chat_setup_outgoing": "- Dịch tin nhắn của bạn cho người chơi khác.",
+    "chat_setup_target": "- Chọn ngôn ngữ đích hoặc dùng Auto.",
+    "chat_setup_rules": "- Thay thế từ và lưu hướng dẫn dịch.",
+    "chat_setup_providers": "Google hoạt động mà không cần khóa API. Groq là tùy chọn và sử dụng khóa API của riêng bạn.",
+    "chat_setup_enable": "Dùng Chat Translator",
+    "chat_setup_disable": "Không dùng",
+    "chat_setup_back": "Quay lại cài đặt ngôn ngữ"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "Tự động tải cài đặt",
+    "text": "Đã tải cài đặt thành công!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Tự động đuổi người chỉnh sửa",
+    "text": "{1} bị phát hiện đang chỉnh sửa, đang đuổi..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "Xóa người chơi bị lệch đồng bộ",
+    "text": "{1} đã bị xóa khỏi phòng chơi để tránh các sự cố kết nối tiềm ẩn."
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "Đang gửi Velocity Shot đến {1}"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "Đang gửi Tow Mater đến {1}"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "Bảo vệ",
+    "text": "{1} đang cố gắng chặn bạn tham gia"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater đã hoàn tất."
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "Tràn gây lóa",
+    "text": "Tràn gây lóa đã hoàn tất"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "Khay nhớ tạm",
+    "text": "Đã sao chép Rockstar Id"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "Dịch chuyển đến xe cá nhân",
+    "text": "Không thể tìm thấy xe cá nhân của {1}!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Tự động đuổi người chỉnh sửa",
+    "text": "'{1}' bị phát hiện đang chỉnh sửa"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "Dịch chuyển tất cả đến chỗ tôi",
+    "text": "Bạn không có vệ sĩ nào đang hoạt động!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "Sao chép thông tin",
+    "text": "Đã sao chép thông tin của {1} vào khay nhớ tạm."
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "Tạo đoạn dốc",
+    "text": "'{1}' phải ở trong một phương tiện!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "Kích hoạt bảo vệ hàng hóa",
+    "text": "Đang gửi «Kích hoạt bảo vệ hàng hóa» đến {1}..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "Kích hoạt xe an ninh",
+    "text": "Đang gửi «Kích hoạt xe an ninh» đến {1}..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "Kích hoạt nhiệm vụ Freemode",
+    "text": "Đang gửi «Kích hoạt nhiệm vụ Freemode» đến {1}..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "Dịch chuyển vào căn hộ",
+    "text": "Đang gửi «Dịch chuyển vào căn hộ» đến {1}..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "Dịch chuyển vào căn hộ vô tận",
+    "text": "Đang gửi «Dịch chuyển vào căn hộ vô tận» đến {1}..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

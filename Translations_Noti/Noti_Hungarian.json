@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "Értesítésfordítási beállítások",
+    "desc1": "Lefordítja a harmadik féltől származó Lua-értesítéseket (toasts) magyarra?",
+    "desc2": "(Lua modder-észlelések, kirúgási kísérletek, védelmi figyelmeztetések stb.)",
+    "btn_enable": "Fordítás engedélyezése",
+    "btn_disable": "Fordítás letiltása"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "AI-fordítás és Lua fordítási tájékoztató",
+    "desc1": "Ezt a fordítást eredetileg ember készítette. Miután az emberi karbantartású frissítések megszűntek, AI segítségével folytatódott.",
+    "desc2": "Az alap Cherax menü fordítása kiváló minőségű, de a felhasználók által készített Lua scriptek AI-fordításai szokatlan megfogalmazásokat vagy pontatlan jelentéseket tartalmazhatnak.",
+    "desc3": "Kérlek, válassz egy fordítási módot.",
+    "btn_full": "Lua fordítások belefoglalása (teljes verzió)",
+    "btn_vanilla": "Csak az alap Cherax fordítása (eredeti Lua szöveg megtartása)",
+    "btn_postpone": "Próbáld ki előbb, és dönts később (kérdezzen rá legközelebb is)"
+  },
+  "Changelog_UI": {
+    "title": "A Cherax frissült!",
+    "subtitle": "- Változtatási napló -",
+    "btn_dont_show": "Ne jelenjen meg többé ez az ablak",
+    "btn_mark_read": "Megjelölés olvasottként"
+  },
+  "System_Messages": {
+    "init": "A fordítási rendszer inicializálva.",
+    "update_found": "Frissítés észlelve! Fájlok letöltése...",
+    "downloading": "Nyelvi fájlok letöltése...",
+    "download_success": "A letöltés és mentés sikeresen befejeződött.",
+    "loaded": "Fordítás betöltve: ",
+    "applied": "Fordítás alkalmazva",
+    "file_error": "A fájl nem található a szerveren (404).",
+    "setup_complete": "Beállítás befejezve: ",
+    "script_stopped": "A script leállt.",
+    "noti_update_found": "Értesítésfordítás frissítése észlelve",
+    "noti_downloading": "Értesítésfordítási fájl letöltése...",
+    "changelog_update_found": "Új frissítés érhető el!",
+    "watcher_active": "Fordításfigyelés engedélyezve",
+    "update_check_disabled": "A frissítési megjegyzések felugró ablakai le vannak tiltva.",
+    "marked_as_read": "Olvasottként megjelölve.",
+    "download_failed": "A letöltés nem sikerült. Folytatás az elérhető helyi fájlokkal.",
+    "settings_save_failed": "A beállítások mentése nem sikerült. Kérjük, próbálja újra.",
+    "settings_read_failed": "A beállítások beolvasása nem sikerült. Kérjük, töltse újra a szkriptet.",
+    "wizard_purpose": "Az AutoTranslate nem angolul beszélőknek készült, ezért az angol itt nem választható.",
+    "wizard_chat_available": "Az Auto Chat Translator mindenki számára elérhető.",
+    "wizard_chat_only": "Csak az Auto Chat Translator használata",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "Szeretné használni az Auto Chat Translator szolgáltatást?",
+    "chat_setup_incoming": "- Bejövő csevegés lefordítása az Ön nyelvére.",
+    "chat_setup_outgoing": "- Saját üzenetek lefordítása a többi játékos számára.",
+    "chat_setup_target": "- Célnyelv kiválasztása vagy az Auto használata.",
+    "chat_setup_rules": "- Szavak cseréje és fordítási utasítások mentése.",
+    "chat_setup_providers": "A Google API-kulcs nélkül működik. A Groq opcionális, és a saját API-kulcsát használja.",
+    "chat_setup_enable": "Chat Translator használata",
+    "chat_setup_disable": "Ne használja",
+    "chat_setup_back": "Vissza a nyelvbeállításhoz"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "Beállítások automatikus betöltése",
+    "text": "A beállítások sikeresen betöltve!"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Modderek automatikus kirúgása",
+    "text": "{1} moddolása észlelve, kirúgás..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "Deszinkronizált játékosok eltávolítása",
+    "text": "{1} el lett távolítva a munkamenetből a lehetséges csatlakozási problémák elkerülése érdekében."
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "Velocity Shot küldése neki: {1}"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "Tow Mater küldése neki: {1}"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "Védelem",
+    "text": "{1} megpróbálja blokkolni a csatlakozásodat"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "A Tow Mater befejeződött."
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "Vakító túlcsordulás",
+    "text": "A vakító túlcsordulás befejeződött"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "Vágólap",
+    "text": "Rockstar Id lemásolva"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "Teleport a személyes járműhöz",
+    "text": "Nem található {1} személyes járműve!"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Modderek automatikus kirúgása",
+    "text": "'{1}' moddolása észlelve"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "Mindenki hozzám teleportálása",
+    "text": "Nincsenek aktív testőreid!"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "Információk másolása",
+    "text": "{1} információi a vágólapra másolva."
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "Rámpa lehívása",
+    "text": "'{1}' játékosnak járműben kell lennie!"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "Rakományvédelem aktiválása",
+    "text": "„Rakományvédelem aktiválása” küldése neki: {1}..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "Biztonsági furgon aktiválása",
+    "text": "„Biztonsági furgon aktiválása” küldése neki: {1}..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "Freemode küldetés aktiválása",
+    "text": "„Freemode küldetés aktiválása” küldése neki: {1}..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "Apartman warp",
+    "text": "Apartman warp küldése neki: {1}..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "Végtelen apartman warp",
+    "text": "Végtelen apartman warp küldése neki: {1}..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

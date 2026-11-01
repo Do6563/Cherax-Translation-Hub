@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "通知翻译设置",
+    "desc1": "是否将第三方 Lua 脚本通知（toasts）翻译为中文？",
+    "desc2": "（Lua 作弊者检测、踢出尝试、防护警报等）",
+    "btn_enable": "启用翻译",
+    "btn_disable": "禁用翻译"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "AI 翻译与 Lua 翻译须知",
+    "desc1": "本翻译最初由人工译者创作。在人工维护停止后，由 AI 辅助继续进行更新。",
+    "desc2": "Cherax 原版菜单翻译质量较高，但对用户自制 Lua 脚本的 AI 翻译可能会存在用词生硬或含义不准确的情况。",
+    "desc3": "请选择翻译模式。",
+    "btn_full": "包含 Lua 翻译（完整版）",
+    "btn_vanilla": "仅翻译 Cherax 原版（保留原始 Lua 文本）",
+    "btn_postpone": "先试用稍后再决定（下次再次询问）"
+  },
+  "Changelog_UI": {
+    "title": "Cherax 已更新！",
+    "subtitle": "- 更新日志 -",
+    "btn_dont_show": "不再显示此窗口",
+    "btn_mark_read": "标记为已读"
+  },
+  "System_Messages": {
+    "init": "翻译系统已初始化。",
+    "update_found": "检测到更新！正在下载文件...",
+    "downloading": "正在下载语言文件...",
+    "download_success": "下载并保存成功。",
+    "loaded": "已加载翻译: ",
+    "applied": "已应用翻译",
+    "file_error": "服务器上未找到文件 (404)。",
+    "setup_complete": "设置完成: ",
+    "script_stopped": "脚本已停止。",
+    "noti_update_found": "检测到通知翻译更新",
+    "noti_downloading": "正在下载通知翻译文件...",
+    "changelog_update_found": "有新更新可用！",
+    "watcher_active": "已启用翻译监控",
+    "update_check_disabled": "更新日志弹窗已禁用。",
+    "marked_as_read": "已标记为已读。",
+    "download_failed": "下载失败。将继续使用可用的本地文件。",
+    "settings_save_failed": "无法保存设置。请重试。",
+    "settings_read_failed": "无法读取设置。请重新加载脚本。",
+    "wizard_purpose": "AutoTranslate 面向非英语用户，因此此处不提供英语选项。",
+    "wizard_chat_available": "所有人均可使用 Auto Chat Translator。",
+    "wizard_chat_only": "仅使用 Auto Chat Translator",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "您想要使用 Auto Chat Translator 吗？",
+    "chat_setup_incoming": "- 将收到的聊天翻译为您使用的语言。",
+    "chat_setup_outgoing": "- 为其他玩家翻译您发送的消息。",
+    "chat_setup_target": "- 选择目标语言或使用 Auto。",
+    "chat_setup_rules": "- 替换词语并保存翻译指令。",
+    "chat_setup_providers": "Google 无需 API 密钥即可使用。Groq 为可选项，使用您自己的 API 密钥。",
+    "chat_setup_enable": "使用 Chat Translator",
+    "chat_setup_disable": "不使用",
+    "chat_setup_back": "返回语言设置"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "自动加载设置",
+    "text": "设置已成功加载！"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "自动踢出作弊者",
+    "text": "检测到 {1} 正在作弊，正在踢出..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "移除不同步的玩家",
+    "text": "{1} 已被移出战局，以避免潜在的连接问题。"
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "正在向 {1} 发送 Velocity Shot"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "正在向 {1} 发送 Tow Mater"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "防护",
+    "text": "{1} 正在尝试阻止你加入"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Mater 已完成。"
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "致盲溢出",
+    "text": "致盲溢出已完成"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "剪贴板",
+    "text": "已复制 Rockstar ID"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "传送到私人车辆",
+    "text": "无法找到 {1} 的私人车辆！"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "自动踢出作弊者",
+    "text": "检测到 '{1}' 正在作弊"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "全部传送给我",
+    "text": "你没有任何活跃的保镖！"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "复制信息",
+    "text": "已将 {1} 的信息复制到剪贴板。"
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "生成斜坡",
+    "text": "'{1}' 必须在载具内！"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "触发保卫货物",
+    "text": "正在向 {1} 发送触发保卫货物..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "触发运钞车",
+    "text": "正在向 {1} 发送触发运钞车..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "触发自由模式差事",
+    "text": "正在向 {1} 发送触发自由模式差事..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "公寓传送",
+    "text": "正在向 {1} 发送公寓传送..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "无限公寓传送",
+    "text": "正在向 {1} 发送无限公寓传送..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

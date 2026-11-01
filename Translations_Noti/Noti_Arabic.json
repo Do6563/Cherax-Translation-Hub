@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "ﺕﺍﺭﺎﻌﺷﻹﺍ ﺔﻤﺟﺮﺗ ﺕﺍﺩﺍﺪﻋﺇ",
+    "desc1": "؟ﺔﻴﺑﺮﻌﻟﺍ ﻰﻟﺇ ﺔﻴﺟﺭﺎﺧ ﺕﺎﻬﺠﻟ ﺔﻌﺑﺎﺘﻟﺍ (Lua (toasts ﺕﺍﺭﺎﻌﺷﺇ ﺔﻤﺟﺮﺗ ﺪﻳﺮﺗ ﻞﻫ",
+    "desc2": "(ﺎﻫﺮﻴﻏﻭ ،Lua ﺕﺎﺘﺑﺮﻜﺳ ﻦﻣ ﺔﻳﺎﻤﺤﻟﺍ ﺕﺎﻬﻴﺒﻨﺗﻭ ﺩﺮﻄﻟﺍ ﺕﻻﻭﺎﺤﻣﻭ ﻦﻴﻟﺪﻌﻤﻟﺍ ﻑﺎﺸﺘﻛﺍ)",
+    "btn_enable": "ﺔﻤﺟﺮﺘﻟﺍ ﻞﻴﻌﻔﺗ",
+    "btn_disable": "ﺔﻤﺟﺮﺘﻟﺍ ﻞﻴﻄﻌﺗ"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "Lua ﺔﻤﺟﺮﺗﻭ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺎﺑ ﺔﻤﺟﺮﺘﻟﺍ ﺭﺎﻌﺷﺇ",
+    "desc1": ".ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﺓﺪﻋﺎﺴﻤﺑ ﺎﻬﺘﻠﺻﺍﻮﻣ ﺖﻤﺗ ،ﺮﺸﺒﻟﺍ ﺎﻫﺮﻳﺪﻳ ﻲﺘﻟﺍ ﺕﺎﺜﻳﺪﺤﺘﻟﺍ ﻒﻗﻮﺗ ﺪﻌﺑ .ﻱﺮﺸﺑ ﺔﻄﺳﺍﻮﺑ ﻞﺻﻷﺍ ﻲﻓ ﺔﻤﺟﺮﺘﻟﺍ ﻩﺬﻫ ﺀﺎﺸﻧﺇ ﻢﺗ",
+    "desc2": ".ﺔﻘﻴﻗﺩ ﺮﻴﻏ ﻥﺎﻌﻣ ﻭﺃ ﺔﻤﺋﻼﻣ ﺮﻴﻏ ﺔﻏﺎﻴﺻ ﻰﻠﻋ ﻥﻮﻣﺪﺨﺘﺴﻤﻟﺍ ﺎﻫﺄﺸﻧﺃ ﻲﺘﻟﺍ Lua ﺕﺎﺘﺑﺮﻜﺴﻟ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﺕﺎﻤﺟﺮﺗ ﻱﻮﺘﺤﺗ ﺪﻗ ﻦﻜﻟﻭ ،ﺔﻴﻟﺎﻋ ﺓﺩﻮﺠﺑ ﺔﻴﻠﺻﻷﺍ ﺲﻛﺍﺮﺷ ﺔﻤﺋﺎﻗ ﺔﻤﺟﺮﺗ ﺰﻴﻤﺘﺗ",
+    "desc3": ".ﺔﻤﺟﺮﺘﻟﺍ ﻊﺿﻭ ﺭﺎﻴﺘﺧﺍ ﻰﺟﺮﻳ",
+    "btn_full": "(ﺔﻠﻣﺎﻜﻟﺍ ﺔﺨﺴﻨﻟﺍ) Lua ﺕﺎﻤﺟﺮﺗ ﻦﻴﻤﻀﺗ",
+    "btn_vanilla": "(ﻲﻠﺻﻷﺍ Lua ﺺﻧ ﻰﻠﻋ ﺀﺎﻘﺑﻹﺍ) ﻂﻘﻓ ﺔﻴﻠﺻﻷﺍ ﺲﻛﺍﺮﺷ ﺔﻤﺟﺮﺗ",
+    "btn_postpone": "(ﺔﻣﺩﺎﻘﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ ﻯﺮﺧﺃ ﺓﺮﻣ ﻝﺍﺆﺴﻟﺍ) ﺎﻘﺣﻻ ﺮﻳﺮﻘﺘﻟﺍﻭ ﻻﻭﺃ ﺔﺑﺮﺠﺘﻟﺍ"
+  },
+  "Changelog_UI": {
+    "title": "!ﺲﻛﺍﺮﺷ ﺚﻳﺪﺤﺗ ﻢﺗ",
+    "subtitle": "- ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻞﺠﺳ -",
+    "btn_dont_show": "ﺍﺩﺪﺠﻣ ﺓﺬﻓﺎﻨﻟﺍ ﻩﺬﻫ ﺭﺎﻬﻇﺇ ﻡﺪﻋ",
+    "btn_mark_read": "ﺀﻭﺮﻘﻤﻛ ﺪﻳﺪﺤﺗ"
+  },
+  "System_Messages": {
+    "init": ".ﺔﻤﺟﺮﺘﻟﺍ ﻡﺎﻈﻧ ﺔﺌﻴﻬﺗ ﺖﻤﺗ",
+    "update_found": "...ﺕﺎﻔﻠﻤﻟﺍ ﻞﻳﺰﻨﺗ ﺭﺎﺟ !ﺚﻳﺪﺤﺗ ﻑﺎﺸﺘﻛﺍ ﻢﺗ",
+    "downloading": "...ﺔﻐﻠﻟﺍ ﺕﺎﻔﻠﻣ ﻞﻳﺰﻨﺗ ﺭﺎﺟ",
+    "download_success": ".ﺡﺎﺠﻨﺑ ﻆﻔﺤﻟﺍﻭ ﻞﻳﺰﻨﺘﻟﺍ ﻢﺗ",
+    "loaded": ":ﺔﻤﺟﺮﺘﻟﺍ ﻞﻴﻤﺤﺗ ﻢﺗ ",
+    "applied": "ﺔﻤﺟﺮﺘﻟﺍ ﻖﻴﺒﻄﺗ ﻢﺗ",
+    "file_error": ".(404) ﻡﺩﺎﺨﻟﺍ ﻰﻠﻋ ﺩﻮﺟﻮﻣ ﺮﻴﻏ ﻒﻠﻤﻟﺍ",
+    "setup_complete": ":ﺩﺍﺪﻋﻹﺍ ﻞﻤﺘﻛﺍ ",
+    "script_stopped": ".ﺖﺑﺮﻜﺴﻟﺍ ﻒﻗﻮﺗ",
+    "noti_update_found": "ﺕﺍﺭﺎﻌﺷﻹﺍ ﺔﻤﺟﺮﺘﻟ ﺚﻳﺪﺤﺗ ﻑﺎﺸﺘﻛﺍ ﻢﺗ",
+    "noti_downloading": "...ﺕﺍﺭﺎﻌﺷﻹﺍ ﺔﻤﺟﺮﺗ ﻒﻠﻣ ﻞﻳﺰﻨﺗ ﺭﺎﺟ",
+    "changelog_update_found": "!ﺪﻳﺪﺟ ﺚﻳﺪﺤﺗ ﺮﻓﻮﺘﻳ",
+    "watcher_active": "ﺔﻤﺟﺮﺘﻟﺍ ﺔﺒﻗﺍﺮﻣ ﻞﻴﻌﻔﺗ ﻢﺗ",
+    "update_check_disabled": ".ﺚﻳﺪﺤﺘﻟﺍ ﺕﺎﻈﺣﻼﻤﻟ ﺔﻘﺜﺒﻨﻤﻟﺍ ﺬﻓﺍﻮﻨﻟﺍ ﻞﻴﻄﻌﺗ ﻢﺗ",
+    "marked_as_read": ".ﺀﻭﺮﻘﻤﻛ ﺪﻳﺪﺤﺘﻟﺍ ﻢﺗ",
+    "download_failed": ".ﺔﺣﺎﺘﻤﻟﺍ ﺔﻴﻠﺤﻤﻟﺍ ﺕﺎﻔﻠﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻌﺑﺎﺘﻤﻟﺍ .ﻞﻳﺰﻨﺘﻟﺍ ﻞﺸﻓ",
+    "settings_save_failed": ".ﻯﺮﺧﺃ ﺓﺮﻣ ﺔﻟﻭﺎﺤﻤﻟﺍ ﻰﺟﺮﻳ .ﺕﺍﺩﺍﺪﻋﻹﺍ ﻆﻔﺣ ﺭﺬﻌﺗ",
+    "settings_read_failed": ".ﻲﺼﻨﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﻞﻴﻤﺤﺗ ﺓﺩﺎﻋﺇ ﻰﺟﺮﻳ .ﺕﺍﺩﺍﺪﻋﻹﺍ ﺓﺀﺍﺮﻗ ﺭﺬﻌﺗ",
+    "wizard_purpose": "AutoTranslate ﺎﻨﻫ ﺔﻳﺰﻴﻠﺠﻧﻹﺍ ﺔﻐﻠﻟﺍ ﺭﺎﻴﺧ ﺮﻓﻮﺘﻳ ﻻ ﺍﺬﻟ ،ﺔﻳﺰﻴﻠﺠﻧﻹﺎﺑ ﻦﻴﻘﻃﺎﻨﻟﺍ ﺮﻴﻐﻟ ﺺﺼﺨﻣ.",
+    "wizard_chat_available": "Auto Chat Translator ﻊﻴﻤﺠﻠﻟ ﺡﺎﺘﻣ.",
+    "wizard_chat_only": "ﻂﻘﻓ Auto Chat Translator ﻡﺍﺪﺨﺘﺳﺍ",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "؟Auto Chat Translator ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ",
+    "chat_setup_incoming": "- .ﻚﺘﻐﻟ ﻰﻟﺇ ﺓﺩﺭﺍﻮﻟﺍ ﺔﺷﺩﺭﺪﻟﺍ ﺔﻤﺟﺮﺗ",
+    "chat_setup_outgoing": "- .ﻦﻳﺮﺧﻵﺍ ﻦﻴﺒﻋﻼﻟ ﻚﻠﺋﺎﺳﺭ ﺔﻤﺟﺮﺗ",
+    "chat_setup_target": "- .Auto ﻡﺪﺨﺘﺳﺍ ﻭﺃ ﺔﻓﺪﻬﺘﺴﻣ ﺔﻐﻟ ﺮﺘﺧﺍ",
+    "chat_setup_rules": "- .ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻤﻴﻠﻌﺗ ﻆﻔﺣﻭ ﺕﺎﻤﻠﻜﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ",
+    "chat_setup_providers": ".ﻚﺑ ﺹﺎﺨﻟﺍ API ﺡﺎﺘﻔﻣ ﻡﺪﺨﺘﺴﻳﻭ ﺎﻳﺭﺎﻴﺘﺧﺍ Groq ﺪﻌﻳ .API ﺡﺎﺘﻔﻣ ﻥﻭﺪﺑ Google ﻞﻤﻌﻳ",
+    "chat_setup_enable": "Chat Translator ﻡﺍﺪﺨﺘﺳﺍ",
+    "chat_setup_disable": "ﻪﻣﺍﺪﺨﺘﺳﺍ ﻡﺪﻋ",
+    "chat_setup_back": "ﺔﻐﻠﻟﺍ ﺩﺍﺪﻋﺇ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "ﺎﻴﺋﺎﻘﻠﺗ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻞﻴﻤﺤﺗ",
+    "text": "!ﺡﺎﺠﻨﺑ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻞﻴﻤﺤﺗ ﻢﺗ"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "ﺎﻴﺋﺎﻘﻠﺗ ﻦﻴﻟﺪﻌﻤﻟﺍ ﺩﺮﻃ",
+    "text": "...ﺩﺮﻄﻟﺍ ﺭﺎﺟ ،ﻞﻳﺪﻌﺘﻟﺎﺑ ﻡﻮﻘﻳ {1} ﻥﺃ ﻑﺎﺸﺘﻛﺍ ﻢﺗ"
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "ﻦﻴﻨﻣﺍﺰﺘﻤﻟﺍ ﺮﻴﻏ ﻦﻴﺒﻋﻼﻟﺍ ﺔﻟﺍﺯﺇ",
+    "text": ".ﺔﻠﻤﺘﺤﻤﻟﺍ ﻝﺎﺼﺗﻻﺍ ﻞﻛﺎﺸﻣ ﺐﻨﺠﺘﻟ ﺔﺴﻠﺠﻟﺍ ﻦﻣ {1} ﺔﻟﺍﺯﺇ ﺖﻤﺗ"
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "{1} ﻰﻟﺇ Velocity Shot ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "{1} ﻰﻟﺇ Tow Mater ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "ﺔﻳﺎﻤﺣ",
+    "text": "ﻚﻣﺎﻤﻀﻧﺍ ﺮﻈﺣ ﻝﻭﺎﺤﻳ {1}"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": ".Tow Mater ﻞﻤﺘﻛﺍ"
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "ﺀﺎﻤﻋﻹﺍ ﺾﻴﻓ",
+    "text": "ﺀﺎﻤﻋﻹﺍ ﺾﻴﻓ ﻞﻤﺘﻛﺍ"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "ﺔﻈﻓﺎﺤﻟﺍ",
+    "text": "ﺭﺎﺘﺴﻛﻭﺭ ﻑﺮﻌﻣ ﺦﺴﻧ ﻢﺗ"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "ﺔﻴﺼﺨﺸﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ",
+    "text": "!{1} ـﻟ ﺔﻴﺼﺨﺸﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﺭﺬﻌﺗ"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "ﺎﻴﺋﺎﻘﻠﺗ ﻦﻴﻟﺪﻌﻤﻟﺍ ﺩﺮﻃ",
+    "text": "ﻞﻳﺪﻌﺘﻟﺎﺑ ﻡﻮﻘﻳ '{1}' ﻥﺃ ﻑﺎﺸﺘﻛﺍ ﻢﺗ"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "ﻲﻟﺇ ﻊﻴﻤﺠﻟﺍ ﻞﻘﻧ",
+    "text": "!ﻦﻴﻄﺸﻧ ﻦﻴﻴﺼﺨﺷ ﺱﺍﺮﺣ ﻱﺃ ﻚﻳﺪﻟ ﺲﻴﻟ"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺦﺴﻧ",
+    "text": ".ﺔﻈﻓﺎﺤﻟﺍ ﻰﻟﺇ {1} ﺕﺎﻣﻮﻠﻌﻣ ﺦﺴﻧ ﻢﺗ"
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "ﺭﺪﺤﻨﻣ ﺀﺎﻋﺪﺘﺳﺍ",
+    "text": "!ﺔﺒﻛﺮﻣ ﻞﺧﺍﺩ '{1}' ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "ﻊﺋﺎﻀﺒﻟﺍ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﻞﻴﻌﻔﺗ",
+    "text": "...{1} ﻰﻟﺇ ﻊﺋﺎﻀﺒﻟﺍ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﻞﻴﻌﻔﺗ ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "ﺔﻴﻨﻣﻷﺍ ﺔﻨﺣﺎﺸﻟﺍ ﻞﻴﻌﻔﺗ",
+    "text": "...{1} ﻰﻟﺇ ﺔﻴﻨﻣﻷﺍ ﺔﻨﺣﺎﺸﻟﺍ ﻞﻴﻌﻔﺗ ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "ﺮﺤﻟﺍ ﻊﺿﻮﻟﺍ ﺔﻤﻬﻣ ﻞﻴﻌﻔﺗ",
+    "text": "...{1} ﻰﻟﺇ ﺮﺤﻟﺍ ﻊﺿﻮﻟﺍ ﺔﻤﻬﻣ ﻞﻴﻌﻔﺗ ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "ﺔﻘﺸﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﺍ",
+    "text": "...{1} ﻰﻟﺇ ﺔﻘﺸﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "ﺔﻘﺸﻟﺍ ﻰﻟﺇ ﻲﺋﺎﻬﻧ ﻻ ﻝﺎﻘﺘﻧﺍ",
+    "text": "...{1} ﻰﻟﺇ ﺔﻘﺸﻟﺍ ﻰﻟﺇ ﻲﺋﺎﻬﻧﻼﻟﺍ ﻝﺎﻘﺘﻧﻻﺍ ﻝﺎﺳﺭﺇ ﺭﺎﺟ"
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}

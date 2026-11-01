@@ -1,0 +1,178 @@
+{
+  "Popup_UI": {
+    "title": "通知翻訳設定",
+    "desc1": "サードパーティ製 Lua の通知（トースト）を日本語に翻訳しますか？",
+    "desc2": "（Lua のモダー検知、キック試行、保護警告など）",
+    "btn_enable": "翻訳を有効化",
+    "btn_disable": "翻訳を無効化"
+  },
+  "Lua_Setup_UI": {
+    "enabled": false,
+    "title": "AI翻訳およびLua翻訳に関するお知らせ",
+    "desc1": "この翻訳は元々人間によって作成されました。人による更新が停止した後、AIの支援を受けて継続されています。",
+    "desc2": "標準のCheraxメニューの翻訳は高品質ですが、ユーザーが作成したLuaスクリプトのAI翻訳には不自然な表現や不正確な意味が含まれている場合があります。",
+    "desc3": "翻訳モードを選択してください。",
+    "btn_full": "Lua翻訳を含める（フルバージョン）",
+    "btn_vanilla": "バニラのCheraxのみ翻訳（元のLuaテキストを維持）",
+    "btn_postpone": "まず試してから決める（次回再度確認）"
+  },
+  "Changelog_UI": {
+    "title": "Cheraxがアップデートされました！",
+    "subtitle": "- 更新履歴 -",
+    "btn_dont_show": "今後このウィンドウを表示しない",
+    "btn_mark_read": "既読にする"
+  },
+  "System_Messages": {
+    "init": "翻訳システムが初期化されました。",
+    "update_found": "アップデートが検出されました！ファイルをダウンロード中...",
+    "downloading": "言語ファイルをダウンロード中...",
+    "download_success": "ダウンロードと保存が正常に完了しました。",
+    "loaded": "翻訳がロードされました: ",
+    "applied": "翻訳が適用されました",
+    "file_error": "サーバー上にファイルが見つかりません（404）。",
+    "setup_complete": "セットアップ完了: ",
+    "script_stopped": "スクリプトが停止しました。",
+    "noti_update_found": "通知翻訳のアップデートが検出されました",
+    "noti_downloading": "通知翻訳ファイルをダウンロード中...",
+    "changelog_update_found": "新しいアップデートが利用可能です！",
+    "watcher_active": "翻訳の監視が有効になりました",
+    "update_check_disabled": "パッチノートのポップアップは無効になっています。",
+    "marked_as_read": "既読にしました。",
+    "download_failed": "ダウンロードに失敗しました。利用可能なローカルファイルで続行します。",
+    "settings_save_failed": "設定を保存できませんでした。もう一度お試しください。",
+    "settings_read_failed": "設定を読み込めませんでした。スクリプトを再読み込みしてください。",
+    "wizard_purpose": "AutoTranslate は英語を話さない方向けのため、ここでは英語を選択できません。",
+    "wizard_chat_available": "Auto Chat Translator はどなたでもご利用いただけます。",
+    "wizard_chat_only": "Auto Chat Translator のみを使用",
+    "chat_setup_title": "Auto Chat Translator",
+    "chat_setup_question": "Auto Chat Translator を使用しますか？",
+    "chat_setup_incoming": "- 受信したチャットをご自身の言語に翻訳します。",
+    "chat_setup_outgoing": "- 他のプレイヤー向けに自分のメッセージを翻訳します。",
+    "chat_setup_target": "- 翻訳先言語を選択するか、Auto を使用します。",
+    "chat_setup_rules": "- 単語の置換や翻訳の指示を保存します。",
+    "chat_setup_providers": "GoogleはAPIキーなしで使えます。Groqは任意で、ご自身のAPIキーを使います。",
+    "chat_setup_enable": "Chat Translator を使用",
+    "chat_setup_disable": "使用しない",
+    "chat_setup_back": "言語設定に戻る"
+  },
+  "Auto Load Settings_Daivekit": {
+    "english_title": "Auto Load Settings",
+    "english_rule": "*",
+    "title": "設定の自動ロード",
+    "text": "設定が正常にロードされました！"
+  },
+  "Auto_Kick_Modders_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "* was detected modding, kicking...",
+    "title": "Modderの自動キック",
+    "text": "{1}の不正行為が検出されました。キック中..."
+  },
+  "Remove Desynced Players_Daivekit": {
+    "english_title": "Remove Desynced Players",
+    "english_rule": "* has been removed from the session to avoid potential connection issues.",
+    "title": "同期ズレプレイヤーの削除",
+    "text": "接続上の問題を回避するため、{1}をセッションから除外しました。"
+  },
+  "Velocity Shot_Daivekit": {
+    "english_title": "Velocity Shot",
+    "english_rule": "Sending Velocity Shot to *",
+    "title": "Velocity Shot",
+    "text": "{1}にVelocity Shotを送信中"
+  },
+  "Tow Mater_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Sending Tow Mater to *",
+    "title": "Tow Mater",
+    "text": "{1}にTow Materを送信中"
+  },
+  "Protection_Daivekit": {
+    "english_title": "Protection",
+    "english_rule": "* is attempting to block your join",
+    "title": "プロテクション",
+    "text": "{1}があなたの参加をブロックしようとしています"
+  },
+  "Tow Mater_finished_Daivekit": {
+    "english_title": "Tow Mater",
+    "english_rule": "Tow Mater finished. ;",
+    "title": "Tow Mater",
+    "text": "Tow Materが完了しました。"
+  },
+  "Blinding Overflow_Daivekit": {
+    "english_title": "Blinding Overflow",
+    "english_rule": "Blinding Overflow finished",
+    "title": "ブラインディングオーバーフロー",
+    "text": "ブラインディングオーバーフローが完了しました。"
+  },
+  "Clipboard_2_Daivekit": {
+    "english_title": "Clipboard",
+    "english_rule": "Copied Rockstar Id",
+    "title": "クリップボード",
+    "text": "Rockstar IDをコピーしました"
+  },
+  "Teleport To Personal Vehicle_Daivekit": {
+    "english_title": "Teleport To Personal Vehicle",
+    "english_rule": "Couldn't find *'s personal vehicle!",
+    "title": "個人車両へテレポート",
+    "text": "{1}の個人車両が見つかりませんでした！"
+  },
+  "Auto_Kick_Modder_Daivekit": {
+    "english_title": "auto kick modders",
+    "english_rule": "'*' was detected modding",
+    "title": "Modderの自動キック",
+    "text": "'{1}'の不正行為が検出されました"
+  },
+  "Teleport All To Me_Daivekit": {
+    "english_title": "Teleport All To Me",
+    "english_rule": "You don't have any active bodyguards!",
+    "title": "全員を自分にテレポート",
+    "text": "アクティブなボディーガードがいません！"
+  },
+  "Copy Information_Daivekit": {
+    "english_title": "Copy Information",
+    "english_rule": "Copied *'s information to clipboard.",
+    "title": "情報をコピー",
+    "text": "{1}の情報をクリップボードにコピーしました。"
+  },
+  "Spawn Ramp_Daivekit": {
+    "english_title": "Spawn Ramp",
+    "english_rule": "'*' must be in a vehicle!",
+    "title": "スロープをスポーン",
+    "text": "'{1}'は車両に乗っている必要があります！"
+  },
+  "Trigger Cargo Defend_Daivekit": {
+    "english_title": "Trigger Cargo Defend",
+    "english_rule": "Sending Trigger Cargo Defend to *...",
+    "title": "貨物防衛トリガー",
+    "text": "{1}に貨物防衛トリガーを送信中..."
+  },
+  "Trigger Security Van_Daivekit": {
+    "english_title": "Trigger Security Van",
+    "english_rule": "Sending Trigger Security Van to *...",
+    "title": "現金輸送車トリガー",
+    "text": "{1}に現金輸送車トリガーを送信中..."
+  },
+  "Trigger Freemode Mission_Daivekit": {
+    "english_title": "Trigger Freemode Mission",
+    "english_rule": "Sending Trigger Freemode Mission to *...",
+    "title": "フリーモードミッショントリガー",
+    "text": "{1}にフリーモードミッショントリガーを送信中..."
+  },
+  "Apartment Warp": {
+    "english_title": "Apartment Warp",
+    "english_rule": "Sending Apartment Warp to *...",
+    "title": "アパートワープ",
+    "text": "{1}にアパートワープを送信中..."
+  },
+  "Infinite Apartment Warp": {
+    "english_title": "Infinite Apartment Warp",
+    "english_rule": "Sending Infinite Apartment Warp to *...",
+    "title": "無限アパートワープ",
+    "text": "{1}に無限アパートワープを送信中..."
+  },
+  "": {
+    "english_title": "",
+    "english_rule": "",
+    "title": "",
+    "text": ""
+  }
+}
