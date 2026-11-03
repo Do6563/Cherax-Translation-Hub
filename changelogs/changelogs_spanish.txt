@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Añadido Varios -> HUD -> HUD personalizado
+- Añadido Configuración -> Tema -> Editor de temas
+- Añadido Configuración -> Tema -> Establecer tema predeterminado
+- Añadido Configuración -> Configuración -> Establecer configuración predeterminada
+- Añadido ESP -> Chams
+- Añadido ESP -> Vista previa de ESP
+- Añadido Vehículo -> LSC -> Vista previa de LSC
+- Añadido Lista de jugadores -> Mapa de jugadores -> Zoom automático
+- Añadido Vistas previas de vehículos personales
+- Mejorado Ventana del Spawner
+- Mejorado Ventana de jugadores
+- Mejorado Vista previa de vehículos
+- Mejorado Editor de teclas rápidas
+- Mejorado Ventana de información de funciones
+- Mejorado Etiquetas de la lista de jugadores
+- Mejorado Protecciones
+- Corregidos Varios errores
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Añadido Vehículo -> Sin Pérdida de Tracción
