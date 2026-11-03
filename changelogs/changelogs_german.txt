@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Misc -> HUD -> Benutzerdefiniertes HUD hinzugefügt
+- Einstellungen -> Design -> Design-Editor hinzugefügt
+- Einstellungen -> Design -> Standarddesign festlegen hinzugefügt
+- Einstellungen -> Einstellungen -> Standardeinstellungen festlegen hinzugefügt
+- ESP -> Chams hinzugefügt
+- ESP -> ESP-Vorschau hinzugefügt
+- Fahrzeug -> LSC -> LSC-Vorschau hinzugefügt
+- Spielerliste -> Spielerkarte -> Auto-Zoom hinzugefügt
+- Vorschau für persönliche Fahrzeuge hinzugefügt
+- Spawner-Fenster verbessert
+- Spieler-Fenster verbessert
+- Fahrzeugvorschau verbessert
+- Hotkey-Editor verbessert
+- Funktionsinfo-Fenster verbessert
+- Spielerlisten-Tags verbessert
+- Schutzmaßnahmen verbessert
+- Verschiedene Fehler behoben
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Fahrzeug -> Kein Haftungsverlust hinzugefügt
