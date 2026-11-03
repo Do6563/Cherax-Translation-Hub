@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Çeşitli -> HUD -> Özel HUD eklendi
+- Ayarlar -> Tema -> Tema Düzenleyici eklendi
+- Ayarlar -> Tema -> Varsayılan Temayı Ayarla eklendi
+- Ayarlar -> Ayarlar -> Varsayılan Ayarları Ayarla eklendi
+- ESP -> Chams eklendi
+- ESP -> ESP Önizlemesi eklendi
+- Araç -> LSC -> LSC Önizlemesi eklendi
+- Oyuncu Listesi -> Oyuncu Haritası -> Otomatik Yakınlaştırma eklendi
+- Kişisel Araç Önizlemeleri eklendi
+- Ağırlayıcı Penceresi İyileştirildi
+- Oyuncu Penceresi İyileştirildi
+- Araç Önizlemesi İyileştirildi
+- Kısayol Tuşu Düzenleyicisi İyileştirildi
+- Özellik Bilgisi Penceresi İyileştirildi
+- Oyuncu Listesi Etiketleri İyileştirildi
+- Korumalar İyileştirildi
+- Çeşitli Hatalar Düzeltildi
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Araç -> Yol Tutuş Kaybı Yok eklendi
