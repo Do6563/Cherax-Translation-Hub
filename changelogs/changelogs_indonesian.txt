@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Menambahkan Lain-Lain -> HUD -> HUD Kustom
+- Menambahkan Pengaturan -> Tema -> Editor Tema
+- Menambahkan Pengaturan -> Tema -> Atur Tema Default
+- Menambahkan Pengaturan -> Pengaturan -> Atur Pengaturan Default
+- Menambahkan ESP -> Chams
+- Menambahkan ESP -> Pratinjau ESP
+- Menambahkan Kendaraan -> LSC -> Pratinjau LSC
+- Menambahkan Daftar Pemain -> Peta Pemain -> Zoom Otomatis
+- Menambahkan Pratinjau Kendaraan Pribadi
+- Meningkatkan Jendela Spawner
+- Meningkatkan Jendela Pemain
+- Meningkatkan Pratinjau Kendaraan
+- Meningkatkan Editor Hotkey
+- Meningkatkan Jendela Info Fitur
+- Meningkatkan Tag Daftar Pemain
+- Meningkatkan Proteksi
+- Memperbaiki Berbagai Bug
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Menambahkan Kendaraan -> Tanpa Kehilangan Cengkeraman
