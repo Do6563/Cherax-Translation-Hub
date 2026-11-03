@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Aggiunto Varie -> HUD -> HUD personalizzato
+- Aggiunto Impostazioni -> Tema -> Editor temi
+- Aggiunto Impostazioni -> Tema -> Imposta tema predefinito
+- Aggiunto Impostazioni -> Impostazioni -> Imposta impostazioni predefinite
+- Aggiunto ESP -> Chams
+- Aggiunto ESP -> Anteprima ESP
+- Aggiunto Veicolo -> LSC -> Anteprima LSC
+- Aggiunto Elenco giocatori -> Mappa giocatori -> Zoom automatico
+- Aggiunto Anteprime veicolo personale
+- Migliorato Finestra spawner
+- Migliorato Finestra giocatore
+- Migliorato Anteprima veicolo
+- Migliorato Editor scorciatoie
+- Migliorato Finestra info funzionalità
+- Migliorato Tag elenco giocatori
+- Migliorato Protezioni
+- Risolto Bug vari
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Aggiunto Veicolo -> Nessuna perdita di aderenza
