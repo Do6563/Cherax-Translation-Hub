@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Adicionado Diversos -> HUD -> HUD Personalizado
+- Adicionado Configurações -> Tema -> Editor de Temas
+- Adicionado Configurações -> Tema -> Definir Tema Padrão
+- Adicionado Configurações -> Configurações -> Definir Configurações Padrão
+- Adicionado ESP -> Chams
+- Adicionado ESP -> Pré-visualização do ESP
+- Adicionado Veículo -> LSC -> Pré-visualização da LSC
+- Adicionado Lista de Jogadores -> Mapa de Jogadores -> Zoom Automático
+- Adicionado Pré-visualizações de Veículos Pessoais
+- Janela do Gerador Melhorada
+- Janela do Jogador Melhorada
+- Pré-visualização de Veículo Melhorada
+- Editor de Atalhos Melhorado
+- Janela de Informações de Recursos Melhorada
+- Tags da Lista de Jogadores Melhoradas
+- Proteções Melhoradas
+- Corrigidos Diversos Bugs
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Adicionado Veículo -> Sem Perda de Aderência
