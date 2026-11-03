@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Đã thêm Khác -> HUD -> HUD Tùy Chỉnh
+- Đã thêm Cài đặt -> Giao diện -> Trình chỉnh sửa giao diện
+- Đã thêm Cài đặt -> Giao diện -> Đặt giao diện mặc định
+- Đã thêm Cài đặt -> Cài đặt -> Đặt cài đặt mặc định
+- Đã thêm ESP -> Chams
+- Đã thêm ESP -> Xem trước ESP
+- Đã thêm Xe -> LSC -> Xem trước LSC
+- Đã thêm Danh sách người chơi -> Bản đồ người chơi -> Tự động phóng to
+- Đã thêm Xem trước xe cá nhân
+- Đã cải thiện Cửa sổ Spawner
+- Đã cải thiện Cửa sổ người chơi
+- Đã cải thiện Xem trước xe
+- Đã cải thiện Trình chỉnh sửa phím tắt
+- Đã cải thiện Cửa sổ thông tin tính năng
+- Đã cải thiện Thẻ danh sách người chơi
+- Đã cải thiện Bảo vệ
+- Đã sửa nhiều lỗi khác nhau
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Thêm Phương tiện -> Không mất độ bám
