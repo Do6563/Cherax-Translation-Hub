@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Added Misc -> HUD -> Custom HUD
+- Added Settings -> Theme -> Theme Editor
+- Added Settings -> Theme -> Set Default Theme
+- Added Settings -> Settings -> Set Default Settings
+- Added ESP -> Chams
+- Added ESP -> ESP Preview
+- Added Vehicle -> LSC -> LSC Preview
+- Added Player List -> Player Map -> Auto Zoom
+- Added Personal Vehicle Previews
+- Improved Spawner Window
+- Improved Player Window
+- Improved Vehicle Preview
+- Improved Hotkey Editor
+- Improved Feature Info Window
+- Improved Player List Tags
+- Improved Protections
+- Fixed Various Bugs
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Added Vehicle -> No Grip Loss
