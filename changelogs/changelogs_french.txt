@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Ajouté Divers -> ATH -> ATH personnalisé
+- Ajouté Paramètres -> Thème -> Éditeur de thème
+- Ajouté Paramètres -> Thème -> Définir le thème par défaut
+- Ajouté Paramètres -> Paramètres -> Définir les paramètres par défaut
+- Ajouté ESP -> Chams
+- Ajouté ESP -> Aperçu ESP
+- Ajouté Véhicule -> LSC -> Aperçu LSC
+- Ajouté Liste des joueurs -> Carte des joueurs -> Zoom auto
+- Ajouté Aperçus des véhicules personnels
+- Amélioré Fenêtre du spawner
+- Amélioré Fenêtre du joueur
+- Amélioré Aperçu du véhicule
+- Amélioré Éditeur de raccourcis
+- Amélioré Fenêtre d'info de fonctionnalité
+- Amélioré Tags de la liste des joueurs
+- Amélioré Protections
+- Corrigé Divers bugs
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Ajout de Véhicule -> Aucune perte d'adhérence
