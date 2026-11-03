@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Dodano Różne -> HUD -> Niestandardowy HUD
+- Dodano Ustawienia -> Motyw -> Edytor motywów
+- Dodano Ustawienia -> Motyw -> Ustaw domyślny motyw
+- Dodano Ustawienia -> Ustawienia -> Ustaw domyślne ustawienia
+- Dodano ESP -> Chams
+- Dodano ESP -> Podgląd ESP
+- Dodano Pojazd -> LSC -> Podgląd LSC
+- Dodano Lista graczy -> Mapa graczy -> Automatyczny przybliżenie
+- Dodano Podgląd osobistego pojazdu
+- Ulepszono Okno kreatora
+- Ulepszono Okno gracza
+- Ulepszono Podgląd pojazdu
+- Ulepszono Edytor skrótów klawiszowych
+- Ulepszono Okno informacji o funkcji
+- Ulepszono Tagi listy graczy
+- Ulepszono Zabezpieczenia
+- Naprawiono różne błędy
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Dodano Pojazd -> Brak utraty przyczepności
