@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Misc -> HUD -> Custom HUD যুক্ত করা হয়েছে
+- Settings -> Theme -> Theme Editor যুক্ত করা হয়েছে
+- Settings -> Theme -> Set Default Theme যুক্ত করা হয়েছে
+- Settings -> Settings -> Set Default Settings যুক্ত করা হয়েছে
+- ESP -> Chams যুক্ত করা হয়েছে
+- ESP -> ESP Preview যুক্ত করা হয়েছে
+- Vehicle -> LSC -> LSC Preview যুক্ত করা হয়েছে
+- Player List -> Player Map -> Auto Zoom যুক্ত করা হয়েছে
+- Personal Vehicle Previews যুক্ত করা হয়েছে
+- Spawner Window উন্নত করা হয়েছে
+- Player Window উন্নত করা হয়েছে
+- Vehicle Preview উন্নত করা হয়েছে
+- Hotkey Editor উন্নত করা হয়েছে
+- Feature Info Window উন্নত করা হয়েছে
+- Player List Tags উন্নত করা হয়েছে
+- Protections উন্নত করা হয়েছে
+- বিভিন্ন বাগ ফিক্স করা হয়েছে
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Vehicle -> No Grip Loss যোগ করা হয়েছে
