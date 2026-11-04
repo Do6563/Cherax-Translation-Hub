@@ -1,3 +1,30 @@
+[5.53.0 EE / 5.44.0 LE]
+
+- Hozzáadva: Egyéb -> HUD -> Egyéni HUD
+- Hozzáadva: Beállítások -> Téma -> Témaszerkesztő
+- Hozzáadva: Beállítások -> Téma -> Alapértelmezett téma beállítása
+- Hozzáadva: Beállítások -> Beállítások -> Alapértelmezett beállítások megadása
+- Hozzáadva: ESP -> Chams
+- Hozzáadva: ESP -> ESP előnézet
+- Hozzáadva: Jármű -> LSC -> LSC előnézet
+- Hozzáadva: Játékoslista -> Játékostérkép -> Automatikus nagyítás
+- Saját jármű előnézetek hozzáadva
+- Továbbfejlesztett Spawner ablak
+- Továbbfejlesztett Játékos ablak
+- Továbbfejlesztett jármű-előnézet
+- Továbbfejlesztett gyorsbillentyű-szerkesztő
+- Továbbfejlesztett Funkcióinfó ablak
+- Továbbfejlesztett játékoslista-címkék
+- Továbbfejlesztett védelmek
+- Különféle hibák javítva
+
+
+
+
+
+
+
+
 [5.52.1 EE / 5.43.1 LE]
 
 - Hozzáadva: Jármű -> Nincs tapadásvesztés
