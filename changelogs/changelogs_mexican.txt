@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Se hizo redimensionable la Ventana de Información del Jugador
+- Se mejoraron las Protecciones
+- Se corrigieron varios errores
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Añadido Varios -> HUD -> HUD Personalizado
