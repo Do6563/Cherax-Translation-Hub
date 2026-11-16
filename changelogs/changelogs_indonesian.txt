@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Membuat Jendela Informasi Pemain dapat diubah ukurannya
+- Meningkatkan Proteksi
+- Memperbaiki Berbagai Bug
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Menambahkan Lain-Lain -> HUD -> HUD Kustom
