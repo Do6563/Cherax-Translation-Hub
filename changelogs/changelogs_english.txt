@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Made Player Info Window resizable
+- Improved Protections
+- Fixed Various Bugs
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Added Misc -> HUD -> Custom HUD
