@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Größenanpassung für Spieler-Info-Fenster hinzugefügt
+- Schutzmaßnahmen verbessert
+- Verschiedene Fehler behoben
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Misc -> HUD -> Benutzerdefiniertes HUD hinzugefügt
