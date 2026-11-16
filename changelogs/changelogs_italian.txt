@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Rendibile ridimensionabile la finestra Info giocatore
+- Migliorate le protezioni
+- Risolti vari bug
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Aggiunto Varie -> HUD -> HUD personalizzato
