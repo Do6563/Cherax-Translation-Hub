@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- A Játékosinfó ablak méretezhetővé tétele
+- Fejlesztett védelmek
+- Különböző hibák javítása
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Hozzáadva: Egyéb -> HUD -> Egyéni HUD
