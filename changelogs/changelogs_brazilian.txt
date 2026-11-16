@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Janela de Informações do Jogador agora é redimensionável
+- Melhorias nas Proteções
+- Correção de vários bugs
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Adicionado Diversos -> HUD -> HUD Personalizado
