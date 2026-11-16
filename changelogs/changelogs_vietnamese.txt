@@ -1,3 +1,16 @@
+[5.53.1 EE / 5.44.1 LE]
+
+- Đã cho phép thay đổi kích thước Cửa Sổ Thông Tin Người Chơi
+- Đã cải thiện Bảo Vệ
+- Đã sửa nhiều lỗi khác nhau
+
+
+
+
+
+
+
+
 [5.53.0 EE / 5.44.0 LE]
 
 - Đã thêm Khác -> HUD -> HUD Tùy Chỉnh
